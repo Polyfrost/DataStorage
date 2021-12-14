@@ -1,0 +1,29 @@
+{
+    "particles": [
+        "splash",
+        "spell",
+        "mobSpell",
+        "mobSpellAmbient",
+        "witchMagic",
+        "note",
+        "lava",
+        "heart",
+        "reddust",
+        "slime",
+        "heart"
+    ],
+    "items": [
+        "blockDiamond",
+        "blockIron",
+        "blockGold",
+        "blockRedstone",
+        "blockCoal",
+        "bone",
+        "diamond",
+        "ingotGold",
+        "goldNugget",
+        "slimeball",
+        "pumpkinPie",
+        "blockLapis"
+    ]
+}
