@@ -18,7 +18,7 @@
         "^ {36}Winner(s?)$",
         "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$"
     ],
-    "misc": {
+    "en": {
   "autoQueuePrefix": "You died! Want to play again?",
   "autoQueueClick": "Click here!",
   "chatCleanerJoinNormal": "joined the lobby",
