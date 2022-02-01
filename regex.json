@@ -20,6 +20,7 @@
     ],
     "en": {
   "autoQueuePrefix": "You died! Want to play again?",
+  "autoQueuePrefixBedwars": "You have been eliminated!",
   "autoQueueClick": "Click here!",
   "chatCleanerJoinNormal": "joined the lobby",
   "chatCleanerJoinHalloween": "spooked into the lobby",
