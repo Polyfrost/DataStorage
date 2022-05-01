@@ -19,7 +19,7 @@
         "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$"
     ],
     "en": {
-  "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!)$",
+  "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!You won! .+)$",
   "autoQueuePrefix": "You died! Want to play again?",
   "autoQueuePrefixBedwars": "You have been eliminated!",
   "autoQueuePrefixMurderMystery": "YOU DIED! The Murderer stabbed you!",
