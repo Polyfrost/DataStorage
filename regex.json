@@ -33,7 +33,7 @@
   "chatCleanerJoinNormal": "joined the lobby",
   "chatCleanerJoinHalloween": "spooked into the lobby",
   "chatCleanerJoinChristmas": "(?:sled|slid) into the lobby",
-  "chatCleanerMysteryBoxFind": ".+(?<player>\\w{1,16}) found (?:a|an) (?:✰{5} Mystery Box!|.+ in a .+ Mystery Box!)$",
+  "chatCleanerMysteryBoxFind": "^.+(?<player>\\w{1,16}) found (?:a|an) (?:.{5} Mystery Box!|.+ in a .+!)$",
   "chatCleanerSoulWellFind": "^.+ has found .+ in the Soul Well!$",
   "chatCleanerGameAnnouncement": "^\u27A4 A .+ game is (?:available to join|starting in .+ seconds)! CLICK HERE to join!$",
   "chatCleanerBedwarsPartyAdvertisement": "(?<number>[1-7]/[2-8])",
@@ -47,7 +47,7 @@
   "chatTimePlayerRemover": "^(?:\\W\\d+ .* Experience \\(Time Played\\)|\\W\\d+ coins! \\(Time Played\\)).*",
   "connectedServerConnectMessage": "^(You are currently connected to server \\S+)|(Sending you to \\S+.{3}!)|(Sending to server \\S+.{3})|(Warping you to your SkyBlock island...)|(Warping...)|(Sending a visit request...)|(Finding player...)$",
   "chatCleanerEarnedCoinsAndExp": "^(?:\\W\\d+ .* Experience.*|\\W\\d+ coins!.*|You earned \\d+ GEXP from playing.+!|.+ just earned .+ as a Guild Level Reward!)",
-  "chatCleanerReplayRecorded": "§6§aThis game has been recorded. §6Click here to watch the Replay!§r",
+  "chatCleanerReplayRecorded": "This game has been recorded. Click here to watch the Replay!",
   "chatCleanerTip": "(?:You tipped \\d+ (?:player|players) in \\d+ (?:game|different games)!|You already tipped everyone that has boosters active, so there isn't anybody to be tipped right now!)",
   "chatCleanerOnlineStatus": "REMINDER: Your Online Status is currently set to (?:Appear Offline|Busy|Away)",
   "chatCleanerGameTips": "^(?:If you get disconnected use /rejoin to join back in the game\\.|You may use /mmreport <skin name> to chat report in this mode!|Teaming with the *.+ is not allowed!|Teaming is not allowed *.+|Cross Teaming / Teaming with other teams is not allowed!|Cross-teaming is not allowed! Report cross-teamers using /report.|Cages opened! FIGHT!|Queued! Use the bed to return to lobby!|Queued! Use the bed to cancel!)",
@@ -78,6 +78,6 @@
   "cannotShoutBeforeSkywars": "You can't shout until the game has started!",
   "cannotShoutBeforeBedwars": "You can't use /shout before the game has started.",
   "cannotShoutInSoloBedwars": "You can't use /shout in this mode.",
-  "hypixelLevelUp": "You are now Hypixel Level (?<level>\\\\d+)!"
+  "hypixelLevelUp": "You are now Hypixel Level (?<level>\\d+)!"
 }
 }
