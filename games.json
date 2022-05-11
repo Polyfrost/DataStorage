@@ -85,8 +85,8 @@
   "bw_lucky_blocks_4s": " bedwars_four_four_lucky",
   "bw_castle_40v40": "bedwars_castle",
   "bw_4v4": "bedwars_two_four",
-  "capture_the_wool": "prototype_pvp_ctw",
-  "ctw": "prototype_pvp_ctw",
+  "capture_the_wool": "arcade_pvp_ctw",
+  "ctw": "arcade_pvp_ctw",
   "hole_in_the_wall": "arcade_hole_in_the_wall",
   "football": "arcade_soccer",
   "bounty_hunters": "arcade_bounty_hunters",
@@ -174,8 +174,6 @@
   "mm_assassins": "murder_assassins",
   "mm_infection": "murder_infection",
   "pit": "pit",
-  "towerwars_solo": "prototype_towerwars_solo",
-  "towerwars_teams": "prototype_towerwars_team_of_two",
   "random": "random",
   "bedwars_practice": "bedwars_practice",
   "solo_insane_rush": "solo_insane_rush",
@@ -186,5 +184,6 @@
   "duels_duel_arena": "duels_duel_arena",
   "duels_parkour_eight": "duels_parkour_eight",
   "duels_capture_threes": "duels_capture_threes",
-  "prototype_pixel_party": "prototype_pixel_party"
+  "pixel_party": "prototype_pixel_party",
+  "wool_wars": "prototype_wool_wars"
 }
