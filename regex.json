@@ -43,6 +43,13 @@
         "chatCleanerOnlineStatus": "REMINDER: Your Online Status is currently set to (?:Appear Offline|Busy|Away)",
         "chatCleanerGameTips": "^(?:If you get disconnected use /rejoin to join back in the game\\.|You may use /mmreport <skin name> to chat report in this mode!|Teaming with the .+ is not allowed!|Teaming is not allowed.+|Cross Teaming / Teaming with other teams is not allowed!|Cross-teaming is not allowed! Report cross-teamers using /report\\.|Cages opened! FIGHT!|Queued! Use the bed to return to lobby!|Queued! Use the bed to cancel!|You can use /ic <message> to communicate with your fellow infected!|To leave .+, type /lobby|Consider sharing some of your resources with your team mates by clicking the Banker NPC at your base\\.|You didn't pick up any more \\S+ because you have too much on you!|As a Spectator, you can talk in chat with fellow Spectators\\.|Contents of .+ Ender Chest have been dropped into their fountain\\.|Alive players cannot see dead players' chat\\.|The game has started!|You have 15s to spread out before it starts!|You will respawn next round!|Jumping before dropping can sometimes give you an advantage!|You can skip the level if you fail too many times on easy or medium difficulties!|DROP!|Reset location!|Dropper is currently in the Prototype Lobby, please report bugs at https:\\/\\/hypixel\\.net\\/bugs!)",
         "chatCleanerStats": "Click to view the stats of your .* game!",
+        "chatCleanerLobbyFishingAnnouncement": "(?<rank>\\[\\S+] )?(?<player>(?!You )\\w{1,16} )caught .+",
+        "chatCleanerHotPotato": "\\w{1,16} burnt to a crisp due to a hot potato!",
+        "chatCleanerDuelsNoStatsChange": "Your stats did not change because you /duel'ed your opponent!|Your stats did not change because you dueled someone in your party!|No stats will be affected in this round!",
+        "chatCleanerBridgeOwnGoalDeath": "You just jumped through your own goal, enjoy the void death! :)",
+        "chatCleanerCurseOfSpam": "KALI HAS STRIKEN YOU WITH THE CURSE OF SPAM",
+        "chatCleanerDuelsBlockTrail": "Your block trail aura is disabled in this mode!",
+        "chatCleanerSkyblockWelcome": "Welcome to Hypixel SkyBlock!",
         "achievementPattern": "a>> {3}Achievement Unlocked: (?<achievement>.+) {3}<<a",
         "levelUpPattern": "You are now Hypixel Level (?<level>\\d+)!",
         "guildPlayerJoinPattern": "^(?:\\[.*] )?(?<player>\\S{1,16}) joined the guild!$",
@@ -70,7 +77,9 @@
         "cannotShoutBeforeGame": "You can't use /shout before the game has started.",
         "cannotShoutAfterGame": "You can't use /shout after the game has finished.",
         "hypixelLevelUp": "You are now Hypixel Level (?<level>\\d+)!",
-        "cancelGlMessages": "(?!.+: )(gl|glhf|good luck|have a good game|autogl by sk1er)"
+        "cancelGlMessages": "(?!.+: )(gl|glhf|good luck|have a good game|autogl by sk1er)",
+        "autoChatReportConfirm": "Please type /report confirm to log your report for staff review.",
+        "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!"
     },
     "test_woverflow_value": "hi"
 }
