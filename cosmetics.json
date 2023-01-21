@@ -10,7 +10,11 @@
         "heart",
         "reddust",
         "slime",
-        "heart"
+        "heart",
+        "largesmoke",
+        "explode",
+        "flame",
+        "happyVillager"
     ],
     "items": [
         "blockDiamond",
