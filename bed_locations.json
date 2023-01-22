@@ -1,0 +1,108 @@
+{
+  "default": [
+    "yellow",
+    "cyan",
+    "white",
+    "pink",
+    "gray",
+    "red",
+    "blue",
+    "green"
+  ],
+  "overrides": [
+    {
+      "locations": [
+        "blue",
+        "blue",
+        "green",
+        "green",
+        "yellow",
+        "yellow",
+        "red",
+        "red"
+      ],
+      "maps": [
+        "Dreamgrove",
+        "Invasion",
+        "Lectus",
+        "Jurassic"
+      ]
+    },
+    {
+      "locations": [
+        "blue",
+        "green",
+        "green",
+        "yellow",
+        "yellow",
+        "red",
+        "red",
+        "blue"
+      ],
+      "modes": [
+        "FOUR_THREE",
+        "FOUR_FOUR"
+      ]
+    },
+    {
+      "locations": [
+        "blue",
+        "blue",
+        "blue",
+        "blue",
+        "red",
+        "red",
+        "red",
+        "red"
+      ],
+      "modes": [
+        "TWO_FOUR"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "red",
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "modes": [
+        "CASTLE"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "green",
+        "blue",
+        "yellow",
+        "pink",
+        "gray",
+        "cyan",
+        "white"
+      ],
+      "modes": [
+        "EIGHT_TWO_VOIDLESS"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "green",
+        "green",
+        "blue",
+        "blue",
+        "yellow",
+        "yellow",
+        "red"
+      ],
+      "modes": [
+        "FOUR_FOUR_VOIDLESS"
+      ]
+    }
+  ]
+}
