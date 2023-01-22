@@ -17,17 +17,17 @@
         "happyVillager"
     ],
     "items": [
-        "blockDiamond",
-        "blockIron",
-        "blockGold",
-        "blockRedstone",
-        "blockCoal",
-        "bone",
-        "diamond",
-        "ingotGold",
-        "goldNugget",
-        "slimeball",
-        "pumpkinPie",
-        "blockLapis"
+        "tile.blockDiamond",
+        "tile.blockIron",
+        "tile.blockGold",
+        "tile.blockRedstone",
+        "tile.blockCoal",
+        "item.bone",
+        "item.diamond",
+        "item.ingotGold",
+        "item.goldNugget",
+        "item.slimeball",
+        "item.pumpkinPie",
+        "tile.blockLapis"
     ]
 }
