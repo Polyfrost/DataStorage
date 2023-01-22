@@ -1,7 +1,7 @@
 {
   "default": [
     "yellow",
-    "cyan",
+    "aqua",
     "white",
     "pink",
     "gray",
@@ -82,7 +82,7 @@
         "yellow",
         "pink",
         "gray",
-        "cyan",
+        "aqua",
         "white"
       ],
       "modes": [
