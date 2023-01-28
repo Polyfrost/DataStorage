@@ -79,7 +79,9 @@
         "hypixelLevelUp": "You are now Hypixel Level (?<level>\\d+)!",
         "cancelGlMessages": "(?!.+: )(gl|glhf|good luck|have a good game|autogl by sk1er)",
         "autoChatReportConfirm": "Please type /report confirm to log your report for staff review.",
-        "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!"
+        "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!",
+        "tabFooterAdvertisement": "(\n\u00a7r)?\u00a7r\u00a7aRanks, Boosters & MORE! \u00a7r\u00a7c\u00a7lSTORE\\.HYPIXEL\\.NET",
+        "tabHeaderAdvertisement": "\u00a7r\u00a7bYou are playing on \u00a7r\u00a7e\u00a7lMC\\.HYPIXEL\\.NET(\u00a7r\n)?"
     },
     "test_woverflow_value": "hi"
 }
