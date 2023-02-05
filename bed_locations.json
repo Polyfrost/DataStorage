@@ -22,10 +22,72 @@
         "red"
       ],
       "maps": [
+        "Deposit",
         "Dreamgrove",
+        "Holmgang",
         "Invasion",
         "Lectus",
-        "Jurassic"
+        "Paradox",
+        "Jurassic",
+        "Tigris"
+      ]
+    },
+    {
+      "locations": [
+        "white",
+        "pink",
+        "green",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "aqua"
+      ],
+      "maps": [
+        "Pavilion"
+      ]
+    },
+    {
+      "locations": [
+        "green",
+        "yellow",
+        "aqua",
+        "white",
+        "pink",
+        "gray",
+        "red",
+        "blue"
+      ],
+      "maps": [
+        "Crypt"
+      ]
+    },    {
+      "locations": [
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "green",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "maps": [
+        "Kubo"
+      ]
+    },    {
+      "locations": [
+        "yellow",
+        "yellow",
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "green",
+        "green"
+      ],
+      "maps": [
+        "Paladin"
       ]
     },
     {
@@ -40,8 +102,9 @@
         "blue"
       ],
       "modes": [
-        "FOUR_THREE",
-        "FOUR_FOUR"
+        "BEDWARS_FOUR_THREE",
+        "BEDWARS_FOUR_FOUR",
+        "BEDWARS_FOUR_FOUR_SWAP"
       ]
     },
     {
@@ -56,7 +119,7 @@
         "red"
       ],
       "modes": [
-        "TWO_FOUR"
+        "BEDWARS_TWO_FOUR"
       ]
     },
     {
@@ -71,7 +134,10 @@
         "blue"
       ],
       "modes": [
-        "CASTLE"
+        "BEDWARS_CASTLE"
+      ],
+      "maps": [
+        "Gardens"
       ]
     },
     {
@@ -86,7 +152,7 @@
         "white"
       ],
       "modes": [
-        "EIGHT_TWO_VOIDLESS"
+        "BEDWARS_EIGHT_TWO_VOIDLESS"
       ]
     },
     {
@@ -101,7 +167,7 @@
         "red"
       ],
       "modes": [
-        "FOUR_FOUR_VOIDLESS"
+        "BEDWARS_FOUR_FOUR_VOIDLESS"
       ]
     }
   ]
