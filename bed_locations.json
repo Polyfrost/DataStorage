@@ -36,7 +36,7 @@
       "locations": [
         "white",
         "pink",
-        "green",
+        "gray",
         "red",
         "blue",
         "green",
@@ -61,21 +61,23 @@
       "maps": [
         "Crypt"
       ]
-    },    {
+    },
+    {
       "locations": [
-        "red",
         "red",
         "blue",
         "blue",
         "green",
         "green",
         "yellow",
-        "yellow"
+        "yellow",
+        "red"
       ],
       "maps": [
         "Kubo"
       ]
-    },    {
+    },
+    {
       "locations": [
         "yellow",
         "yellow",
@@ -88,6 +90,22 @@
       ],
       "maps": [
         "Paladin"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "red",
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "blue",
+        "blue"
+      ],
+      "maps": [
+        "Gardens",
+        "Lions Temple"
       ]
     },
     {
@@ -135,9 +153,6 @@
       ],
       "modes": [
         "BEDWARS_CASTLE"
-      ],
-      "maps": [
-        "Gardens"
       ]
     },
     {
