@@ -123,7 +123,8 @@
       "modes": [
         "BEDWARS_FOUR_THREE",
         "BEDWARS_FOUR_FOUR",
-        "BEDWARS_FOUR_FOUR_SWAP"
+        "BEDWARS_FOUR_FOUR_SWAP",
+        "BEDWARS_FOUR_FOUR_RUSH"
       ]
     },
     {
