@@ -19,7 +19,7 @@
         "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$"
     ],
     "en": {
-        "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You won! .+|YOU WON! .+)$",
+        "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
         "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[IGNORE].*",
         "chatCleanerJoinNormal": "joined the lobby",
         "chatCleanerJoinHalloween": "spooked into the lobby",
@@ -41,7 +41,7 @@
         "chatCleanerReplayRecorded": "This game has been recorded\\. Click here to watch the Replay!",
         "chatCleanerTip": "(?:You (?:tipped|\\(anonymously\\) tipped) (\\d+ (?:player|players)(?: in \\d+ (?:game|different games)!)|\\w{1,16} in .+!|\\d+ (?:player|players)!)|You were tipped by \\d+ (?:player|players) in the last \\S+!|You already tipped everyone that has boosters active, so there isn't anybody to be tipped right now!|You've already tipped that person today in .+! Try another user!|You've already tipped someone in the past hour in .+! Wait a bit and try again!)",
         "chatCleanerOnlineStatus": "REMINDER: Your Online Status is currently set to (?:Appear Offline|Busy|Away)",
-        "chatCleanerGameTips": "^(?:If you get disconnected use /rejoin to join back in the game\\.|You may use /mmreport <skin name> to chat report in this mode!|Teaming with the .+ is not allowed!|Teaming is not allowed.+|Cross Teaming / Teaming with other teams is not allowed!|Cross-teaming is not allowed! Report cross-teamers using /report\\.|Cages opened! FIGHT!|Queued! Use the bed to return to lobby!|Queued! Use the bed to cancel!|You can use /ic <message> to communicate with your fellow infected!|To leave .+, type /lobby|Consider sharing some of your resources with your team mates by clicking the Banker NPC at your base\\.|You didn't pick up any more \\S+ because you have too much on you!|As a Spectator, you can talk in chat with fellow Spectators\\.|Contents of .+ Ender Chest have been dropped into their fountain\\.|Alive players cannot see dead players' chat\\.|The game has started!|You have 15s to spread out before it starts!|You will respawn next round!|Jumping before dropping can sometimes give you an advantage!|You can skip the level if you fail too many times on easy or medium difficulties!|DROP!|Reset location!|Dropper is currently in the Prototype Lobby, please report bugs at https:\\/\\/hypixel\\.net\\/bugs!|Atlas verdict submitted! Thank you :\\))",
+        "chatCleanerGameTips": "^(?:If you get disconnected use /rejoin to join back in the game\\.|You may use /mmreport <skin name> to chat report in this mode!|Teaming with the .+ is not allowed!|Teaming is not allowed.+|Cross Teaming / Teaming with other teams is not allowed!|Cross-teaming is not allowed! Report cross-teamers using /report\\.|Cages opened! FIGHT!|Queued! Use the bed to return to lobby!|Queued! Use the bed to cancel!|You can use /ic <message> to communicate with your fellow infected!|To leave .+, type /lobby|Consider sharing some of your resources with your team mates by clicking the Banker NPC at your base\\.|You didn't pick up any more \\S+ because you have too much on you!|As a Spectator, you can talk in chat with fellow Spectators\\.|Contents of .+ Ender Chest have been dropped into their fountain\\.|Alive players cannot see dead players' chat\\.|The game has started!|You have 15s to spread out before it starts!|You will respawn next round!|Jumping before dropping can sometimes give you an advantage!|You can skip the level if you fail too many times on easy or medium difficulties!|DROP!|Reset location!|Dropper is currently in the Prototype Lobby, please report bugs at https:\\/\\/hypixel\\.net\\/bugs!|Atlas verdict submitted! Thank you :\\)|You can activate bridge building by left clicking with wool in your hand!)",
         "chatCleanerStats": "Click to view the stats of your .* game!",
         "chatCleanerLobbyFishingAnnouncement": "(?<rank>\\[\\S+] )?(?<player>(?!You )\\w{1,16} )caught .+",
         "chatCleanerHotPotato": "\\w{1,16} burnt to a crisp due to a hot potato!",
@@ -80,8 +80,8 @@
         "cancelGlMessages": "(?!.+: )(gl|glhf|good luck|have a good game|autogl by sk1er)",
         "autoChatReportConfirm": "Please type /report confirm to log your report for staff review.",
         "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!",
-        "tabFooterAdvertisement": "((\n.+)\n\u00a7r)?\u00a7r\u00a7aRanks, Boosters & MORE! \u00a7r\u00a7c\u00a7lSTORE\\.HYPIXEL\\.NET(\n)?",
-        "tabHeaderAdvertisement": "(\n)?\u00a7r\u00a7bYou are playing on \u00a7r\u00a7e\u00a7lMC\\.HYPIXEL\\.NET(\u00a7r(\n.+)\u00a7s)?",
+        "tabFooterAdvertisement": "\u00a7aRanks, Boosters & MORE! \u00a7r\u00a7c\u00a7lSTORE.HYPIXEL.NET",
+        "tabHeaderAdvertisement": "\u00a7bYou are playing on \u00a7r\u00a7e\u00a7lMC.HYPIXEL.NET",
         "gameBossbarAdvertisement": "\u00a7e\u00a7lPlaying \u00a7f\u00a7l.+ \u00a7e\u00a7lon \u00a7\\S\u00a7lMC\\.HYPIXEL\\.NET\u00a7r"
     },
     "test_woverflow_value": "hi"
