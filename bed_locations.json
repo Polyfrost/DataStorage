@@ -59,7 +59,8 @@
         "blue"
       ],
       "maps": [
-        "Crypt"
+        "Crypt",
+        "Ironclad"
       ]
     },
     {
@@ -74,6 +75,7 @@
         "red"
       ],
       "maps": [
+        "Graveship",
         "Kubo"
       ]
     },
