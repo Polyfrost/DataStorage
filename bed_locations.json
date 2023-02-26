@@ -108,7 +108,8 @@
       ],
       "maps": [
         "Gardens",
-        "Lion\u0027s Temple"
+        "Lion\u0027s Temple",
+        "Ivory Castle"
       ]
     },
     {
@@ -143,21 +144,6 @@
       ],
       "modes": [
         "BEDWARS_TWO_FOUR"
-      ]
-    },
-    {
-      "locations": [
-        "red",
-        "red",
-        "red",
-        "red",
-        "blue",
-        "blue",
-        "blue",
-        "blue"
-      ],
-      "modes": [
-        "BEDWARS_CASTLE"
       ]
     },
     {
