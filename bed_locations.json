@@ -24,6 +24,7 @@
       "maps": [
         "Deposit",
         "Dreamgrove",
+        "Entangle",
         "Holmgang",
         "Invasion",
         "Lectus",
@@ -114,6 +115,21 @@
     },
     {
       "locations": [
+        "red",
+        "green",
+        "green",
+        "blue",
+        "blue",
+        "yellow",
+        "yellow",
+        "red"
+      ],
+      "maps": [
+        "Mosdalr"
+      ]
+    },
+    {
+      "locations": [
         "blue",
         "green",
         "green",
@@ -144,36 +160,6 @@
       ],
       "modes": [
         "BEDWARS_TWO_FOUR"
-      ]
-    },
-    {
-      "locations": [
-        "red",
-        "green",
-        "blue",
-        "yellow",
-        "pink",
-        "gray",
-        "aqua",
-        "white"
-      ],
-      "modes": [
-        "BEDWARS_EIGHT_TWO_VOIDLESS"
-      ]
-    },
-    {
-      "locations": [
-        "red",
-        "green",
-        "green",
-        "blue",
-        "blue",
-        "yellow",
-        "yellow",
-        "red"
-      ],
-      "modes": [
-        "BEDWARS_FOUR_FOUR_VOIDLESS"
       ]
     }
   ]
