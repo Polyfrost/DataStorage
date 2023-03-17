@@ -45,7 +45,23 @@
         "aqua"
       ],
       "maps": [
-        "Pavilion"
+        "Pavilion",
+        "Yue"
+      ]
+    },
+    {
+      "locations": [
+        "pink",
+        "gray",
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "aqua",
+        "white"
+      ],
+      "maps": [
+        "Acropolis"
       ]
     },
     {
