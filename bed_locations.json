@@ -114,6 +114,21 @@
     },
     {
       "locations": [
+        "green",
+        "green",
+        "yellow",
+        "yellow",
+        "red",
+        "red",
+        "blue",
+        "blue"
+      ],
+      "maps": [
+        "Usagi"
+      ]
+    },
+    {
+      "locations": [
         "red",
         "red",
         "red",
