@@ -30,6 +30,7 @@
         "Lectus",
         "Paradox",
         "Jurassic",
+        "Stilted",
         "Tigris"
       ]
     },
@@ -93,7 +94,8 @@
       ],
       "maps": [
         "Graveship",
-        "Kubo"
+        "Kubo",
+        "Zen Plaza"
       ]
     },
     {
