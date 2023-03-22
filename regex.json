@@ -77,7 +77,7 @@
         "cannotShoutBeforeGame": "You can't use /shout before the game has started.",
         "cannotShoutAfterGame": "You can't use /shout after the game has finished.",
         "hypixelLevelUp": "You are now Hypixel Level (?<level>\\d+)!",
-        "cancelGlMessages": "(?!.+: )(gl|glhf|good luck|have a good game|autogl by sk1er)",
+        "cancelGlMessages": "(?!.+: )( gl(?!\\w)|glhf|good luck|have a good game|autogl by sk1er)",
         "autoChatReportConfirm": "Please type /report confirm to log your report for staff review.",
         "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!",
         "tabFooterAdvertisement": "\u00a7aRanks, Boosters & MORE! \u00a7r\u00a7c\u00a7lSTORE.HYPIXEL.NET",
