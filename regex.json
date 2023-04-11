@@ -25,7 +25,7 @@
         "chatCleanerJoinHalloween": "spooked into the lobby",
         "chatCleanerJoinChristmas": "(?:sled|slid) into the lobby",
         "chatCleanerJoin": "(?:sled into|slid into|joined|spooked into) the lobby",
-        "chatCleanerMysteryBoxFind": "^.+ (?<player>(?!You )\\w{1,16} )found (?:a|an) (?:.{5} Mystery Box!|.+ in a .+!)$",
+        "chatCleanerMysteryBoxFind": "^.+ (?<player>(?!You )\\w{1,16} )found (?:a|an) (?:.{5} Mystery Box!|.+ in (?:a|an) .+!)$",
         "chatCleanerSoulWellFind": "^.+ has found .+ in the Soul Well!$",
         "chatCleanerGameAnnouncement": "^\u27a4 A (?:.+ game is available to join|game of .+ is starting in .+ seconds)! CLICK HERE to join!$",
         "chatCleanerBedwarsPartyAdvertisement": "(?!.+: )(([1-8]/[1-8]|[1-8]v[1-8]|[2-8]s)|(any|rbw|ranked))",
