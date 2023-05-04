@@ -28,9 +28,10 @@
         "Entangle",
         "Holmgang",
         "Invasion",
-        "Lectus",
-        "Paradox",
         "Jurassic",
+        "Lectus",
+        "Orchid",
+        "Paradox",
         "Stilted",
         "Tigris"
       ]
@@ -63,7 +64,8 @@
         "white"
       ],
       "maps": [
-        "Acropolis"
+        "Acropolis",
+        "Sanctum"
       ]
     },
     {
@@ -80,6 +82,51 @@
       "maps": [
         "Crypt",
         "Ironclad"
+      ]
+    },
+    {
+      "locations": [
+        "blue",
+        "green",
+        "yellow",
+        "aqua",
+        "white",
+        "pink",
+        "gray",
+        "red"
+      ],
+      "maps": [
+        "Ambush"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "blue",
+        "green",
+        "yellow",
+        "aqua",
+        "white",
+        "pink",
+        "gray"
+      ],
+      "maps": [
+        "Impere"
+      ]
+    },
+    {
+      "locations": [
+        "green",
+        "blue",
+        "red",
+        "gray",
+        "pink",
+        "white",
+        "aqua",
+        "yellow"
+      ],
+      "maps": [
+        "Urban Plaza"
       ]
     },
     {
@@ -114,6 +161,36 @@
       "maps": [
         "Paladin",
         "Terminal"
+      ]
+    },
+    {
+      "locations": [
+        "yellow",
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "green",
+        "green",
+        "yellow"
+      ],
+      "maps": [
+        "Raze"
+      ]
+    },
+    {
+      "locations": [
+        "blue",
+        "blue",
+        "red",
+        "red",
+        "yellow",
+        "yellow",
+        "green",
+        "green"
+      ],
+      "maps": [
+        "Infinite"
       ]
     },
     {
