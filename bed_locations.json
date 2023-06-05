@@ -274,7 +274,8 @@
         "red"
       ],
       "modes": [
-        "BEDWARS_TWO_FOUR"
+        "BEDWARS_TWO_FOUR",
+        "BEDWARS_CASTLE"
       ]
     }
   ]
