@@ -50,6 +50,7 @@
         "chatCleanerCurseOfSpam": "KALI HAS STRIKEN YOU WITH THE CURSE OF SPAM",
         "chatCleanerDuelsBlockTrail": "Your block trail aura is disabled in this mode!",
         "chatCleanerSkyblockWelcome": "Welcome to Hypixel SkyBlock!",
+        "chatDiscordSafetyWarning": "Please be mindful of Discord link in chat as they may pose a security risk",
         "achievementPattern": "a>> {3}Achievement Unlocked: (?<achievement>.+) {3}<<a",
         "levelUpPattern": "You are now Hypixel Level (?<level>\\d+)!",
         "guildPlayerJoinPattern": "^(?:\\[.*] )?(?<player>\\S{1,16}) joined the guild!$",
