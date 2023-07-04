@@ -177,7 +177,23 @@
         "yellow"
       ],
       "maps": [
+        "Boardwalk",
         "Raze"
+      ]
+    },
+    {
+      "locations": [
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "green",
+        "green",
+        "yellow",
+        "yellow"
+      ],
+      "maps": [
+        "Shark Attack"
       ]
     },
     {
