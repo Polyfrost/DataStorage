@@ -22,6 +22,7 @@
         "red"
       ],
       "maps": [
+        "Comet",
         "Deposit",
         "Dreamgrove",
         "Egg Run",
@@ -30,6 +31,7 @@
         "Invasion",
         "Jurassic",
         "Lectus",
+        "Loft",
         "Mortuus",
         "Orchid",
         "Paradox",
@@ -98,7 +100,24 @@
         "red"
       ],
       "maps": [
-        "Ambush"
+        "Ambush",
+        "Frosted"
+      ]
+    },
+    {
+      "locations": [
+        "aqua",
+        "white",
+        "pink",
+        "gray",
+        "red",
+        "blue",
+        "green",
+        "yellow"
+      ],
+      "maps": [
+        "Snowy Square",
+        "Sweet Wonderland"
       ]
     },
     {
