@@ -152,6 +152,21 @@
     },
     {
       "locations": [
+        "pink",
+        "white",
+        "aqua",
+        "yellow",
+        "green",
+        "blue",
+        "red",
+        "gray"
+      ],
+      "maps": [
+        "Slumber"
+      ]
+    },
+    {
+      "locations": [
         "red",
         "blue",
         "blue",
@@ -245,6 +260,21 @@
       "maps": [
         "Springtide",
         "Usagi"
+      ]
+    },
+    {
+      "locations": [
+        "yellow",
+        "yellow",
+        "red",
+        "red",
+        "blue",
+        "blue",
+        "green",
+        "green"
+      ],
+      "maps": [
+        "Nostalgia"
       ]
     },
     {
