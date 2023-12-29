@@ -53,6 +53,7 @@
       "maps": [
         "Arid",
         "Pavilion",
+        "Vigilante",
         "Yue"
       ]
     },
@@ -260,6 +261,7 @@
         "blue"
       ],
       "maps": [
+        "Lost Temple",
         "Springtide",
         "Usagi"
       ]
