@@ -51,6 +51,7 @@
         "aqua"
       ],
       "maps": [
+        "Arcade",
         "Arid",
         "Pavilion",
         "Vigilante",
@@ -135,7 +136,8 @@
         "gray"
       ],
       "maps": [
-        "Impere"
+        "Impere",
+        "Keep"
       ]
     },
     {
@@ -279,6 +281,21 @@
       ],
       "maps": [
         "Nostalgia"
+      ]
+    },
+    {
+      "locations": [
+        "green",
+        "green",
+        "blue",
+        "blue",
+        "yellow",
+        "yellow",
+        "red",
+        "red"
+      ],
+      "maps": [
+        "Carapace"
       ]
     },
     {
