@@ -53,6 +53,7 @@
       "maps": [
         "Arcade",
         "Arid",
+        "Dragonlight",
         "Pavilion",
         "Vigilante",
         "Yue"
@@ -104,7 +105,8 @@
       ],
       "maps": [
         "Ambush",
-        "Frosted"
+        "Frosted",
+        "Hanging Gardens"
       ]
     },
     {
