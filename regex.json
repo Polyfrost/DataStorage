@@ -68,7 +68,7 @@
         "privateMessageWhiteChat": "^(?<type>\u00a7dTo|\u00a7dFrom) (?<prefix>.+): \u00a7r(?<message>\u00a77.*)(?:\u00a7r)?$",
         "limboLimiterSpawned": "You were spawned in Limbo.",
         "limboLimiterAfk": "You are AFK. Move around to return from AFK.",
-        "autoChatSwapperPartyStatus2": "^(?:You have joined (?:\\[.+] )?(?:.*) party!|Party Members(?:\\[.+] )?\\w{1,100}|(?:\\[.+] )?\\w{1,100} joined the(?:.*) party(?:.*))$",
+        "autoChatSwapperPartyStatus2": "^(?:You have joined (?:\\[.+] )?(?:.*) party!|Party Members(?:\\[.+] )?\\w{1,100}|(?:\\[.+] )?\\w{1,100} joined the(?:.*) party(?:.*)|Party Finder > .* joined the dungeon group! \\(\\w+ Level \\d+\\))$",
         "silentRemovalLeaveMessage": "(?:Friend|F|Guild|G) > (?<player>\\w{1,16}) left\\.",
         "noSpectatorCommands": "You are not allowed to use commands as a spectator!",
         "cannotShoutBeforeSkywars": "You can't shout until the game has started!",
