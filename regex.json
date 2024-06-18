@@ -21,6 +21,7 @@
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
         "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[IGNORE].*",
+        "autoAfkReplyPattern": "^From (\\[.+?] )?(.+?): .+$",
         "chatCleanerJoin": "(?:sled into|slid into|joined|spooked into) the lobby",
         "chatCleanerTicketAnnouncer": "^(?<player>(?!You )\\w{1,16} )has found an? .+$",
         "chatCleanerSoulWellFind": "^.+ has found .+ in the Soul Well!$",
