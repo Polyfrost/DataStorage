@@ -16,12 +16,15 @@
         "^ +Zombies - \\d*:?\\d+:\\d+ \\(Round \\d+\\)$",
         "^ +. YOUR STATISTICS .$",
         "^ {36}Winner(s?)$",
-        "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$"
+        "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$",
+        "^ {35}GAME OVER!$",
+        "^ {32}Party Games$"
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
         "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[IGNORE].*",
         "autoAfkReplyPattern": "^From (\\[.+?] )?(.+?): .+$",
+        "chatCleanerKarmaMessages": "^\\+(?<karma>\\d)+ Karma!$",
         "chatCleanerJoin": "(?:sled into|slid into|joined|spooked into) the lobby",
         "chatCleanerTicketAnnouncer": "^(?<player>(?!You )\\w{1,16} )has found an? .+$",
         "chatCleanerSoulWellFind": "^.+ has found .+ in the Soul Well!$",
@@ -76,6 +79,8 @@
         "cannotShoutBeforeGame": "You can't use /shout before the game has started.",
         "cannotShoutAfterGame": "You can't use /shout after the game has finished.",
         "hypixelLevelUp": "You are now Hypixel Level (?<level>\\d+)!",
+        "casualGameEnd": "^(?:MINOR EVENT! .+ in .+ ended|DRAGON EGG OVER! Earned [\\d,]+XP [\\d,]g clicking the egg \\d+ times|GIANT CAKE! Event ended! Cake's gone!|PIT EVENT ENDED: .+ \\[INFO\\])$",
+        "cancelGgMessages": "^(?:.* )?(?:\\[.+] )?\\w{1,16}(?: .+)?: (?:❤|gg|GG|gf|Good Game|Good Fight|Good Round! :D|Have a good day!|<3|AutoGG By Sk1er!|AutoGG By Hytils Reborn!|gf|Good Fight|Good Round|:D|Well Played!|wp)$",
         "cancelGlMessages": "(?!.+: )( gl(?!\\w)|glhf|good luck|have a good game|autogl by sk1er)",
         "autoChatReportConfirm": "Please type /report confirm to log your report for staff review.",
         "autoPartyWarpConfirm": "Some players are still in-game, run the command again to confirm warp!",
