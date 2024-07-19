@@ -65,6 +65,8 @@
         "chatRestylerFriendPattern": "^((?:\u00a7r)?\u00a7\\w)(Friend >)",
         "chatRestylerOfficerPattern": "^((?:\u00a7r)?\u00a7\\w)(Officer >)",
         "chatRestylerStatusPattern": "^(?<type>(?:\u00a7aFriend|\u00a7a\u00a7aF|\u00a72Guild|\u00a72\u00a72G)) > (\u00a7r|\u00a7r\u00a7r){1,2}(?<player>\u00a7[\\da-f]\\w{1,16}) \u00a7r\u00a7e(?<status>(?:joined|left))\\.\u00a7r$",
+        "chatRestylerPrivateMessageToPattern": "^((?:\u00a7r)?\u00a7\\w)(To)",
+        "chatRestylerPrivateMessageFromPattern": "^((?:\u00a7r)?\u00a7\\w)(From)",
         "autoChatSwapperPartyStatus": "^(?:You have been kicked from the party by (?:\\[.+] )?\\w{1,16}|(?:\\[.+] )?\\w{1,16} has disbanded the party!|You left the party\\.|You are not in a party\\.|The party was disbanded because (?:all invites expired and the party was empty|the party leader disconnected)\\.)$",
         "autoChatSwapperChannelSwap": "^You are now in the (?<channel>ALL|GUILD|OFFICER) channel$",
         "autoChatSwapperAlreadyInChannel": "You're already in this channel!",
