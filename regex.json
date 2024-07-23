@@ -23,7 +23,7 @@
         "^ +GAME OVER!$",
         "^ +Player of the match: \\w+ \\(\\d+ Goals\\)$",
         "^\\s*?.+ WINNER!  .+$",
-        "^\\s*?.+ Bridge Doubles - .+$"
+        "^\\s*?.+ Bridge [a-zA-Z0-9]* - .+$"
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
