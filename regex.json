@@ -21,7 +21,8 @@
         "^ {32}Party Games$",
         "^ +\\w+ won the game!$",
         "^ +GAME OVER!$",
-        "^ +Player of the match: \\w+ \\(\\d+ Goals\\)$"
+        "^ +Player of the match: \\w+ \\(\\d+ Goals\\)$",
+        "^ {23}.+ WINNER!  .+$"
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
