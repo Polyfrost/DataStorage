@@ -7,7 +7,7 @@
         "^ +Alpha Infected: \\w+ \\(\\d+ infections?\\)$",
         "^ +Murderer: \\w+ \\(\\d+ Kills?\\)$",
         "^ +You survived \\d+ rounds!$",
-        "^ +(?:UHC|SkyWars|The Bridge|Sumo|Classic|OP|MegaWalls|Bow|NoDebuff|Blitz|Combo|Bow Spleef) (?:Duel|Doubles|Teams|Deathmatch|2v2v2v2|3v3v3v3)? ?- \\d+:\\d+$",
+        "^ +(?:UHC|SkyWars|Bridge|Sumo|Classic|OP|MegaWalls|Bow|NoDebuff|Blitz|Combo|Bow Spleef|Boxing|Hypixel) (?:Duel|Doubles|Teams|Deathmatch|2v2v2v2|3v3v3v3|Parkour)? ?- \\d+:\\d+$",
         "^ +They captured all wools!$",
         "^ +Game over!$",
         "^ +[\\d\\.]+k?/[\\d\\.]+k? \\w+$",
@@ -15,7 +15,7 @@
         "^ +\\[?\\w*\\+*\\]? \\w+ - \\d+ Final Kills$",
         "^ +Zombies - \\d*:?\\d+:\\d+ \\(Round \\d+\\)$",
         "^ +. YOUR STATISTICS .$",
-        "^ {36}Winner(s?)$",
+        "^ {35,36}Winner(s?)$",
         "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$",
         "^ {35}GAME OVER!$",
         "^ {32}Party Games$",
@@ -23,7 +23,8 @@
         "^ +GAME OVER!$",
         "^ +Player of the match: \\w+ \\(\\d+ Goals\\)$",
         "^\\s*?.+ WINNER!  .+$",
-        "^\\s*?.+ Bridge [a-zA-Z0-9]* - .+$"
+        "^\\s*?.+ Bridge [a-zA-Z0-9]* - .+$",
+        "^ {6}#1 (?:\\[.+] )?(?:.{1,16}) \\(\\d+:\\d+:\\d+\\)$"
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
