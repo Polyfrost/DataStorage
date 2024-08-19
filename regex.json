@@ -28,7 +28,7 @@
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
-        "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[IGNORE].*",
+        "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[BLOCK].*",
         "autoAfkReplyPattern": "^From (\\[.+?] )?(.+?): .+$",
         "chatCleanerKarmaMessages": "^\\+(?<karma>\\d)+ Karma!$",
         "chatCleanerJoin": "(?:sled into|slid into|joined|spooked into) the lobby",
