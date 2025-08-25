@@ -5,7 +5,7 @@ pack-format = "packwiz:1.1.0"
 poly-format = "1"
 category = "PvP"
 id = "pvp-1.21.8-fabric"
-update-url = "oneclient/generated/pvp-1.21.8-fabric"
+update-url = "oneclient/generated/pvp-1.21.8-fabric.mrpack"
 
 [index]
 file = "index.toml"

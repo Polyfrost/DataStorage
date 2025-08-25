@@ -5,7 +5,7 @@ pack-format = "packwiz:1.1.0"
 poly-format = "1"
 category = "SkyBlock"
 id = "skyblock-1.21.8-fabric"
-update-url = "oneclient/generated/skyblock-1.21.8-fabric"
+update-url = "oneclient/generated/skyblock-1.21.8-fabric.mrpack"
 
 [index]
 file = "index.toml"

@@ -6,7 +6,7 @@ poly-format = "1"
 enabled = true
 category = "Performance"
 id = "performance-1.21.5-fabric"
-update-url = "oneclient/generated/performance-1.21.5-fabric"
+update-url = "oneclient/generated/performance-1.21.5-fabric.mrpack"
 
 [index]
 file = "index.toml"
