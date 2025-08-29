@@ -3,6 +3,7 @@ author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
+enabled = false
 category = "SkyBlock"
 id = "skyblock-1.21.5-fabric"
 update-url = "oneclient/generated/skyblock-1.21.5-fabric.mrpack"
@@ -10,7 +11,7 @@ update-url = "oneclient/generated/skyblock-1.21.5-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "bb3d3556c52ed9693d203a2f98454098313027ccd5df2802a04a9768a1eda9e0"
 
 [versions]
 fabric = "0.17.2"

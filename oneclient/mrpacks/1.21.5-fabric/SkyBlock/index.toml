@@ -1,2 +1,21 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "be75068475965bc175d153353b166748540f38981584c3e70b84412da68b626b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d66d003040ca690e43539969fc264468c12e345b89accaa0cb824d706f362d7c"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-profile-viewer.pw.toml"
+hash = "9d9e193346e30a71ffa2bd65cf4c7742c1b2ebe9ba74d40a1bf802355485bc87"
+metafile = true
+
+[[files]]
+file = "mods/skyblocker-liap.pw.toml"
+hash = "4ea3ecc4717b275798540e647b8776da4bd5a5ef881bf944dac638f3c6abce40"
+metafile = true

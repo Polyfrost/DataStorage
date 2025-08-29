@@ -1,2 +1,11 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "be75068475965bc175d153353b166748540f38981584c3e70b84412da68b626b"
+metafile = true
+
+[[files]]
+file = "mods/fpshud.pw.toml"
+hash = "940465f730b5fd1d05e1713884762d888f27e275afcb730f601c9d51b8f763bb"
+metafile = true
