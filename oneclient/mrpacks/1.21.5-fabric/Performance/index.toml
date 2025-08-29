@@ -1,2 +1,16 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "be75068475965bc175d153353b166748540f38981584c3e70b84412da68b626b"
+metafile = true
+
+[[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "501f904ec4dcf49e2cd43fabbef26a9da23e8105e202a018b6656f23271d00ae"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "164840da705db84d04c43611f5537b8e7726eb37c4cf152ce7f669e34cf40c04"
+metafile = true
