@@ -1,0 +1,12 @@
+{
+    "base_url": "https://raw.githubusercontent.com/Polyfrost/DataStorage/refs/heads/main/oneclient/generated/",
+    "versions": {
+        "1.21.5": {
+            "fabric": [
+                "hud-1.21.5-fabric.mrpack",
+                "performance-1.21.5-fabric.mrpack",
+                "skyblock-1.21.5-fabric.mrpack"
+            ]
+        }
+    }
+}
