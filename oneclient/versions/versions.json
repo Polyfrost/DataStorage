@@ -1,0 +1,34 @@
+{
+    "clusters": [
+        {
+            "major_version": 8,
+            "entries": [
+                {
+                    "minor_version": 9,
+                    "loader": "forge"
+                }
+            ]
+        },
+        {
+            "major_version": 21,
+            "entries": [
+                {
+                    "minor_version": 1,
+                    "loader": "fabric"
+                },
+                {
+                    "minor_version": 1,
+                    "loader": "forge"
+                },
+                {
+                    "minor_version": 5,
+                    "loader": "fabric"
+                },
+                {
+                    "minor_version": 5,
+                    "loader": "forge"
+                }
+            ]
+        }
+    ]
+}
