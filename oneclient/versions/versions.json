@@ -1,10 +1,9 @@
 {
-	"art_base_url": "https://raw.githubusercontent.com/Polyfrost/DataStorage/refs/heads/main/oneclient/versions/art/",
     "clusters": [
         {
             "major_version": 8,
             "name": "Bountiful Update",
-            "art": "Horse_Update.jpg",
+            "art": "/versions/art/Horse_Update.jpg",
             "entries": [
                 {
                     "minor_version": 9,
@@ -15,7 +14,7 @@
         {
             "major_version": 21,
             "name": "Tricky Trials",
-            "art": "Tricky_Trials.png",
+            "art": "/versions/art/Tricky_Trials.png",
             "entries": [
                 {
                     "minor_version": 1,
