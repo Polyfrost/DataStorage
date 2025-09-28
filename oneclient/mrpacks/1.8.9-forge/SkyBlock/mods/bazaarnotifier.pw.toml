@@ -1,0 +1,11 @@
+id = "bazaarnotifier"
+enabled = true
+hidden = false
+name = "bazaarnotifier"
+filename = "BazaarNotifier-1.7.5.jar"
+side = "both"
+
+[download]
+url = "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar"
+hash-format = "sha256"
+hash = "089ec9f35c1756cbb2fdeb48b026f78a71c5defecf98946b8f3dc0c84a38a8ee"

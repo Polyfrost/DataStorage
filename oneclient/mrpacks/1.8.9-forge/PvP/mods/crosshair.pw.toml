@@ -1,0 +1,16 @@
+id = "obfJASPU"
+enabled = true
+hidden = false
+name = "PolyCrosshair"
+filename = "PolyCrosshair-1.8.9-forge-1.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/obfJASPU/versions/RzbXCuUy/PolyCrosshair-1.8.9-forge-1.0.3.jar"
+hash-format = "sha512"
+hash = "ad86a595d9c02306928c09e11848e0a4d89ba468bde836925ca19d30c261c5c2fab47c067ee2003617e26b26ccf3be3bf1411a698b57d1417c6ff4233b37c9ca"
+
+[update]
+[update.modrinth]
+mod-id = "obfJASPU"
+version = "RzbXCuUy"

@@ -1,0 +1,11 @@
+id = "sbhud"
+enabled = true
+hidden = false
+name = "skyblockhud"
+filename = "SkyblockHud-Reborn-1.17.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar"
+hash-format = "sha256"
+hash = "efa18b398f25505331b79b3622f0f1ce10f677867dfcab741f3188a7e3be9926"

@@ -1,0 +1,16 @@
+id = "nrJ2NpD0"
+enabled = true
+hidden = false
+name = "Craftify"
+filename = "Craftify-1.8.9-1.16.0-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nrJ2NpD0/versions/yJyNJWVy/Craftify-1.8.9-1.16.0-forge.jar"
+hash-format = "sha512"
+hash = "8436664bec461b126aac64a7dfa65ffb65bdb7982ccc6d2c1f2a75305bcded34d2f7b61e882dbf2d967fa78e69a863019301500954c7f93fbd3f0b5ab6d15dc8"
+
+[update]
+[update.modrinth]
+mod-id = "nrJ2NpD0"
+version = "yJyNJWVy"

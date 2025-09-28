@@ -1,0 +1,16 @@
+id = "DQKdq5re"
+enabled = true
+hidden = false
+name = "BetterHurtCam"
+filename = "BetterHurtCam-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DQKdq5re/versions/g4aoBppG/BetterHurtCam-2.2.0.jar"
+hash-format = "sha512"
+hash = "f9cee02cf677ed0c2eb723164dc66a8e62484f7cc8be0a2b0e4e7b2168cbc511c5422cac60932a869c06b947303851ff92743389c45de758bc24d2e2ef939c1d"
+
+[update]
+[update.modrinth]
+mod-id = "DQKdq5re"
+version = "g4aoBppG"

@@ -1,0 +1,11 @@
+id = "drm"
+enabled = true
+hidden = false
+name = "dungeonroomsmod"
+filename = "Dungeon_Rooms-3.4.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Quantizr/DungeonRoomsMod/releases/download/v3.4.1/Dungeon_Rooms-3.4.1.jar"
+hash-format = "sha256"
+hash = "0e4355e383133e7de35fdb20a0ca5c191dbca68c75781690b2c79c928697ea10"

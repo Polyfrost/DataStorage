@@ -1,0 +1,16 @@
+id = "uhBpdFWZ"
+enabled = true
+hidden = false
+name = "QuickQuit"
+filename = "QuickQuit-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uhBpdFWZ/versions/VIjIWe6z/QuickQuit-1.0.1.jar"
+hash-format = "sha512"
+hash = "cf648b7f48364a79ec1086bb6fe9e35a8b6c00232b9b9a4551d85c59344af5e0a8fbafbb2489b4df7fa1b00e1185a2f1bc557e584dfbac6a6ccdd192124e23f1"
+
+[update]
+[update.modrinth]
+mod-id = "uhBpdFWZ"
+version = "VIjIWe6z"

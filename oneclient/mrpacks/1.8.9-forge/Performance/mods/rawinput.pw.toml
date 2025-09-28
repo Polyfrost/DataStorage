@@ -1,0 +1,16 @@
+id = "tNZqMcok"
+enabled = true
+hidden = false
+name = "Raw Input"
+filename = "RawInput-0.1.8+1.8.9-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tNZqMcok/versions/JRPGyssd/RawInput-0.1.8%2B1.8.9-forge.jar"
+hash-format = "sha512"
+hash = "3edd010f7d464d8ef59c435a124a0eb7e10745f4f7ed9d9ad06b8104e5279c8ea750cd2bca0e6bcaad3b34d5167c73347f41b14e5c293a47d0055d6ac84d99d0"
+
+[update]
+[update.modrinth]
+mod-id = "tNZqMcok"
+version = "JRPGyssd"

@@ -1,0 +1,11 @@
+id = "sbp"
+enabled = true
+hidden = false
+name = "skyblockpersonalized"
+filename = "1.8.9.SkyblockPersonalized.1.7.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar"
+hash-format = "sha256"
+hash = "bbc5e22d659b761d903fdd0e3be6c68e1bd1445a8831f8636c0331759b571519"

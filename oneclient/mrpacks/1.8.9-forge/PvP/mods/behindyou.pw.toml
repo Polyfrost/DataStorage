@@ -1,0 +1,16 @@
+id = "sAFPANmp"
+enabled = true
+hidden = false
+name = "BehindYouV3"
+filename = "BehindYouV3-1.8.9-forge-3.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sAFPANmp/versions/cq1UuFm5/BehindYouV3-1.8.9-forge-3.2.2.jar"
+hash-format = "sha512"
+hash = "f3501269e7025c379b2899288a040457d042c4b17df49559e1f2b10fcc8e68d2aea1284e29de8d87e5897606d8432f8ce30a96b3f7d4fe2923eb91dbca0029c2"
+
+[update]
+[update.modrinth]
+mod-id = "sAFPANmp"
+version = "cq1UuFm5"

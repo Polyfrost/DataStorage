@@ -1,0 +1,16 @@
+id = "6zatK8W5"
+enabled = true
+hidden = false
+name = "DamageTint"
+filename = "DamageTint-1.8.9-forge-3.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6zatK8W5/versions/HdS6AFjo/DamageTint-1.8.9-forge-3.3.0.jar"
+hash-format = "sha512"
+hash = "3294cf03dac9ebffa70f64eaeb20bfc980ab98d1f2809faa01f76535bed567e009c93650d082e23660a4050f74bc40d701d978b3cc469f5ffa0205bfb39cdbe7"
+
+[update]
+[update.modrinth]
+mod-id = "6zatK8W5"
+version = "HdS6AFjo"

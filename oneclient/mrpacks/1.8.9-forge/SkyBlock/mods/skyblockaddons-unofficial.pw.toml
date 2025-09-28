@@ -1,0 +1,16 @@
+id = "F35D4vTL"
+enabled = true
+hidden = false
+name = "SkyblockAddons Unofficial"
+filename = "SkyblockAddons-1.10.10+630-for-MC-1.8.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/F35D4vTL/versions/bdVTcIw9/SkyblockAddons-1.10.10%2B630-for-MC-1.8.9.jar"
+hash-format = "sha512"
+hash = "b8525f331e0f6685dfb7eae9db4f2a505f9b7d1d670473c8c6d4db93d33ba9c51850580772d03f813a3d426ef1b7f75c423500521537ddac0072ed9e534ce654"
+
+[update]
+[update.modrinth]
+mod-id = "F35D4vTL"
+version = "bdVTcIw9"

@@ -1,0 +1,11 @@
+id = "arrowpath"
+enabled = true
+hidden = false
+name = "arrowpath"
+filename = "ArrowPath-v1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/SkyblockClient/SkyblockClient-REPO/raw/main/files/mods/ArrowPath-v1.0.jar"
+hash-format = "sha256"
+hash = "5a516d4f7c9cd53f7f616e8f23a5e147fd4e974f7b8d787b1652127ea19c8c42"

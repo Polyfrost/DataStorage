@@ -1,0 +1,16 @@
+id = "UiTVKucn"
+enabled = true
+hidden = false
+name = "ChatTriggers"
+filename = "ctjs-2.2.1-1.8.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UiTVKucn/versions/MoD8sbpW/ctjs-2.2.1-1.8.9.jar"
+hash-format = "sha512"
+hash = "6c5ab6d5175b08d90d5f13b38e76f9bd1caa3dbe7391fb2d66edb5431874c4e79b06f16edae4b111684bc34f2ec8522048dd0db1553f272f58885b9483673415"
+
+[update]
+[update.modrinth]
+mod-id = "UiTVKucn"
+version = "MoD8sbpW"

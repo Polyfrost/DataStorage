@@ -1,2 +1,6 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/replaymod.pw.toml"
+hash = "dfa2ddeaf602c737fd9cfc1bded8f6793cdb411d0307cedec9bec5e548d03fdc"
+metafile = true

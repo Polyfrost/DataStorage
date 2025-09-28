@@ -1,0 +1,11 @@
+id = "skytils"
+enabled = true
+hidden = false
+name = "skytils"
+filename = "Skytils-1.12.0-pre1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Skytils/SkytilsMod/releases/download/v1.12.0-pre1/Skytils-1.12.0-pre1.jar"
+hash-format = "sha256"
+hash = "7886b45d066f8ee901eba4f67cedf32e7a3daeea40f4c7344c87ec4e8367adc7"

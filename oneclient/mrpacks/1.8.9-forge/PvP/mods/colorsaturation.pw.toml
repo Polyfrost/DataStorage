@@ -1,0 +1,16 @@
+id = "fLNnSWgM"
+enabled = true
+hidden = false
+name = "ColorSaturation"
+filename = "ColorSaturation-1.8.9-forge-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fLNnSWgM/versions/UIoBGYDU/ColorSaturation-1.8.9-forge-1.0.0.jar"
+hash-format = "sha512"
+hash = "fbe55a69654c090333cd7ff0564f2f97b3ab9f5a4c02d2c03b6c238394f072b227cc197067ee63b1f0114ee97ffe0f40d4ce8d276269b636961c2431790b8cc5"
+
+[update]
+[update.modrinth]
+mod-id = "fLNnSWgM"
+version = "UIoBGYDU"

@@ -1,0 +1,11 @@
+id = "damagetilt"
+enabled = true
+hidden = false
+name = "damagetilt"
+filename = "DamageTilt-1.8.9-0.2.0-clientonly.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Charles445/DamageTilt/releases/download/v0.1.1-3/DamageTilt-1.8.9-0.2.0-clientonly.jar"
+hash-format = "sha256"
+hash = "51d9d0af71eca71ef2a486580089bf56c34284bcfeb76c9110f80ab14e6ed67e"

@@ -1,0 +1,11 @@
+id = "soundsubtitles"
+enabled = true
+hidden = false
+name = "soundsubtitles"
+filename = "Sound Subtitles-1.2.2 (1.8.9).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar"
+hash-format = "sha256"
+hash = "f1c774490bfeeecdb86b33df2a4a7333750fdae2baac09909d52d69fd6a98d9b"

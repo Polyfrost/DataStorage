@@ -1,0 +1,16 @@
+id = "SevsTfWN"
+enabled = true
+hidden = false
+name = "GlintColorizer"
+filename = "GlintColorizer-1.8.9-forge-2.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SevsTfWN/versions/i2vyXyRv/GlintColorizer-1.8.9-forge-2.0.1.jar"
+hash-format = "sha512"
+hash = "863fb724d9f77988062e588229d63b4c704e0f841f9238adcbe051af93391ecbbb43248c8e89042e1b7ba7e08fcfc8a7afc899a879db70afa6a1c7a215eba18d"
+
+[update]
+[update.modrinth]
+mod-id = "SevsTfWN"
+version = "i2vyXyRv"

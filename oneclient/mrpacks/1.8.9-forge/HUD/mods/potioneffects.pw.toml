@@ -1,0 +1,11 @@
+id = "potioneffects"
+enabled = true
+hidden = false
+name = "potioneffects"
+filename = "Potion_Effects_1.8.9-forge_1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Tellinq/Potion-Effects/releases/download/v1.0/Potion_Effects_1.8.9-forge_1.0.jar"
+hash-format = "sha256"
+hash = "f48a8e3cd90490bd8d3d04a0a69395c957adc63a8c023ae2b3a32a9e02d23436"

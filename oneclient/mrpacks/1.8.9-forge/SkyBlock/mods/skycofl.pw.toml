@@ -1,0 +1,16 @@
+id = "yso5yMlC"
+enabled = true
+hidden = false
+name = "SkyCofl - Hypixel Skyblock AH&bazaar"
+filename = "SkyCofl-1.7.4-Forge-1.8.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yso5yMlC/versions/Yu4Exosk/SkyCofl-1.7.4-Forge-1.8.9.jar"
+hash-format = "sha512"
+hash = "9de58b791edc8f577a6b81258dd2d164419d4b2909fb329abc75d08e07db8ea87fd53280e5f0a1427d5345a5afa92f5e1dc53ef814d6842021df7a980e83477f"
+
+[update]
+[update.modrinth]
+mod-id = "yso5yMlC"
+version = "Yu4Exosk"

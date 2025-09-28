@@ -1,0 +1,11 @@
+id = "optifine"
+enabled = true
+hidden = false
+name = "optifine"
+filename = "download"
+side = "both"
+
+[download]
+url = "https://optifine.net/download?f=preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
+hash-format = "sha256"
+hash = "d57b7fd7bd519bbe4fdbf36cceebfb64d459b7713e1afb0bf6549c21b476a028"

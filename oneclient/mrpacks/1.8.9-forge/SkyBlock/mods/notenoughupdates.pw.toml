@@ -1,0 +1,16 @@
+id = "GGamhqbw"
+enabled = true
+hidden = false
+name = "NotEnoughUpdates"
+filename = "NotEnoughUpdates-2.6.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGamhqbw/versions/MvBjbVpC/NotEnoughUpdates-2.6.0.jar"
+hash-format = "sha512"
+hash = "780658fb87590c1d04781ae7363bfa92454df2b8f9b5458d10766605e4706b76a2aeb18553cf79abaf931588cefe83208a627130ef2f0cc9d4d48a832387d472"
+
+[update]
+[update.modrinth]
+mod-id = "GGamhqbw"
+version = "MvBjbVpC"

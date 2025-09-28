@@ -1,0 +1,16 @@
+id = "lPe25xOt"
+enabled = true
+hidden = false
+name = "Scatha-Pro"
+filename = "Scatha-Pro v1.3.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lPe25xOt/versions/YCTI0zxf/Scatha-Pro%20v1.3.2.1.jar"
+hash-format = "sha512"
+hash = "219c0b037d0a0a72cd03b13e0a3a1b5b177e3e8966099153a3f2b4a418d10cb9647f0b01301407baffe858f3b3a60bea9a191bfb2789603c27be82744e35232e"
+
+[update]
+[update.modrinth]
+mod-id = "lPe25xOt"
+version = "YCTI0zxf"

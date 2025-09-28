@@ -1,2 +1,31 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/craftify.pw.toml"
+hash = "9b6ec28390a92b07ea0ffa8212874c88d505d2725809bf199de615a246443f6f"
+metafile = true
+
+[[files]]
+file = "mods/evergreenhud.pw.toml"
+hash = "878832d7d77e9f885c3a31c9af816ca2d1379b5c3bff873caa236aa18c2cb4dc"
+metafile = true
+
+[[files]]
+file = "mods/keystrokes.pw.toml"
+hash = "13ad3cf3f6a1cae3453469784ea8ed5f8aecd37c560507bcd87341a6ae3a6c70"
+metafile = true
+
+[[files]]
+file = "mods/potioneffects.pw.toml"
+hash = "3a455a466259ef5ad32024bac9ca5b7dfe44031d58e86569ff1710ec51878601"
+metafile = true
+
+[[files]]
+file = "mods/soundsubtitles.pw.toml"
+hash = "b061491ba0534f340ee9d2ba245b0bb06d621ba17291562769a37e0b5336b43b"
+metafile = true
+
+[[files]]
+file = "mods/vanillahud.pw.toml"
+hash = "00ef365fd2bd4453e77bec58d1e06ffecb8d050b463970e59828034bc8c29473"
+metafile = true

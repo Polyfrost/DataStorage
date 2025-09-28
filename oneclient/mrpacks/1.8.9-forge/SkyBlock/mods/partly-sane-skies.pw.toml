@@ -1,0 +1,16 @@
+id = "jlWHBQtc"
+enabled = true
+hidden = false
+name = "Partly Sane Skies"
+filename = "Partly Sane Skies-beta-v0.6.2-prerelease-10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jlWHBQtc/versions/ewJHpWEo/Partly%20Sane%20Skies-beta-v0.6.2-prerelease-10.jar"
+hash-format = "sha512"
+hash = "6951a177d110b1a988fbbb30d2797a92d4d128b06ad059bfaf5e9750bc26e338cdd832d0d0fbffb14e28dd199320cf4a13c19eca49478c40ceae007725497906"
+
+[update]
+[update.modrinth]
+mod-id = "jlWHBQtc"
+version = "ewJHpWEo"

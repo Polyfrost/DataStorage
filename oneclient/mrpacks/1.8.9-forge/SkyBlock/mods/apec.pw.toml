@@ -1,0 +1,16 @@
+id = "qauqySVF"
+enabled = true
+hidden = false
+name = "Apec"
+filename = "Apec-1.8.9-forge-1.12.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qauqySVF/versions/v2W9JAC7/Apec-1.8.9-forge-1.12.4.jar"
+hash-format = "sha512"
+hash = "2398c519ad171b6a2496f3547b0f653d3d652e4d91a7394253303763990a8938693b0a2c1fd6fc79c635350301a76019b5afd706687900b33b5c4fd806aacb32"
+
+[update]
+[update.modrinth]
+mod-id = "qauqySVF"
+version = "v2W9JAC7"

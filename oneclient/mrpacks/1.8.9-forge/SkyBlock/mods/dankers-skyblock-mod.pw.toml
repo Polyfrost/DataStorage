@@ -1,0 +1,16 @@
+id = "QzpBqSX9"
+enabled = true
+hidden = false
+name = "Danker's Skyblock Mod"
+filename = "[MC 1.8.9] Danker's Skyblock Mod - 2.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzpBqSX9/versions/33yTVI3o/%5BMC%201.8.9%5D%20Danker%27s%20Skyblock%20Mod%20-%202.3.1.jar"
+hash-format = "sha512"
+hash = "1197e59a79620801f78ba8dde3cc95c1358e387730579ac2cc5e4a8c193466e39fc755027a313e332c295277864a2cea338e5bc57db1a1617b3f18f663560a26"
+
+[update]
+[update.modrinth]
+mod-id = "QzpBqSX9"
+version = "33yTVI3o"
