@@ -1,2 +1,71 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c760fb9165dc7ca88a59fe30672b5806d473996adee183f4927a1bac8569b957"
+metafile = true
+
+[[files]]
+file = "mods/anti-dream-skin.pw.toml"
+hash = "08499fe27bcd7e7f6e1d1ebbb78bfde7c3d881f313efc0ca8828c161607766e2"
+metafile = true
+
+[[files]]
+file = "mods/autotip.pw.toml"
+hash = "5cd573b0eacfa37f5fa7882916211a0ea7b4e54d9ece76354ab732e0a8a6c27c"
+metafile = true
+
+[[files]]
+file = "mods/blur.pw.toml"
+hash = "57b23534f59280aede30d1c3d1a1fb896dfcce04028fd709a8879cf3eee8f94e"
+metafile = true
+
+[[files]]
+file = "mods/hytils.pw.toml"
+hash = "29b168cb73ffe05679c40ac4c52bb876d99155ef8f214141610dfb0a6632a147"
+metafile = true
+
+[[files]]
+file = "mods/level-head.pw.toml"
+hash = "6bb51b0e85b156deb338b8ac06651019f33f72a2588349297d2190ddd0171809"
+metafile = true
+
+[[files]]
+file = "mods/mixmetica.pw.toml"
+hash = "bb15e8d7603cd57a4525ad5cfda2a6cd620c00e15bbd4391e651dbf5603fb059"
+metafile = true
+
+[[files]]
+file = "mods/oofmod.pw.toml"
+hash = "337f56c74068d80f6ea05a3675a4cc44fbfdd79d988cc297e4d36864e67fa34e"
+metafile = true
+
+[[files]]
+file = "mods/popup-events.pw.toml"
+hash = "fe9b7f159a725e423b1898eb30d280055e63f1204e7ebf2db88398c7bef3378c"
+metafile = true
+
+[[files]]
+file = "mods/redaction.pw.toml"
+hash = "7721f4b939855fbf3887ffa294cb0c0e88d20d7db5b65aff45c858da48b5cb5f"
+metafile = true
+
+[[files]]
+file = "mods/reward-claim.pw.toml"
+hash = "f2545891399de3cbf48db266cb94883f9308412936c420805a87e1dd76c6050c"
+metafile = true
+
+[[files]]
+file = "mods/synthesis.pw.toml"
+hash = "28bf8d0ad8a186692c2a2f326d2098277c5f42cd2c48819f89d09a403613ff5c"
+metafile = true
+
+[[files]]
+file = "mods/tnt-time.pw.toml"
+hash = "7adf63d6ca41cd5b75e2145ed454f0f9f8d30cfff155d7a3e5ae1d3da1033eae"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "796201a275f50c1ca5edda2888aa1d261d2e3dd232b7e0ba83c8449686e18f12"
+metafile = true

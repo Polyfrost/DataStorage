@@ -1,0 +1,16 @@
+id = "nF6YaBfO"
+enabled = true
+hidden = false
+name = "Hytils Reborn"
+filename = "Hytils Reborn-1.8.9-forge-1.7.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nF6YaBfO/versions/xcRqlbrZ/Hytils%20Reborn-1.8.9-forge-1.7.5.jar"
+hash-format = "sha512"
+hash = "bfff891afeaa1fe3fd4e9254b196a9a6595cbc1a73d3cf1d61c6fdf1923128aaefebf7132502f0d52d3bd96805dd64978d11730b62a86be7c9e40cc55fb7893d"
+
+[update]
+[update.modrinth]
+mod-id = "nF6YaBfO"
+version = "xcRqlbrZ"

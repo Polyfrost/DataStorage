@@ -1,0 +1,16 @@
+id = "Wlq56PJK"
+enabled = true
+hidden = false
+name = "SkyClient Cosmetics"
+filename = "SkyClientCosmetics-1.8.9-forge-1.2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wlq56PJK/versions/nlu4V0w0/SkyClientCosmetics-1.8.9-forge-1.2.4.jar"
+hash-format = "sha512"
+hash = "a99229e6b6908950b39de0916e546ec0d2c1e2bdb095b7451cfaf1a026674cf48a49f841d4e48d106b3b3c3ae8971ad6ee731c1b635861c83d3363213426f401"
+
+[update]
+[update.modrinth]
+mod-id = "Wlq56PJK"
+version = "nlu4V0w0"

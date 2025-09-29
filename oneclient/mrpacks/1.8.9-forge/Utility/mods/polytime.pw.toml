@@ -1,0 +1,16 @@
+id = "m3kNp1iP"
+enabled = true
+hidden = false
+name = "PolyTime"
+filename = "PolyTime-1.8.9-forge-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3kNp1iP/versions/n5yBVXbc/PolyTime-1.8.9-forge-1.0.2.jar"
+hash-format = "sha512"
+hash = "f411fbc34e733d0c2b25268d3621d0861da6c03c85aefa4985e80686ce4ff00f3126d6defaeebde02502491df65c9b437634e6381ca38dc2b02803705b06f7c8"
+
+[update]
+[update.modrinth]
+mod-id = "m3kNp1iP"
+version = "n5yBVXbc"

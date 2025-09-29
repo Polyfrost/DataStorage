@@ -1,0 +1,16 @@
+id = "RLzHAoZe"
+enabled = true
+hidden = false
+name = "Resourcify"
+filename = "Resourcify (1.8.9-forge)-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/9p8QThet/Resourcify%20%281.8.9-forge%29-1.6.1.jar"
+hash-format = "sha512"
+hash = "d9ff8fc8a02cf8fca894eb15419fd2b4df9323ffe4f44d3500ccea91a20945fdb7e8429978da5a42969b722e3261c755a378bfcc8dd9643e31ff598e6c8187a3"
+
+[update]
+[update.modrinth]
+mod-id = "RLzHAoZe"
+version = "9p8QThet"

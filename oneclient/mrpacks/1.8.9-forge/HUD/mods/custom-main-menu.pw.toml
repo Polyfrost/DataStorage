@@ -1,0 +1,11 @@
+id = "hud"
+enabled = true
+hidden = false
+name = "Custom Main Menu"
+filename = "CustomMainMenu-MC1.8.9-2.0.jar"
+side = "both"
+
+[download]
+url = "https://mediafilez.forgecdn.net/files/2280/558/CustomMainMenu-MC1.8.9-2.0.jar"
+hash-format = "sha256"
+hash = "f78f8a1e47a1d9a2a9e2d622e8c9383e9b907c6d023ab114b8d04f6207f22920"

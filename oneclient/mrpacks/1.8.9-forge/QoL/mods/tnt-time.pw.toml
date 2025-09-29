@@ -1,0 +1,11 @@
+id = "qol"
+enabled = true
+hidden = false
+name = "TNT Time"
+filename = "TNT Time-1.1 (1.8.9).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/tnttime/1.1/1.8.9/TNT%20Time-1.1%20(1.8.9).jar"
+hash-format = "sha256"
+hash = "5fdcde4169a144095be0eb9571a8d9d3630278df1de15c1df805cf0616aa3a59"

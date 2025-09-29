@@ -1,0 +1,16 @@
+id = "S8VritJf"
+enabled = true
+hidden = false
+name = "Quickjoin"
+filename = "QuickJoin-1.8.9-forge-2.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S8VritJf/versions/eAfGSXhM/QuickJoin-1.8.9-forge-2.9.jar"
+hash-format = "sha512"
+hash = "2038bf9f082b13c376f6054d5b3587462bc4d507b74fb4d4fc3ceac8c6339784e0d017093d2bd07af13190f920013a42d6394bbc1fcf8f61c29f2a3e3d3a8da4"
+
+[update]
+[update.modrinth]
+mod-id = "S8VritJf"
+version = "eAfGSXhM"

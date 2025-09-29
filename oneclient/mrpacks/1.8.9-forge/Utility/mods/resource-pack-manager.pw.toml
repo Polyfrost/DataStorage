@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Resource Pack Manager"
+filename = "Resource_Pack_Manager_1.2.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Resource_Pack_Manager_1.2.jar"
+hash-format = "sha256"
+hash = "29da8005b1ed9ca9373f3908345a344632d3dc4bbb91833ee04533385a20b4d2"

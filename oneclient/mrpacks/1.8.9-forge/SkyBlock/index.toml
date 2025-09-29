@@ -86,6 +86,11 @@ hash = "643b607661ea302362444aa0bc20e40761cd3d993a29ae9a63529454f87afa63"
 metafile = true
 
 [[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "8515d3b45d28dfb6d7ba1d884f3643ed1febf50c18b24bdb23da4d1d3fdec1ee"
+metafile = true
+
+[[files]]
 file = "mods/skytils.pw.toml"
 hash = "98f7103a6f4f37e5a4faf7d4c164f165b18f5b3c429f821dec343c56b0a29b56"
 metafile = true

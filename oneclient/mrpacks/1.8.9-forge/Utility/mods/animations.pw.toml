@@ -1,0 +1,16 @@
+id = "4Hfmgaef"
+enabled = true
+hidden = false
+name = "Animatium Legacy (OverflowAnimations)"
+filename = "OverflowAnimations-1.8.9-forge-2.2.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Hfmgaef/versions/elKb2H82/OverflowAnimations-1.8.9-forge-2.2.5.jar"
+hash-format = "sha512"
+hash = "526568078e0ed17ae0e60ed4af69e872d7e5d8a077bcb8881f417b820e77f16668a6ad2a718475b7f45554fdd77889a837166ac6cb5914301d257d26b5f0695a"
+
+[update]
+[update.modrinth]
+mod-id = "4Hfmgaef"
+version = "elKb2H82"

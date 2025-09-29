@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Block Overlay"
+filename = "Block_Overlay_4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://download2264.mediafire.com/q7e62sfjm8igLuLRiVbvontjfsvHi7psN8ANHqJYbbDqQZsFgPDZfEodigPRZUgzuKn_PtAccEZkWF9gvU_SJuf1Y43E-8NuDTetD4PCNMoM074BL6zkl4RjLQEOzDvGiKDTPj_qdMzghD5qh6DWsNf3EZIIr2VeA3Cdaqft4Xzj/p215r5yjgd3jsi7/Block_Overlay_4.0.3.jar"
+hash-format = "sha256"
+hash = "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9"

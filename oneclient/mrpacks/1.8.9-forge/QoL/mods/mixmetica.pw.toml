@@ -1,0 +1,16 @@
+id = "zvcMI4tg"
+enabled = true
+hidden = false
+name = "Mixmetica"
+filename = "Mixmetica-1.8.9-forge-2.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zvcMI4tg/versions/sgVZLpAf/Mixmetica-1.8.9-forge-2.1.1.jar"
+hash-format = "sha512"
+hash = "62491921fea2cbd492d253840d0192c66d521a99ee2122e958fb5b5a9743c5be5a4b8abf07b6f06f7da88b7f84484616cbaea5065fab6a043d66963d959262d8"
+
+[update]
+[update.modrinth]
+mod-id = "zvcMI4tg"
+version = "sgVZLpAf"

@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/chatting.pw.toml"
+hash = "f6dbfe10ae88adc3045784bb880ebf91addbdf2d677fa0fef74c8d24c7b603fe"
+metafile = true
+
+[[files]]
 file = "mods/craftify.pw.toml"
 hash = "9b6ec28390a92b07ea0ffa8212874c88d505d2725809bf199de615a246443f6f"
+metafile = true
+
+[[files]]
+file = "mods/custom-main-menu.pw.toml"
+hash = "8778a3851168ff576e97018f348121e0fa5448418c1d8864d4ccbf5be705fcf8"
 metafile = true
 
 [[files]]
@@ -16,8 +26,23 @@ hash = "13ad3cf3f6a1cae3453469784ea8ed5f8aecd37c560507bcd87341a6ae3a6c70"
 metafile = true
 
 [[files]]
+file = "mods/polynametag.pw.toml"
+hash = "079b886b78448b19cad941332b42e949408b9d247c3ba0ae5645f65c13c1f77b"
+metafile = true
+
+[[files]]
 file = "mods/potioneffects.pw.toml"
 hash = "3a455a466259ef5ad32024bac9ca5b7dfe44031d58e86569ff1710ec51878601"
+metafile = true
+
+[[files]]
+file = "mods/reportplus.pw.toml"
+hash = "e0233934f7fb1555bcbe1d721362821d0623b94f0dccd0dcd64c80099224a25b"
+metafile = true
+
+[[files]]
+file = "mods/smooth-scrolling-everywhere.pw.toml"
+hash = "993c2ff054df7b06fc95a9b3556f9d0fe4519f7c06852fdd930aa3590cf6b8dc"
 metafile = true
 
 [[files]]
