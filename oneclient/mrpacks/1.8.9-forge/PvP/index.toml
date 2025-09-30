@@ -2,45 +2,45 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/arrowpath.pw.toml"
-hash = "95d5bac85c2d2e95061f0a45820e88741a3d88d2b44bd70b0ba0a9be456285d5"
+hash = "972e4623a64f3b9046aeedc85959c9d268ceff1f46554c5f20df21e31d6041a6"
 metafile = true
 
 [[files]]
 file = "mods/behindyou.pw.toml"
-hash = "86fd754d486efd921190ad3b26acec5f92b2b13758eb38e2c94c8fe2850e11c9"
+hash = "9843c63e8d2ade1518ac7509ef25b24a9ab969f86a0202aad9637afc034c7d7d"
 metafile = true
 
 [[files]]
 file = "mods/colorsaturation.pw.toml"
-hash = "368559425b5ee5e5b47b8eef3e2ef4ef5e5ae82fe1e3d3a6e2ff7edeae60090c"
+hash = "7d12c1bf424a0704ca65c3dd14c4b93974824ae96bfb67fb4d6b9aef92e17998"
 metafile = true
 
 [[files]]
 file = "mods/crosshair.pw.toml"
-hash = "c56bb928c7ef40771dadd7d0cb08aee6a3c5fcbc66a188389bd652ca17df373b"
+hash = "5bed7abde5edeaead0c0e3557b56301a0c5ef979e46d7e0dc8e94d37ccb765a3"
 metafile = true
 
 [[files]]
 file = "mods/damagetilt.pw.toml"
-hash = "a71e8ea96c7739f4e46f7d089b2f1853bf00299a5542e749acd4246f46a5f43b"
+hash = "19883844b824de1f5b72987d90eabf8e184fab10acaa24c05caca35fe8d17aba"
 metafile = true
 
 [[files]]
 file = "mods/damagetint.pw.toml"
-hash = "d9dbc9c25663d4b55403f83b71fd99cb72dc2e2cff6cf8df07299c8cc54157a9"
+hash = "d42dd0a0085c2e10836dca4ef2fa2cb9cc07fed3faf698b8a8eff22b708d4ea0"
 metafile = true
 
 [[files]]
 file = "mods/forge-betterhurtcam.pw.toml"
-hash = "3e92e6c3f1deabdd098ee22f3e493a7229999eb2d46ee2461c5942ea1971cf8a"
+hash = "fb24e7e6756873844e03d04bf5788e22be02616b551c14a04bfedd26f657830f"
 metafile = true
 
 [[files]]
 file = "mods/glintcolorizer.pw.toml"
-hash = "fd4f7f8f4d38eaaf30e5970dc76f9523cfcfd24cb69073534d9aa89941421cd9"
+hash = "c6e33dd0d5ab47dc6ae2c0ff344fb7e014b90abe779b713493e6eff124602a2b"
 metafile = true
 
 [[files]]
 file = "mods/polyblur.pw.toml"
-hash = "a002eaeff2927a06f0b4ce27f5da69f6f9f6bc6c5ba26bf19531be651e09127a"
+hash = "f2aefea1eb85362a7e5e914e0c3c4962618d3dc0fe4c9b8bc3b555f38bc206fe"
 metafile = true

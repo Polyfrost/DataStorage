@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftify.pw.toml"
-hash = "9b6ec28390a92b07ea0ffa8212874c88d505d2725809bf199de615a246443f6f"
+hash = "6022ce0b624772f599ac45b56c2a9b7dcb64ef788fdbe759bffd9555947f62da"
 metafile = true
 
 [[files]]
@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/evergreenhud.pw.toml"
-hash = "878832d7d77e9f885c3a31c9af816ca2d1379b5c3bff873caa236aa18c2cb4dc"
+hash = "3933409ee7ba04ba302649015daad1a7cfdea58b003ee9e944fa99b2a1f5ddeb"
 metafile = true
 
 [[files]]
 file = "mods/keystrokes.pw.toml"
-hash = "13ad3cf3f6a1cae3453469784ea8ed5f8aecd37c560507bcd87341a6ae3a6c70"
+hash = "ffe17b346eef6d326ffdd9bbc12827564710ee064bbd5b263bb75f5b91d3f1b2"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/potioneffects.pw.toml"
-hash = "3a455a466259ef5ad32024bac9ca5b7dfe44031d58e86569ff1710ec51878601"
+hash = "3fd3f7164a894c30a23e9ec8845fbeb724b8f20b10d546f9819603cafaf209a3"
 metafile = true
 
 [[files]]
@@ -47,10 +47,10 @@ metafile = true
 
 [[files]]
 file = "mods/soundsubtitles.pw.toml"
-hash = "b061491ba0534f340ee9d2ba245b0bb06d621ba17291562769a37e0b5336b43b"
+hash = "86caef8a5feb7a164a6713a88e355f7b01fc30b1497a4d39cf9d1900171c473f"
 metafile = true
 
 [[files]]
 file = "mods/vanillahud.pw.toml"
-hash = "00ef365fd2bd4453e77bec58d1e06ffecb8d050b463970e59828034bc8c29473"
+hash = "0ea12827579faa28d32d9d6fbfd2746879ddf47dc52c4161ac497bf499a1fe1a"
 metafile = true
