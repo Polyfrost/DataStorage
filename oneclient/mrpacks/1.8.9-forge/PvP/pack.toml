@@ -11,7 +11,7 @@ update-url = "oneclient/generated/pvp-1.8.9-forge.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8ffe657187740c9097eef3f047cc0a06fa3f71a90fe9e37f525bcfbdcca427c1"
+hash = "e046bf148ca14691acbac546c4c4f0c4231e56c2fb6fa960825b5b5f53fd0d95"
 
 [versions]
 forge = "11.15.1.2318"

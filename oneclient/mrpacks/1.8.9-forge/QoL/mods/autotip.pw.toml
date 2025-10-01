@@ -1,0 +1,11 @@
+id = "qol"
+enabled = true
+hidden = false
+name = "AutoTip"
+filename = "Autotip-3.2 (1.8.9_forge).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/autotip/3.2/1.8.9_forge/Autotip-3.2%20%281.8.9_forge%29.jar"
+hash-format = "sha256"
+hash = "3bf16704e61f31ca7abcced6809a3eba192e08fbfdc4d59ec0b563d2e9b75ee1"

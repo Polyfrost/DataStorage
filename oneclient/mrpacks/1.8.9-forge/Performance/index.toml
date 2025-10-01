@@ -2,30 +2,30 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "1ea405ed383e80de1f675581c297525aba51e73aeb7bcc4657b5240531a474c4"
+hash = "308743a89d657c3d7b2aa50990d709eebc64b1de22beee2aed2d348948372036"
 metafile = true
 
 [[files]]
 file = "mods/patcher.pw.toml"
-hash = "82889beeca678450be32f7fe9e998845d9e5761690e756ff159367db863eda0a"
+hash = "6d7de31281f94b6c5732b9b3e6f4db61b33b8cac5f9e34e49a5dbdd6b3317ad6"
 metafile = true
 
 [[files]]
 file = "mods/quickquit.pw.toml"
-hash = "18981b3cc6c4c14f007c1acddf3b92308e1be81adaab7dfd5331a1de2e11b4f7"
+hash = "24e6966eab43c6e06dbb971ce34107c880b5bdfb3f06e7b88a6eda797d05642e"
 metafile = true
 
 [[files]]
 file = "mods/rawinput.pw.toml"
-hash = "45770505699608d5c872b09ddfaac9be7f984baf7500c5476c4e38552cfb78f5"
+hash = "8ae3655ac6e801de0e12e0910064099682be3f5482931aa26137fc6818ea8971"
 metafile = true
 
 [[files]]
 file = "mods/redirectionor.pw.toml"
-hash = "211180c819e1f507cc842ed04469909836d78c1d913c7623951730c420491786"
+hash = "299049925eecdef8d098d9f0cd9496f1347ae6d4d61ed2c4f3d74d44009557a5"
 metafile = true
 
 [[files]]
 file = "mods/veloxcaelo.pw.toml"
-hash = "ef2082a8f8ff9fb32d3dfcf2cbf842068ee57717bef9ccd2f5cab547f900085f"
+hash = "7eef8bd27de9f434875bee5ae4fbf2a3b1d4f731696574615a9ebb271a4e0403"
 metafile = true

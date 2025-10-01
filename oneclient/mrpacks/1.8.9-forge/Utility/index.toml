@@ -1,6 +1,76 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animations.pw.toml"
+hash = "5f91d0c5b99c7064d18b50bff954b25e60ee128d8492b37a755d419ad584f781"
+metafile = true
+
+[[files]]
+file = "mods/block-overlay.pw.toml"
+hash = "8d0961ec36617cd72700806a66383db884adfbf80fd0bc5765623e5f9fecfa4d"
+metafile = true
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "f7bfad6921ceddd95b5c832ebfbf35916e7e5c9e9becbe5f7b28748de0ccb5dd"
+metafile = true
+
+[[files]]
+file = "mods/hitbox.pw.toml"
+hash = "0949fdf91b9ae0dab06b3df95c3f6b3d877ba3990de88b042077960ac9fff18c"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-autocomplete.pw.toml"
+hash = "3a2ff47761997f881f0449874a26ffcea27e9f7af622f6d15d05f758e7614da3"
+metafile = true
+
+[[files]]
+file = "mods/nick-hider.pw.toml"
+hash = "e393648ee8842ddf8c8b85dfa6c956c60035985a2a8ec2374afbf484aa432980"
+metafile = true
+
+[[files]]
+file = "mods/optibye.pw.toml"
+hash = "c12f4c0929da8264189f3b86212aafb7861c841ca870390d9423bcfb00361b01"
+metafile = true
+
+[[files]]
+file = "mods/polysprint.pw.toml"
+hash = "d66efb8972a4ddcaecae4d3c64ff7fe19f01848e1ca6fe285ea6373e491efa06"
+metafile = true
+
+[[files]]
+file = "mods/quickjoin.pw.toml"
+hash = "c5f23c93943314cc17f5eaeb38c4a7875eee9d3b6d367466e8d2033d8df483d7"
+metafile = true
+
+[[files]]
 file = "mods/replaymod.pw.toml"
-hash = "dfa2ddeaf602c737fd9cfc1bded8f6793cdb411d0307cedec9bec5e548d03fdc"
+hash = "68e3a8e23529169266ef7d0b1a9c5ba02f63a120b0ddf7525909f6be584942b1"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-manager.pw.toml"
+hash = "5c16547750b5f3b742c1f0d2c60743e5f7f7d8529fad69d294e53e8960c6fc07"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "b564bacf3e6266d76dc8c91fd3f41b975f1d75b808de256dcb32b5bc14fbcaf1"
+metafile = true
+
+[[files]]
+file = "mods/scc.pw.toml"
+hash = "4fca2abb8da8c4abb1e1f321dd84761eb3cb65e2d6474fa03eb9f15964a242d9"
+metafile = true
+
+[[files]]
+file = "mods/scrollable-tooltips.pw.toml"
+hash = "68c320d3f141c4300d35b67ec25474c35f64bea872292bf05db051279f1b974e"
+metafile = true
+
+[[files]]
+file = "mods/scu.pw.toml"
+hash = "7544a86789d2ad74b3c9bcceda5d17cb36fc2540fc7e39beb6d82c5938b2ae5e"
 metafile = true

@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Hypixel Autocomplete"
+filename = "Hypixel Autocomplete-1.1 (1.8.9).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/hypixel_auto_complete/1.1/1.8.9/Hypixel%20Autocomplete-1.1%20(1.8.9).jar"
+hash-format = "sha256"
+hash = "1e55e023ba72810945732938b3b0ad19f68be2fb43625874ae6047aa85c9179d"

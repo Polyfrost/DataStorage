@@ -1,0 +1,16 @@
+id = "kYuIpRLv"
+enabled = true
+hidden = false
+name = "Wavey Capes"
+filename = "waveycapes-forge-mc1.8.9-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/1.2.0-forge-1.8/waveycapes-forge-mc1.8.9-1.2.0.jar"
+hash-format = "sha512"
+hash = "828c08c8b7ec48393358ee64826d1b0190c657e3a0d7b37cd52133d21d791563920503ed9bb5c38bb7ad1493d759180a77892b23910b20b96fbd9fe9749e736c"
+
+[update]
+[update.modrinth]
+mod-id = "kYuIpRLv"
+version = "OElxoWyh"

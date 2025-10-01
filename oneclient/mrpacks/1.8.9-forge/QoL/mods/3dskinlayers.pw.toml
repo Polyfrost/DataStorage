@@ -1,0 +1,16 @@
+id = "zV5r3pPn"
+enabled = true
+hidden = false
+name = "3D Skin Layers"
+filename = "3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.2.0-forge-1.8.9/3dSkinLayers-forge-mc1.8.9-1.2.0.jar"
+hash-format = "sha512"
+hash = "6285c62c92cf888098be171272f7d49bd83a1fce334137f0d9e6abba1e2141ad4e6a2475c19ac6efa2e25dfe347d4ca4ee4def41b31cd18a499e95edde50b9f9"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "ki0fDpDd"

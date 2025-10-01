@@ -1,5 +1,15 @@
 {
     "versions": {
+        "1.8.9": {
+            "forge": [
+                "/generated/hud-1.8.9-forge.mrpack",
+                "/generated/performance-1.8.9-forge.mrpack",
+                "/generated/pvp-1.8.9-forge.mrpack",
+                "/generated/qol-1.8.9-forge.mrpack",
+                "/generated/skyblock-1.8.9-forge.mrpack",
+                "/generated/utility-1.8.9-forge.mrpack"
+            ]
+        },
         "1.21.5": {
             "fabric": [
                 "/generated/hud-1.21.5-fabric.mrpack",

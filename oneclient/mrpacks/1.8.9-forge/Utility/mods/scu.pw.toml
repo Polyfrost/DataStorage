@@ -1,0 +1,16 @@
+id = "4JT4oKKX"
+enabled = true
+hidden = false
+name = "SkyClient Updater"
+filename = "SkyClient-Updater-1.8.9-forge-1.3.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4JT4oKKX/versions/vnwLDYpT/SkyClient-Updater-1.8.9-forge-1.3.11.jar"
+hash-format = "sha512"
+hash = "05bd3bd58f1e9045e71bed35a1ff577397d00b60321e3fba5eb31fb6e041b93f0653019da06f3d905991de50e526a916f243cb75e9cf28deee00820680cc03cf"
+
+[update]
+[update.modrinth]
+mod-id = "4JT4oKKX"
+version = "vnwLDYpT"

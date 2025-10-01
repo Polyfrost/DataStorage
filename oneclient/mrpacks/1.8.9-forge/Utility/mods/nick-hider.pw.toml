@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Nick Hider"
+filename = "Nick Hider-6.0.2 (1.8.9).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/nick_hider/6.0.2/1.8.9/Nick%20Hider-6.0.2%20(1.8.9).jar"
+hash-format = "sha256"
+hash = "ff8a965dbb8e98f39f1dd1e9b6a56a68589bd7c0793c711938173d8dcbd3c5b3"

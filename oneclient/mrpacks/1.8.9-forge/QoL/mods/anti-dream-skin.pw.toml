@@ -1,0 +1,11 @@
+id = "qol"
+enabled = true
+hidden = false
+name = "Anti Dream Skin"
+filename = "Insomnia-1.0-REL.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar"
+hash-format = "sha256"
+hash = "0396dd42f00a6e7f379a7c27ba3adc0fb231eaf399c2940aa5fc48b93fe1aed7"

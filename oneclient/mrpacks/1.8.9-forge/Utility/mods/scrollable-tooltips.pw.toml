@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Scrollable Tooltips"
+filename = "Scrollable Tooltips-1.4 (1.8.9).jar"
+side = "both"
+
+[download]
+url = "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar"
+hash-format = "sha256"
+hash = "0f1fdcc3cafbd4c2d44e5b015ed62b015a04e2a93f7a61c866f1248ac104fd25"

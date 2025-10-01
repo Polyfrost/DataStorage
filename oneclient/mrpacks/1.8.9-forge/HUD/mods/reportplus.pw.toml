@@ -1,0 +1,11 @@
+id = "hud"
+enabled = true
+hidden = false
+name = "ReportPlus"
+filename = "ReportPlus-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar"
+hash-format = "sha256"
+hash = "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"

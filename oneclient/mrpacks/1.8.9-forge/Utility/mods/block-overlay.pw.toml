@@ -1,0 +1,11 @@
+id = "utility"
+enabled = true
+hidden = false
+name = "Block Overlay"
+filename = "Block_Overlay_4.0.3.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/SkyblockClient/SkyblockClient-REPO/main/files/mods/Block_Overlay_4.0.3.jar"
+hash-format = "sha256"
+hash = "b0caa6d09cd0f1d94d72e9ce335d2feaa4c2de111859d8981486ba53cb7bf1e9"

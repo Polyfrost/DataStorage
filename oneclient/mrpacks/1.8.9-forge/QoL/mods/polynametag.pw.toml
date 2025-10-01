@@ -1,0 +1,16 @@
+id = "HK3p7LMj"
+enabled = true
+hidden = false
+name = "PolyNametag"
+filename = "PolyNametag-1.8.9-forge-1.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HK3p7LMj/versions/Uh6Dnzem/PolyNametag-1.8.9-forge-1.0.9.jar"
+hash-format = "sha512"
+hash = "be21768a16531b5f23e4b310e5e855dfe9bd1ed06821a3137ac03403a6eeb812a4be553ba8dd011c038e6c4a44c8c3754be5741708c095721b3271bba8361dee"
+
+[update]
+[update.modrinth]
+mod-id = "HK3p7LMj"
+version = "Uh6Dnzem"
