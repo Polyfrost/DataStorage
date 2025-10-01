@@ -21,8 +21,18 @@ hash = "57b23534f59280aede30d1c3d1a1fb896dfcce04028fd709a8879cf3eee8f94e"
 metafile = true
 
 [[files]]
+file = "mods/colorsaturation.pw.toml"
+hash = "368559425b5ee5e5b47b8eef3e2ef4ef5e5ae82fe1e3d3a6e2ff7edeae60090c"
+metafile = true
+
+[[files]]
 file = "mods/hytils.pw.toml"
 hash = "29b168cb73ffe05679c40ac4c52bb876d99155ef8f214141610dfb0a6632a147"
+metafile = true
+
+[[files]]
+file = "mods/item-physic-lite.pw.toml"
+hash = "44c168b6529fe69b0269947fc9857bbe8c2ee27adfb0a7014a76409134d927af"
 metafile = true
 
 [[files]]
@@ -41,6 +51,31 @@ hash = "337f56c74068d80f6ea05a3675a4cc44fbfdd79d988cc297e4d36864e67fa34e"
 metafile = true
 
 [[files]]
+file = "mods/overflowparticles.pw.toml"
+hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
+metafile = true
+
+[[files]]
+file = "mods/polyblur.pw.toml"
+hash = "a002eaeff2927a06f0b4ce27f5da69f6f9f6bc6c5ba26bf19531be651e09127a"
+metafile = true
+
+[[files]]
+file = "mods/polynametag.pw.toml"
+hash = "079b886b78448b19cad941332b42e949408b9d247c3ba0ae5645f65c13c1f77b"
+metafile = true
+
+[[files]]
+file = "mods/polytime.pw.toml"
+hash = "b283f210eb8a5de715b838538c09edaac1c06143651e4e705cbcadf4655dc60b"
+metafile = true
+
+[[files]]
+file = "mods/polyweather.pw.toml"
+hash = "61ed1daa849edfa93ecab3d7b94ab688ae78d34ce33b91157b74bbcd480e0518"
+metafile = true
+
+[[files]]
 file = "mods/popup-events.pw.toml"
 hash = "fe9b7f159a725e423b1898eb30d280055e63f1204e7ebf2db88398c7bef3378c"
 metafile = true
@@ -56,8 +91,8 @@ hash = "f2545891399de3cbf48db266cb94883f9308412936c420805a87e1dd76c6050c"
 metafile = true
 
 [[files]]
-file = "mods/synthesis.pw.toml"
-hash = "28bf8d0ad8a186692c2a2f326d2098277c5f42cd2c48819f89d09a403613ff5c"
+file = "mods/smooth-scrolling-everywhere.pw.toml"
+hash = "c0228dc6aedd953cc13c51f5ebfcc28d94f1e1e86b967454e34a39779f627274"
 metafile = true
 
 [[files]]

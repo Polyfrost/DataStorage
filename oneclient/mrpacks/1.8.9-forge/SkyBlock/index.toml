@@ -36,6 +36,11 @@ hash = "0dec89507172364298a5db00137858b6ed7a6a2f1edd236c20cdf0a7bdcc091d"
 metafile = true
 
 [[files]]
+file = "mods/fancy-warp-menu.pw.toml"
+hash = "3e22bc0875e84f3f02ba94827f2c09bf06e485e0e6e7c7c7ca75cb367304a469"
+metafile = true
+
+[[files]]
 file = "mods/notenoughupdates.pw.toml"
 hash = "d1de78cd19ce74b1dece68c8daf561600b9c7c0f6df1dc480e2bd892845d3dbe"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/scatha-pro.pw.toml"
 hash = "31841458c3ad0f937daf2936806edd821cd81f3e7f5e2ab04335cd0566dbaa5e"
+metafile = true
+
+[[files]]
+file = "mods/scrollable-tooltips.pw.toml"
+hash = "1d60a9a4e2288748fd19952df849a460b784fba245a1d83d7817c5e460ec0e1e"
 metafile = true
 
 [[files]]

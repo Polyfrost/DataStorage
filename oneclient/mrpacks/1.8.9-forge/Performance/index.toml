@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/crashpatch.pw.toml"
-hash = "f7bfad6921ceddd95b5c832ebfbf35916e7e5c9e9becbe5f7b28748de0ccb5dd"
-metafile = true
-
-[[files]]
 file = "mods/optifine.pw.toml"
 hash = "308743a89d657c3d7b2aa50990d709eebc64b1de22beee2aed2d348948372036"
 metafile = true

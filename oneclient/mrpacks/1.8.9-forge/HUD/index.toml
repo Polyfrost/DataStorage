@@ -11,11 +11,6 @@ hash = "6022ce0b624772f599ac45b56c2a9b7dcb64ef788fdbe759bffd9555947f62da"
 metafile = true
 
 [[files]]
-file = "mods/custom-main-menu.pw.toml"
-hash = "8778a3851168ff576e97018f348121e0fa5448418c1d8864d4ccbf5be705fcf8"
-metafile = true
-
-[[files]]
 file = "mods/evergreenhud.pw.toml"
 hash = "3933409ee7ba04ba302649015daad1a7cfdea58b003ee9e944fa99b2a1f5ddeb"
 metafile = true
@@ -26,11 +21,6 @@ hash = "ffe17b346eef6d326ffdd9bbc12827564710ee064bbd5b263bb75f5b91d3f1b2"
 metafile = true
 
 [[files]]
-file = "mods/polynametag.pw.toml"
-hash = "079b886b78448b19cad941332b42e949408b9d247c3ba0ae5645f65c13c1f77b"
-metafile = true
-
-[[files]]
 file = "mods/potioneffects.pw.toml"
 hash = "3fd3f7164a894c30a23e9ec8845fbeb724b8f20b10d546f9819603cafaf209a3"
 metafile = true
@@ -38,11 +28,6 @@ metafile = true
 [[files]]
 file = "mods/reportplus.pw.toml"
 hash = "e0233934f7fb1555bcbe1d721362821d0623b94f0dccd0dcd64c80099224a25b"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-everywhere.pw.toml"
-hash = "993c2ff054df7b06fc95a9b3556f9d0fe4519f7c06852fdd930aa3590cf6b8dc"
 metafile = true
 
 [[files]]

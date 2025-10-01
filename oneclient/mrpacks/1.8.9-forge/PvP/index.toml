@@ -11,11 +11,6 @@ hash = "9843c63e8d2ade1518ac7509ef25b24a9ab969f86a0202aad9637afc034c7d7d"
 metafile = true
 
 [[files]]
-file = "mods/colorsaturation.pw.toml"
-hash = "7d12c1bf424a0704ca65c3dd14c4b93974824ae96bfb67fb4d6b9aef92e17998"
-metafile = true
-
-[[files]]
 file = "mods/crosshair.pw.toml"
 hash = "5bed7abde5edeaead0c0e3557b56301a0c5ef979e46d7e0dc8e94d37ccb765a3"
 metafile = true
@@ -38,9 +33,4 @@ metafile = true
 [[files]]
 file = "mods/glintcolorizer.pw.toml"
 hash = "c6e33dd0d5ab47dc6ae2c0ff344fb7e014b90abe779b713493e6eff124602a2b"
-metafile = true
-
-[[files]]
-file = "mods/polyblur.pw.toml"
-hash = "f2aefea1eb85362a7e5e914e0c3c4962618d3dc0fe4c9b8bc3b555f38bc206fe"
 metafile = true

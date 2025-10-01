@@ -1,4 +1,4 @@
-id = "hud"
+id = "qol"
 enabled = true
 hidden = false
 name = "Smooth Scrolling Everywhere"

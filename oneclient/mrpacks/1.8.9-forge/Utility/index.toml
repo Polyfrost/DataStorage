@@ -11,8 +11,8 @@ hash = "8d0961ec36617cd72700806a66383db884adfbf80fd0bc5765623e5f9fecfa4d"
 metafile = true
 
 [[files]]
-file = "mods/fancy-warp-menu.pw.toml"
-hash = "3e22bc0875e84f3f02ba94827f2c09bf06e485e0e6e7c7c7ca75cb367304a469"
+file = "mods/crashpatch.pw.toml"
+hash = "f7bfad6921ceddd95b5c832ebfbf35916e7e5c9e9becbe5f7b28748de0ccb5dd"
 metafile = true
 
 [[files]]
@@ -23,11 +23,6 @@ metafile = true
 [[files]]
 file = "mods/hypixel-autocomplete.pw.toml"
 hash = "3a2ff47761997f881f0449874a26ffcea27e9f7af622f6d15d05f758e7614da3"
-metafile = true
-
-[[files]]
-file = "mods/item-physic-lite.pw.toml"
-hash = "c49a7b10d09c2e6b86fa16e8be40a11847709a2f3fe06108a0fbc1ddd111139a"
 metafile = true
 
 [[files]]
@@ -43,16 +38,6 @@ metafile = true
 [[files]]
 file = "mods/polysprint.pw.toml"
 hash = "d66efb8972a4ddcaecae4d3c64ff7fe19f01848e1ca6fe285ea6373e491efa06"
-metafile = true
-
-[[files]]
-file = "mods/polytime.pw.toml"
-hash = "b283f210eb8a5de715b838538c09edaac1c06143651e4e705cbcadf4655dc60b"
-metafile = true
-
-[[files]]
-file = "mods/polyweather.pw.toml"
-hash = "61ed1daa849edfa93ecab3d7b94ab688ae78d34ce33b91157b74bbcd480e0518"
 metafile = true
 
 [[files]]
@@ -88,9 +73,4 @@ metafile = true
 [[files]]
 file = "mods/scu.pw.toml"
 hash = "7544a86789d2ad74b3c9bcceda5d17cb36fc2540fc7e39beb6d82c5938b2ae5e"
-metafile = true
-
-[[files]]
-file = "mods/twitcher.pw.toml"
-hash = "471d154aa457c2acbf403db2a24c799031aa3c85cb0463024743a5b447802fca"
 metafile = true
