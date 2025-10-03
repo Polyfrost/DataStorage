@@ -111,6 +111,10 @@ hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-fabric-5.20.4-beta.54+mc1.21.8.c05a.jar"
+hash = "09db495c7031be8d5e34242cb188bf569469eba5a23fa70bf66a4c07d7f98a07"
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a9e2dd8c0765780684783ed4413bba1ffbbf757a431323d1d0b7480329f1fb98"
 metafile = true
