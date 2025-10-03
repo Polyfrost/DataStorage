@@ -1,0 +1,16 @@
+id = "yso5yMlC"
+enabled = true
+hidden = false
+name = "SkyCofl - Hypixel Skyblock AH&bazaar"
+filename = "SkyCofl-1.7.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yso5yMlC/versions/hrK9BDGK/SkyCofl-1.7.6.jar"
+hash-format = "sha512"
+hash = "4dadbd12bc88b97eeb6fbe5d6631f2cb648f0bdce2b627c3d8db5c2d56660128eaa9f39e5756dc5970af45492c711ce7e1cfff70884233d9fae06ad6bc57b7d0"
+
+[update]
+[update.modrinth]
+mod-id = "yso5yMlC"
+version = "hrK9BDGK"

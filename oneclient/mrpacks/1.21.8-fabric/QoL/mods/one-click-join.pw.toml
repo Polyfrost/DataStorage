@@ -1,0 +1,16 @@
+id = "gmVdcG6g"
+enabled = true
+hidden = false
+name = "One Click Join"
+filename = "one-click-join-1.21.6-fabric-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gmVdcG6g/versions/Vtg5guXO/one-click-join-1.21.6-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "7b201a70faf90b5ebaec668a47e58cbd4c40247b650816ad3bb05b5d9b33880e412e9da1ca2ec30b73176663fd338c8cda020d5a4bacf7f3f91730d1d012424e"
+
+[update]
+[update.modrinth]
+mod-id = "gmVdcG6g"
+version = "Vtg5guXO"

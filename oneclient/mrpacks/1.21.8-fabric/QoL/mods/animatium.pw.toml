@@ -1,0 +1,16 @@
+id = "zy0karK1"
+enabled = true
+hidden = false
+name = "Animatium"
+filename = "animatium-2.5-c308044+mc1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zy0karK1/versions/aPUgUw9P/animatium-2.5-c308044%2Bmc1.21.7.jar"
+hash-format = "sha512"
+hash = "fa8045fa613a4693cf038b3a813fca3afd00fc15ff74f0fa48051f47dafaf3f3fa35126812bc5e4ce7c5063368a5f6623d07d5ba41b5393aa4c5543b2a7b9c25"
+
+[update]
+[update.modrinth]
+mod-id = "zy0karK1"
+version = "aPUgUw9P"

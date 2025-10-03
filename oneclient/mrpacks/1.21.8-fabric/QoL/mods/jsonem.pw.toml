@@ -1,0 +1,16 @@
+id = "fumdX4iT"
+enabled = true
+hidden = false
+name = "JsonEM"
+filename = "jsonem-0.3+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fumdX4iT/versions/kCPdmIXR/jsonem-0.3%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "f0ec5069941c77ef940fb5089b0d291365102c21ea9a7d65d612333fb71cd6302b9a83b2ae701703c94364c1f671b676312589c34c04023f3712437905cfdde1"
+
+[update]
+[update.modrinth]
+mod-id = "fumdX4iT"
+version = "kCPdmIXR"

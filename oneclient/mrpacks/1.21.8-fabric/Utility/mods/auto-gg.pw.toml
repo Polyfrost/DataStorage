@@ -1,0 +1,16 @@
+id = "IC5fUZ7S"
+enabled = true
+hidden = false
+name = "Auto GG"
+filename = "AutoGG-2025.8.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IC5fUZ7S/versions/c4KSr1Yq/AutoGG-2025.8.10.jar"
+hash-format = "sha512"
+hash = "8ecc72ad18dff7cf1fe7327d26f630e7d257aa360f372694edbb1e7aa144f9a547ee84a61cfcc46d4d7d31e2e5390401088b34ec908fef4db9e97c14037b1a53"
+
+[update]
+[update.modrinth]
+mod-id = "IC5fUZ7S"
+version = "c4KSr1Yq"

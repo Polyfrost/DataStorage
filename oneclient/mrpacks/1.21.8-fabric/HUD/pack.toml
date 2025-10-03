@@ -3,6 +3,7 @@ author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
+enabled = false
 category = "HUD"
 id = "hud-1.21.8-fabric"
 update-url = "oneclient/generated/hud-1.21.8-fabric.mrpack"
@@ -10,7 +11,7 @@ update-url = "oneclient/generated/hud-1.21.8-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "d05e0f0951e3bbd340fdc5fb46705d5c0fa52242f2bc572b18c3b65b46b69a75"
 
 [versions]
 fabric = "0.17.2"
