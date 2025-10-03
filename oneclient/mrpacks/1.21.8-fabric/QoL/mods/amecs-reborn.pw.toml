@@ -1,0 +1,16 @@
+id = "IjgEpZeq"
+enabled = true
+hidden = false
+name = "Amecs Reborn"
+filename = "Amecs-Reborn-2.0.2+mc1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IjgEpZeq/versions/HnQJNS8B/Amecs-Reborn-2.0.2%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "b2055c29ac89db3124b1006f4182793275e8c1308ddf68ec3502971fc8b4be920b3877d7589e31063449eef876765818cb14cbec982d9e536c7ceb922e0e352d"
+
+[update]
+[update.modrinth]
+mod-id = "IjgEpZeq"
+version = "HnQJNS8B"

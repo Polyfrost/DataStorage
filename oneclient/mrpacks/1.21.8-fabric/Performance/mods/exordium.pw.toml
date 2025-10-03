@@ -1,0 +1,16 @@
+id = "DynYZEae"
+enabled = true
+hidden = false
+name = "Exordium"
+filename = "exordium-fabric-2.0.1-mc1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DynYZEae/versions/HaTuIXeq/exordium-fabric-2.0.1-mc1.21.6.jar"
+hash-format = "sha512"
+hash = "b104c369545653713b2c0cf229e9621170c53ff90b030f3899440c503544f627c2d11c7d64fc0454a9e5ffb11cd1ec66cb8ba6c654d6ef5c3e89b4f31fcdb6af"
+
+[update]
+[update.modrinth]
+mod-id = "DynYZEae"
+version = "HaTuIXeq"

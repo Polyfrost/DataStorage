@@ -1,0 +1,16 @@
+id = "8xUyxhWW"
+enabled = true
+hidden = false
+name = "TNTime"
+filename = "tntime-1.0.0+1.21.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8xUyxhWW/versions/zukdhXjs/tntime-1.0.0%2B1.21.5-fabric.jar"
+hash-format = "sha512"
+hash = "b6d64af9ae3fad754af606bb92041e166b9f71d176f52fb555c9b2156862cd9f5184fd5cc1ebe3fbfff7ee4cdc0966160259bc12d520e5f2199ae8f6d619b21a"
+
+[update]
+[update.modrinth]
+mod-id = "8xUyxhWW"
+version = "zukdhXjs"

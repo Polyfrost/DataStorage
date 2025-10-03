@@ -1,0 +1,16 @@
+id = "3GNyRk4I"
+enabled = true
+hidden = false
+name = "Modern Warp Menu"
+filename = "modernwarpmenu-0.1.5+1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GNyRk4I/versions/KDnG16HQ/modernwarpmenu-0.1.5%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "07d4e77a35014306b815c47f5585b388f41341d4d34c5fdea5424dd939b34cb069bc53033d210515d8edc432ce9b48d0a1e37df9682886acf9d7c33f9c993ce8"
+
+[update]
+[update.modrinth]
+mod-id = "3GNyRk4I"
+version = "KDnG16HQ"

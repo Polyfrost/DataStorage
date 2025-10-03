@@ -1,0 +1,16 @@
+id = "Vklwtkf7"
+enabled = true
+hidden = false
+name = "Simple Block Overlay"
+filename = "simpleblockoverlay-1.4.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vklwtkf7/versions/hhziAB0t/simpleblockoverlay-1.4.8.jar"
+hash-format = "sha512"
+hash = "713ebfa2d125f9394a84ad79cf6954fa7f807a09b1f7f9196a662403e451832f8107f0f9f9d57f419c6c6ee45c1d39a4ae60d11f5294b891e4d42aad63fc4374"
+
+[update]
+[update.modrinth]
+mod-id = "Vklwtkf7"
+version = "hhziAB0t"
