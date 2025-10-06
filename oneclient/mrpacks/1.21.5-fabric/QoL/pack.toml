@@ -3,6 +3,7 @@ author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
+enabled = false
 category = "QoL"
 id = "qol-1.21.5-fabric"
 update-url = "oneclient/generated/qol-1.21.5-fabric.mrpack"
@@ -10,8 +11,11 @@ update-url = "oneclient/generated/qol-1.21.5-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "6c7142682cb7c574ad00c1230c037ebd926960154715a2ec474e89913cb1943d"
 
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.5"
+
+[options]
+acceptable-game-versions = []

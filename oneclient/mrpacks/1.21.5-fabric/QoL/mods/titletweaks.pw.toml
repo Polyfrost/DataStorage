@@ -1,0 +1,16 @@
+id = "PbzVlL3w"
+enabled = true
+hidden = false
+name = "Title Tweaks"
+filename = "titletweaks-1.1.5+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PbzVlL3w/versions/WYD7bt98/titletweaks-1.1.5%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "34915665ae238734958b9d815b36334fe1a76829a0e6488274abe16fc96fd4fb0e0d75b58472276777d15376464adc40f8b34ab2ca44a5476cdf98f49b2d38b8"
+
+[update]
+[update.modrinth]
+mod-id = "PbzVlL3w"
+version = "WYD7bt98"

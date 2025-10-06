@@ -1,0 +1,16 @@
+id = "1A2mKfBx"
+enabled = true
+hidden = false
+name = "Hypixel Mod API"
+filename = "HypixelModAPI-1.0.1+build.1+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1A2mKfBx/versions/IkrpaHUp/HypixelModAPI-1.0.1%2Bbuild.1%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "805d83cb72e4e07f7fa8f0dfd59f90f2018a29cf654d90daa8ba9425c9fe067d47ecc7d6283d8055419ab28b077c28e9daffbd973942a811f70ee565a752be96"
+
+[update]
+[update.modrinth]
+mod-id = "1A2mKfBx"
+version = "IkrpaHUp"

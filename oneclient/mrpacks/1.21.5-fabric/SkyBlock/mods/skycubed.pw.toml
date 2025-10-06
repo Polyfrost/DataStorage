@@ -1,0 +1,16 @@
+id = "znwUKvZc"
+enabled = true
+hidden = false
+name = "SkyCubed"
+filename = "SkyCubed-1.7.0-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/znwUKvZc/versions/rFcoIc6v/SkyCubed-1.7.0-1.21.5.jar"
+hash-format = "sha512"
+hash = "5aefae958f82b4acabed7d6dbaf75b09a8b2afa3c212b724b0ab77f877ca668f755c0a7dffa55e96cea60f457a77c31688f8178dcce744ab6a04a90ac67f8947"
+
+[update]
+[update.modrinth]
+mod-id = "znwUKvZc"
+version = "rFcoIc6v"

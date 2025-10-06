@@ -1,0 +1,16 @@
+id = "wF189hn9"
+enabled = true
+hidden = false
+name = "uku's Armor HUD"
+filename = "ukus-armor-hud-0.7.0+mc1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wF189hn9/versions/cu46k55S/ukus-armor-hud-0.7.0%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "b8b0963aa364c95092cba65cfd4b665eb534c87fb70b6a4f450ded728ba37f2309c73b975d7290b63dcc0e85e8046aec5143bcae7835c38ea124f570beb08e04"
+
+[update]
+[update.modrinth]
+mod-id = "wF189hn9"
+version = "cu46k55S"
