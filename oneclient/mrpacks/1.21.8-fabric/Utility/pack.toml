@@ -4,7 +4,6 @@ version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
 enabled = false
-enabled = false
 category = "Utility"
 id = "utility-1.21.8-fabric"
 update-url = "oneclient/generated/utility-1.21.8-fabric.mrpack"
@@ -12,14 +11,11 @@ update-url = "oneclient/generated/utility-1.21.8-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b5bfde001a6fa728cdaf5539a659ba92c751edd8a0da0eff76d232e5190bc103"
+hash = "83c3489f4477cdc8c2b547e763e98c28212614ebf2a19ac635908bc0850f9a0c"
 
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.8"
-
-[options]
-acceptable-game-versions = []
 
 [options]
 acceptable-game-versions = []
