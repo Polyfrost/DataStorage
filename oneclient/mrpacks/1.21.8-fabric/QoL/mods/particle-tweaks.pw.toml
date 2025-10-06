@@ -1,0 +1,16 @@
+id = "IlGAhsOM"
+enabled = true
+hidden = false
+name = "Particle Tweaks"
+filename = "ParticleTweaks-2.1.4-mc1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/VNLGPBk7/ParticleTweaks-2.1.4-mc1.21.6.jar"
+hash-format = "sha512"
+hash = "04a0a85166791d8df9e94f85ca26fd88dc2527bae3347138f19460efe0341ed49a5a853ad50fc1188f4ce29daa9ffac579f231e6b3d340efdaf3fffb6d56e25b"
+
+[update]
+[update.modrinth]
+mod-id = "IlGAhsOM"
+version = "VNLGPBk7"

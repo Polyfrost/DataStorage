@@ -1,0 +1,16 @@
+id = "CrZpD5qF"
+enabled = true
+hidden = false
+name = "OptiPainting Updated"
+filename = "OptiPainting-1.0.0+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CrZpD5qF/versions/UcUcg2MU/OptiPainting-1.0.0%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "33dba568feaf795862d75f3c917e09937345492acd53a461391125475a660aa1024a4e0b3b22fff43316fece18d1f95ab083f35d948a167747dbb2b56fb764e2"
+
+[update]
+[update.modrinth]
+mod-id = "CrZpD5qF"
+version = "UcUcg2MU"

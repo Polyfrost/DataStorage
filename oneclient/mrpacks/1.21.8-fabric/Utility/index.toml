@@ -1,2 +1,171 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/animatium.pw.toml"
+hash = "75004d16893eee9680a9c8a2c7af534b1834d22e73724bfc7e5a033924877587"
+metafile = true
+
+[[files]]
+file = "mods/audio-engine-tweaks.pw.toml"
+hash = "54084808a66fae7c584fb4dc91a30d008fcbe3eedb3c0c52b35fee20b5069c27"
+metafile = true
+
+[[files]]
+file = "mods/auth-me.pw.toml"
+hash = "f6d294232bf9ffe03fc16af5a3d61c2d8066cf3e57085167c9cd42cf5b963416"
+metafile = true
+
+[[files]]
+file = "mods/auto-gg.pw.toml"
+hash = "0cac9b702be52d37070ee74127b8fe710544438adc0089087a4bd6a83edfd330"
+metafile = true
+
+[[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "faf2134e2dc085df7db8d6919366faeabed7b0f0c684afb61a600726bbc129da"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "45acfbdf4b9331f7b5feba5663ece49e4b44ad472c0237d394d4418800fd556b"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "76b38089757f5d0429553a8730eedd7d8957f58ed124eade57c5042d9dbfa35a"
+metafile = true
+
+[[files]]
+file = "mods/betternightvision.pw.toml"
+hash = "a80e53a334ee3bd4c2ac4f06cf156a7843c91953e3724d7b0a64484010c68c1d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "76b6fda698cdd336a97069ad637d51a1687cad4f9e3fa393dca7464531320280"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "82740fc93f4dcb5df56c1714462f4870f1ae61c1df754ee1f95c9855e42a2fa9"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "ef0a62e27eff8c6100d72672dc76eee6c1fcde75807bb64809daecaab2f8b0e0"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "228a2c362fc874c5b5a9a749d01d23224dfba24b2d710f6df693e44b1738fde4"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "1aaf9caa3123d9b6f9f2268e98c87732bc22a1c60b40de89a7fcd899559f8396"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "4c6af225825ee20984e081f20fe07b76065faa1052ef888f8f909d067fbcf516"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "2b621f20cbaf557486efdab667c2a6f899f4587d65db8ca6fe6c626d607be1a1"
+metafile = true
+
+[[files]]
+file = "mods/in-game-account-switcher.pw.toml"
+hash = "4d1a1125df7d7074edaa58a74a2e33fdda8daa197e9430e3566f434f409a607b"
+metafile = true
+
+[[files]]
+file = "mods/island-utils.pw.toml"
+hash = "bca2bce2be1bd2ac4f0694b589ec4dbb94270959622d5ff390b60638202eead6"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "3ad52e10e4e233b0c02b72f8db9ac46b3e023f052fb2b421c820e98a36fcaba4"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "485bf4fb694d45433b991e1954ca365cc25955d4090e4b7cee10d670830e7a2e"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "23e10be16a92569ea2d5295ae1c2a5208fcde8a89ef6cf42f01e458a62e74bd6"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "2519b1da2afade57097b10f6fd6ff4880f13cbc60594508cedfce28921758921"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "368568361227c3e41bf7ba7fd6d99331ff34970fce7f779e7d76630a05e15c38"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "573dfef9b86161f9852185608e753931171ff1cf542248a0e43a038003752806"
+metafile = true
+
+[[files]]
+file = "mods/simple-block-overlay.pw.toml"
+hash = "04a57b99a0d5b32eed72e2cddcebcc51e7f90d1ecc5e9f67087dea7eca41cbab"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "aa382ca501a514d8abb25fe28234c40de7447b4f41263140e178f2557883648d"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "59eff3032920e6a9dfbdc88615eeec118ea3e1cb3926982f00e3f23832f8c9aa"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9d8d27ec90b2c94f758ade5e469a954686f71441045dc6c91392f4d8d2c8071d"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "f2908d9033570d993a21f671304f08edb7696d65260b58e2b55d0c943f9b172c"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "90cea876b3016cd98db81ccf5de0b3c30b0f319588bc23307532a1b43e5390b3"
+metafile = true
+
+[[files]]
+file = "mods/toggle-toggle-sprint.pw.toml"
+hash = "813e09c9f2da991528b9c6ae67c5362eeb4e960aa1631630f04921a83d156a55"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "0c908e5acd7800589fa863d7240e5916053b82a44b0440874d3b1c550848fe42"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-weapons-and-tools.pw.toml"
+hash = "faef770f4d26563ee98aada6d7eec0aeea4480433cca872d581b62fc3b688d26"
+metafile = true

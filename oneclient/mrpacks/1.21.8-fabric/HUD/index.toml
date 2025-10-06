@@ -1,2 +1,76 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "82a1563be9f52a8f09012308df79205b8fe5e27396f9dee296fae295ba617aca"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "8efbb45ea6e576a6c8f2d08c5e0e33e7e372a09da33f7dfced25d11e14f92a6f"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "b3de733459a142dae7ffc285fda084ff2fc324c31657111ac75491228d0b6152"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "981575285548e0148b23debc55911a78ee542dc6f834ab33d5f0765fcf69191f"
+metafile = true
+
+[[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "29c8e27d1886ff9c8928d1fe21b791fd9c941b7fbfac3f94955f29f3a2b44a1a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "985fe8f5f2a76f42928cd3dca8d7cc924ff1ef4c6d5b977b18dbe0a2f6add28b"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "68dcd634aff713efdd7c0158915817d2fb0c9b0b88153d67c043f7e26ad49950"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "b045c4b0b378f9818560c09393c72b0364b9b1ba95f482e0139fff985f06d621"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "35dc882ada46d73d9071bc0ca057695f5f56a8629f4619a62b174e88345de253"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "c6bf62ee9994162dd750d790b88e897b35d5cbbbb96c90f55adc223edf0be09b"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a9e2dd8c0765780684783ed4413bba1ffbbf757a431323d1d0b7480329f1fb98"
+metafile = true
+
+[[files]]
+file = "mods/tiptapshow.pw.toml"
+hash = "c7878767163469162ecaff1170478772a4a3d89d3b8c0f86501b1d4dc89a7b13"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "728ef446a1c3bbc7e9773dbbf07dc66b38cdfbbccd1aef029f77ad2da488aba7"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "7d084115cd8dbacfedae1bc131137afa2d81a272f3e63e01be59c106c68a6b2e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
+metafile = true

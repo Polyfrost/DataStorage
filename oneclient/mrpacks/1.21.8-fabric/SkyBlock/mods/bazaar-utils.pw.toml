@@ -1,0 +1,16 @@
+id = "c4u7nzUZ"
+enabled = true
+hidden = false
+name = "Bazaar Utils ✦ Hypixel Skyblock"
+filename = "bazaarutils-v0.6.0-alpha.3+mc1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c4u7nzUZ/versions/7uNh447Q/bazaarutils-v0.6.0-alpha.3%2Bmc1.21.6.jar"
+hash-format = "sha512"
+hash = "ba3f297245c086931c7e3e1a8b730b4cb20cbb10ee541939f292f3de2e0814b2c709b6679f9af7bcc3786ee7be85c0df2edca0438367da05c17a4ecafe1215b1"
+
+[update]
+[update.modrinth]
+mod-id = "c4u7nzUZ"
+version = "7uNh447Q"

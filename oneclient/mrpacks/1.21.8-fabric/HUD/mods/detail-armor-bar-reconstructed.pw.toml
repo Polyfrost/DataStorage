@@ -1,0 +1,16 @@
+id = "Si9Uim4y"
+enabled = true
+hidden = false
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-4.3.5+1.21.6_8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/Gcl9UiPi/DetailArmorBarReconstructed-4.3.5%2B1.21.6_8-fabric.jar"
+hash-format = "sha512"
+hash = "80a6fcbfd67e809545d36ad2e9bdef938249a8776294bb234932e536e9fffeb3403ec3efe25fb18d5eaf21cb00df6677485cff0c3c45060b7b603f407a8f9f15"
+
+[update]
+[update.modrinth]
+mod-id = "Si9Uim4y"
+version = "Gcl9UiPi"

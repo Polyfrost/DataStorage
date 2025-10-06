@@ -1,0 +1,16 @@
+id = "Pl8MehSU"
+enabled = true
+hidden = false
+name = "View Model"
+filename = "view-model-1.0.1-1.21.6-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pl8MehSU/versions/QFW9Fl4O/view-model-1.0.1-1.21.6-fabric.jar"
+hash-format = "sha512"
+hash = "25457ed1dac45c6cd09b7813dfca48e4c63d0ae9e311263f5d0da4da0d03223ff3d583b3c0975547ad8a4e828ae95693f6c53ec5dcf4cfde2728184fcab554da"
+
+[update]
+[update.modrinth]
+mod-id = "Pl8MehSU"
+version = "QFW9Fl4O"
