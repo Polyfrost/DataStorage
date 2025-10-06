@@ -4,6 +4,7 @@ version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
 enabled = false
+enabled = false
 category = "Utility"
 id = "utility-1.21.8-fabric"
 update-url = "oneclient/generated/utility-1.21.8-fabric.mrpack"
@@ -16,6 +17,9 @@ hash = "b5bfde001a6fa728cdaf5539a659ba92c751edd8a0da0eff76d232e5190bc103"
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.8"
+
+[options]
+acceptable-game-versions = []
 
 [options]
 acceptable-game-versions = []

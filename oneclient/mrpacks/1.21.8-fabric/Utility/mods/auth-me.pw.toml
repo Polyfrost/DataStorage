@@ -1,0 +1,16 @@
+id = "yjgIrBjZ"
+enabled = true
+hidden = false
+name = "Auth Me"
+filename = "authme-fabric-9.0.1+1.21.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/yjgIrBjZ/versions/ner882nd/authme-fabric-9.0.1%2B1.21.7.jar"
+hash-format = "sha512"
+hash = "b8738f0613ebc0df16ec2b06f6bb6f461741b86bbddab1246b5d671b017b9663a8924d3678dbbea8e43e0931bd3872471b32f4f4cbeaf30c0b18b79a94beb4ca"
+
+[update]
+[update.modrinth]
+mod-id = "yjgIrBjZ"
+version = "ner882nd"
