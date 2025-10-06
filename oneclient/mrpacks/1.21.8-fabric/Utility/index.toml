@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatium.pw.toml"
+hash = "75004d16893eee9680a9c8a2c7af534b1834d22e73724bfc7e5a033924877587"
+metafile = true
+
+[[files]]
 file = "mods/audio-engine-tweaks.pw.toml"
 hash = "54084808a66fae7c584fb4dc91a30d008fcbe3eedb3c0c52b35fee20b5069c27"
 metafile = true
@@ -13,6 +18,11 @@ metafile = true
 [[files]]
 file = "mods/auto-gg.pw.toml"
 hash = "0cac9b702be52d37070ee74127b8fe710544438adc0089087a4bd6a83edfd330"
+metafile = true
+
+[[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "faf2134e2dc085df7db8d6919366faeabed7b0f0c684afb61a600726bbc129da"
 metafile = true
 
 [[files]]
@@ -48,11 +58,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "228a2c362fc874c5b5a9a749d01d23224dfba24b2d710f6df693e44b1738fde4"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "27bc6bd30ab5cc97aeff4311935fb55f47026b8751e07ea2fae0427788d0d126"
 metafile = true
 
 [[files]]
@@ -158,4 +163,9 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "0c908e5acd7800589fa863d7240e5916053b82a44b0440874d3b1c550848fe42"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-weapons-and-tools.pw.toml"
+hash = "faef770f4d26563ee98aada6d7eec0aeea4480433cca872d581b62fc3b688d26"
 metafile = true

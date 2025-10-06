@@ -11,6 +11,11 @@ hash = "6e18c408068a9e82044250faa64c241147472615b12a9c17b3386966480b0261"
 metafile = true
 
 [[files]]
+file = "mods/better-mipmaps.pw.toml"
+hash = "5047af072387a574c86b39bcba310b141325a4125b30d9caf3d64b78722618c0"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "649a59aa346908990b4b8952ac8a373d1a12526da01e6557a8eefb01332dbf45"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "017fdd6a76eed9e87775113b7d31b98e8c7c996baf4ad5aeaa6dc7fc2e428d29"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
 metafile = true
 
 [[files]]

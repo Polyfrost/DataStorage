@@ -21,11 +21,6 @@ hash = "6a5ac1308522e6e7ee8226ab4b17b1c518640f1d1f2e49281eef0951520cd548"
 metafile = true
 
 [[files]]
-file = "mods/animatium.pw.toml"
-hash = "75004d16893eee9680a9c8a2c7af534b1834d22e73724bfc7e5a033924877587"
-metafile = true
-
-[[files]]
 file = "mods/better-elytra-render.pw.toml"
 hash = "a540b5825e250e62ddb81faeda96ca6a7c8320827c5e8edb7c9d9901c896ee7b"
 metafile = true
@@ -58,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "145b646bc816c10d8d7b45f9cd970439a92ae803995a6ba8f2bc208a7914b0e7"
-metafile = true
-
-[[files]]
-file = "mods/clean-view.pw.toml"
-hash = "2baaf4d8678620536b0204a433a7ce9d0b6acde76aca8e51a3756c66ab04e5bb"
 metafile = true
 
 [[files]]
@@ -116,6 +106,11 @@ hash = "1d30aaf732375176cbfe8ae46bf6e759ba04ee7243c6b8b1bbac213e7fc8d0ae"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "27bc6bd30ab5cc97aeff4311935fb55f47026b8751e07ea2fae0427788d0d126"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "022c268730ea433c34cd29be22f248d17fa0e4e7eaa0bb9d6823344b8b31d2e4"
 metafile = true
@@ -146,11 +141,6 @@ hash = "1999de74a4617a95f4ce9444c76803e222fb8c49389fbfee3a374e16175dc9d9"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
-metafile = true
-
-[[files]]
 file = "mods/fluidvoidfading.pw.toml"
 hash = "48171c052643cf5c442de91cd23b947d4eb15194d44b5ff59d2eefc1fe29e233"
 metafile = true
@@ -163,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/hypixelautotip.pw.toml"
 hash = "8a59d8637f16848e695306086fcc9a5b642798d26c53e34e729eceaf062005d9"
+metafile = true
+
+[[files]]
+file = "mods/idontwannascrollagain.pw.toml"
+hash = "28b72847ecd3d667330c7909d0e5a6da5ecfa80f17be7fe6a6037edf716d41a5"
 metafile = true
 
 [[files]]
@@ -233,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "0c962dc2757812202623be1ca58f4f20a2fbd1297813db0c22a4a0ae29393f95"
+metafile = true
+
+[[files]]
+file = "mods/overlaytweaks.pw.toml"
+hash = "7498861811d5f843463dde647b02169ea2c0fda83b8e80a8d6450ba5b8a688ed"
 metafile = true
 
 [[files]]
@@ -308,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "db546ea28d79dec4eac3f4ad602fd0e062382a5559938ed78374fb98475447ad"
+metafile = true
+
+[[files]]
+file = "mods/smuc.pw.toml"
+hash = "e55d7fbcb0c54f702f8a09fd5327ecee7effd792dbbc8792f460288d303c22ce"
 metafile = true
 
 [[files]]

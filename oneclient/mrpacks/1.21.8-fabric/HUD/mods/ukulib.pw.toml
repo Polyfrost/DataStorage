@@ -1,0 +1,16 @@
+id = "Y8uFrUil"
+enabled = true
+hidden = true
+name = "ukulib"
+filename = "ukulib-1.8.2+1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/AdBiSP4T/ukulib-1.8.2%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "3f5a882a740d99b7565b1abe3a83ae49a6579e124c90178baf5ac594d04663854e67d60d0a3404ef050c1f94fe9c3d6d1c3d4547cab78a96ca530f5090386e12"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "AdBiSP4T"
