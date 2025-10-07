@@ -3,6 +3,7 @@ author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
+enabled = false
 category = "PvP"
 id = "pvp-1.21.5-fabric"
 update-url = "oneclient/generated/pvp-1.21.5-fabric.mrpack"
@@ -10,7 +11,7 @@ update-url = "oneclient/generated/pvp-1.21.5-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "9663474c222e4c26b5ff3688fba18e39cb5ad0dddfc97f96c2a58671299f6fa8"
 
 [versions]
 fabric = "0.17.2"

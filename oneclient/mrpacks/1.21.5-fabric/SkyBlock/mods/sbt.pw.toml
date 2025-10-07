@@ -1,0 +1,16 @@
+id = "nDTiZfjW"
+enabled = true
+hidden = false
+name = "Skyblock Tweaks (1.21) – Hypixel Skyblock"
+filename = "SkyblockTweaks-0.1.0-Alpha.17+mc1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nDTiZfjW/versions/6JqrIiON/SkyblockTweaks-0.1.0-Alpha.17%2Bmc1.21.5.jar"
+hash-format = "sha512"
+hash = "6d07ca172498569542e6b0a6fb6f3fc15089877099bfff9297b7448eb9fd5f153a03d0e15414c7c4dc52cf7bdda6b707ba76795dc2eb5047f1e76b68170252d4"
+
+[update]
+[update.modrinth]
+mod-id = "nDTiZfjW"
+version = "6JqrIiON"

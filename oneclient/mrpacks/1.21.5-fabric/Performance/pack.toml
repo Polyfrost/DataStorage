@@ -11,8 +11,11 @@ update-url = "oneclient/generated/performance-1.21.5-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e69601c1bde5568bd18228ca9107f52029193f59a4abd84a31e9ef4f00ba3927"
+hash = "3a1ac8b35007eab1de96b3c19032a32739c92b2da3379135b4aaa1dcdac0a194"
 
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.5"
+
+[options]
+acceptable-game-versions = []

@@ -1,0 +1,16 @@
+id = "UlfKEvQE"
+enabled = true
+hidden = false
+name = "Sciophobia"
+filename = "sciophobia-1.2.3+1.21.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UlfKEvQE/versions/uAkYdKtM/sciophobia-1.2.3%2B1.21.4-fabric.jar"
+hash-format = "sha512"
+hash = "94309eb597b556296c2ace43b5f3d09db71ee10c98cc16bad9350798428bc84c66977dd415b56936075bb08a2f1b1aee1c4c8eb4d37727d6db01760a48a103c1"
+
+[update]
+[update.modrinth]
+mod-id = "UlfKEvQE"
+version = "uAkYdKtM"

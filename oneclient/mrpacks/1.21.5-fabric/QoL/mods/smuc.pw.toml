@@ -1,0 +1,16 @@
+id = "I70N6bTC"
+enabled = true
+hidden = false
+name = "Simple Modpack Update Checker"
+filename = "simple-modpack-update-checker-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I70N6bTC/versions/LXdHeeax/simple-modpack-update-checker-2.0.0.jar"
+hash-format = "sha512"
+hash = "37484c2b78d4f8abdc849e7a8cd04abd06fad3c6b239c2e8a95b6eb39760e5897527acc07e2ff088019fc298e2b5c0fe0a099774d59db56f6af15030349e9b79"
+
+[update]
+[update.modrinth]
+mod-id = "I70N6bTC"
+version = "LXdHeeax"

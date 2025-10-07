@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "f6d294232bf9ffe03fc16af5a3d61c2d8066cf3e57085167c9cd42cf5b963416"
+hash = "e6fdcd4cc0d1c571abbe59cadc38c651d42c921fe6dd5c82267029a48130368a"
 metafile = true
 
 [[files]]
@@ -163,9 +163,4 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "0c908e5acd7800589fa863d7240e5916053b82a44b0440874d3b1c550848fe42"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-weapons-and-tools.pw.toml"
-hash = "faef770f4d26563ee98aada6d7eec0aeea4480433cca872d581b62fc3b688d26"
 metafile = true

@@ -1,0 +1,16 @@
+id = "BECu3TIX"
+enabled = true
+hidden = false
+name = "Better Elytra Render"
+filename = "better-elytra-render-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BECu3TIX/versions/LzNNez0o/better-elytra-render-1.0.0.jar"
+hash-format = "sha512"
+hash = "ea5d44c36220d1c1b7d3864f63b63076471622cede05dd6093c070f73961cb51ffb14066b60cee172d922d9d83189e78c83c0fb9b15585f941d75197cd477bbb"
+
+[update]
+[update.modrinth]
+mod-id = "BECu3TIX"
+version = "LzNNez0o"

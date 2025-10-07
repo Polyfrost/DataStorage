@@ -1,0 +1,16 @@
+id = "2MQvXJii"
+enabled = true
+hidden = false
+name = "Scoreboard Tweaks"
+filename = "scoreboardtweaks-1.3.4+1.21.5-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2MQvXJii/versions/z1Ss27zB/scoreboardtweaks-1.3.4%2B1.21.5-fabric.jar"
+hash-format = "sha512"
+hash = "ad2d8d0b0a92dd14edfba6d64649777d6cdca740efd60836ab2e16bcfa53fdb8ca38812765e742fde6350b9ca93d0cbe5a12b6e7c41774d79443f33fa8ac9a33"
+
+[update]
+[update.modrinth]
+mod-id = "2MQvXJii"
+version = "z1Ss27zB"

@@ -1,0 +1,16 @@
+id = "h3XWIuzM"
+enabled = true
+hidden = false
+name = "Dark Loading Screen"
+filename = "dark-loading-screen-1.6.16.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/h3XWIuzM/versions/RpbWPV5P/dark-loading-screen-1.6.16.jar"
+hash-format = "sha512"
+hash = "7b9c807eafc52e020abfd080a8c10a8adb4b8ff66a5fec412f2a7f143edfe5fd64426d8079ef594d73481845811c1f35ed3988a2f6bea22e52438a3948ee103b"
+
+[update]
+[update.modrinth]
+mod-id = "h3XWIuzM"
+version = "RpbWPV5P"

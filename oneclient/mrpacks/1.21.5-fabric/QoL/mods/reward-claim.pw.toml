@@ -1,0 +1,16 @@
+id = "sbgVdyNC"
+enabled = true
+hidden = false
+name = "Reward Claim"
+filename = "rewardclaim-2.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbgVdyNC/versions/jFOBDAj0/rewardclaim-2.0.0.jar"
+hash-format = "sha512"
+hash = "cfd82173cbd9aace51f1425f4de60181edf44cbb5d49e03e8ff72909380e9bb7fa1a7fe20ba5c613ca144f7de5b11c41f23e8cc84c476ac7a66c954c2610e2af"
+
+[update]
+[update.modrinth]
+mod-id = "sbgVdyNC"
+version = "jFOBDAj0"

@@ -1,0 +1,16 @@
+id = "lab8OplF"
+enabled = true
+hidden = false
+name = "Auto Reauth"
+filename = "auto-reauth-0.2.3-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lab8OplF/versions/kbtftpHV/auto-reauth-0.2.3-1.21.5.jar"
+hash-format = "sha512"
+hash = "bbd34fa8090021bd383bd39cf07466c9c22184ca0d2a6facf534c63882a3b3210dc973bd8d110da76a82b0fa260711eb83e39daeafb03f1cd8480546b13993c7"
+
+[update]
+[update.modrinth]
+mod-id = "lab8OplF"
+version = "kbtftpHV"
