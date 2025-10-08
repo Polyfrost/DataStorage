@@ -1,0 +1,16 @@
+id = "MOqt4Z5n"
+enabled = true
+hidden = false
+name = "Chat Patches"
+filename = "chatpatches-8.0-alpha.4+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOqt4Z5n/versions/SlSMkeDH/chatpatches-8.0-alpha.4%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "ee650daf28e1e162a16144ea2c91bc3a2a1e5b9c1bbf92f1de375824f4ec9cae179ed22851a02df5a76f319a89c0e10f332ac305ca1a52573e7650c807ea7b05"
+
+[update]
+[update.modrinth]
+mod-id = "MOqt4Z5n"
+version = "SlSMkeDH"

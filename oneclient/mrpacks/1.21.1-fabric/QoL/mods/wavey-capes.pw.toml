@@ -1,0 +1,16 @@
+id = "kYuIpRLv"
+enabled = true
+hidden = false
+name = "Wavey Capes"
+filename = "waveycapes-fabric-1.6.2-mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/JEGOjMYn/waveycapes-fabric-1.6.2-mc1.21.jar"
+hash-format = "sha512"
+hash = "ac37751c8cad51ecb2913f17bb33b458fb7d5f80f84aaf4490f8b30f277b470233c7f23083cd5ea97b526be6f08fa40f9e944bc0b961fa7dac3c7bd663e6280c"
+
+[update]
+[update.modrinth]
+mod-id = "kYuIpRLv"
+version = "JEGOjMYn"

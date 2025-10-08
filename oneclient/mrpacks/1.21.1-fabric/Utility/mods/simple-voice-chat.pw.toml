@@ -1,0 +1,16 @@
+id = "9eGKb6K1"
+enabled = true
+hidden = false
+name = "Simple Voice Chat"
+filename = "voicechat-fabric-1.21.1-2.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/PFZZqJrl/voicechat-fabric-1.21.1-2.6.5.jar"
+hash-format = "sha512"
+hash = "53776dd316e69901160af53d0b037bcfaaa3fd4ba34cb0450acff34d5569d4243e55422150b82a02eed7c4ac530f5ae7f66db4110cedc5c94f62a3bc4b7cc1e8"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "PFZZqJrl"

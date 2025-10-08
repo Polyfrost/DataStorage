@@ -1,0 +1,16 @@
+id = "8MEn1Qsz"
+enabled = true
+hidden = false
+name = "Scroll Tweaks"
+filename = "scrolltweaks-1.0.5+1.20.4-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8MEn1Qsz/versions/ckjYgyQo/scrolltweaks-1.0.5%2B1.20.4-fabric.jar"
+hash-format = "sha512"
+hash = "e5f22621234d412ed158ab6229208ec6aaf2c5a5c14dcc0bd75153bb569d06df6f176cdddb45b15740049b91ded593920245d0a5374bfa912224af65e2eef783"
+
+[update]
+[update.modrinth]
+mod-id = "8MEn1Qsz"
+version = "ckjYgyQo"

@@ -1,0 +1,16 @@
+id = "iw8lsmHb"
+enabled = true
+hidden = false
+name = "Island Utils"
+filename = "islandutils-1.7.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/iw8lsmHb/versions/nmDPWptS/islandutils-1.7.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "6a9530ae40c07d1e7be344c8a7f84f9d031201369ec72aad1873990f3adc7c3ffe80ff1e02898664c460e8492e7debb1984f8d46943439d458d847c3693d60b3"
+
+[update]
+[update.modrinth]
+mod-id = "iw8lsmHb"
+version = "nmDPWptS"
