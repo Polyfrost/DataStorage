@@ -11,11 +11,6 @@ hash = "54084808a66fae7c584fb4dc91a30d008fcbe3eedb3c0c52b35fee20b5069c27"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.pw.toml"
-hash = "e6fdcd4cc0d1c571abbe59cadc38c651d42c921fe6dd5c82267029a48130368a"
-metafile = true
-
-[[files]]
 file = "mods/auto-gg.pw.toml"
 hash = "0cac9b702be52d37070ee74127b8fe710544438adc0089087a4bd6a83edfd330"
 metafile = true
