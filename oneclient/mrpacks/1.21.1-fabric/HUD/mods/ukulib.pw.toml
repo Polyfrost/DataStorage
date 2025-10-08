@@ -1,0 +1,16 @@
+id = "Y8uFrUil"
+enabled = true
+hidden = true
+name = "ukulib"
+filename = "ukulib-1.4.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/WIHBQHSG/ukulib-1.4.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "fa0a626bc39e162dbe411818f5aedbb2a33f2faa73b1bebe8fb683b682b39de064f74919b16ab440c06ae916b2894699f56f64b6f9fbe4f2c73b6fb5b7bae730"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "WIHBQHSG"

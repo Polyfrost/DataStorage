@@ -1,0 +1,16 @@
+id = "daZwiCIT"
+enabled = true
+hidden = false
+name = "Better Mipmaps"
+filename = "better-mipmaps-0.2-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/daZwiCIT/versions/L3JaLKde/better-mipmaps-0.2-1.21.1.jar"
+hash-format = "sha512"
+hash = "c056e095c4136d63fd78574e8517efb5345dae18a584d1d006c4c673d1027ef6b66046ae5933b896b804e3c7a8e9a126531085df73f58411af9c8229fc718e06"
+
+[update]
+[update.modrinth]
+mod-id = "daZwiCIT"
+version = "L3JaLKde"

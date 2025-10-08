@@ -1,0 +1,16 @@
+id = "uL3EjOdB"
+enabled = true
+hidden = false
+name = "Text Tunnels"
+filename = "TextTunnels-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uL3EjOdB/versions/zKs8NewY/TextTunnels-1.1.0.jar"
+hash-format = "sha512"
+hash = "93be68b5de6e66196feab3bf859b0ff3893754f303dd245d613fb59d4b59a44d428a49c6106e31b26d22f286bf731783c85f8c1ea5645e26412704199a3a4fc5"
+
+[update]
+[update.modrinth]
+mod-id = "uL3EjOdB"
+version = "zKs8NewY"

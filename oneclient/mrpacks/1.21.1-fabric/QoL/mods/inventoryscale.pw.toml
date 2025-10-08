@@ -1,0 +1,16 @@
+id = "jIFinxsR"
+enabled = true
+hidden = false
+name = "Inventory Scale"
+filename = "inventoryscale-1.2.7+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jIFinxsR/versions/frVWdlbE/inventoryscale-1.2.7%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "90e066db78a4e607ecdc9a39933aa9c2336f7a0aa7fca1e74f9a84399fddd8e3fea8cfdafd8738c199674dadff62f92428170c25873ac16fd7b70cd746ef5f78"
+
+[update]
+[update.modrinth]
+mod-id = "jIFinxsR"
+version = "frVWdlbE"

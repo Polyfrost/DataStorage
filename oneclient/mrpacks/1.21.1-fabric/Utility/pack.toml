@@ -3,6 +3,7 @@ author = "Polyfrost"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 poly-format = "1"
+enabled = false
 category = "Utility"
 id = "utility-1.21.1-fabric"
 update-url = "oneclient/generated/utility-1.21.1-fabric.mrpack"
@@ -10,7 +11,7 @@ update-url = "oneclient/generated/utility-1.21.1-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
+hash = "6c0d3f6dd87966b96880d1eb49dd7c009c37e66b59dc5f62382b5c4c4deb8fd2"
 
 [versions]
 fabric = "0.17.2"

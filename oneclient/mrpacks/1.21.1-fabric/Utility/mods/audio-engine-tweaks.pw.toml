@@ -1,0 +1,16 @@
+id = "DZ81JNQ1"
+enabled = true
+hidden = false
+name = "Audio Engine Tweaks"
+filename = "audio_engine_tweaks-1.2.6-MC1.21.1 build 22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DZ81JNQ1/versions/XjOAF7RF/audio_engine_tweaks-1.2.6-MC1.21.1%20build%2022.jar"
+hash-format = "sha512"
+hash = "113d1ca06ea8b59989893e074d5e1dcd818ffefa21472fd0d7019b5312bd1783036516df6eceb1571e6b6ab403b12abb019c18ed476817ecb0605833d46dd574"
+
+[update]
+[update.modrinth]
+mod-id = "DZ81JNQ1"
+version = "XjOAF7RF"

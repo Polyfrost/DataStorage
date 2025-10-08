@@ -1,0 +1,16 @@
+id = "Awrz1UIA"
+enabled = true
+hidden = false
+name = "IDONTWANNASCROLLAGAIN"
+filename = "idontwannascrollagain-1.0+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Awrz1UIA/versions/eNnxfB4S/idontwannascrollagain-1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "18783266e0f957a4d8145ac1303fa55f44ca19a46fbf2b7b40d1569005ad35bff77a8d9c97afe93f4480749a4d4bb23d19867a4b7c46dbb94e82d36e03a87e49"
+
+[update]
+[update.modrinth]
+mod-id = "Awrz1UIA"
+version = "eNnxfB4S"

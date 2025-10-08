@@ -1,0 +1,16 @@
+id = "9mtu0sUO"
+enabled = true
+hidden = false
+name = "Fast IP Ping"
+filename = "fast-ip-ping-v1.0.7-mc1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9mtu0sUO/versions/vCOimgHn/fast-ip-ping-v1.0.7-mc1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "463d5beac77e17828c609f6a8beba39e6a00a668d29f32aa93dab60a8f6bd56b372bcf83569741698d2efce472fec4e2b6a45e3f41407ef70d1b2b71d3fadcda"
+
+[update]
+[update.modrinth]
+mod-id = "9mtu0sUO"
+version = "vCOimgHn"
