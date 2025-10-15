@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "11d765aabdd869e5d4080ebe53eceebc5708c0d7621d6d950f83c78fa71de7af"
+hash = "7cda1a6a02fe9c0b54410337a8924e3a9c30269309b0ec73dcfd01805a7ca30f"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "11edbedd1e929d190f61d6533d4f873daba92fb792ab0e5f4a5f4560e5c79d30"
+hash = "26e4807d9f3ca4f282654daad0692f69cab98ecd905b89ea382d7b3ae14f1ba7"
 metafile = true
 
 [[files]]
@@ -121,11 +121,6 @@ hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
 metafile = true
 
 [[files]]
-file = "mods/fluidvoidfading.pw.toml"
-hash = "1f32b7690563bc2eb63514d94f768c28ac44feb6dc97e23fd20f3929b14ae406"
-metafile = true
-
-[[files]]
 file = "mods/hypixelautotip.pw.toml"
 hash = "8a59d8637f16848e695306086fcc9a5b642798d26c53e34e729eceaf062005d9"
 metafile = true
@@ -192,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "3b8d49b2b5f4f73e646004db8449537708e9505f3cfa8f6ff03dbc76e544b851"
+hash = "15122ba32b926351dc6b04bb55401bb4e3d3f67ef34ee3a65d91129a761cbb10"
 metafile = true
 
 [[files]]
@@ -212,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b8bac48619f9e559c485b73053c1e7a2cdb98d57a9bff6abef35517924993400"
+hash = "82f0a8d63f288501350c87c6a600dbdfd79be167c7f06fab26758c2270f934c4"
 metafile = true
 
 [[files]]
@@ -277,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "97a14dd4167abae7df6db9a5520e300f4a98bfb3c318f70f18e7052bf3ef5b32"
+hash = "4f4f7cb6d6e4499ca5e86e7cdea80f05132c8f3e391d925bb6a68bc052ed3bea"
 metafile = true
 
 [[files]]

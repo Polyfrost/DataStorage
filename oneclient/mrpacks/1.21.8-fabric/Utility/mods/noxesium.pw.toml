@@ -2,15 +2,15 @@ id = "Kw7Sm3Xf"
 enabled = true
 hidden = true
 name = "Noxesium"
-filename = "noxesium-fabric-2.7.7.jar"
+filename = "noxesium-fabric-2.7.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/VUJI2nx3/noxesium-fabric-2.7.7.jar"
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/Arrc5dyi/noxesium-fabric-2.7.8.jar"
 hash-format = "sha512"
-hash = "5d022cc2de5f4c8e1aa6b77f4b19d142f3e3c733a91e696a638345344effab4ccfed9db685f66fe5606e7c87cd2f9490546ba6b25717def396908551a629f95e"
+hash = "dbfdd92efa3f302e207521278a4d035a8c033f645a13381452280315c7263f3d17870c1d25b4cf04d19bf17c67e8ebcc68c3e35c4188cc701920bd2c42729a78"
 
 [update]
 [update.modrinth]
 mod-id = "Kw7Sm3Xf"
-version = "VUJI2nx3"
+version = "Arrc5dyi"
