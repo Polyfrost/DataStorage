@@ -21,16 +21,12 @@
                     "loader": "fabric"
                 },
                 {
-                    "minor_version": 1,
-                    "loader": "forge"
-                },
-                {
                     "minor_version": 5,
                     "loader": "fabric"
                 },
                 {
                     "minor_version": 5,
-                    "loader": "forge"
+                    "loader": "fabric"
                 }
             ]
         }
