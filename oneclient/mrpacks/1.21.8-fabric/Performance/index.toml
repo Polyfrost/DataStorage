@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "24da56c40e65d72cadb0d7e866c3411d6f424ac9c5ba308f9d8b395e3d3cb89a"
+hash = "ef876a9fa73d1b32da3e8a0a5334556dba7b271390fe15c67008a3ca723af783"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6e18c408068a9e82044250faa64c241147472615b12a9c17b3386966480b0261"
+hash = "e5addaf572a739e71774db0e1074500f28d5200adc302cb203c444412b3702bd"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4c6af225825ee20984e081f20fe07b76065faa1052ef888f8f909d067fbcf516"
+hash = "1159223dd93759254ddaf12ac2cb860f4b182b66c2f07a0ab3e8d302b95af451"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2186468b4704e2e6fb23b88c781d67d9f92cd5cdcaca730764a9747158aaef06"
+hash = "b54da35777a4f3bf83ce8f464bac275493aa79c37330fd93c1d02fafba3bcda1"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d4d9fe56eb0b340d8ba27d00af66e8062645e0e6c8e182bbc16ee363072ff877"
+hash = "b68f720afbed1635277cb98433d200502cafe7ef6b328dd2a0b7d7ec63f02ed3"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "d1283013d79f214e6f180b517546c0f8c10161559fd803b1d396f69c41c52c3e"
+hash = "b969fbaf27e382c8cda6beb51c292b0768ece8c776ee457c1bad0086cb40cbbb"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "db87626e8133c7a04a5ceda7bdb678b7e7128920ffd127f117d4a17c47165975"
+hash = "51cfa88e5a17e7391cd6b075b46bd39ea3a8de634ada545c001e4c0b6921ad89"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b2770c47a70b88eb9cc94cf6a8bf418c201cb8ba7b93c43059c33ec8a5965a24"
+hash = "523f0183ebf821ca89bf33e16f9e4c595e240cfedd90124bd71928219866c49e"
 metafile = true
 
 [[files]]

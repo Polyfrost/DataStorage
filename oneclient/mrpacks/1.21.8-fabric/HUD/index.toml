@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "981575285548e0148b23debc55911a78ee542dc6f834ab33d5f0765fcf69191f"
+hash = "34e440491e9a351831db44d45f88856fdedd46f6b5a665fdb07bbf0a351c41fd"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b045c4b0b378f9818560c09393c72b0364b9b1ba95f482e0139fff985f06d621"
+hash = "c7c0d4de8133192c550b49dc0d62de59ac6368e127c88188dbd3f6827e7090e9"
 metafile = true
 
 [[files]]

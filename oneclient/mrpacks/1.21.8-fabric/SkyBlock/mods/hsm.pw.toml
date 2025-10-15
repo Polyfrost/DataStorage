@@ -1,0 +1,16 @@
+id = "Q5kyKoWn"
+enabled = true
+hidden = false
+name = "HSM - Mending fix & Skyblock drill fix"
+filename = "hotshirtlessmen-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Q5kyKoWn/versions/uikW2mEY/hotshirtlessmen-2.0.4.jar"
+hash-format = "sha512"
+hash = "5ab4a8501b779ae626709d8fcefc29dd36fe0c70b4118d51c2efcfd7444fb754a0cb99d89d0f03e5f7d7f5a31da194eb490ea3756def632df9d9dec01060af35"
+
+[update]
+[update.modrinth]
+mod-id = "Q5kyKoWn"
+version = "uikW2mEY"

@@ -47,22 +47,22 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ef0a62e27eff8c6100d72672dc76eee6c1fcde75807bb64809daecaab2f8b0e0"
+hash = "9f833165f3f84c2182471f3997b50cc3a9014325deb26de24b6512ff08f750cd"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "228a2c362fc874c5b5a9a749d01d23224dfba24b2d710f6df693e44b1738fde4"
+hash = "2c6395099763a1485dfae666f9b6fe550712d5c00bbd7ecb71ededf9bc288470"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "1aaf9caa3123d9b6f9f2268e98c87732bc22a1c60b40de89a7fcd899559f8396"
+hash = "d5575ef98d48594c6db03eaf70a0b85fdd2cddb52ed9da52d13f184c233ed924"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4c6af225825ee20984e081f20fe07b76065faa1052ef888f8f909d067fbcf516"
+hash = "1159223dd93759254ddaf12ac2cb860f4b182b66c2f07a0ab3e8d302b95af451"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "2519b1da2afade57097b10f6fd6ff4880f13cbc60594508cedfce28921758921"
+hash = "87237febecc1221a02828fe81d9aa2c265989f2cc3a5647ffbe1d3990b77c2c8"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "573dfef9b86161f9852185608e753931171ff1cf542248a0e43a038003752806"
+hash = "48dca74f634c6bf36e3a7b5e544c233f523c0c9f36e3c92439b6a23fb7c5c4df"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "aa382ca501a514d8abb25fe28234c40de7447b4f41263140e178f2557883648d"
+hash = "d12fcff63cab6281000e90902cf563835c59b846f959e2a6c65036d42416373c"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/toggle-toggle-sprint.pw.toml"
-hash = "813e09c9f2da991528b9c6ae67c5362eeb4e960aa1631630f04921a83d156a55"
+hash = "ba7c986d1fdd9b3be52fb117f160aca629a05feb132e1bccbb7c5bc0c4775929"
 metafile = true
 
 [[files]]
