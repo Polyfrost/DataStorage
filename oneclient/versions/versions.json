@@ -21,11 +21,7 @@
                     "loader": "fabric"
                 },
                 {
-                    "minor_version": 5,
-                    "loader": "fabric"
-                },
-                {
-                    "minor_version": 5,
+                    "minor_version": 8,
                     "loader": "fabric"
                 }
             ]
