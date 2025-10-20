@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7cda1a6a02fe9c0b54410337a8924e3a9c30269309b0ec73dcfd01805a7ca30f"
+hash = "79bf24f530719464df93ae6e573f6ef21c5158d191a83fba144f9fca16cdbc23"
 metafile = true
 
 [[files]]
@@ -18,11 +18,6 @@ metafile = true
 [[files]]
 file = "mods/better-selection.pw.toml"
 hash = "0201825029921bdd8b4b276ca147fd1e1eff5e983b114a89c2060628949257f0"
-metafile = true
-
-[[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "2d5424e8f0400c8eb1af1e043112dc0c99844d57761b4ca6951ef5d190a21596"
 metafile = true
 
 [[files]]
@@ -47,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "26e4807d9f3ca4f282654daad0692f69cab98ecd905b89ea382d7b3ae14f1ba7"
+hash = "5d7a2610b33c70b517b2962fd5f4bba48c6bef3398f7a1daf35d1eca076ecac9"
 metafile = true
 
 [[files]]
@@ -187,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "15122ba32b926351dc6b04bb55401bb4e3d3f67ef34ee3a65d91129a761cbb10"
+hash = "b6a0f9857fc53d8ed16796c6615659c796f48776a48f6c148a4c778091271c5f"
 metafile = true
 
 [[files]]
@@ -207,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "82f0a8d63f288501350c87c6a600dbdfd79be167c7f06fab26758c2270f934c4"
+hash = "120455aa5eafc9680a2f05731dbd874afc6e58e4c9a1e3a4b7535f01b16a906a"
 metafile = true
 
 [[files]]
@@ -272,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "4f4f7cb6d6e4499ca5e86e7cdea80f05132c8f3e391d925bb6a68bc052ed3bea"
+hash = "a990d26f33aadbda1a4bba8ca94db8312db4059b868b0550528e45651dbb8afb"
 metafile = true
 
 [[files]]

@@ -16,11 +16,6 @@ hash = "0cac9b702be52d37070ee74127b8fe710544438adc0089087a4bd6a83edfd330"
 metafile = true
 
 [[files]]
-file = "mods/auto-reauth.pw.toml"
-hash = "faf2134e2dc085df7db8d6919366faeabed7b0f0c684afb61a600726bbc129da"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "45acfbdf4b9331f7b5feba5663ece49e4b44ad472c0237d394d4418800fd556b"
 metafile = true
@@ -52,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2c6395099763a1485dfae666f9b6fe550712d5c00bbd7ecb71ededf9bc288470"
+hash = "f6da724fee603886fbbded197efa615c95e58efd0d08e0944ae1d79f40d32695"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "d5575ef98d48594c6db03eaf70a0b85fdd2cddb52ed9da52d13f184c233ed924"
+hash = "b658cd9f97193aa11a06d5c9566011e6062e1ec0e80e09d61524624d22fb3427"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1159223dd93759254ddaf12ac2cb860f4b182b66c2f07a0ab3e8d302b95af451"
+hash = "ceeb74701686102e584e233755eb84ac56d30ec1a3e297b1b940dcf58575a041"
 metafile = true
 
 [[files]]
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/island-utils.pw.toml"
-hash = "bca2bce2be1bd2ac4f0694b589ec4dbb94270959622d5ff390b60638202eead6"
+hash = "9647e1806af82ad7fd4b9a23f648e4ec0e571fb7bfb417a350f091744b5d1936"
 metafile = true
 
 [[files]]
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "d12fcff63cab6281000e90902cf563835c59b846f959e2a6c65036d42416373c"
+hash = "5b6fa8df2b8c66cb9e857a4b88bc4a15494a6a4d2769f45bd7b8281bdebbca5c"
 metafile = true
 
 [[files]]
