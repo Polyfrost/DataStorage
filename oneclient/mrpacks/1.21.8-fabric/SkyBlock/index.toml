@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "1c4feb7d18406e9c16c03d55c4257e027ed3322c8b3cf82075344676dd68d70b"
+hash = "94a1d85e1ea18433000b397327d5e817e1e80bd765f31c70f229565910a02b61"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1159223dd93759254ddaf12ac2cb860f4b182b66c2f07a0ab3e8d302b95af451"
+hash = "ceeb74701686102e584e233755eb84ac56d30ec1a3e297b1b940dcf58575a041"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "881abd55f2d0db563bd0fa5a7f5d60d62c9d86c9c57c87c1cf098625cba2bcd7"
+hash = "83c1f51baef4f996cec5a2729db1945ce8ce6803053e6c1fc23286557f055884"
 metafile = true
 
 [[files]]
@@ -62,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "73b1856416aff341ac66a2e697f428816c566ff4202550023d14d0728173ec66"
+hash = "7c2f5a74ef1a137f4973ebf883853e784851956eaa41a2eddb5ac418c3c856a5"
 metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "c1c680418dea86e7494c1ea8563318d676e41a8e797ac7e9666b69648bb95428"
+hash = "2ed50ff90641f0b7e2cac1b494ae536f1ebb459ab5f507a4fddd30107009f7e5"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "52127ae27b0a6e068199c99565e72f8004d20674a9239c0fd28e758e1640ef4a"
+hash = "ca2f25d03f835bc182870a247cad9645f93503fdc727fb7b0741ec01775992e9"
 metafile = true
 
 [[files]]

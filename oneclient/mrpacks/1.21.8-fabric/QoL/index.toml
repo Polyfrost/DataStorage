@@ -36,11 +36,6 @@ hash = "0201825029921bdd8b4b276ca147fd1e1eff5e983b114a89c2060628949257f0"
 metafile = true
 
 [[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "2f7fee3704a5ef0416c93c357ba7b3a7e5f6b9aed1ecea76b63a57340ba88f6c"
-metafile = true
-
-[[files]]
 file = "mods/blur-plus.pw.toml"
 hash = "dbefb77add73ca1b9a039293f32abfa2eb28762d5efeb706efb4d2efc0a3e254"
 metafile = true
@@ -127,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7c0d4de8133192c550b49dc0d62de59ac6368e127c88188dbd3f6827e7090e9"
+hash = "acc4a0b994139067300b21cc97a6f602da20b7008433c7f24d04b70ba44ec68c"
 metafile = true
 
 [[files]]
@@ -312,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "75a6d0837d185cc915d5af9e2c5db59da597e78ac82f2f5d676617bba89f39e3"
+hash = "8955ae0c6bb28125e74748812081fcefdb59a7f9ae15673a81dfc3e4eca5b66a"
 metafile = true
 
 [[files]]

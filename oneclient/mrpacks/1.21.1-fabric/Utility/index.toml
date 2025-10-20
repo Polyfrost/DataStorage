@@ -11,11 +11,6 @@ hash = "da17b555c53ce390b30cd6eb5357720fd2cca482fb5a927695ab8e74d679d3ad"
 metafile = true
 
 [[files]]
-file = "mods/auto-reauth.pw.toml"
-hash = "90be8ed72e0bf901822f186d2ffaa6b61ce8410f66f4a77c10f3366206a88583"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "ed6f8461bcc70d112a862f661a97ad2238f2c7fdc74ffa6efa79c6903abcc9b3"
 metafile = true
@@ -47,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "1292b7f841e4574f4f79c837908e05cb087237cf1007957b9873ef70253294fe"
+hash = "ca9135c72a33d9f17e2f61ff1b09ac0b2714f838d29f19b187dfa211fa679007"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "d5575ef98d48594c6db03eaf70a0b85fdd2cddb52ed9da52d13f184c233ed924"
+hash = "b658cd9f97193aa11a06d5c9566011e6062e1ec0e80e09d61524624d22fb3427"
 metafile = true
 
 [[files]]
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f709c7ddf0414cb9f0799124dc5e6701eef103bf8cfc6e84a7028a357c5ea28c"
+hash = "c8ac3a9021671b1d8d40f0f4279a999c0361a14fc2946f3d541860f5e8540720"
 metafile = true
 
 [[files]]

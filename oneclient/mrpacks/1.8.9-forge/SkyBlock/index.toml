@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "cd1eefabdb6fb2d7f859f819fd27251d93299b1e98cda0ee4667f1c41e6c3668"
+hash = "5f701a98cf367474d116f8446b84364971f309eac3b40c25243ea2b47b1caf72"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "906956346f89ed4f0a6fe7b197a3e20207c80f24265990736de77773b34394a8"
+hash = "d5aef1c4ed85165b20f2c67ff1c35bd63af0b5ded87bb07ab2d4b8088931d55e"
 metafile = true
 
 [[files]]
