@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animatium.pw.toml"
-hash = "75004d16893eee9680a9c8a2c7af534b1834d22e73724bfc7e5a033924877587"
+hash = "1b015241f9cf8d800b3261107e05862ae4487edb552538d0ebd4449b8e93dbc0"
 metafile = true
 
 [[files]]
@@ -37,32 +37,32 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "82740fc93f4dcb5df56c1714462f4870f1ae61c1df754ee1f95c9855e42a2fa9"
+hash = "7987ea5dd452c99e88ba1ac9960393e3e3d4efd24abc58068c7411218a2a0084"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "9f833165f3f84c2182471f3997b50cc3a9014325deb26de24b6512ff08f750cd"
+hash = "6440cf4e68e958b086f49167bdce48083fef44848b2c4e6a61bbfd90ff7685eb"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "f6da724fee603886fbbded197efa615c95e58efd0d08e0944ae1d79f40d32695"
+hash = "4c8ab1c27c20311bf90ccae90152c9a976751e9c26e89766b16a927f03249fa4"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "b658cd9f97193aa11a06d5c9566011e6062e1ec0e80e09d61524624d22fb3427"
+hash = "725d2b436f2d7214f705e8ff50b531357a2b502537c9bb054c199866d72f379c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ceeb74701686102e584e233755eb84ac56d30ec1a3e297b1b940dcf58575a041"
+hash = "acc4a0b994139067300b21cc97a6f602da20b7008433c7f24d04b70ba44ec68c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
 metafile = true
 
 [[files]]
@@ -102,12 +102,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "368568361227c3e41bf7ba7fd6d99331ff34970fce7f779e7d76630a05e15c38"
+hash = "b8f3e4e7aeef1cf6390de735462abab11d1711938819a378ccb4f4fc22d0db4b"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "48dca74f634c6bf36e3a7b5e544c233f523c0c9f36e3c92439b6a23fb7c5c4df"
+hash = "9ccfaef481c5afff672cb25e9434dc130d5f509c537f82abbc64e61bd0db57d1"
 metafile = true
 
 [[files]]

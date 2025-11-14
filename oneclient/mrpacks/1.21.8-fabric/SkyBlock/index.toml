@@ -7,22 +7,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ceeb74701686102e584e233755eb84ac56d30ec1a3e297b1b940dcf58575a041"
+hash = "acc4a0b994139067300b21cc97a6f602da20b7008433c7f24d04b70ba44ec68c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
 metafile = true
 
 [[files]]
 file = "mods/firmament.pw.toml"
-hash = "83c1f51baef4f996cec5a2729db1945ce8ce6803053e6c1fc23286557f055884"
+hash = "a62047f5d472c6412c102d5c38f2812d07661338ed42bd7ccb418f8fc3a9f15c"
 metafile = true
 
 [[files]]
 file = "mods/hsm.pw.toml"
-hash = "babc9ba141c7187b23518e60c1d1074b555f4cd8e4fe398c37590d05f37f699f"
+hash = "459a5515e9246e361e61d8b3b6fb2ffda11cdd34077270fe728599dbc589631d"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacyskyblock.pw.toml"
-hash = "8abef672a847ae17fb3606ead9544f9dac187d8daa564f98f2f7b448448d8c5c"
+hash = "aa4b260ad7e4700aa615c0787bf614723fe58819995f3eb5b203935ad4429a15"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "67a966c95e7589652ad88c56cfa12724fd68d8abf28dda5bd00ffc2bd9f843e3"
+hash = "669e5f93fd2f5b3897df6da9a8d8c271d9a4e19ce2bb972b83c9b40372d23c6a"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "7c2f5a74ef1a137f4973ebf883853e784851956eaa41a2eddb5ac418c3c856a5"
+hash = "4dc6097d63e649efdda86df49d2f2532b3b62757c33ccee84c1d8d45aca8016b"
 metafile = true
 
 [[files]]
@@ -77,15 +77,15 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "ca2f25d03f835bc182870a247cad9645f93503fdc727fb7b0741ec01775992e9"
+hash = "971f4446b5173cf8cdc94a1b48cd081f9f054297798b9159ac9e613448078af0"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "82926eb447a876fc7b5f541d4a6c4cabaccd9be58a41d47f6b774bac26adecfb"
+hash = "f82c6caaeec227c9b53c38cd6f8bc3edbf1ab82f12ec986bb571bfe1308afa0c"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "96d4183a316f711aac62809b1d5bf042aaf1f77bcc854ff7591e4e37c9a98dfe"
+hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
 metafile = true

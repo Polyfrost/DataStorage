@@ -2,15 +2,15 @@ id = "i9xRThb3"
 enabled = true
 hidden = false
 name = "PolySprint"
-filename = "PolySprint-1.8.9-forge-1.0.1.jar"
+filename = "PolySprint-1.8.9-forge-1.0.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/i9xRThb3/versions/97DQkyRE/PolySprint-1.8.9-forge-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/i9xRThb3/versions/95qrJcnP/PolySprint-1.8.9-forge-1.0.2.jar"
 hash-format = "sha512"
-hash = "56762859d1a316f08960d57bf2e1dabcf62d16d2fc98377e71c93b289ea8673cc4b3b0bb098cafbbd48b44b82d02fb859ce2ab91ff788339141b58dbd238f0f2"
+hash = "faa74eb9f1b922f009ec1738f57bb3f2daa1e21129d5cb8f850107711fc209f7e7a90542de4a6494a75fe7a7da2a86aaa320072a10be3beadd243e769f2a6325"
 
 [update]
 [update.modrinth]
 mod-id = "i9xRThb3"
-version = "97DQkyRE"
+version = "95qrJcnP"

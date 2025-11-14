@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-screens.pw.toml"
-hash = "3e88ddfa0d5bf2be3bed9acc1430f24c2a64e0b3966bd3b28b9adad22f197476"
+hash = "84fe63c50c55a03fa2c9e0bbe807c08bbad5948afb737d56abe0d397a0dda716"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "18cf717546e6107d48a3561309e4f7c1e5b5b054094a3de87f521c24a4c986d1"
+hash = "a8d3e37ed2deff7eafce0f7032727a1d22e822696f150cef036b5ab3be523a3d"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "209cec2e23ba0df9661f101622900906212d3c4f5f6f0c69503ab54ac604ca5e"
+hash = "0a09c0ea83426d66093dffc4632701ae71a1538f39bd20de8c64d596ea1e0011"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "a2b621c46416e04bb615e54501dbc9d4ffff0a607cf0d525112a04a9f93c660a"
+hash = "675958b7271c3dcff092f7d424166b69e21c4a171dbc9e7f9eb1ac307e32cf99"
 metafile = true
 
 [[files]]
@@ -148,11 +148,6 @@ metafile = true
 [[files]]
 file = "mods/idontwannascrollagain.pw.toml"
 hash = "28b72847ecd3d667330c7909d0e5a6da5ecfa80f17be7fe6a6037edf716d41a5"
-metafile = true
-
-[[files]]
-file = "mods/inventoryscale.pw.toml"
-hash = "84dc13c8561731310255994c991b9f0d7b40a96c6171f092a080c4462cd132b3"
 metafile = true
 
 [[files]]
@@ -217,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0c962dc2757812202623be1ca58f4f20a2fbd1297813db0c22a4a0ae29393f95"
+hash = "716ae703cea46c716ae86d4e612e5d29b0604af8b26f4ef7c2c7e00290542a36"
 metafile = true
 
 [[files]]
@@ -307,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "8955ae0c6bb28125e74748812081fcefdb59a7f9ae15673a81dfc3e4eca5b66a"
+hash = "d5c865358f8854a00af3d7bbbbc364465eb0c3b3e99e82b4a0259d7dd3172e5e"
 metafile = true
 
 [[files]]
@@ -337,17 +332,17 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "b50b38bee1b9a6d83c0c3e6f6dccb0091eacc6ae02b5dfe5d27c03d000ed341f"
+hash = "1837e5e7618a47fea93f0b6db84430a60b11c3e99475f66a7a233bf13f9dd2d1"
 metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "3e33eb81afc41a61a0869f745b5713626c50e3451b23f0a13b4920456123d87c"
+hash = "04ba099ab1011f81a3a2ec610c85bef572abb0757913379a1b09d19351f651e7"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "8642ad8d0b7e27f302c11098246a3f3a0155f53a612502035a1145407cbfc4d6"
+hash = "f853c25b26744d98a2f5dd1d3c2ac227e735142cd8f3a1d5081cb01826148ae3"
 metafile = true
 
 [[files]]

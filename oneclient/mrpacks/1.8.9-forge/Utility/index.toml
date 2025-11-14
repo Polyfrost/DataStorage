@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/polysprint.pw.toml"
-hash = "d66efb8972a4ddcaecae4d3c64ff7fe19f01848e1ca6fe285ea6373e491efa06"
+hash = "199ee92263eb24d990f44acb0492685346d2a389699b0da6b8bea6f719f2d074"
 metafile = true
 
 [[files]]
 file = "mods/quickjoin.pw.toml"
-hash = "c5f23c93943314cc17f5eaeb38c4a7875eee9d3b6d367466e8d2033d8df483d7"
+hash = "6972b3ef31c9afb7a448cf480ed5702541561ea787fb147a250b8bd834e2d8cb"
 metafile = true
 
 [[files]]
 file = "mods/replaymod.pw.toml"
-hash = "68e3a8e23529169266ef7d0b1a9c5ba02f63a120b0ddf7525909f6be584942b1"
+hash = "fa792dab29ff6a3ad36a22fa99e1f2eab8245213dcb79a83f514d6268a8aa8f7"
 metafile = true
 
 [[files]]
