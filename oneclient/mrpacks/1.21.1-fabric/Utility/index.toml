@@ -32,22 +32,22 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "7c2edb3e77fda640b7cbf8721b1076690f71bb89f2d7f86ec654e7798ace7344"
+hash = "160ee0d7d1b6348589319360c459efea7a50a5476f713fd9b6c33af21d02e670"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "222733912aae1b1ae3f78287b6483f43893bfb20b17e941181ef4e706ce758d6"
+hash = "accd2c7d17e712599db11a4e6c7a08d397bd33e3e6ced0a05519669ef9753756"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "ca9135c72a33d9f17e2f61ff1b09ac0b2714f838d29f19b187dfa211fa679007"
+hash = "44a466e816476b5db71741bf8ec416ceda0da7fd30ecd5d54b9d0b1c6f452a55"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "b658cd9f97193aa11a06d5c9566011e6062e1ec0e80e09d61524624d22fb3427"
+hash = "725d2b436f2d7214f705e8ff50b531357a2b502537c9bb054c199866d72f379c"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "122a567669d21cb2db156813de562d532227c24f62ae75169b149baa4e3301cb"
+hash = "a90dc4f4cfd8025ba9b2c6c2eb9ab3a44efe07125344d97a5d2187e176a6f01f"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "b55675fcf9d74d958be446ebbca52a597c0fd5684532f4404da569318871da1c"
+hash = "e70b3bd1b5e68c5e4d9d1b3826b522dafca0fe604539ca08eef3283eb2f9f2bc"
 metafile = true
 
 [[files]]

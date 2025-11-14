@@ -2,15 +2,15 @@ id = "nT86WUER"
 enabled = true
 hidden = true
 name = "UniLib"
-filename = "UniLib-1.1.1+1.21.8-fabric.jar"
+filename = "UniLib-1.2.0+1.21.8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/nT86WUER/versions/Oq3E46u2/UniLib-1.1.1%2B1.21.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/BEkYsae8/UniLib-1.2.0%2B1.21.8-fabric.jar"
 hash-format = "sha512"
-hash = "837a0ed05c8269e94a44542412e14e6700df0e798a71a2b0671c53e0a1536ecd945a3cc5c45551857f909c5eba4257b4a3c7da6a91917cc1f047ab2e2450827f"
+hash = "67a570ccb87431c77fc4eddf85f23be890cf58d917267ab402e48018ba040ec44bad6bc16442abeb34c5d498fabdeeed6e5894c86eb460e9b95b1d34adb8f65f"
 
 [update]
 [update.modrinth]
 mod-id = "nT86WUER"
-version = "Oq3E46u2"
+version = "BEkYsae8"

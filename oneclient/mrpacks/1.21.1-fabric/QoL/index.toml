@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "1bd4b9271868b16f1036afae09d989224f3ca504cc68656ce6f525bfc5d7f235"
+hash = "30f3f7777f9a7f3ab504737b685bf48563cd587d2980b28cc1ef0f05029e2409"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "938ca3d33721ab8ecd310741fbd3e0ec51fc19c5f08e5c390c032dbbf0f64505"
+hash = "433e55a8404235a9543d1ab3918c2b62b17017dfd770b7e77f5c88cef486e2f4"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "633d80b902d6d190435c64c147791db60faae584009e9642da1c79d15860fc69"
+hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
 metafile = true
 
 [[files]]
@@ -123,11 +123,6 @@ metafile = true
 [[files]]
 file = "mods/idontwannascrollagain.pw.toml"
 hash = "565bf0e4bcb4cf8c6a97286f014fc611140ad89a18ba48dcb2834cadcbc78560"
-metafile = true
-
-[[files]]
-file = "mods/inventoryscale.pw.toml"
-hash = "f61093de4e3704649e565b4363f3b596dc5c91a45ed4d091e94838d54fb3b240"
 metafile = true
 
 [[files]]
@@ -182,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "b6a0f9857fc53d8ed16796c6615659c796f48776a48f6c148a4c778091271c5f"
+hash = "7cdee6858f773eccdc460d4c1d9c80c77c51336421662d662a98be8760f91823"
 metafile = true
 
 [[files]]
@@ -267,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "a990d26f33aadbda1a4bba8ca94db8312db4059b868b0550528e45651dbb8afb"
+hash = "1e8c29e4f373d5b5fde81a43dc33b1db2caf636eb162eca353e18fe1bcee5591"
 metafile = true
 
 [[files]]
@@ -297,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "37634eb7519696f6c462d30366015885897dec313f7f91563e504163d19cf3d9"
+hash = "214c1cae724608eb5ad968e79f2ff39f7fe3b41c3eb8f534507b9ba97df1e782"
 metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f772990eac37489f42b2e3414e0f0c87c1d2f51bf3f8ba026a378838a28582f6"
+hash = "5ae735318eb6d890250f035d5ebc88af64bbe823b7cd16cb73fb3af264e89d9a"
 metafile = true
 
 [[files]]

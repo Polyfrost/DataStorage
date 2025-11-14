@@ -2,15 +2,15 @@ id = "kYuIpRLv"
 enabled = true
 hidden = false
 name = "Wavey Capes"
-filename = "waveycapes-fabric-1.6.2-mc1.21.6.jar"
+filename = "waveycapes-fabric-1.8.0-mc1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/aO27FRMJ/waveycapes-fabric-1.6.2-mc1.21.6.jar"
+url = "https://cdn.modrinth.com/data/kYuIpRLv/versions/k0zMjAA1/waveycapes-fabric-1.8.0-mc1.21.8.jar"
 hash-format = "sha512"
-hash = "bfe414602cb36bcfa4e9cdd63241c7b1cfc7140ec4b3aeec6df0a71699c5b22e8b22ff13bbe8495fd01a10cda6beeab76e60274593f64bdcb9433fdc4e0f77d4"
+hash = "f510c1e95c65af6aa1d5a79557cfb7e76c4e33b9f6350698e2480d978140cff0b410eacc109570c08bd594f2d9d3834cffbc3f9c0932169b50b0c543dfa05a03"
 
 [update]
 [update.modrinth]
 mod-id = "kYuIpRLv"
-version = "aO27FRMJ"
+version = "k0zMjAA1"

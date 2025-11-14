@@ -1,6 +1,6 @@
 id = "9s6osm5g"
 enabled = true
-hidden = false
+hidden = true
 name = "Cloth Config API"
 filename = "cloth-config-19.0.147-fabric.jar"
 side = "both"

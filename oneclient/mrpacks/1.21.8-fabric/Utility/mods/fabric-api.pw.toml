@@ -1,6 +1,6 @@
 id = "P7dR8mSH"
 enabled = true
-hidden = false
+hidden = true
 name = "Fabric API"
 filename = "fabric-api-0.136.0+1.21.8.jar"
 side = "both"

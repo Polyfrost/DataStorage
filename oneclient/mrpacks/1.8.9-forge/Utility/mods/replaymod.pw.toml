@@ -2,15 +2,15 @@ id = "Nv2fQJo5"
 enabled = true
 hidden = false
 name = "ReplayMod"
-filename = "replaymod-1.8.9-2.6.20.jar"
+filename = "replaymod-1.8.9-2.6.24.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/OJEjSBv2/replaymod-1.8.9-2.6.20.jar"
+url = "https://cdn.modrinth.com/data/Nv2fQJo5/versions/BBUuSZWF/replaymod-1.8.9-2.6.24.jar"
 hash-format = "sha512"
-hash = "ef49566deeaab0806ed9c282cca49c5edb4e3a79308b9ba479332867fd031a6800ca7b37f7aa6868070b140f1ff64cac3836d207fc83eb2391df837ab57dc5c6"
+hash = "0b9c752846349027e3e45571c6acea98baced8042ef2afaf18ce72a091e7e55bc4b2a3d441da290e2651b14ed9573ba013d29b1a2d7549047c28f1cf14c58051"
 
 [update]
 [update.modrinth]
 mod-id = "Nv2fQJo5"
-version = "OJEjSBv2"
+version = "BBUuSZWF"

@@ -2,15 +2,15 @@ id = "fpb5uaJt"
 enabled = true
 hidden = false
 name = "Custom Scoreboard"
-filename = "CustomScoreboard-1.8.0-1.21.8.jar"
+filename = "CustomScoreboard-1.9.1-1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fpb5uaJt/versions/gPlaOXeL/CustomScoreboard-1.8.0-1.21.8.jar"
+url = "https://cdn.modrinth.com/data/fpb5uaJt/versions/ocmBW0OY/CustomScoreboard-1.9.1-1.21.8.jar"
 hash-format = "sha512"
-hash = "aea0cc271f6ba121050a84df1675e5089bbe932279e3706fde4194e7cecfcba39eca738d88b745f5df486d0420aaff20cf4a44c6c97604c7717c2fd08babf881"
+hash = "128ec33524301ad69eacc2bd6a42bea942bc7a731df78263167bf8974835e57379a5eae7a64b4ca95074093a6f4137d673716686f537802924b8ac5a566ab6aa"
 
 [update]
 [update.modrinth]
 mod-id = "fpb5uaJt"
-version = "gPlaOXeL"
+version = "ocmBW0OY"
