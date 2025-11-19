@@ -5,6 +5,12 @@ name = "skyblockpersonalized"
 filename = "1.8.9.SkyblockPersonalized.1.7.0.0.jar"
 side = "both"
 
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/sbp.png?raw=true"
+name = "SkyblockPersonalized"
+authors = ["Cobble8"]
+description = "Adds customizable features like disabling messages, automatically teleporting to Garry, etc."
+
 [download]
 url = "https://github.com/Cobble8/SkyblockPersonalized/releases/download/1.7.0.0/1.8.9.SkyblockPersonalized.1.7.0.0.jar"
 hash-format = "sha256"
