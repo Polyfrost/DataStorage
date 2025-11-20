@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-manager.pw.toml"
-hash = "0626b7f44b144218ce5df5827ac3976abf3de63a8d7f9cbc28140d55dc383fdb"
+hash = "eb32a3327d9425d9cfd3c1bdcb659d1b6b1e429ceedd0aacbf9d56d48c029446"
 metafile = true
 
 [[files]]
