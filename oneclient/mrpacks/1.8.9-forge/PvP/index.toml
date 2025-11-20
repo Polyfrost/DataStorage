@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/arrowpath.pw.toml"
-hash = "972e4623a64f3b9046aeedc85959c9d268ceff1f46554c5f20df21e31d6041a6"
+hash = "288499534199bc042cd55b2a9552782c948401e381f5b0907bb5a89d9163ea48"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/damagetilt.pw.toml"
-hash = "19883844b824de1f5b72987d90eabf8e184fab10acaa24c05caca35fe8d17aba"
+hash = "85c082b5f86c3d3490957e938fc506192f4d513460de9c633623744a7b9d22ba"
 metafile = true
 
 [[files]]

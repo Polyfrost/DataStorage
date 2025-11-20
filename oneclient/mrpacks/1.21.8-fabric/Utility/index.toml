@@ -47,17 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "4c8ab1c27c20311bf90ccae90152c9a976751e9c26e89766b16a927f03249fa4"
+hash = "91f314134fa757df939441ca6e95d525617f30c0414909b3933f78795f1fd1b2"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "725d2b436f2d7214f705e8ff50b531357a2b502537c9bb054c199866d72f379c"
+hash = "11e043bf815b74a2cf1ca826e550e6e9aa10aea4830f853e49760a299df4f752"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "acc4a0b994139067300b21cc97a6f602da20b7008433c7f24d04b70ba44ec68c"
+hash = "436fece36e8837e8922762b74763f5600d0190d36c5f7974b02cc06a78a95c7b"
 metafile = true
 
 [[files]]

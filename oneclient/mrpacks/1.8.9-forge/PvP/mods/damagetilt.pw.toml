@@ -5,6 +5,11 @@ name = "damagetilt"
 filename = "DamageTilt-1.8.9-0.2.0-clientonly.jar"
 side = "both"
 
+[overrides]
+name = "DamageTilt"
+authors = ["Charles445"]
+description = "Restores feature to tilt the camera when damaged"
+
 [download]
 url = "https://github.com/Charles445/DamageTilt/releases/download/v0.1.1-3/DamageTilt-1.8.9-0.2.0-clientonly.jar"
 hash-format = "sha256"

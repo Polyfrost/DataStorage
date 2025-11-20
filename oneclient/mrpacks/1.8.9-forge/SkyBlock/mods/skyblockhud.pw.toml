@@ -5,6 +5,12 @@ name = "skyblockhud"
 filename = "SkyblockHud-Reborn-1.17.1.jar"
 side = "both"
 
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/sbhlogo.png?raw=true"
+name = "SkyblockHUD"
+authors = ["ThatGravyBoat"]
+description = "Enhances Skyblock's HUD, making it feel more like an RPG."
+
 [download]
 url = "https://github.com/romangraef/SkyblockHud-Death-Defied/releases/download/v1.17.1/SkyblockHud-Reborn-1.17.1.jar"
 hash-format = "sha256"

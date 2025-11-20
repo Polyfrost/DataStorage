@@ -5,6 +5,12 @@ name = "bazaarnotifier"
 filename = "BazaarNotifier-1.7.5.jar"
 side = "both"
 
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/meyi.png?raw=true"
+name = "BazaarNotifier"
+authors = ["meyi"]
+description = "Helps with tracking buy/sell order movements in the Bazaar."
+
 [download]
 url = "https://github.com/symt/BazaarNotifier/releases/download/1.7.5/BazaarNotifier-1.7.5.jar"
 hash-format = "sha256"

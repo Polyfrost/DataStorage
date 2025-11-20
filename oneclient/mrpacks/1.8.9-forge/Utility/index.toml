@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-overlay.pw.toml"
-hash = "8d0961ec36617cd72700806a66383db884adfbf80fd0bc5765623e5f9fecfa4d"
+hash = "dcd66ae82a5c14b47d314a2e4a969210994774872951624313f91b50186df46d"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-manager.pw.toml"
-hash = "5c16547750b5f3b742c1f0d2c60743e5f7f7d8529fad69d294e53e8960c6fc07"
+hash = "0626b7f44b144218ce5df5827ac3976abf3de63a8d7f9cbc28140d55dc383fdb"
 metafile = true
 
 [[files]]
