@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "94a1d85e1ea18433000b397327d5e817e1e80bd765f31c70f229565910a02b61"
+hash = "663f59ee16b92a87eef6077705d9f13f4e5ccd3b0a7343212d3568760d491416"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "acc4a0b994139067300b21cc97a6f602da20b7008433c7f24d04b70ba44ec68c"
+hash = "436fece36e8837e8922762b74763f5600d0190d36c5f7974b02cc06a78a95c7b"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "971f4446b5173cf8cdc94a1b48cd081f9f054297798b9159ac9e613448078af0"
+hash = "55dc2a618421d096f5ed1e68ba1e940046fa35031354cb12d064de75a75df3b1"
 metafile = true
 
 [[files]]

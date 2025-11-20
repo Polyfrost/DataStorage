@@ -22,12 +22,12 @@ metafile = true
 
 [[files]]
 file = "mods/potioneffects.pw.toml"
-hash = "3fd3f7164a894c30a23e9ec8845fbeb724b8f20b10d546f9819603cafaf209a3"
+hash = "0f3f1c9d4b665bb87f8fda805a51659f0577314fbc119f30f99b9e5d92b890df"
 metafile = true
 
 [[files]]
 file = "mods/reportplus.pw.toml"
-hash = "e0233934f7fb1555bcbe1d721362821d0623b94f0dccd0dcd64c80099224a25b"
+hash = "7f52af86462a8d9807ec3d26c10fd76f6c13c633dc9f60de0ef612c7fae8fdf0"
 metafile = true
 
 [[files]]

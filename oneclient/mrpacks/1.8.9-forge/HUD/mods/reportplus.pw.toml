@@ -5,6 +5,11 @@ name = "ReportPlus"
 filename = "ReportPlus-1.0.0.jar"
 side = "both"
 
+[overrides]
+name = "ReportPlus"
+authors = ["ThatGravyBoat"]
+description = "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple."
+
 [download]
 url = "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar"
 hash-format = "sha256"

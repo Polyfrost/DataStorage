@@ -2,37 +2,37 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/apec.pw.toml"
-hash = "113a7466b8e913e8a426544414f9d056232eb2c88f2207f0a88a0fe24904ae5f"
+hash = "a5bba815c4a897ab645b022be4923bbb9149a5a24aa134b3324ecd9f2d416e44"
 metafile = true
 
 [[files]]
 file = "mods/bazaarnotifier.pw.toml"
-hash = "c6a6e7eea1ad924c4aff979eb83e68405b5e4e57cc217dc498a91287580eed8f"
+hash = "0fec8cc46627f03ed9f0e49f557c5e1a2f15befde60b9c3584cbee460a847ae7"
 metafile = true
 
 [[files]]
 file = "mods/chattriggers.pw.toml"
-hash = "a31cc708911f2a33a914287c54d35d023e97f721b9fa9e51e91be22f1ff7cf87"
+hash = "16ce993bccd9bf00eb1e704bb773bda87ca834ee35767290264d604132b24cfd"
 metafile = true
 
 [[files]]
 file = "mods/cowlection.pw.toml"
-hash = "628e72b820ee199f6181d216930c6ab96a9be609081fa06a594181e4d266a366"
+hash = "04ceb3e4d4950210d1eed3da7b19f56b3522068d68a6e24b4ce80d705ee09b56"
 metafile = true
 
 [[files]]
 file = "mods/dankers-skyblock-mod.pw.toml"
-hash = "f5066dec7c0bbf002d1b34ff31322f86e27e756f04543d1d35d5b0b698c9ab7c"
+hash = "5ea1034cdd8542e8f29e018aef137bf734ef88039e143d548db188af85f9159a"
 metafile = true
 
 [[files]]
 file = "mods/dungeonroomsmod.pw.toml"
-hash = "970e07c8caa37cbc7302108d2ac733761d77b06a46109136b0391b5e11091d9f"
+hash = "45aa072a799473e7fd7c7189a156fc33939c6cde8c1614c9478c957317030782"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "efa82157c5bf9d39a62afb6f40309c6bc9b32ee2e1deb5312cd036b335cb1381"
+hash = "0dec89507172364298a5db00137858b6ed7a6a2f1edd236c20cdf0a7bdcc091d"
 metafile = true
 
 [[files]]
@@ -42,22 +42,22 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughupdates.pw.toml"
-hash = "66db6dcdbe0dee5ef887741d1ed9cd929e6141e8d394b69e68ac46cc0c598b9a"
+hash = "d1de78cd19ce74b1dece68c8daf561600b9c7c0f6df1dc480e2bd892845d3dbe"
 metafile = true
 
 [[files]]
 file = "mods/overflowparticles.pw.toml"
-hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
+hash = "7a3561100a1c88678a71fe0ab8a106c975273ead0087a1aec65049edafbb2e06"
 metafile = true
 
 [[files]]
 file = "mods/partly-sane-skies.pw.toml"
-hash = "fbf9e8baf1f55a0e93f87b0593993788e78dbec9733e076b5cfdfd1f40cd54df"
+hash = "744040d28198e240c5d1bc4654fc9fa890d428a88838efb0350a1fdf5192f726"
 metafile = true
 
 [[files]]
 file = "mods/scatha-pro.pw.toml"
-hash = "5971148075fb1fd0a178f54693128cc29652858084999808f0cd69c351289c29"
+hash = "31841458c3ad0f937daf2936806edd821cd81f3e7f5e2ab04335cd0566dbaa5e"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/secret-routes-mod.pw.toml"
-hash = "1deecba30ae37400ca6a5224b8dd7ceb0185ed2ad80234ff20321d222c656e8a"
+hash = "3cc5270ced9ba784ee333924c344ab8221fd1e859087dc00445fbec138f4f614"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockhud.pw.toml"
-hash = "dc27824f299ba3bb6d2dd6366ad9980e5a99b78add853e225e1c27e03a681af4"
+hash = "b0340b82bf26440249883cc1ceb2b894e429ea61d812e4b31c66c35edadb2674"
 metafile = true
 
 [[files]]
 file = "mods/skyblockpersonalized.pw.toml"
-hash = "c2a4095bbb63b5df9bd87ff0ddb3508bb360b4863c32552db9a720b88b1f68d3"
+hash = "f3fb024e0de6801faacaf6abcc2425415252dc3b351d94bac0c4abeebbd03aab"
 metafile = true
 
 [[files]]
@@ -92,15 +92,15 @@ metafile = true
 
 [[files]]
 file = "mods/skyguide.pw.toml"
-hash = "643b607661ea302362444aa0bc20e40761cd3d993a29ae9a63529454f87afa63"
+hash = "2344da783effa8dfe5177e2ce6c497c140f871c825ebd81ba58620a294f468bf"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "51413f150c151357c3c1f55c7ab4495c48dff2503db1cb6a77bdedc25f02ac5c"
+hash = "d18ba75dcbd39a250e4eddff71cc9d1af7c75c3f1c2d999624d83cf08e85159d"
 metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "98f7103a6f4f37e5a4faf7d4c164f165b18f5b3c429f821dec343c56b0a29b56"
+hash = "94cfa8f55abdfabe9ca504fb9323c1d140b6ab2bd57068d4150afa95222a87ef"
 metafile = true
