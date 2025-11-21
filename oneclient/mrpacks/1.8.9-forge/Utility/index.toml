@@ -74,8 +74,3 @@ metafile = true
 file = "mods/scu.pw.toml"
 hash = "44772f171d4a0585cd47897bbd08bb11484bca9acd14cc84d3bafcbcd58e70b9"
 metafile = true
-
-[[files]]
-file = "mods/tnttime-oneconfig.pw.toml"
-hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
-metafile = true

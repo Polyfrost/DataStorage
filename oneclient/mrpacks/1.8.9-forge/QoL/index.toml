@@ -101,6 +101,11 @@ hash = "f7bd385c32aa8f83ed953c4819b4b0d91f8c4caa60f02aa0e427694882dbb3ec"
 metafile = true
 
 [[files]]
+file = "mods/tnttime-oneconfig.pw.toml"
+hash = "03c6bf779335d66c7b0d2f64e728cfafade2bdc5e91cff3f4fa21cc724506118"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "12dcc564d7e9a7667a6556711667c320fc2edd53dbef65ee7a6c3f22b7b3acf9"
 metafile = true
