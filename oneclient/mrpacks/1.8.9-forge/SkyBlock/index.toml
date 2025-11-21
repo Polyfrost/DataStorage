@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancy-warp-menu.pw.toml"
-hash = "3e22bc0875e84f3f02ba94827f2c09bf06e485e0e6e7c7c7ca75cb367304a469"
+hash = "92438fc8feea95cc9d9026de6460f027b67de33b3b70037296115e429b576a0a"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "1d60a9a4e2288748fd19952df849a460b784fba245a1d83d7817c5e460ec0e1e"
+hash = "a03af8e0ba7179ca92cd3384662874395fce6c93f7efa88c96859efe26950620"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "fd812e9c5176547a7f78e9d1dc499e414a12daaaef5afb0fd67535d1548786f5"
+hash = "b4093592a34411d15ce1f038bdea49776e5c3ac708ac0065c231fe442176aca6"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "5f701a98cf367474d116f8446b84364971f309eac3b40c25243ea2b47b1caf72"
+hash = "52d003b1087f97723ba8892ee35b72937549ad2e88d43f46395fcdcdd4a05f3f"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "d18ba75dcbd39a250e4eddff71cc9d1af7c75c3f1c2d999624d83cf08e85159d"
+hash = "f7efc5d3ab374493c14e96e463defa1fc7689de590d878f48172acc0e41db15d"
 metafile = true
 
 [[files]]

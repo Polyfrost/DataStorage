@@ -1,0 +1,16 @@
+id = "pQFm0mAJ"
+enabled = true
+hidden = false
+name = "TNT Time"
+filename = "TNT Time-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/MVaestME/TNT%20Time-1.3.0.jar"
+hash-format = "sha512"
+hash = "11daec3258b2386aab2f4de893b61d81cf54afb4dea65ba4327ea6ff3cdf66df130b16d7fe6350329699da4d66750d3980f5ab95e3eaee4b38435780da067e2e"
+
+[update]
+[update.modrinth]
+mod-id = "pQFm0mAJ"
+version = "MVaestME"
