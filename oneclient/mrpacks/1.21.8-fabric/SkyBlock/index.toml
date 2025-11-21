@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "4dc6097d63e649efdda86df49d2f2532b3b62757c33ccee84c1d8d45aca8016b"
+hash = "fc1ab0cc860fd196b801a51bdf370fc6ffa8f7102e2a3fc1499e05b7f68aa5d0"
 metafile = true
 
 [[files]]
