@@ -11,6 +11,7 @@ jobs:
   UpdateBundles:
     name: Update Bundles
     runs-on: ubuntu-latest
+    if: ${{ 'push' == github.event_name && 'main' == github.ref_name && '438157081' == github.repository_id }}
     steps:
       - name: Git checkout
         uses: actions/checkout@v4
