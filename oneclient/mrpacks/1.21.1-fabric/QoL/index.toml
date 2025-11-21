@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "79bf24f530719464df93ae6e573f6ef21c5158d191a83fba144f9fca16cdbc23"
+hash = "7cda1a6a02fe9c0b54410337a8924e3a9c30269309b0ec73dcfd01805a7ca30f"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "5d7a2610b33c70b517b2962fd5f4bba48c6bef3398f7a1daf35d1eca076ecac9"
+hash = "26e4807d9f3ca4f282654daad0692f69cab98ecd905b89ea382d7b3ae14f1ba7"
 metafile = true
 
 [[files]]
