@@ -1,5 +1,10 @@
 name: 'Update Bundles'
 on:
+  push:
+    paths:
+      - oneclient/**
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -9,6 +14,9 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v4
+
+      - name: Allow running the script
+        run: chmod +x ./oneclient/update-bundles.sh
 
       - name: Update Bundles
         run: ./oneclient/update-bundles.sh
