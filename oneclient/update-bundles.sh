@@ -17,9 +17,16 @@ for version in mrpacks/*; do
     [ -d "$bundle" ] || continue
     echo "Updating and bundling $bundle"
     (cd "$bundle" && ../../../packwiz update -a -y && ../../../packwiz modrinth export)
-    export_file=$(ls "$bundle"/*.mrpack | head -n 1)
-    name="${bundle/$version/}"; name="${name#/}"; name="${name,,}"
-    echo "Moving $bundle"
+    export_files=("$bundle"/*.mrpack)
+    if [[ ${#export_files[@]} -ne 1 ]] || [[ ! -f "${export_files[0]}" ]]; then
+        echo "Error: Expected 1 .mrpack file in '$bundle', but found ${#export_files[@]}. Skipping." >&2
+        continue
+    fi
+    export_file="${export_files[0]}"
+
+    name=$(basename "$bundle")
+    name="${name,,}"
+    echo "Moving '$export_file' to 'generated/$name-$parsed.mrpack'"
     mv "$export_file" "generated/$name-$parsed.mrpack"
   done
 done
