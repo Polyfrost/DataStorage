@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/chatting.pw.toml"
-hash = "fb740e78dabdd4820f2ae5c5e04bd4105fb51d5976b03d7cb9d5d2d3357ead5d"
+hash = "f6dbfe10ae88adc3045784bb880ebf91addbdf2d677fa0fef74c8d24c7b603fe"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/reportplus.pw.toml"
-hash = "4a4cb4fa25f18401cd2a5648361c2be3044d4fa66c0946f05434c289b4734e09"
+hash = "7f52af86462a8d9807ec3d26c10fd76f6c13c633dc9f60de0ef612c7fae8fdf0"
 metafile = true
 
 [[files]]
