@@ -1,9 +1,15 @@
-id = "qol"
+id = "blur"
 enabled = true
 hidden = false
 name = "Blur"
 filename = "Blur-MC1.8.9-1.0.4-2.jar"
 side = "both"
+
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/tterrag.png?raw=true"
+name = "Blur"
+authors = [ "tterrag1098" ]
+description = "Adds a blur effect to all your GUIs."
 
 [download]
 url = "https://mediafilez.forgecdn.net/files/2665/186/Blur-MC1.8.9-1.0.4-2.jar"

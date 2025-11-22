@@ -2,10 +2,16 @@ id = "redirectionor"
 enabled = true
 hidden = false
 name = "redirectionor"
-filename = "redirectionor-1.4 for 1.12.2-1.8.8.jar"
+filename = "redirectionor-1.9.for.1.12.2-1.8.8.jar"
 side = "both"
 
+[overrides]
+icon = "https://media.forgecdn.net/avatars/thumbnails/870/997/64/64/638288157013875576.png"
+name = "Redirectionor [Retro]"
+authors = [ "Hileb" ]
+description = "Avoid Enum values allocation in codes and improve game performance."
+
 [download]
-url = "https://mediafilez.forgecdn.net/files/5370/600/redirectionor-1.4%20for%201.12.2-1.8.8.jar"
+url = "https://mediafilez.forgecdn.net/files/6827/746/redirectionor-1.9.for.1.12.2-1.8.8.jar"
 hash-format = "sha256"
 hash = "38bd52ea87b956dcc79260a1f52ce79741773c5cdb0a4b82adf7649fc4fe16c1"

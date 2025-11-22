@@ -1,9 +1,15 @@
-id = "utility"
+id = "text_overflow_scroll"
 enabled = true
 hidden = false
 name = "Scrollable Tooltips"
 filename = "Scrollable Tooltips-1.4 (1.8.9).jar"
 side = "both"
+
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/sk1er.png?raw=true"
+name = "Scrollable Tooltips"
+authors = [ "Sk1er LLC" ]
+description = "Allow scrolling in Item Tooltips that don't fit on the screen."
 
 [download]
 url = "https://static.sk1er.club/repo/mods/text_overflow_scroll/1.4/1.8.9/Scrollable%20Tooltips-1.4%20(1.8.9).jar"

@@ -1,11 +1,17 @@
-id = "qol"
+id = "autotip"
 enabled = true
 hidden = false
 name = "AutoTip"
 filename = "Autotip-3.2 (1.8.9_forge).jar"
 side = "both"
 
+[overrides]
+icon = "https://pbs.twimg.com/profile_images/809612278467153921/H0vzHBt-_400x400.jpg"
+name = "AutoTip"
+authors = [ "Semx11", "2PI" ]
+description = "A Forge mod for the Hypixel Network that automatically earns players free experience and coins over time."
+
 [download]
-url = "https://static.sk1er.club/repo/mods/autotip/3.2/1.8.9_forge/Autotip-3.2%20%281.8.9_forge%29.jar"
+url = "https://static.sk1er.club/repo/mods/autotip/3.1.1/1.8.9_forge/Autotip-3.1.1%20(1.8.9_forge).jar"
 hash-format = "sha256"
 hash = "3bf16704e61f31ca7abcced6809a3eba192e08fbfdc4d59ec0b563d2e9b75ee1"

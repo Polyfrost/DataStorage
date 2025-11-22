@@ -1,9 +1,15 @@
-id = "qol"
+id = "itemphysic"
 enabled = true
 hidden = false
 name = "Item Physic Lite"
 filename = "ItemPhysic Lite 1.3 mc1.8.9.jar"
 side = "both"
+
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/creativemd.png?raw=true"
+name = "Item Physic Lite"
+authors = [ "CreativeMD" ]
+description = "Makes dropped items have realistic physics."
 
 [download]
 url = "https://mediafilez.forgecdn.net/files/2439/695/ItemPhysic%20Lite%201.3%20mc1.8.9.jar"

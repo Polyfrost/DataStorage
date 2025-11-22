@@ -7,7 +7,7 @@ side = "both"
 
 [overrides]
 name = "DamageTilt"
-authors = ["Charles445"]
+authors = [ "Charles445" ]
 description = "Restores feature to tilt the camera when damaged"
 
 [download]

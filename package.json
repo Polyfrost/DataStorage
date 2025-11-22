@@ -1,0 +1,23 @@
+{
+  "name": "oneclient",
+  "version": "1.0.0",
+  "description": "used to manage the checks.js file",
+  "main": "index.js",
+  "scripts": {
+    "check": "node oneclient/check.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.22.0",
+  "engines": {
+    "node": ">=20.16.0",
+    "pnpm": ">=9.9.0",
+    "npm": "forbidden, use pnpm instead",
+    "yarn": "forbidden, use pnpm instead",
+    "bun": "forbidden, use pnpm instead"
+  },
+  "dependencies": {
+    "@iarna/toml": "^2.2.5"
+  }
+}

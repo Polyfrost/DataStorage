@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/aycy.png?raw=true"
 name = "Arrow Path"
-authors = ["Aycy"]
+authors = [ "Aycy" ]
 description = "Displays the visual trajectory of arrows."
 
 [download]
