@@ -11,7 +11,7 @@ update-url = "oneclient/generated/skyblock-1.8.9-forge.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca57be6717a3a89260a5555df896d89f1f6459a94c2b89f9c4944d2b585b4b6f"
+hash = "3a4017a3bc6d8926d30b0a3aaf2199973b4fe9d62f7eb9f766b2c08b4ac3f663"
 
 [versions]
 forge = "11.15.1.2318"

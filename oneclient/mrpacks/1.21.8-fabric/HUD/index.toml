@@ -2,75 +2,75 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "67e1d61aa9821c8c40c3655d8d3015f34f419705d7fb02c248d04cc5d25f4b9d"
+hash = "82a1563be9f52a8f09012308df79205b8fe5e27396f9dee296fae295ba617aca"
 metafile = true
 
 [[files]]
 file = "mods/better-mount-hud.pw.toml"
-hash = "7b459feedff6d51df5654c789e4241092db8d88716aaa639dd2a29e6a63206a5"
+hash = "8efbb45ea6e576a6c8f2d08c5e0e33e7e372a09da33f7dfced25d11e14f92a6f"
 metafile = true
 
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
-hash = "15c07f20f309ac62efc26f6dda97ea06fb58a2e08534c61a0ffdabe9f6c04c9a"
+hash = "b3de733459a142dae7ffc285fda084ff2fc324c31657111ac75491228d0b6152"
 metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "a3be3c600efd87249fd0640a70e18b4338ef20a1677d8d643e1962ee92efd5cb"
+hash = "34e440491e9a351831db44d45f88856fdedd46f6b5a665fdb07bbf0a351c41fd"
 metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "4bf830a20e4eab18f0f88dde1e3c84b834103f34975d7d4f385d8302c070a453"
+hash = "29c8e27d1886ff9c8928d1fe21b791fd9c941b7fbfac3f94955f29f3a2b44a1a"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "7e1a4b2596c5d9b228726e1915033197d478b9d23d3a102d0acc4913d843172d"
+hash = "76b6fda698cdd336a97069ad637d51a1687cad4f9e3fa393dca7464531320280"
 metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "1f821fff3d92359ff7655c65d3959107d0a7ac6c1ae0b8ad3fbfd7b17a70eb54"
+hash = "68dcd634aff713efdd7c0158915817d2fb0c9b0b88153d67c043f7e26ad49950"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "208c801e334a46912969bb47b0e21cc503e8a8fc75aa7d0aea85b9d32d7207ae"
+hash = "436fece36e8837e8922762b74763f5600d0190d36c5f7974b02cc06a78a95c7b"
 metafile = true
 
 [[files]]
 file = "mods/inventoryhudplus.pw.toml"
-hash = "29eb3d1ac7caa0948596639465a339b37fed1f288c65eb7ede90dce336e6e0ec"
+hash = "35dc882ada46d73d9071bc0ca057695f5f56a8629f4619a62b174e88345de253"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "fe249e18bd8e54b678b98df52895a78f51d82f2cef7dc733d9dfbdafb58d81f5"
+hash = "c6bf62ee9994162dd750d790b88e897b35d5cbbbb96c90f55adc223edf0be09b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "31658e52e488c32750f64ea36e34840a671af0f942e7485cb33595b357ca291c"
+hash = "a9e2dd8c0765780684783ed4413bba1ffbbf757a431323d1d0b7480329f1fb98"
 metafile = true
 
 [[files]]
 file = "mods/tiptapshow.pw.toml"
-hash = "2f1a19b23f37e2e3971125a3e8527849f59a31e7edb8ca6bd64c4926c0672832"
+hash = "c7878767163469162ecaff1170478772a4a3d89d3b8c0f86501b1d4dc89a7b13"
 metafile = true
 
 [[files]]
 file = "mods/ukulib.pw.toml"
-hash = "5d4844722727b87c663ca5b26d8a7b4d9a35e97940cb66a66324136b10cdf5ba"
+hash = "728ef446a1c3bbc7e9773dbbf07dc66b38cdfbbccd1aef029f77ad2da488aba7"
 metafile = true
 
 [[files]]
 file = "mods/ukus-armor-hud.pw.toml"
-hash = "60506af8a4315485c3f3377fa8e6ab2eb26dc4d8ab19758345d2e3fc6f4275b0"
+hash = "7d084115cd8dbacfedae1bc131137afa2d81a272f3e63e01be59c106c68a6b2e"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1eb89ac2f78826052a7096368ee166836356939e1a139788c2d828f0b44a8371"
+hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
 metafile = true

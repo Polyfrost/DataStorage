@@ -2,22 +2,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/chatting.pw.toml"
-hash = "fb740e78dabdd4820f2ae5c5e04bd4105fb51d5976b03d7cb9d5d2d3357ead5d"
+hash = "f6dbfe10ae88adc3045784bb880ebf91addbdf2d677fa0fef74c8d24c7b603fe"
 metafile = true
 
 [[files]]
 file = "mods/craftify.pw.toml"
-hash = "6022ce0b624772f599ac45b56c2a9b7dcb64ef788fdbe759bffd9555947f62da"
+hash = "9b6ec28390a92b07ea0ffa8212874c88d505d2725809bf199de615a246443f6f"
 metafile = true
 
 [[files]]
 file = "mods/evergreenhud.pw.toml"
-hash = "3933409ee7ba04ba302649015daad1a7cfdea58b003ee9e944fa99b2a1f5ddeb"
+hash = "878832d7d77e9f885c3a31c9af816ca2d1379b5c3bff873caa236aa18c2cb4dc"
 metafile = true
 
 [[files]]
 file = "mods/keystrokes.pw.toml"
-hash = "ffe17b346eef6d326ffdd9bbc12827564710ee064bbd5b263bb75f5b91d3f1b2"
+hash = "13ad3cf3f6a1cae3453469784ea8ed5f8aecd37c560507bcd87341a6ae3a6c70"
 metafile = true
 
 [[files]]
@@ -27,15 +27,15 @@ metafile = true
 
 [[files]]
 file = "mods/reportplus.pw.toml"
-hash = "4c38ba4ba7699e1fccc78dca8c95f8802cb9158972fd9116ab60555274d611eb"
+hash = "5420358624e7425f3d6a3d5cd2d2435c00bc74a384cf0b3c0aa6fe0b34f548cd"
 metafile = true
 
 [[files]]
 file = "mods/soundsubtitles.pw.toml"
-hash = "09cf8b8d96999819feb9cb07a29853c8561fa99569dda85f39e3b6ae4ecd2d4c"
+hash = "f54891c3be7f41517fae4d07b8e91fa08012849c099a32661d6f4c2cd62bc848"
 metafile = true
 
 [[files]]
 file = "mods/vanillahud.pw.toml"
-hash = "0ea12827579faa28d32d9d6fbfd2746879ddf47dc52c4161ac497bf499a1fe1a"
+hash = "00ef365fd2bd4453e77bec58d1e06ffecb8d050b463970e59828034bc8c29473"
 metafile = true

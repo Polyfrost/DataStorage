@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/behindyou.pw.toml"
-hash = "9843c63e8d2ade1518ac7509ef25b24a9ab969f86a0202aad9637afc034c7d7d"
+hash = "86fd754d486efd921190ad3b26acec5f92b2b13758eb38e2c94c8fe2850e11c9"
 metafile = true
 
 [[files]]
 file = "mods/crosshair.pw.toml"
-hash = "5bed7abde5edeaead0c0e3557b56301a0c5ef979e46d7e0dc8e94d37ccb765a3"
+hash = "c56bb928c7ef40771dadd7d0cb08aee6a3c5fcbc66a188389bd652ca17df373b"
 metafile = true
 
 [[files]]
@@ -22,15 +22,15 @@ metafile = true
 
 [[files]]
 file = "mods/damagetint.pw.toml"
-hash = "d42dd0a0085c2e10836dca4ef2fa2cb9cc07fed3faf698b8a8eff22b708d4ea0"
+hash = "d9dbc9c25663d4b55403f83b71fd99cb72dc2e2cff6cf8df07299c8cc54157a9"
 metafile = true
 
 [[files]]
 file = "mods/forge-betterhurtcam.pw.toml"
-hash = "fb24e7e6756873844e03d04bf5788e22be02616b551c14a04bfedd26f657830f"
+hash = "3e92e6c3f1deabdd098ee22f3e493a7229999eb2d46ee2461c5942ea1971cf8a"
 metafile = true
 
 [[files]]
 file = "mods/glintcolorizer.pw.toml"
-hash = "c6e33dd0d5ab47dc6ae2c0ff344fb7e014b90abe779b713493e6eff124602a2b"
+hash = "fd4f7f8f4d38eaaf30e5970dc76f9523cfcfd24cb69073534d9aa89941421cd9"
 metafile = true
