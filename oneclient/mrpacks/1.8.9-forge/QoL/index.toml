@@ -81,6 +81,11 @@ hash = "7edd856e8acbefb848423826ba93cde5c393efd69cc80e70a34d6f9ade03b5ae"
 metafile = true
 
 [[files]]
+file = "mods/redaction.pw.toml"
+hash = "7721f4b939855fbf3887ffa294cb0c0e88d20d7db5b65aff45c858da48b5cb5f"
+metafile = true
+
+[[files]]
 file = "mods/reward-claim.pw.toml"
 hash = "ecc6dfa3926055fa6ffb883f56300f11e8fafb142bc4b2e3fb2e9588ce85ec98"
 metafile = true
