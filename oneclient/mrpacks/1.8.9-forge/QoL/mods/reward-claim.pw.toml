@@ -1,11 +1,16 @@
-id = "qol"
+id = "sbgVdyNC"
 enabled = true
 hidden = false
 name = "Reward Claim"
-filename = "RewardClaim-1.0.5.jar"
-side = "both"
+filename = "RewardClaim-1.0.7.jar"
+side = "client"
 
 [download]
-url = "https://github.com/meowdding/RewardClaim/releases/download/v1.0.5/RewardClaim-1.0.5.jar"
-hash-format = "sha256"
-hash = "0bcc372709fe7e7703df73c2299525ac130bfc7fa7edfb6aa6c4cdaf24076479"
+url = "https://cdn.modrinth.com/data/sbgVdyNC/versions/3AYgtAoe/RewardClaim-1.0.7.jar"
+hash-format = "sha512"
+hash = "bd254d15dd3462ad906a59c2d712b2654eae01aac09f606fd0a4c6a0b3b3515dae40822000d6ba09764cbec7fb7a1102bbb853c755b40c1c6ca534a1fd2ab10b"
+
+[update]
+[update.modrinth]
+mod-id = "sbgVdyNC"
+version = "3AYgtAoe"

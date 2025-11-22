@@ -1,16 +1,16 @@
-id = "hud"
+id = "HTtbeLVT"
 enabled = true
 hidden = false
-name = "ReportPlus"
-filename = "ReportPlus-1.0.0.jar"
-side = "both"
-
-[overrides]
-name = "ReportPlus"
-authors = ["ThatGravyBoat"]
-description = "Report+ is a Hypixel mod that improves their reporting UI to allow the player to stay on 1 screen rather than switch between multiple."
+name = "Report Plus"
+filename = "ReportPlus-1.0.2.jar"
+side = "client"
 
 [download]
-url = "https://github.com/ThatGravyBoat/ReportPlus/releases/download/1.0.1/ReportPlus-1.0.0.jar"
-hash-format = "sha256"
-hash = "03eb83b3c6a655d1b8c97026ee2377278232201d12560c91cb1c7a800fc13614"
+url = "https://cdn.modrinth.com/data/HTtbeLVT/versions/TU3Qf6fn/ReportPlus-1.0.2.jar"
+hash-format = "sha512"
+hash = "b3fe6e8091a08e1a01fa8887d80b6fd95d8af3b93ee75646aa7e6ecd3931fc52abd732b66c15b2b50a5cfc1eb2d2b48205e92734cbb4b9dcbf1d41ae9cb048f3"
+
+[update]
+[update.modrinth]
+mod-id = "HTtbeLVT"
+version = "TU3Qf6fn"

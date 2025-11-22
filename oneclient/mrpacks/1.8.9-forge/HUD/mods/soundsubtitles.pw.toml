@@ -1,9 +1,15 @@
 id = "soundsubtitles"
 enabled = true
 hidden = false
-name = "soundsubtitles"
+name = "Sound Subtitles"
 filename = "Sound Subtitles-1.2.2 (1.8.9).jar"
 side = "both"
+
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/skytils.png?raw=true"
+name = "Sound Subtitles"
+authors = [ "Sk1er LLC" ]
+description = "Backports the accessibility feature from Minecraft 1.9+ that displays sounds direction and names in-game."
 
 [download]
 url = "https://static.sk1er.club/repo/mods/subtitles_mod/1.2.2/1.8.9/Sound%20Subtitles-1.2.2%20(1.8.9).jar"

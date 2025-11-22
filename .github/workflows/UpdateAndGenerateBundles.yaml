@@ -1,0 +1,36 @@
+name: "Update and Generate Bundles"
+on:
+  push:
+    paths:
+      - oneclient/**
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  UpdateAndGenerateBundles:
+    name: Update and Generate Bundles
+    runs-on: ubuntu-latest
+    if: ${{ 'push' == github.event_name && 'main' == github.ref_name && '438157081' == github.repository_id }}
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v4
+
+      - name: Allow running the scripts
+        run: |
+          chmod +x ./oneclient/update-bundles.sh
+          chmod +x ./oneclient/generate-bundles.sh
+
+      - name: Update Bundles
+        run: ./oneclient/update-bundles.sh
+
+      - name: Generate Bundles
+        run: ./oneclient/generate-bundles.sh
+
+      - name: Commit and push the updated and generated bundles
+        run: |
+          git config --global user.name "Bundle Updater[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "chore(update-generate-bundles)" || echo "No changes to commit"
+          git push origin main

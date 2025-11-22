@@ -1,9 +1,14 @@
-id = "qol"
+id = "insomnia"
 enabled = true
 hidden = false
 name = "Anti Dream Skin"
 filename = "Insomnia-1.0-REL.jar"
 side = "both"
+
+[overrides]
+name = "Anti Dream Skin"
+authors = [ "Moulberry" ]
+description = "Removes Dream skins from Minecraft"
 
 [download]
 url = "https://github.com/Moulberry/Insomnia/releases/download/1.0/Insomnia-1.0-REL.jar"

@@ -1,11 +1,17 @@
-id = "qol"
+id = "popup_events"
 enabled = true
 hidden = false
 name = "Popup Events"
 filename = "Popup Events-1.3.2 (1.8.9).jar"
 side = "both"
 
+[overrides]
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/sk1er.png?raw=true"
+name = "Popup Events"
+authors = [ "Sk1er LLC" ]
+description = "Swiftly confirm a type of supported event on Hypixel."
+
 [download]
-url = "https://static.sk1er.club/repo/mods/popup_events/1.3.2/1.8.9/Popup%20Events-1.3.2%20(1.8.9).jar"
+url = "https://static.sk1er.club/repo/mods/popup_events/1.3.1/1.8.9/Popup%20Events-1.3.1%20(1.8.9).jar"
 hash-format = "sha256"
 hash = "20de96eace9b3c5334fd38ee04cd026207ad239a54eed5c959dae6c8ef47fbc6"

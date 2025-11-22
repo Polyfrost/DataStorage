@@ -8,7 +8,7 @@ side = "both"
 [overrides]
 icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/cowlection-logo.png?raw=true"
 name = "Cowlection"
-authors = ["Cow"]
+authors = [ "Cow" ]
 description = "Provides various Hypixel Skyblock features and enhancements, including log searching and a best friends list."
 
 [download]

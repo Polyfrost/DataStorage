@@ -1,9 +1,15 @@
-id = "qol"
+id = "smooth-scrolling-everywhere"
 enabled = true
 hidden = false
 name = "Smooth Scrolling Everywhere"
 filename = "smooth-scrolling-everywhere-1.2.jar"
 side = "both"
+
+[overrides]
+icon = "https://media.forgecdn.net/avatars/thumbnails/208/556/64/64/636975700125327342.png"
+name = "Smooth Scrolling Everywhere"
+authors = [ "shedaniel" ]
+description = "Adds smooth scrolling to every list."
 
 [download]
 url = "https://mediafilez.forgecdn.net/files/2895/468/smooth-scrolling-everywhere-1.2.jar"
