@@ -1,0 +1,2782 @@
+[
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Aquarium",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 111,
+        "buildRadius": 108
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Artemis",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 97,
+        "buildRadius": 103
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Carapace",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 95,
+        "buildRadius": 74
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Catalyst",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 102,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Deposit",
+        "festival": "NONE",
+        "minBuild": 56,
+        "maxBuild": 82,
+        "buildRadius": 90
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Dreamgrove",
+        "festival": "NONE",
+        "minBuild": 80,
+        "maxBuild": 116,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Burrow",
+        "festival": "EASTER",
+        "reskinOf": "BEDWARS|bedwars_jurassic_4team",
+        "minBuild": 52,
+        "maxBuild": 101,
+        "buildRadius": 99
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Springtide",
+        "festival": "EASTER",
+        "minBuild": 58,
+        "maxBuild": 87,
+        "buildRadius": 90
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Eastwood",
+        "festival": "NONE",
+        "minBuild": 50,
+        "maxBuild": 101,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Alaric",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_catalyst_4team",
+        "minBuild": 68,
+        "maxBuild": 98,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Cauldron",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_eastwood_4team",
+        "minBuild": -1,
+        "maxBuild": 0,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Hell Temple",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_obelisk_4team",
+        "minBuild": 69,
+        "maxBuild": 115,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Mortuus",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_lectus_4team",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 83
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Harvesting",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 96,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Invasion",
+        "festival": "NONE",
+        "minBuild": 75,
+        "maxBuild": 116,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Jurassic",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 95,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Kubo",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 92,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Lectus",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 83
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Lost Temple",
+        "festival": "NONE",
+        "minBuild": 68,
+        "maxBuild": 92,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Orientwood",
+        "festival": "LUNAR_NEW_YEAR",
+        "reskinOf": "BEDWARS|bedwars_eastwood_4team",
+        "minBuild": 50,
+        "maxBuild": 101,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Sky Festival",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 95,
+        "buildRadius": 96
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Mystery",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 93,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Nostalgia",
+        "festival": "NONE",
+        "minBuild": 69,
+        "maxBuild": 97,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Obelisk",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 115,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Orchid",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 87,
+        "buildRadius": 94
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Paladin",
+        "festival": "NONE",
+        "minBuild": 63,
+        "maxBuild": 99,
+        "buildRadius": 99
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Paradox",
+        "festival": "NONE",
+        "minBuild": 59,
+        "maxBuild": 85,
+        "buildRadius": 101
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Raze",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 89,
+        "buildRadius": 99
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Beeeee",
+        "festival": "SUMMER",
+        "minBuild": 75,
+        "maxBuild": 102,
+        "buildRadius": 131
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Boardwalk",
+        "festival": "SUMMER",
+        "minBuild": 67,
+        "maxBuild": 93,
+        "buildRadius": 95
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Coastal",
+        "festival": "SUMMER",
+        "reskinOf": "BEDWARS|bedwars_eastwood_4team",
+        "minBuild": 57,
+        "maxBuild": 90,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Terminal",
+        "festival": "NONE",
+        "minBuild": 58,
+        "maxBuild": 88,
+        "buildRadius": 93
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Unturned",
+        "festival": "NONE",
+        "minBuild": 54,
+        "maxBuild": 93,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Whiskers",
+        "festival": "NONE",
+        "minBuild": 66,
+        "maxBuild": 88,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Comet",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_invasion_4team",
+        "minBuild": 75,
+        "maxBuild": 116,
+        "buildRadius": 423
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Loft",
+        "festival": "CHRISTMAS",
+        "minBuild": 55,
+        "maxBuild": 83,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_FAST",
+        "name": "Santa's Rush",
+        "festival": "CHRISTMAS",
+        "minBuild": 65,
+        "maxBuild": 93,
+        "buildRadius": 91
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Archway",
+        "festival": "NONE",
+        "minBuild": 58,
+        "maxBuild": 87,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Ashore",
+        "festival": "NONE",
+        "minBuild": 59,
+        "maxBuild": 95,
+        "buildRadius": 112
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Boletum",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 86,
+        "buildRadius": 92
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Build Site",
+        "festival": "NONE",
+        "minBuild": 63,
+        "maxBuild": 97,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Chained",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Daolong",
+        "festival": "NONE",
+        "minBuild": 66,
+        "maxBuild": 91,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Bunnywars",
+        "festival": "EASTER",
+        "minBuild": 61,
+        "maxBuild": 100,
+        "buildRadius": 139
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Egg Run",
+        "festival": "EASTER",
+        "minBuild": 63,
+        "maxBuild": 99,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Enchanted",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 101,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Extinction",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 96,
+        "buildRadius": 91
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Fang Outpost",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 100,
+        "buildRadius": 109
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Fort Doon",
+        "festival": "NONE",
+        "minBuild": 42,
+        "maxBuild": 140,
+        "buildRadius": 124
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Frogiton",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 91,
+        "buildRadius": 123
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Graveship",
+        "festival": "NONE",
+        "minBuild": 84,
+        "maxBuild": 124,
+        "buildRadius": 121
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Pumpkin Bay",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_swashbuckle_4team",
+        "minBuild": 55,
+        "maxBuild": 86,
+        "buildRadius": 101
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Unchained",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_chained_4team",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 96
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Holmgang",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 98,
+        "buildRadius": 103
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Horizon",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 101,
+        "buildRadius": 107
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Infinite",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 89,
+        "buildRadius": 89
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Katsu",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 97,
+        "buildRadius": 104
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Tigris",
+        "festival": "NONE",
+        "minBuild": 68,
+        "maxBuild": 102,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Usagi",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 97,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Pharaoh",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 96,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Planet 98",
+        "festival": "NONE",
+        "minBuild": 47,
+        "maxBuild": 106,
+        "buildRadius": 106
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Pool Party",
+        "festival": "NONE",
+        "minBuild": 66,
+        "maxBuild": 87,
+        "buildRadius": 119
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Relic",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 91,
+        "buildRadius": 91
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Rise",
+        "festival": "NONE",
+        "minBuild": 69,
+        "maxBuild": 97,
+        "buildRadius": 96
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Stilted",
+        "festival": "NONE",
+        "minBuild": 57,
+        "maxBuild": 81,
+        "buildRadius": 98
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Stonekeep",
+        "festival": "NONE",
+        "minBuild": 54,
+        "maxBuild": 96,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Sandcastle",
+        "festival": "SUMMER",
+        "reskinOf": "BEDWARS|bedwars_enchanted_4team",
+        "minBuild": 58,
+        "maxBuild": 103,
+        "buildRadius": 114
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Shark Attack",
+        "festival": "SUMMER",
+        "minBuild": 67,
+        "maxBuild": 95,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Swashbuckle",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 86,
+        "buildRadius": 101
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Temple",
+        "festival": "NONE",
+        "minBuild": -1,
+        "maxBuild": 0,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Treenan",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 96,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Gingerbread",
+        "festival": "CHRISTMAS",
+        "minBuild": -1,
+        "maxBuild": 0,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Grotto",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_enchanted_4team",
+        "minBuild": 64,
+        "maxBuild": 101,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Snowkeep",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_stonekeep_4team",
+        "minBuild": 54,
+        "maxBuild": 96,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_4TEAMS_SLOW",
+        "name": "Zen Plaza",
+        "festival": "NONE",
+        "minBuild": 57,
+        "maxBuild": 84,
+        "buildRadius": 133
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Airshow",
+        "festival": "NONE",
+        "minBuild": 50,
+        "maxBuild": 101,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Ambush",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 102,
+        "buildRadius": 145
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Apollo",
+        "festival": "NONE",
+        "minBuild": 58,
+        "maxBuild": 99,
+        "buildRadius": 121
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Aqil",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 91,
+        "buildRadius": 107
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Arcade",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 91,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Casita",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 94,
+        "buildRadius": 119
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Crypt",
+        "festival": "NONE",
+        "minBuild": 45,
+        "maxBuild": 96,
+        "buildRadius": 120
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Deadwood",
+        "festival": "NONE",
+        "minBuild": 54,
+        "maxBuild": 84,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Dragonstar",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 101,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Easter Basket",
+        "festival": "EASTER",
+        "minBuild": 71,
+        "maxBuild": 94,
+        "buildRadius": 109
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Easter Garden",
+        "festival": "EASTER",
+        "minBuild": 71,
+        "maxBuild": 99,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Egg Hunt",
+        "festival": "EASTER",
+        "minBuild": 52,
+        "maxBuild": 101,
+        "buildRadius": 111
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Meadow",
+        "festival": "EASTER",
+        "minBuild": 55,
+        "maxBuild": 81,
+        "buildRadius": 162
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Sunflower",
+        "festival": "EASTER",
+        "minBuild": 67,
+        "maxBuild": 96,
+        "buildRadius": 99
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Gateway",
+        "festival": "NONE",
+        "minBuild": 88,
+        "maxBuild": 129,
+        "buildRadius": 126
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Glacier",
+        "festival": "NONE",
+        "minBuild": 70,
+        "maxBuild": 106,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Darkened",
+        "festival": "HALLOWEEN",
+        "minBuild": 59,
+        "maxBuild": 82,
+        "buildRadius": 119
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Scareshow",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_airshow_solo",
+        "minBuild": 50,
+        "maxBuild": 101,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Screamway",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_speedway_solo",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 115
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Harvest",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 84,
+        "buildRadius": 129
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Keep",
+        "festival": "NONE",
+        "minBuild": 34,
+        "maxBuild": 62,
+        "buildRadius": 128
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Lighthouse",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 111,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Lucky Rush",
+        "festival": "NONE",
+        "minBuild": 58,
+        "maxBuild": 85,
+        "buildRadius": 132
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Blossom",
+        "festival": "NONE",
+        "minBuild": 73,
+        "maxBuild": 97,
+        "buildRadius": 108
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Lunarhouse",
+        "festival": "LUNAR_NEW_YEAR",
+        "reskinOf": "BEDWARS|bedwars_lighthouse_solo",
+        "minBuild": 60,
+        "maxBuild": 111,
+        "buildRadius": 125
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Tuzi",
+        "festival": "NONE",
+        "minBuild": 61,
+        "maxBuild": 92,
+        "buildRadius": 126
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Yue",
+        "festival": "NONE",
+        "minBuild": 73,
+        "maxBuild": 102,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Meso",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 96,
+        "buildRadius": 119
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Nebuc",
+        "festival": "NONE",
+        "minBuild": 73,
+        "maxBuild": 106,
+        "buildRadius": 106
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Orchestra",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 107,
+        "buildRadius": 128
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Pernicious",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Polygon",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 94,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Rooftop",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 92,
+        "buildRadius": 120
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Sanctum",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 92,
+        "buildRadius": 149
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Serenity",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 94,
+        "buildRadius": 125
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Sky Rise",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 123
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Slumber",
+        "festival": "NONE",
+        "minBuild": 66,
+        "maxBuild": 94,
+        "buildRadius": 103
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Solace",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 101,
+        "buildRadius": 102
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Speedway",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 91,
+        "buildRadius": 115
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Gelato",
+        "festival": "SUMMER",
+        "minBuild": 58,
+        "maxBuild": 81,
+        "buildRadius": 103
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Montipora",
+        "festival": "SUMMER",
+        "minBuild": 64,
+        "maxBuild": 99,
+        "buildRadius": 133
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Symphonic",
+        "festival": "SUMMER",
+        "reskinOf": "BEDWARS|bedwars_orchestra_solo",
+        "minBuild": 67,
+        "maxBuild": 107,
+        "buildRadius": 128
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Urban Plaza",
+        "festival": "NONE",
+        "minBuild": 56,
+        "maxBuild": 84,
+        "buildRadius": 109
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Vigilante",
+        "festival": "NONE",
+        "minBuild": 63,
+        "maxBuild": 88,
+        "buildRadius": 106
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Waterfall",
+        "festival": "NONE",
+        "minBuild": 58,
+        "maxBuild": 101,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Blitzen",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_lighthouse_solo",
+        "minBuild": 60,
+        "maxBuild": 111,
+        "buildRadius": 106
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Frosted",
+        "festival": "CHRISTMAS",
+        "minBuild": 65,
+        "maxBuild": 91,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Nutcracker",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_apollo_solo",
+        "minBuild": 58,
+        "maxBuild": 99,
+        "buildRadius": 121
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Snowy Square",
+        "festival": "CHRISTMAS",
+        "minBuild": 69,
+        "maxBuild": 96,
+        "buildRadius": 128
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_FAST",
+        "name": "Zarzul",
+        "festival": "NONE",
+        "minBuild": 88,
+        "maxBuild": 115,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Acropolis",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 101,
+        "buildRadius": 151
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Aetius",
+        "festival": "NONE",
+        "minBuild": 68,
+        "maxBuild": 95,
+        "buildRadius": 123
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Amazon",
+        "festival": "NONE",
+        "minBuild": 53,
+        "maxBuild": 94,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Arid",
+        "festival": "NONE",
+        "minBuild": 54,
+        "maxBuild": 84,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Ashfire",
+        "festival": "NONE",
+        "minBuild": 66,
+        "maxBuild": 121,
+        "buildRadius": 126
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Hanging Gardens",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 108,
+        "buildRadius": 137
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Bio-Hazard",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 96,
+        "buildRadius": 139
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Cascade",
+        "festival": "NONE",
+        "minBuild": 59,
+        "maxBuild": 88,
+        "buildRadius": 166
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Cliffside",
+        "festival": "NONE",
+        "minBuild": 72,
+        "maxBuild": 101,
+        "buildRadius": 139
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Crogorm",
+        "festival": "NONE",
+        "minBuild": 79,
+        "maxBuild": 124,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Dockyard",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 98,
+        "buildRadius": 122
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Ghoulish",
+        "festival": "HALLOWEEN",
+        "minBuild": 64,
+        "maxBuild": 87,
+        "buildRadius": 151
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Ominosity",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_crogorm_solo",
+        "minBuild": 79,
+        "maxBuild": 124,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Steampumpkin",
+        "festival": "HALLOWEEN",
+        "reskinOf": "BEDWARS|bedwars_steampunk_solo",
+        "minBuild": 64,
+        "maxBuild": 100,
+        "buildRadius": 132
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Trick or Yeet",
+        "festival": "HALLOWEEN",
+        "minBuild": 65,
+        "maxBuild": 95,
+        "buildRadius": 126
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Hollow",
+        "festival": "NONE",
+        "minBuild": 60,
+        "maxBuild": 89,
+        "buildRadius": 98
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Impere",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 105,
+        "buildRadius": 189
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Ironclad",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 88,
+        "buildRadius": 131
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Lightstone",
+        "festival": "NONE",
+        "minBuild": 53,
+        "maxBuild": 96,
+        "buildRadius": 142
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Lotus",
+        "festival": "NONE",
+        "minBuild": 62,
+        "maxBuild": 90,
+        "buildRadius": 113
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Toro",
+        "festival": "NONE",
+        "minBuild": 65,
+        "maxBuild": 93,
+        "buildRadius": 118
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Mirage",
+        "festival": "NONE",
+        "minBuild": 44,
+        "maxBuild": 87,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Orbit",
+        "festival": "NONE",
+        "minBuild": 57,
+        "maxBuild": 97,
+        "buildRadius": 150
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Pavilion",
+        "festival": "NONE",
+        "minBuild": 68,
+        "maxBuild": 98,
+        "buildRadius": 140
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Playground",
+        "festival": "NONE",
+        "minBuild": 53,
+        "maxBuild": 101,
+        "buildRadius": 118
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Rooted",
+        "festival": "NONE",
+        "minBuild": 67,
+        "maxBuild": 96,
+        "buildRadius": 115
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Scorched Sands",
+        "festival": "NONE",
+        "minBuild": 55,
+        "maxBuild": 93,
+        "buildRadius": 132
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Siege",
+        "festival": "NONE",
+        "minBuild": 80,
+        "maxBuild": 109,
+        "buildRadius": 123
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Steampunk",
+        "festival": "NONE",
+        "minBuild": 64,
+        "maxBuild": 100,
+        "buildRadius": 132
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Fruitbrawl",
+        "festival": "SUMMER",
+        "minBuild": 63,
+        "maxBuild": 101,
+        "buildRadius": 116
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Fireplace",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_lightstone_solo",
+        "minBuild": 53,
+        "maxBuild": 96,
+        "buildRadius": 136
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Lotice",
+        "festival": "CHRISTMAS",
+        "reskinOf": "BEDWARS|bedwars_lotus_solo",
+        "minBuild": -1,
+        "maxBuild": 91,
+        "buildRadius": -1
+    },
+    {
+        "gameType": "BEDWARS",
+        "pool": "BEDWARS_8TEAMS_SLOW",
+        "name": "Sweet Wonderland",
+        "festival": "CHRISTMAS",
+        "minBuild": 67,
+        "maxBuild": 95,
+        "buildRadius": 140
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Anchored",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 106,
+        "buildRadius": 150
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Aqueduct",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 141,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Arx Citadel",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 106,
+        "buildRadius": 125
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Dwarf Fortress",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Finale",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 90,
+        "buildRadius": 120
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Hontori",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 121,
+        "buildRadius": 170
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Maereen",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 130
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Magnolite",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 118
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Marooned",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 146
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "MegaShire",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 121,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Northern",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 126,
+        "buildRadius": 150
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Oasis",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 112,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Onset",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 105
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Sandbox",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 75,
+        "buildRadius": 120
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Shrooms",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 122,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_MEGA",
+        "name": "Templar",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 125
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Aegis",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 115,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Aelle",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 86,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Ancient",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 93,
+        "buildRadius": 72
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Aquacrown",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 82
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Aquarius",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 55
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Arule",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Atlas",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 85
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Atuin",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 110,
+        "buildRadius": 50
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Bonsai",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 99,
+        "buildRadius": 78
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Canopy",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 46
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Chronos",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 75,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Clearing",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 77,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Crumble",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Crystal Source",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 93
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Dawn",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 113,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Deadland",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 83,
+        "buildRadius": 89
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Deserted Dunes",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 79,
+        "buildRadius": 66
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Desserted Island",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 93,
+        "buildRadius": 76
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Dwarven",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Blossom",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Egg Isle",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 107,
+        "buildRadius": 93
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Farmers Dozen",
+        "festival": "EASTER",
+        "reskinOf": "SKYWARS|plateau_sw",
+        "minBuild": 0,
+        "maxBuild": 95,
+        "buildRadius": 75
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Farmstead",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 93,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mushroom Vale",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Pralines",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 89,
+        "buildRadius": 82
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Rustic",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 88,
+        "buildRadius": 46
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Shoompa",
+        "festival": "EASTER",
+        "minBuild": 0,
+        "maxBuild": 89,
+        "buildRadius": 61
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Elven",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 159,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Embercell",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 79
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Entangled",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Felkenheart",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 71
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Firelink Shrine",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 84
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Forgotten",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 104,
+        "buildRadius": 81
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Fossil",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 88,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Fragment",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Frostbound",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 83,
+        "buildRadius": 81
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Garage",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 86,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Garden Bed",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 92,
+        "buildRadius": 87
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Garrison",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 78,
+        "buildRadius": 72
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Glacier",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 95,
+        "buildRadius": 64
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Bastion",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|garrison_sw",
+        "minBuild": 0,
+        "maxBuild": 78,
+        "buildRadius": 72
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Desolate",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|fossil_sw",
+        "minBuild": 0,
+        "maxBuild": 88,
+        "buildRadius": 90
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Dire",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|shire_sw",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Jacko Malice",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|heavenpalace_sw",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 62
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Nightmare",
+        "festival": "HALLOWEEN",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sacrifice",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|tribute_sw",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Scaremorial",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|memorial_sw",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Selene",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|helios_sw",
+        "minBuild": 0,
+        "maxBuild": 84,
+        "buildRadius": 102
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Trepid",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|strata_sw",
+        "minBuild": 0,
+        "maxBuild": 129,
+        "buildRadius": 92
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Triffids",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|hibiscus_sw",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Undead Isle",
+        "festival": "HALLOWEEN",
+        "minBuild": 0,
+        "maxBuild": 98,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Undergrowth",
+        "festival": "HALLOWEEN",
+        "reskinOf": "SKYWARS|tiki_sw",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Witch's Brew",
+        "festival": "HALLOWEEN",
+        "minBuild": 0,
+        "maxBuild": 104,
+        "buildRadius": 81
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Hanging Gardens",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 98,
+        "buildRadius": 84
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Heaven Palace",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 62
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Helios",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 84,
+        "buildRadius": 102
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Hibiscus",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Jagged",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 108,
+        "buildRadius": 91
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Jinzhou",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Long Island",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 109,
+        "buildRadius": 89
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Embers",
+        "festival": "LUNAR_NEW_YEAR",
+        "reskinOf": "SKYWARS|martian_sw",
+        "minBuild": 0,
+        "maxBuild": 65,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Harmony",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 83
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Niu",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 107,
+        "buildRadius": 126
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Simiao",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 86,
+        "buildRadius": 74
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Magma",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 49,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Martian",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Memorial",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Metari Temple",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 71
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mont Golball",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mothership",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 96
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mountain Top",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mushy",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 112,
+        "buildRadius": 63
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mythic",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 90
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Mythos",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 95
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Nomad",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 131,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Oberon Towers",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 112,
+        "buildRadius": 120
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Oceana",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 90,
+        "buildRadius": 55
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Onionring 2",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 106,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Onionring",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 89,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Overfall",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 113,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Palette",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 96,
+        "buildRadius": 82
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Plateau",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 81,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Radis",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 93,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Railroad",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Redfang",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 97
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Roots",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 123,
+        "buildRadius": 69
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sanctuary",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 90,
+        "buildRadius": 135
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sanctum",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 101,
+        "buildRadius": 55
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Siege",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 133,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sentinel",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 81,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Shaohao",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 113,
+        "buildRadius": 90
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Shire",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Skychurch",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 129,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Steampunk",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 102,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Strata",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 129,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Stronghold",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 92,
+        "buildRadius": 64
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Submerged",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 65
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Aku",
+        "festival": "SUMMER",
+        "minBuild": 0,
+        "maxBuild": 90,
+        "buildRadius": 78
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Craboab",
+        "festival": "SUMMER",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Neapolitan",
+        "festival": "SUMMER",
+        "reskinOf": "SKYWARS|tribute_sw",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Paradise",
+        "festival": "SUMMER",
+        "minBuild": 0,
+        "maxBuild": 95,
+        "buildRadius": 61
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Summorial",
+        "festival": "SUMMER",
+        "reskinOf": "SKYWARS|memorial_sw",
+        "minBuild": 0,
+        "maxBuild": 94,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sunken",
+        "festival": "SUMMER",
+        "minBuild": 0,
+        "maxBuild": 89,
+        "buildRadius": 81
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Tain",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 88,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Tiki",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 92,
+        "buildRadius": 70
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Toadstool",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 133,
+        "buildRadius": 78
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Towers",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 106,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Tribal",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 79,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Tribute",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Tundra",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 121,
+        "buildRadius": 100
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Ukishima",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 97,
+        "buildRadius": 81
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Villa",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 128,
+        "buildRadius": 74
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Waititi",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 84,
+        "buildRadius": 65
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Waterways",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 88,
+        "buildRadius": 57
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Candylane",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 108,
+        "buildRadius": 84
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Congestion",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 79,
+        "buildRadius": 107
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Cookie Fest",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 78,
+        "buildRadius": 102
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Frostgard",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|tribal_sw",
+        "minBuild": 0,
+        "maxBuild": 79,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Fruitcake",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 121,
+        "buildRadius": 64
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Garland",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|railroad_sw",
+        "minBuild": 0,
+        "maxBuild": 111,
+        "buildRadius": 51
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Glazed",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 103,
+        "buildRadius": 68
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Ice Bourne",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|martian_sw",
+        "minBuild": 0,
+        "maxBuild": 85,
+        "buildRadius": 73
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Offering",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|tribute_sw",
+        "minBuild": 0,
+        "maxBuild": 105,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Plathohoho",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|plateau_sw",
+        "minBuild": 0,
+        "maxBuild": 131,
+        "buildRadius": 80
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Sugar Rush",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 103,
+        "buildRadius": 107
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Verglas",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|seige_sw",
+        "minBuild": 0,
+        "maxBuild": 133,
+        "buildRadius": 110
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Winter Retreat",
+        "festival": "CHRISTMAS",
+        "reskinOf": "SKYWARS|oceana_sw",
+        "minBuild": 0,
+        "maxBuild": 90,
+        "buildRadius": 55
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Wreath",
+        "festival": "CHRISTMAS",
+        "minBuild": 0,
+        "maxBuild": 103,
+        "buildRadius": 79
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Winterhelm",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 77
+    },
+    {
+        "gameType": "SKYWARS",
+        "pool": "SKYWARS_STANDARD",
+        "name": "Workshop",
+        "festival": "NONE",
+        "minBuild": 0,
+        "maxBuild": 91,
+        "buildRadius": 74
+    }
+]
