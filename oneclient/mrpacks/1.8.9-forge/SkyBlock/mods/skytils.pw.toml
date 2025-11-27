@@ -6,7 +6,7 @@ filename = "Skytils-1.12.0-pre1.jar"
 side = "both"
 
 [overrides]
-icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/skytils.png?raw=true"
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/skytils.png?raw=true"
 name = "Skytils"
 authors = [ "Sychic", "Lily" ]
 description = "Provides puzzle solutions, a reparty command, SkyBlock spam hider, among others."

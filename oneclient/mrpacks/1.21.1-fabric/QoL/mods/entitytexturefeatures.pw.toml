@@ -2,15 +2,15 @@ id = "BVzZfTc1"
 enabled = true
 hidden = false
 name = "[ETF] Entity Texture Features"
-filename = "entity_texture_features_1.21-fabric-7.0.5.jar"
+filename = "entity_texture_features_1.21-fabric-7.0.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/NqIDGf6n/entity_texture_features_1.21-fabric-7.0.5.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/j4aOsQzM/entity_texture_features_1.21-fabric-7.0.6.jar"
 hash-format = "sha512"
-hash = "619a971d820ef466e7b0cded21f7cb9721098dea8ae1d32a71f9cec2cdc9032e27cc6e778bea62071d18d27199943037772b84c90073b4c50924ed3fc4bdc1ad"
+hash = "3c87ae99ac2df55f3ccb559c6336a88a8778f526f04c112f9d0aaaad74b5119ce63d8c78060495da229e4a6a142e647a5187d5ecf2cbfcd2ef23d3c3864f7a92"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "NqIDGf6n"
+version = "j4aOsQzM"

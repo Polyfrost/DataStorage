@@ -6,7 +6,7 @@ filename = "preview_OptiFine_1.8.9_HD_U_M6_pre2.jar"
 side = "both"
 
 [overrides]
-icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/skytils.png?raw=true"
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/optifine.png?raw=true"
 name = "Optifine"
 authors = [ "sp614x" ]
 description = "Improves your game performance and lets you configure the graphics. Required by most mods and texture packs."

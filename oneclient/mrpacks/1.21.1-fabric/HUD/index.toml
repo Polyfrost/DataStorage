@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "e7adb8e4dfff16c3abbf61486913b002e81b878e586dbabac8f5fdd0de85799f"
+hash = "55a74df904b4f9f131d70db0f282efd527861451a0c0b1f7b0d641f5f8c0b979"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "420286708463c2875e5a6d45fe00c60aa974717847501d619fef3b66800252bb"
+hash = "679bb2939242e42c1e843375ba7416bbbeb86fd7148e8f26bf8418cfeb15e0c6"
 metafile = true
 
 [[files]]

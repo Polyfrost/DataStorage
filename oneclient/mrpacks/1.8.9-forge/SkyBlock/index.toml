@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/bazaarnotifier.pw.toml"
-hash = "29a2d57095e98b1e981937537becfd47584fff76d269ca197d69b02798841aaf"
+hash = "14cb11caab5a75a52b7aed752eeb6d0837855042c800db8ae0caffb2c6f54ced"
 metafile = true
 
 [[files]]
@@ -17,17 +17,17 @@ metafile = true
 
 [[files]]
 file = "mods/cowlection.pw.toml"
-hash = "3a58c2e6394af9088cec813710fbbf8a9be107ebf9108a239a3b5dcedd3b975d"
+hash = "5009c933e88edd118f7893f4f78d8d8e057619ad342cd94f7e8cf0e58850b87a"
 metafile = true
 
 [[files]]
 file = "mods/dankers-skyblock-mod.pw.toml"
-hash = "f5066dec7c0bbf002d1b34ff31322f86e27e756f04543d1d35d5b0b698c9ab7c"
+hash = "dd146edaed58f1b8e9f0aab9b10d17c02801e4e1f21f3bee09d79ddcd85df8d3"
 metafile = true
 
 [[files]]
 file = "mods/dungeonroomsmod.pw.toml"
-hash = "af9cd34d344c63e17e334a461044e53c4628d2ac1ff592ecffbae8cfb7cd7941"
+hash = "cbbfd2cf6d9b8e63411186fb3f29b9c2bc2bce1d16c20ae8afb688ef5ea28a83"
 metafile = true
 
 [[files]]
@@ -77,17 +77,17 @@ metafile = true
 
 [[files]]
 file = "mods/skyblockhud.pw.toml"
-hash = "44aa45b547aec3a55c4ca4eb11fa3e0dd4b679eea022af9f3de8a4786169a7c6"
+hash = "ebfd0ac1c75f04d98e98521928f479b62e6bfe83c5ae3080329aaf6eae90c4db"
 metafile = true
 
 [[files]]
 file = "mods/skyblockpersonalized.pw.toml"
-hash = "779aabfc2c1046b52147ba29d86a8ae0d7137e03b18da3c6e22715aa3c3b2fe5"
+hash = "57600c171a51f1d57ff6538faac3a83a4f80ea26f3c231312a69b485e64cbaf7"
 metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "5f701a98cf367474d116f8446b84364971f309eac3b40c25243ea2b47b1caf72"
+hash = "171cffcb5de5070e1037e2846218e2a62d837f08f35ab227862b4dde957d4bc6"
 metafile = true
 
 [[files]]
@@ -97,10 +97,10 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "d18ba75dcbd39a250e4eddff71cc9d1af7c75c3f1c2d999624d83cf08e85159d"
+hash = "ecbca76f29a2785b7198e3545c8c3c49ec220f88941390a7dbe5660f4576080f"
 metafile = true
 
 [[files]]
 file = "mods/skytils.pw.toml"
-hash = "effb6ec0575128f139ed7479fa88fc4fb4b98b070243d7fd877d68b5d97346d6"
+hash = "63036d98a560e0622900532c8a1143f689173115ec7a760e61afdefb1db704cd"
 metafile = true

@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/legacyskyblock.pw.toml"
-hash = "aa4b260ad7e4700aa615c0787bf614723fe58819995f3eb5b203935ad4429a15"
+hash = "6582791994d24571274dc39b234734cef271269ca6ebaa7ad43975e9b8e041cb"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "2ed50ff90641f0b7e2cac1b494ae536f1ebb459ab5f507a4fddd30107009f7e5"
+hash = "88b4989de4f3aadc54157aa38a66c356033cf1dd72873146a5ca6ca76574117d"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "55dc2a618421d096f5ed1e68ba1e940046fa35031354cb12d064de75a75df3b1"
+hash = "46175c402081703f5bd122e8ebcb68f4e528dac30242110a40f07f3ef4d647bd"
 metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "f82c6caaeec227c9b53c38cd6f8bc3edbf1ab82f12ec986bb571bfe1308afa0c"
+hash = "ffb9158fe90153bc1cf7dfca593e95e5db877ecb40d2163fc29515e96a66d881"
 metafile = true
 
 [[files]]
