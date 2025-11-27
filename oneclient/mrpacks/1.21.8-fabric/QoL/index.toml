@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7a2ce387639ce13bc4eacb37e29878b7b8d9795daf3f85890cab2fdefebc0317"
+hash = "4c79823570ea888e83e8998fffc112c6efca7f52e59171518c7492fddc3b81b8"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c54b6ca1b67603c4f631acb3618bcdad311f595f46eeb6fa24d57b916381d7aa"
+hash = "8e8d80d64e5e37c5d8e883cd6736da08287c84d625fe36348ba7f62682203c8d"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament-packet-fix.pw.toml"
-hash = "1999de74a4617a95f4ce9444c76803e222fb8c49389fbfee3a374e16175dc9d9"
+hash = "bdd9f0697416a350ac31eeb3bfea58722e523d53dfaedc3b7f1df0a4789fcf7d"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "c6bf62ee9994162dd750d790b88e897b35d5cbbbb96c90f55adc223edf0be09b"
+hash = "b65b478c533100542f592cd53d5ed60833dd949f9063de4179aaa7ce50f4cf38"
 metafile = true
 
 [[files]]

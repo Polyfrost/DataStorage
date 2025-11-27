@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/apec.pw.toml"
-hash = "a5bba815c4a897ab645b022be4923bbb9149a5a24aa134b3324ecd9f2d416e44"
+hash = "113a7466b8e913e8a426544414f9d056232eb2c88f2207f0a88a0fe24904ae5f"
 metafile = true
 
 [[files]]
@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/chattriggers.pw.toml"
-hash = "16ce993bccd9bf00eb1e704bb773bda87ca834ee35767290264d604132b24cfd"
+hash = "a31cc708911f2a33a914287c54d35d023e97f721b9fa9e51e91be22f1ff7cf87"
 metafile = true
 
 [[files]]
@@ -32,47 +32,47 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "0dec89507172364298a5db00137858b6ed7a6a2f1edd236c20cdf0a7bdcc091d"
+hash = "efa82157c5bf9d39a62afb6f40309c6bc9b32ee2e1deb5312cd036b335cb1381"
 metafile = true
 
 [[files]]
 file = "mods/fancy-warp-menu.pw.toml"
-hash = "92438fc8feea95cc9d9026de6460f027b67de33b3b70037296115e429b576a0a"
+hash = "3e22bc0875e84f3f02ba94827f2c09bf06e485e0e6e7c7c7ca75cb367304a469"
 metafile = true
 
 [[files]]
 file = "mods/notenoughupdates.pw.toml"
-hash = "d1de78cd19ce74b1dece68c8daf561600b9c7c0f6df1dc480e2bd892845d3dbe"
+hash = "66db6dcdbe0dee5ef887741d1ed9cd929e6141e8d394b69e68ac46cc0c598b9a"
 metafile = true
 
 [[files]]
 file = "mods/overflowparticles.pw.toml"
-hash = "7a3561100a1c88678a71fe0ab8a106c975273ead0087a1aec65049edafbb2e06"
+hash = "9aed01829e028fb8c621e04194f2c871a881c17ebd802cd687b8492f911fa14e"
 metafile = true
 
 [[files]]
 file = "mods/partly-sane-skies.pw.toml"
-hash = "744040d28198e240c5d1bc4654fc9fa890d428a88838efb0350a1fdf5192f726"
+hash = "fbf9e8baf1f55a0e93f87b0593993788e78dbec9733e076b5cfdfd1f40cd54df"
 metafile = true
 
 [[files]]
 file = "mods/scatha-pro.pw.toml"
-hash = "31841458c3ad0f937daf2936806edd821cd81f3e7f5e2ab04335cd0566dbaa5e"
+hash = "5971148075fb1fd0a178f54693128cc29652858084999808f0cd69c351289c29"
 metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "6f845638ebc3d4faf271e7498486441908057514b7d52636e1ce10d486f4e5e2"
+hash = "f7aecaf715d2a6dbd027d348e8ceeef5a3ef5a90c87ede29db53651e3bd1f595"
 metafile = true
 
 [[files]]
 file = "mods/secret-routes-mod.pw.toml"
-hash = "3cc5270ced9ba784ee333924c344ab8221fd1e859087dc00445fbec138f4f614"
+hash = "1deecba30ae37400ca6a5224b8dd7ceb0185ed2ad80234ff20321d222c656e8a"
 metafile = true
 
 [[files]]
 file = "mods/skyblockaddons-unofficial.pw.toml"
-hash = "b4093592a34411d15ce1f038bdea49776e5c3ac708ac0065c231fe442176aca6"
+hash = "fd812e9c5176547a7f78e9d1dc499e414a12daaaef5afb0fd67535d1548786f5"
 metafile = true
 
 [[files]]
@@ -87,17 +87,17 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "4558c5b91a8d294dec260b919104faf5c5c6b6c9cff20b928581579a4c872c00"
+hash = "171cffcb5de5070e1037e2846218e2a62d837f08f35ab227862b4dde957d4bc6"
 metafile = true
 
 [[files]]
 file = "mods/skyguide.pw.toml"
-hash = "2344da783effa8dfe5177e2ce6c497c140f871c825ebd81ba58620a294f468bf"
+hash = "643b607661ea302362444aa0bc20e40761cd3d993a29ae9a63529454f87afa63"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "f7efc5d3ab374493c14e96e463defa1fc7689de590d878f48172acc0e41db15d"
+hash = "ecbca76f29a2785b7198e3545c8c3c49ec220f88941390a7dbe5660f4576080f"
 metafile = true
 
 [[files]]
