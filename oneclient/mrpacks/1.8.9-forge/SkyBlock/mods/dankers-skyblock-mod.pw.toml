@@ -6,7 +6,7 @@ filename = "[MC 1.8.9] Danker's Skyblock Mod - 2.3.1.jar"
 side = "client"
 
 [overrides]
-icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/files/icons/dsm%20logo%20cropped.png?raw=true"
+icon = "https://github.com/SkyblockClient/SkyblockClient-REPO/blob/main/v1/icons/dsm%20logo%20cropped.png?raw=true"
 
 [download]
 url = "https://cdn.modrinth.com/data/QzpBqSX9/versions/33yTVI3o/%5BMC%201.8.9%5D%20Danker%27s%20Skyblock%20Mod%20-%202.3.1.jar"
