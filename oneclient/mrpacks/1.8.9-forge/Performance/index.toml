@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "4dad52a4be668554ae0b74e40218c36740958995caa5aae723e01f042a626b68"
+hash = "396913ba271e4b1ef57cd0d7fde164ef00d9d6305e812f60e1090df910bb44b6"
 metafile = true
 
 [[files]]

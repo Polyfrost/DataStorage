@@ -11,7 +11,7 @@ update-url = "oneclient/generated/utility-1.8.9-forge.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8253e5a4e2ac8d88b4b16bdd0fbe93dab1964102df67515af96f8de5358dcdbd"
+hash = "04e862a1ffa0a61f82beee99e782e81012ac6f8249109873335f36aa2099dd1b"
 
 [versions]
 forge = "11.15.1.2318"

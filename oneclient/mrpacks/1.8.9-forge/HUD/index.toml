@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/potioneffects.pw.toml"
-hash = "9354633828cb1ad94c23f862ab2c320341f359069dc442efa2e53f5a0e878d6c"
+hash = "bb49a735cb5ade951ab2cf07b19a866c4a0332dc69909d873b259a7e78869ed8"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsubtitles.pw.toml"
-hash = "8f6c8187d8be797cca7821ed5574741a94745122e9a766c16a423c0fac07ad9f"
+hash = "107e509c42607807c9bd8edc0bd4fc4b37a413e47f9ab7564ab20c21228c2f4c"
 metafile = true
 
 [[files]]

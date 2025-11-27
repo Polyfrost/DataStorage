@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/arrowpath.pw.toml"
-hash = "6adb90150422a465debc71a4b7068a0f22b0a7610e05619c45ffe350ccf7e068"
+hash = "63afd4b32ce04d6d677f7d2f58b893a5fcb04f5ec2336670b573fba44b6d6723"
 metafile = true
 
 [[files]]
