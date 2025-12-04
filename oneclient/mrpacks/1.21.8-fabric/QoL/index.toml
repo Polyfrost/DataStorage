@@ -146,6 +146,11 @@ hash = "8a59d8637f16848e695306086fcc9a5b642798d26c53e34e729eceaf062005d9"
 metafile = true
 
 [[files]]
+file = "mods/idontwannascrollagain.pw.toml"
+hash = "28b72847ecd3d667330c7909d0e5a6da5ecfa80f17be7fe6a6037edf716d41a5"
+metafile = true
+
+[[files]]
 file = "mods/jsonem.pw.toml"
 hash = "210d8df7c828ff25f6dda797be006dac87f51e17d028222712ff2c358d3d96d2"
 metafile = true
