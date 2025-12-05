@@ -32,17 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "160ee0d7d1b6348589319360c459efea7a50a5476f713fd9b6c33af21d02e670"
+hash = "1ce0eea83debc17f3639af50dd05d93a8825ebbad02dc0210af864cb268981a7"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "accd2c7d17e712599db11a4e6c7a08d397bd33e3e6ced0a05519669ef9753756"
+hash = "a2370266d026e2820d5fbc8b33831625ec03fa2490104210be887e2382224726"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "260be3587d902b573faedce847acc4d944b33bd38b029ea5ddfcfcba3b7dc72c"
+hash = "8c10767fc3f4747eae0cc24d427e6cd88d547cfcb87afe7d60ec6da720cc0622"
 metafile = true
 
 [[files]]

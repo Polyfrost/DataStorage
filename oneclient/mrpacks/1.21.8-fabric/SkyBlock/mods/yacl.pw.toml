@@ -2,15 +2,15 @@ id = "1eAoo2KR"
 enabled = true
 hidden = true
 name = "YetAnotherConfigLib (YACL)"
-filename = "yet_another_config_lib_v3-3.7.1+1.21.6-fabric.jar"
+filename = "yet_another_config_lib_v3-3.8.0+1.21.6-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/WxYlHLu6/yet_another_config_lib_v3-3.7.1%2B1.21.6-fabric.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/XrJR9TSj/yet_another_config_lib_v3-3.8.0%2B1.21.6-fabric.jar"
 hash-format = "sha512"
-hash = "838f57724346a295ed82eba0e9e94880273cc20a7b7825f5d17cac711989311aa4040c61964e9c4a18ef56dba5ec066d3537ad540196eed66c6a56940ac9a1fa"
+hash = "dba03c9b419c7512a0d6a5eb1ee109b187290842e3add06b6c268b147601fd62be8cfef2333bcadce415df4f3f993e631523f4f0974cfd60ee3c0102f8af2088"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "WxYlHLu6"
+version = "XrJR9TSj"

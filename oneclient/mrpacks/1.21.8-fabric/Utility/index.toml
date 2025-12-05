@@ -42,17 +42,17 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "7987ea5dd452c99e88ba1ac9960393e3e3d4efd24abc58068c7411218a2a0084"
+hash = "968f1961472a5b770c357e3265f4eb3e9794213bbce1df11528762ca447178e7"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6440cf4e68e958b086f49167bdce48083fef44848b2c4e6a61bbfd90ff7685eb"
+hash = "0f9639430894581a1fc15b8a741b4f432ca756de52ff9a4d7623187036cb955f"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "543ca6c0d8e6d45677eb80172fa04dd396ee4225a216bed8facf49b9ec0ba3da"
+hash = "cfe60068ae6ca5aacb5e20e40dea853ec18add08f7fac0db69001185dabed7be"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
+hash = "99aa97ac2385770b55de77865426e69e8344d92cfa12ce1abeab8719189350ef"
 metafile = true
 
 [[files]]

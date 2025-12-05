@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "e5addaf572a739e71774db0e1074500f28d5200adc302cb203c444412b3702bd"
+hash = "947c73c99814e6d2885a6c8951172771c9b6755b91a026c03daee7f79b97b117"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "3229ae8429589e02efccb52d63633c491afd344cc4bac4e911cfd21e4baa5191"
+hash = "52c41d04669fe8498cada8ba3abb42ba0d2c9ca29f9afe513f11ab4ddbe76b71"
 metafile = true
 
 [[files]]
@@ -182,5 +182,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c056d4d548afba28d6d3b6899dca94119d36b556dc72c15853f41830ba983639"
+hash = "99aa97ac2385770b55de77865426e69e8344d92cfa12ce1abeab8719189350ef"
 metafile = true

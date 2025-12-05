@@ -2,15 +2,15 @@ id = "65UyswbY"
 enabled = true
 hidden = false
 name = "Command Keys"
-filename = "commandkeys-fabric-2.3.15+1.21.1.jar"
+filename = "commandkeys-fabric-2.3.16+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/65UyswbY/versions/yK42jJTC/commandkeys-fabric-2.3.15%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/65UyswbY/versions/7C7Uqqsc/commandkeys-fabric-2.3.16%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "cadefafa77cd23e340592320bf2ef5d0beea655b63200bfb731a9632aca0e71f3109a9c2e1016636df8934445c73e0e559e37a362159cd517656707a3dcc3298"
+hash = "c71dfdd3b6aad0ec5c0d40b1054e5e135c026dffd0dc5cb5c5fba85e7ca0e7f930fd03ceffe6ba8e07c0d1c3dc1cd54755a37be22010de950c33c40ba28efa42"
 
 [update]
 [update.modrinth]
 mod-id = "65UyswbY"
-version = "yK42jJTC"
+version = "7C7Uqqsc"

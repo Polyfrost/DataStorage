@@ -2,15 +2,15 @@ id = "pQFm0mAJ"
 enabled = true
 hidden = false
 name = "TNT Time"
-filename = "TNT Countdown-1.4.0.jar"
+filename = "TNT Countdown-1.4.1-alpha.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/O3frdQJq/TNT%20Countdown-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/pQFm0mAJ/versions/9cIl6FAv/TNT%20Countdown-1.4.1-alpha.jar"
 hash-format = "sha512"
-hash = "1cb42949d5a89c5bb3a0ef3717cfe67f912bf99ec593fd2ad43c8375739095553ef67031d91d6d1156db25d1b1eaf203edbbd0d31432d38d7c3071802314e962"
+hash = "42653418c5ee3cb9e801ad083027386e6383c5b45065481a215ef27b79a2d639ff96b694a28a009bec68f9a15ccb022c34fec517c6692ef53bfce794027691e0"
 
 [update]
 [update.modrinth]
 mod-id = "pQFm0mAJ"
-version = "O3frdQJq"
+version = "9cIl6FAv"

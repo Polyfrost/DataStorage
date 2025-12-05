@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/tnttime-oneconfig.pw.toml"
-hash = "b66a2e360adee6e5bf9a7fbdfbaeca2c4a590dd725cbdc1ad33e50b6683bda3e"
+hash = "cd0c8e6643a2e22d715de102ac390ddee714d46e1362f0b7955ff6638e7a50a2"
 metafile = true
 
 [[files]]
