@@ -6,6 +6,11 @@ hash = "1b015241f9cf8d800b3261107e05862ae4487edb552538d0ebd4449b8e93dbc0"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "f13f5c620cbd03e30a1f974b69f18f1e4ae7f6e2427b31c3eba822bfd1f9f0ef"
+metafile = true
+
+[[files]]
 file = "mods/audio-engine-tweaks.pw.toml"
 hash = "54084808a66fae7c584fb4dc91a30d008fcbe3eedb3c0c52b35fee20b5069c27"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "5156e1874268d203aa7a305d95c0e4635e3a6620ee23ccca5cc2696c04f6b555"
 metafile = true
 
 [[files]]
