@@ -1,0 +1,16 @@
+id = "rizRiwPL"
+enabled = true
+hidden = true
+name = "ImproperUI"
+filename = "ImproperUI-1.21-0.0.6-BETA.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rizRiwPL/versions/7DS4gH7P/ImproperUI-1.21-0.0.6-BETA.jar"
+hash-format = "sha512"
+hash = "e7a59c678f733fcdbb804318d980a1c68cc8349966d4a064b1b167794d164ae3a13e99563fb16c182dfd96bc572e53c48a252f04605be660cf6ab550fe4b35aa"
+
+[update]
+[update.modrinth]
+mod-id = "rizRiwPL"
+version = "7DS4gH7P"

@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "overrides": {
+        "idontwannascrollagain": {
+            "-depends": {
+                "minecraft": "IGNORED"
+            }
+        }
+    }
+}

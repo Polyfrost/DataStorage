@@ -241,11 +241,6 @@ hash = "a5c0a91308a5dba8a879c38d9defd9bfb4cbb78001252bd33bcb90f2fc932247"
 metafile = true
 
 [[files]]
-file = "mods/simple-nick-hider.pw.toml"
-hash = "d7c58434f1abd7170a937ab0d594a7f78068c6cda83276f04526a2fe0831a1b1"
-metafile = true
-
-[[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "04c6d913c61f07b00db7b2f401356aa7c2f1eeeee8c664cf13b88a66499ed9bc"
 metafile = true
