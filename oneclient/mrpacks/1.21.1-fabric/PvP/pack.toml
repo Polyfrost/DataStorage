@@ -11,8 +11,11 @@ update-url = "oneclient/generated/pvp-1.21.1-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "980dad0e4bd329bdfa54f1c8dfd85dd7fb3cad04a9a44cdbe97851185aacc4b3"
+hash = "9b768e4bfdc2e82500899cf5798c58bbd4345f433935e2fa5a3553f7a6398ba0"
 
 [versions]
 fabric = "0.17.2"
 minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = []

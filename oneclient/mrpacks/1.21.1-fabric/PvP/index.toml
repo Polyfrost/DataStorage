@@ -16,6 +16,11 @@ hash = "d6fa16a0824b7bec0b2e3438fba995dbcddb6586bdec71e7aeca5bf58e199a88"
 metafile = true
 
 [[files]]
+file = "mods/improperui.pw.toml"
+hash = "1265af291c131b170d06f789228bfc35e4b37a224cb6262b33a9abebddc1def7"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "7a50a38e40b8d9ab694892816d2550f17d0f8bb3c8fc3a13f9bded75369f91b3"
 metafile = true

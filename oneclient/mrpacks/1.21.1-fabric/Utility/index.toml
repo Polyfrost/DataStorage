@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e241b319addd76573d10f56db272297d055e13958a5b977d20e3d6d5eb922b01"
+metafile = true
+
+[[files]]
 file = "mods/audio-engine-tweaks.pw.toml"
 hash = "1ae3fb4165fff2c052f343930604f522dc4abea316205cc85c07200352a3a8ec"
 metafile = true
