@@ -2,15 +2,15 @@ id = "ix1qq8Ux"
 enabled = true
 hidden = false
 name = "Crash Assistant"
-filename = "CrashAssistant-fabric-1.21.5-1.21.10-1.10.24.jar"
+filename = "CrashAssistant-fabric-1.21.5-1.21.11-1.10.27.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/iODXrLl2/CrashAssistant-fabric-1.21.5-1.21.10-1.10.24.jar"
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/TYP7kBS1/CrashAssistant-fabric-1.21.5-1.21.11-1.10.27.jar"
 hash-format = "sha512"
-hash = "0e40e07864d0f1d263b8a0ccf83681b9c22a7a00bd962f3c8f78280bb441fa13f27c97a43f05a0d210c28aba46424094c5f9b104cdda3714a6ede3c62889c5be"
+hash = "31093afefa3b63b56761db940af708c6258637559bb8c81315dd6d5d460cb59e8778f1dd91e1576e9c24297d4c3d802db1bc9364b9e92a7936e0e13554668ab6"
 
 [update]
 [update.modrinth]
 mod-id = "ix1qq8Ux"
-version = "iODXrLl2"
+version = "TYP7kBS1"

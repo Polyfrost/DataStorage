@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b65b478c533100542f592cd53d5ed60833dd949f9063de4179aaa7ce50f4cf38"
+hash = "75998ace3f1ddc3b973ce2e79d91fdadbdc3f393bb107c742c28f052d185e90f"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/tiptapshow.pw.toml"
-hash = "c7878767163469162ecaff1170478772a4a3d89d3b8c0f86501b1d4dc89a7b13"
+hash = "60caedfb98f7c4535c73c526606ed99e4f2f087388e3155257dac591937462d1"
 metafile = true
 
 [[files]]
@@ -72,5 +72,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "99aa97ac2385770b55de77865426e69e8344d92cfa12ce1abeab8719189350ef"
+hash = "46987b23d1c32199c3bb4db30ceca4a5260917a12c383e712a23f0736716a86f"
 metafile = true

@@ -2,15 +2,15 @@ id = "g96Z4WVZ"
 enabled = true
 hidden = false
 name = "BadOptimizations"
-filename = "BadOptimizations-2.4.0-1.21.6-21.8.jar"
+filename = "BadOptimizations-2.4.1-1.21.6-21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/swjXZyGP/BadOptimizations-2.4.0-1.21.6-21.8.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/9s4ZpGFq/BadOptimizations-2.4.1-1.21.6-21.8.jar"
 hash-format = "sha512"
-hash = "b079eae30a46d53eec16b9d4dc30c7b876090a29e4e5ac4b291d2bc1b8b7e4673b3378b7cb74c049d750f91cc8762cff5905133d4e45b73484fc1949905bed8a"
+hash = "74b460bb0792e00b5da906f17dba004232268074800c20fd1f365a3550723b9966c068eb66549b1cf74934ab3a84ae31a1b8f1359d3e41d2e179f577dda679a9"
 
 [update]
 [update.modrinth]
 mod-id = "g96Z4WVZ"
-version = "swjXZyGP"
+version = "9s4ZpGFq"

@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "342dbfea1eb1da77369eb859ef22afc55732a7cdeface9a46b63bf4c1c4007d1"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "e63e78eccd0723f06588bfdd0bd04ce99da973e988dedc282032b8c8f34b5cc4"
+hash = "b8c52ee06f6319fc2249c2f9fdc21a8946baa8651daf32542e2eb49b0d9aadd1"
 metafile = true
 
 [[files]]
@@ -102,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "27bc6bd30ab5cc97aeff4311935fb55f47026b8751e07ea2fae0427788d0d126"
+hash = "1947934b5b8ab3b1646e3c5d83dc55db802d3cf0b1a115d96052827b5c75694d"
 metafile = true
 
 [[files]]
@@ -127,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
+hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
 metafile = true
 
 [[files]]
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b65b478c533100542f592cd53d5ed60833dd949f9063de4179aaa7ce50f4cf38"
+hash = "75998ace3f1ddc3b973ce2e79d91fdadbdc3f393bb107c742c28f052d185e90f"
 metafile = true
 
 [[files]]
@@ -187,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "b3f55b6bc5366e280c3c50f9c9be3318ee306742211630e82269a23929768fe8"
+hash = "c08e7c09f9baa6a7d55041d6c438c7183fe66d3bd496900c4f1113a779428a4f"
 metafile = true
 
 [[files]]
@@ -302,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-perfected.pw.toml"
-hash = "d5c865358f8854a00af3d7bbbbc364465eb0c3b3e99e82b4a0259d7dd3172e5e"
+hash = "be5556c6b3bb9bdb538e5971be0fc6269cd1b70056093c8d00976c6cc3a5b52e"
 metafile = true
 
 [[files]]
@@ -332,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "1837e5e7618a47fea93f0b6db84430a60b11c3e99475f66a7a233bf13f9dd2d1"
+hash = "b3247c5f20d5d64a31fc6afb23b7f67445d59155da0554ef3912f12bb3509138"
 metafile = true
 
 [[files]]
@@ -342,12 +346,12 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "f853c25b26744d98a2f5dd1d3c2ac227e735142cd8f3a1d5081cb01826148ae3"
+hash = "db18ff8a6f60c338fa7cc66da953fa5db2408bb119543df303fb10314aeee990"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e45fb620d89a746476bf333157da8e4319570187bdbeb8d1317670a444a01a31"
+hash = "6338645211edf9e1d8d740304cbf565c0d0441d223a03b6ca51305a5f1533373"
 metafile = true
 
 [[files]]

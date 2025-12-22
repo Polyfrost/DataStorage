@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "c81477832e76b3d23b5e8a9043f7a16a09b4f80e8ab4a0d961bfc9bf1a180dee"
+hash = "bceef1ff8d0e144d32ea31964e38f52f422c56919f219f27c413b9da496a78de"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f0ea0e88011db14d397f92be2136ef6201a2e249f7a9e78d3630d3636036bb96"
+hash = "67e24b37c2e061f5d39c73830e5d6c265e61166e9865284412f10a181e1165f7"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
+hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "b5606fd703c6d942f1843475dedad447fc82824a2b171668089105c128a28c25"
+hash = "d6044f19e23d380f2ad52ba69ae61c62a949b560fc9326dada59592f741b40e6"
 metafile = true
 
 [[files]]
@@ -77,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "660aea0c6f367093c9c17052556a25144932b32f0b406be7dabd618e747d34b3"
+hash = "93a6b13898ed9790f834a709c79bd14875a349b519c35035c6e1bd854707b6c8"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "17a533eb33ce82765798de7440fd30e179f663dc0ae3926858f80e6f22556aed"
+hash = "bdd1b8593018f23dfd47fd2c3e7011c7fbfc710b034f11b7fd9348ed47fac658"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8882c008c5a411631e4eeaf1105c6bb74f69a526e3c457296926d4590e0ffb54"
+hash = "17b01dfb4b65158e2ec61de28c3466ea567d38c803928d2b0f359cd4baac9318"
 metafile = true
 
 [[files]]
@@ -167,5 +167,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75e9c5ac0a39cee67465a78c31963e6090fe6dba0ea00731b726af2103fb91e0"
+hash = "cff1e44974ed93fb60101173bddf5bd52f6ff72a4de55ceacec82af5fd903a1d"
 metafile = true

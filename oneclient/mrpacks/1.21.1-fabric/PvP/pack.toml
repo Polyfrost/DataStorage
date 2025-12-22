@@ -11,7 +11,7 @@ update-url = "oneclient/generated/pvp-1.21.1-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b768e4bfdc2e82500899cf5798c58bbd4345f433935e2fa5a3553f7a6398ba0"
+hash = "9d055fb3f84e186b10d5c5a831e36b2ea43e486013d0f8831a8aed833711c8bf"
 
 [versions]
 fabric = "0.17.2"

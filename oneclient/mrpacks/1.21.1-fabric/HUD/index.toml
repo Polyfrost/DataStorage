@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "679bb2939242e42c1e843375ba7416bbbeb86fd7148e8f26bf8418cfeb15e0c6"
+hash = "f3cf24f6f5cb8572c0006d3f8aaaa3e743468c5afac9de40eb07cdbdb5e7463f"
 metafile = true
 
 [[files]]
@@ -67,5 +67,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75e9c5ac0a39cee67465a78c31963e6090fe6dba0ea00731b726af2103fb91e0"
+hash = "cff1e44974ed93fb60101173bddf5bd52f6ff72a4de55ceacec82af5fd903a1d"
 metafile = true

@@ -2,15 +2,15 @@ id = "p8RJPJIC"
 enabled = true
 hidden = false
 name = "Ixeris"
-filename = "Ixeris-3.8.0+1.21.8-fabric.jar"
+filename = "Ixeris-3.8.2+1.21.8-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/SGBzv2Da/Ixeris-3.8.0%2B1.21.8-fabric.jar"
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/dSZMgWML/Ixeris-3.8.2%2B1.21.8-fabric.jar"
 hash-format = "sha512"
-hash = "0b64b98b1552887975e0f0567fbed60ca92a8d37427ed253a742be4b3e5156e03fd6c37c304e05e91475f3120986d2522a28ac0509fc9c618811eb8f589be86e"
+hash = "fbab23c2965a8565aa8b207617e5c8fe90bdce3ea052d297332e41a76d4b9f184c71b4b279a50af6eb936fe43f116c700a3dc30343035fd049d5171bfd24d08a"
 
 [update]
 [update.modrinth]
 mod-id = "p8RJPJIC"
-version = "SGBzv2Da"
+version = "dSZMgWML"

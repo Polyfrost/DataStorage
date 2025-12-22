@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/secret-routes-mod.pw.toml"
-hash = "1deecba30ae37400ca6a5224b8dd7ceb0185ed2ad80234ff20321d222c656e8a"
+hash = "1198b076fd72f3ed23473a79a93bc4769f115d345be69a792f2edda1f8a3c9e5"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "4558c5b91a8d294dec260b919104faf5c5c6b6c9cff20b928581579a4c872c00"
+hash = "adf903a0e418c3a03b16ff1ba9aaa50664676173a6de033065a028b4f0f61ec8"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "379cf4ea482a619177e46dbc7f4d81a9031ccf140b71a46421967c1cadff512d"
+hash = "61297a4598bbac21902c40a90ab2fbe8f8c0e0257aa94bd8a082cbbb903320eb"
 metafile = true
 
 [[files]]

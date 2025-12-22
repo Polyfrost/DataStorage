@@ -42,12 +42,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "a2370266d026e2820d5fbc8b33831625ec03fa2490104210be887e2382224726"
+hash = "c1be4c38ca23abbec61a529e3f303db9ca52928c508168b0cd51cdc84d3d30b6"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8c10767fc3f4747eae0cc24d427e6cd88d547cfcb87afe7d60ec6da720cc0622"
+hash = "28c0771bcc9d3308722d25ab20557b5acd09ab9daa4e4663e4041ebd7916f359"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4c1e84bb95c1b6955ed51373e41ab9b58a89bbdac3119c0b0fdd04edbb1ffd6d"
+hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8ac3a9021671b1d8d40f0f4279a999c0361a14fc2946f3d541860f5e8540720"
+hash = "a0c82d0cb02883133d34c0a14afacdeb2fbb51ad883937aed3547146e2f4783e"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75e9c5ac0a39cee67465a78c31963e6090fe6dba0ea00731b726af2103fb91e0"
+hash = "cff1e44974ed93fb60101173bddf5bd52f6ff72a4de55ceacec82af5fd903a1d"
 metafile = true
 
 [[files]]

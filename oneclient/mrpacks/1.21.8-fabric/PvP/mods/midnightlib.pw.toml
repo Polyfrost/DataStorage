@@ -2,15 +2,15 @@ id = "codAaoxh"
 enabled = true
 hidden = true
 name = "MidnightLib"
-filename = "midnightlib-fabric-1.9.1+1.21.8.jar"
+filename = "midnightlib-fabric-1.9.2+1.21.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/OdTASbqw/midnightlib-fabric-1.9.1%2B1.21.8.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/R5nMR23e/midnightlib-fabric-1.9.2%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "35cd76f4ded62d5a690203fd7464bbee67595d08f83680a29200379e6494ab557f285b638e7d138c3e6b245ae1c285e53f38a38bc4778a713a885ab8df22e57b"
+hash = "d588476328ab8be92ef8463ebd63dd7317eaee5b7ebe24d67e44153883872c2a0cfa6de77e59f8980201c6d21359086d6e82d3918e389b1919a655baddda3f90"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "OdTASbqw"
+version = "R5nMR23e"
