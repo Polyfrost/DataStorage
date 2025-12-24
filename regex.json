@@ -24,7 +24,8 @@
         "^ +Player of the match: \\w+ \\(\\d+ Goals\\)$",
         "^\\s*?.+ WINNER!  .+$",
         "^\\s*?.+ Bridge [a-zA-Z0-9]* - .+$",
-        "^ {6}#1 (?:\\[.+] )?(?:.{1,16}) \\(\\d+:\\d+:\\d+\\)$"
+        "^ {6}#1 (?:\\[.+] )?(?:.{1,16}) \\(\\d+:\\d+:\\d+\\)$",
+        "^ +(?:Survivors \\(\\d+\\):|Nobody survived!)$"
     ],
     "en": {
         "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
