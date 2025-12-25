@@ -1,5 +1,5 @@
 id = "soundsubtitles"
-enabled = true
+enabled = false
 hidden = false
 name = "Sound Subtitles"
 filename = "Sound Subtitles-1.2.2 (1.8.9).jar"

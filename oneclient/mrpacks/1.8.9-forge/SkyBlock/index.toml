@@ -2,22 +2,22 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/apec.pw.toml"
-hash = "113a7466b8e913e8a426544414f9d056232eb2c88f2207f0a88a0fe24904ae5f"
+hash = "cab1963aca907b46ecc699c3b4ff2ccdcd81662f550a3e8af100cbb6510eaedb"
 metafile = true
 
 [[files]]
 file = "mods/bazaarnotifier.pw.toml"
-hash = "9cb3775c1c247507ef33bb11399a862257e8b2702d2186839644a0f85588a1df"
+hash = "7c193d7b84c1091d7b7857f80a4ec8480b3c6383abe323ec3d35527b9b2935cf"
 metafile = true
 
 [[files]]
 file = "mods/chattriggers.pw.toml"
-hash = "a31cc708911f2a33a914287c54d35d023e97f721b9fa9e51e91be22f1ff7cf87"
+hash = "80cf491bcff905ef0bffcb62349836c99d3701a121fad93ce1c18eee3331fb34"
 metafile = true
 
 [[files]]
 file = "mods/cowlection.pw.toml"
-hash = "bf2cd6ca0f89e29230d1c0f597ac73eaa2a84659f8ca16d9af616a092c979265"
+hash = "dec4b9909a44586e9be9a17d06c12b974249003bdb9c17fa7628bad6b087f5cd"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/dungeonroomsmod.pw.toml"
-hash = "385d8fd51a65607c0b675f5e0e6f26f5e6ef630d3cfb9ee58bc020204f44046e"
+hash = "a737ff968a32d1529b7a2dbcdbaa57f920a1df1f4acd6caff40660ea2d6dd2dd"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-guide.pw.toml"
-hash = "efa82157c5bf9d39a62afb6f40309c6bc9b32ee2e1deb5312cd036b335cb1381"
+hash = "a7699e15e44ff12c88cbe8ad7e991a08f856274a0256eb2dce0a089704c31d09"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/partly-sane-skies.pw.toml"
-hash = "fbf9e8baf1f55a0e93f87b0593993788e78dbec9733e076b5cfdfd1f40cd54df"
+hash = "5dc2b8031038724c1dd3ad63a882f86966f08995fe7dad5238d56ea0a0a657ee"
 metafile = true
 
 [[files]]
 file = "mods/scatha-pro.pw.toml"
-hash = "5971148075fb1fd0a178f54693128cc29652858084999808f0cd69c351289c29"
+hash = "1f5a1dbd47877bae7f04f720a12adb6ea886ed5672aa4e66a30b09fc29e61c32"
 metafile = true
 
 [[files]]
@@ -87,12 +87,12 @@ metafile = true
 
 [[files]]
 file = "mods/skycofl.pw.toml"
-hash = "adf903a0e418c3a03b16ff1ba9aaa50664676173a6de033065a028b4f0f61ec8"
+hash = "aef20a7d7d162e6e2a7e5b674ac10ce027f9995d52b5166c8acc4c7fc6736b3d"
 metafile = true
 
 [[files]]
 file = "mods/skyguide.pw.toml"
-hash = "643b607661ea302362444aa0bc20e40761cd3d993a29ae9a63529454f87afa63"
+hash = "59f12ec8a5261b6e55ef58a21aa6203a92db39847b123fc35dbb0c3beb062fed"
 metafile = true
 
 [[files]]

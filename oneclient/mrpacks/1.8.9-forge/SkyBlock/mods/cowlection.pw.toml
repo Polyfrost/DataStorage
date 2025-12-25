@@ -1,5 +1,5 @@
 id = "cowlection"
-enabled = true
+enabled = false
 hidden = false
 name = "cowlection"
 filename = "Cowlection-1.8.9-0.16.1.jar"

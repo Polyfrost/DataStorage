@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsubtitles.pw.toml"
-hash = "107e509c42607807c9bd8edc0bd4fc4b37a413e47f9ab7564ab20c21228c2f4c"
+hash = "c571fc1970e1db41d56843fcc4cdc8564923678d9a9146d038f7ada0484d62ea"
 metafile = true
 
 [[files]]

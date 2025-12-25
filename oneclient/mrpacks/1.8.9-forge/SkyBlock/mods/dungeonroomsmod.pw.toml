@@ -1,5 +1,5 @@
 id = "drm"
-enabled = true
+enabled = false
 hidden = false
 name = "dungeonroomsmod"
 filename = "Dungeon_Rooms-3.4.1.jar"

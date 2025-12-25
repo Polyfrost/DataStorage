@@ -11,7 +11,7 @@ update-url = "oneclient/generated/hud-1.8.9-forge.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "31dc5953aa6cd2a0129ba1b6869054d232d6cbdf438f2289200fe865d1d38ac4"
+hash = "bcb44cb0eb15d1e25614195999997ca06388fd3be32516c552147e44748a122b"
 
 [versions]
 forge = "11.15.1.2318"

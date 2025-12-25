@@ -1,5 +1,5 @@
 id = "smooth-scrolling-everywhere"
-enabled = true
+enabled = false
 hidden = false
 name = "Smooth Scrolling Everywhere"
 filename = "smooth-scrolling-everywhere-1.2.jar"

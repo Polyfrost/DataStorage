@@ -1,5 +1,5 @@
 id = "bazaarnotifier"
-enabled = true
+enabled = false
 hidden = false
 name = "bazaarnotifier"
 filename = "BazaarNotifier-1.7.5.jar"

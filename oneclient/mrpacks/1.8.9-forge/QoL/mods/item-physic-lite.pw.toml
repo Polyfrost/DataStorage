@@ -1,5 +1,5 @@
 id = "itemphysic"
-enabled = true
+enabled = false
 hidden = false
 name = "Item Physic Lite"
 filename = "ItemPhysic Lite 1.3 mc1.8.9.jar"

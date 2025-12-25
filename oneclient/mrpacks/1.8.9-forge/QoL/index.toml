@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "96c15836ec971a920775ed5b530cc87211f3c15dd7ab02d52baa9f8505e753e2"
+hash = "ac58fb812b76df35e8a05b8bf2f831e3c65ce686d7fa66d25b5c3ff1fb046055"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur.pw.toml"
-hash = "0ef5717b56e53577c2718d0e356763ed0b63f9b5ea19b4f84dc4be65d5dde775"
+hash = "a652b7d881829e752149164f1f8da2c731ba6f8c6232f0e1270693e6a343691b"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-physic-lite.pw.toml"
-hash = "8d9d02c5d69f87fdac700a64f5350284f23a7caa7031766904571d883cd1115b"
+hash = "10c228b7c735dfffcbd21f25f1bf5a5dfe1b828bf2ad303d1ed614a44f7a6f45"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/oofmod.pw.toml"
-hash = "337f56c74068d80f6ea05a3675a4cc44fbfdd79d988cc297e4d36864e67fa34e"
+hash = "ca1f42357b1c2f981d67d0b62a5b1874bf5ca4c10c9adfe9a98d7b29fec95e1e"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere.pw.toml"
-hash = "8cef8a61fc75e87cd99b7f61b87a56b045e69ff66a46c7ff352b8f55ca7af1e9"
+hash = "783d9f11968b01ee396fa7c9ece5f4b22b0e02e9f8e1b5fc9d126a6dc72bccf0"
 metafile = true
 
 [[files]]
