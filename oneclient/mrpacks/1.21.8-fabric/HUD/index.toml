@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatpatches.pw.toml"
-hash = "9a9adea9c94f3ef00625a4a371f5a0184a211005c46066c346190234f5e14b23"
+hash = "4e86c421f9b91743034e40ffaf2e76c70264a44c77f98a1966575290f02d5b17"
 metafile = true
 
 [[files]]

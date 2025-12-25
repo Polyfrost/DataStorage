@@ -2,15 +2,15 @@ id = "y6DuFGwJ"
 enabled = true
 hidden = false
 name = "Skyblocker • Hypixel Skyblock"
-filename = "skyblocker-5.10.0+1.21.8.jar"
+filename = "skyblocker-5.11.0+1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/7pEcYFqd/skyblocker-5.10.0%2B1.21.8.jar"
+url = "https://cdn.modrinth.com/data/y6DuFGwJ/versions/2FKg5ePt/skyblocker-5.11.0%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "86c1628b89d7680a6dc3e9e31940f99d0c0fd43f967d663426fc74ed909a72151071c45023808db3d26a42057fbeea8f8b4ecb0f55e57e16cd535774a700c116"
+hash = "fd8452d2dc8853a34f46cc089b72b24dd50c0019350c5a75c62d01032fd4dc4d46e5977f8f000997be1e119b09f0742964d678618499ade29c1ff57cbbf1c9dc"
 
 [update]
 [update.modrinth]
 mod-id = "y6DuFGwJ"
-version = "7pEcYFqd"
+version = "2FKg5ePt"
