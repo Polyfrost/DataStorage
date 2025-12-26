@@ -46,11 +46,6 @@ hash = "10234c3982a2e2d9cc1908948df58e4283c4c072637d6eb45249af92a0a6e121"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "abaa638502723ac6e47e7e142e2f1444ad8ef0a7253180c480e3d62fb091b51e"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "aabdf016859b2bfddd6b68bbd04fb95b374a6663f9b3c8a170981a5626bb19de"
 metafile = true
