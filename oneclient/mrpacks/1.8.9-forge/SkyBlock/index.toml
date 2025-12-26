@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyguide.pw.toml"
-hash = "59f12ec8a5261b6e55ef58a21aa6203a92db39847b123fc35dbb0c3beb062fed"
+hash = "0af9435eac93c65ba0a88e68c940fe65e397141b4e92b212f5cecb1650526b9c"
 metafile = true
 
 [[files]]
