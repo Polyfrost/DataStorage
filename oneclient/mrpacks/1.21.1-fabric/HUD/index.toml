@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/clean-f3.pw.toml"
-hash = "29c8e27d1886ff9c8928d1fe21b791fd9c941b7fbfac3f94955f29f3a2b44a1a"
+hash = "efd9e31fed9f1930630abd51372ca4cbf8914c5611c55805e96244b8eafb7322"
 metafile = true
 
 [[files]]
