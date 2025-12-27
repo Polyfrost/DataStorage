@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "7695172e9df86f5133b995be57039fb2d46be7236acce5d64dc5d82e8238b9e3"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "cbf5f18479ad424f759ea1fed5a108d5726beb060d11b8adcc262ba4a0fe4054"
+metafile = true
+
+[[files]]
+file = "mods/better-mipmaps.pw.toml"
+hash = "4917a2f0b5c000599c6ab52f6cf97e0145a9cbc88a4a0509d3758b6953952dd9"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5aa82fb0c06d91065f89ca901f1982f0a17b2d6343084e8dc72643b08897e782"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9c22bad4f0d606f92ce105da00204c29aa2b356401cc5d1088f63bb02f90d351"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "1016e9a0e9e72d5855556a02d968f08f9b0eb6b01e32625c7b585df639eda7da"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "f41f92248ccaa21f0cc03bd96c785d4b689c0de56e0dda120d06bfb023009775"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "babfe78e748a4d18af23f7b1bbe8117c019a22a0663ca51daf208911c093a95f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "18a24b4aacdaeecf5ca8f582ab0c1d29d8ffde386b5d2eaad96ba30e936bfa26"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "c092b37170a06ec6b3e3f39d89f8395d84a4abda3108c105f8687e8f51e3f2d1"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "b0f53913942131147d26111af85ec1a1eac9e33646df39cd366346610d258963"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "6c53aa1c4b7bb9143745fecb6cc6e8611959ce504ac04a3d00407c7377047007"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "c4938e802660d7ecf2c5edb700f612b4456501bcb42bf7fd378cb6a86c99515a"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "5af129bfcea3411f86a20d524a0485237ad7f101b177f1e3b092603ebea96c50"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d6adb609f6518b94acfb1a688c0490108533a9b72e596a87bb0ad5e0e77dd78f"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "846b920ef6b5f3791d5ac83b094a98500b5475f6454f03c0fed5a797611bb2b5"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "f76cc461101f6b640b7553f114a0b71cc126b3c968bfd8bca8d1dc2217cfeb5b"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "7e78351ebc5fb745b3ab7e901016e5ac71ad9eb18a0b6144a759db0654abd108"
+metafile = true
+
+[[files]]
+file = "mods/lazy-language-loader.pw.toml"
+hash = "d283bbdc7382d5ea7a90c084dcbc20f2d5db6dc6c9fc31718e9a8bb7204af828"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "76a0d57502a209e66170fa7010af9a47210d2142879b7b0ca58050760b5106d2"
+metafile = true
+
+[[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "499c5e6cd3e6e7e7bcdb8ab4031353bebe883686e10a7d5f2ec4f2e4d05cd6e5"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "96c92e0eac23036793e4ee7688a0664b8c18edb76e5880c32bb8a952ddd616fe"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "c5e31342c5da4fa8fb4f004144b7b30d6de530f7aa83ccfbfea5035bcadb0d1c"
+metafile = true
+
+[[files]]
+file = "mods/optipainting-updated.pw.toml"
+hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "10dceff617203714620c7f0e83a83d1e878c605f37dc982793210afe1149164a"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "a6cc9de613fdc2b276b9316526241ffe40d86787d2cc0d73c298c66d2e667b7c"
+metafile = true
+
+[[files]]
+file = "mods/sciophobia.pw.toml"
+hash = "c597d6945e6f508a01092197c2756866ad5707e031060f166884a914dc4f96b7"
+metafile = true
+
+[[files]]
+file = "mods/serverpingerfixer.pw.toml"
+hash = "dce1b022c9baf13e0ce2d8d4767b0b1f558d87582fbd96a8e1867f394b926890"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "e25de41e84aa6c910f89e78a7ee6098256e70d93793387910fd2f40b7b96cf71"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d7fd524467ca69c3dfe9c6070d10987e99cc2c75756dd345948b377dc15f25bc"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "96121ed08a26a8415c16686e73fe8f7a4e4591c61552d772aa3784a4f8d3c5bb"
+metafile = true

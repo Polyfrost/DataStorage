@@ -1,0 +1,16 @@
+id = "NKvLVQMc"
+enabled = true
+hidden = false
+name = "Symbol Chat"
+filename = "symbol-chat-1.21.10-1.3.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NKvLVQMc/versions/iDmMPfOO/symbol-chat-1.21.10-1.3.12.jar"
+hash-format = "sha512"
+hash = "c81af01c531f94178e141bf1b22b46c4b0615b6a9d439fb183e7cf4abbcd8127b7ffb254ca3ed038e4958d1d7069b80863b0386ae3ce796a238d097dd6cefdda"
+
+[update]
+[update.modrinth]
+mod-id = "NKvLVQMc"
+version = "iDmMPfOO"

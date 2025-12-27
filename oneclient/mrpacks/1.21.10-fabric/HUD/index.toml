@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "9f5e2c21628ae0f03b5c1652501ca5cd04645207a88f44966c9d5bf8e3867297"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "8efbb45ea6e576a6c8f2d08c5e0e33e7e372a09da33f7dfced25d11e14f92a6f"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "d3963fdb4d2c3272cbb12b4ff54eaeeed40c2affb9044a7017b55ee287674883"
+metafile = true
+
+[[files]]
+file = "mods/chatpatches.pw.toml"
+hash = "4f6557ded10a6c2c3d8e09f8a7328ccc6ace0363b6c172e3f16ae6f241f27949"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9c22bad4f0d606f92ce105da00204c29aa2b356401cc5d1088f63bb02f90d351"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "cb7b4ca2749a24e4351e73c841cfb0230fab98fa58f2480fa8571c3632523154"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "71057ffacb79edc48ef50b33ba506255e3da4ad48e8d0eaa4635368097567ba9"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "bd057926599137babdbec5cf5fd1935acce76867ba63c4c4758a6634f2206b54"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "91ea5cfda5dfc87a5ed23c5db726afd831e26f4cfbf7be0fe07c3d1a495c9ba2"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "96c92e0eac23036793e4ee7688a0664b8c18edb76e5880c32bb8a952ddd616fe"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "d32e4956bbad994ca3158002973bdde823042a90583ca7791c926eed6e905d26"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "35add685c5328920c944be7f8ebebd666073bd4cf0ed7a3ff1c4891e5c392b80"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "96121ed08a26a8415c16686e73fe8f7a4e4591c61552d772aa3784a4f8d3c5bb"
+metafile = true

@@ -1,0 +1,16 @@
+id = "IJNUBZ2a"
+enabled = true
+hidden = false
+name = "Firmament for Hypixel SkyBlock"
+filename = "Firmament-42.0.0+mc1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IJNUBZ2a/versions/yJVtzuDH/Firmament-42.0.0%2Bmc1.21.10.jar"
+hash-format = "sha512"
+hash = "ff28a53932cb1e8b46ea2f866b68cd1d29c973f25a5a4e36db9f47e4f4654db562683e097a3c95a06567eac7974bbb98f7e824f50c67d17006d021f0253d1afb"
+
+[update]
+[update.modrinth]
+mod-id = "IJNUBZ2a"
+version = "yJVtzuDH"

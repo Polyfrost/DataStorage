@@ -1,0 +1,16 @@
+id = "IlGAhsOM"
+enabled = true
+hidden = false
+name = "Particle Tweaks"
+filename = "ParticleTweaks-2.1.5-mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/X615z0wO/ParticleTweaks-2.1.5-mc1.21.9.jar"
+hash-format = "sha512"
+hash = "03c830c52ddd956ec1c991e0072f8eb47ceda20cd9df45033064c99aa3797c090997debc331bbe3c2332258b89ce1b2ec9fcff7d3bfaca327160853ab35999a8"
+
+[update]
+[update.modrinth]
+mod-id = "IlGAhsOM"
+version = "X615z0wO"

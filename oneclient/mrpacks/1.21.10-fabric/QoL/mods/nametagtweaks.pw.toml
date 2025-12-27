@@ -1,0 +1,16 @@
+id = "HORzKF5l"
+enabled = true
+hidden = false
+name = "Nametag Tweaks"
+filename = "nametagtweaks-1.3.10+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HORzKF5l/versions/3lAOLMNy/nametagtweaks-1.3.10%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "0fd72adeee430c45c38c66881ac23ebf71cb26d20e64e4bcc96906a8f50ea31c32b90c027df6691da310451abadef1d0c50931f4bce0b1a7f4ed61beba328cc2"
+
+[update]
+[update.modrinth]
+mod-id = "HORzKF5l"
+version = "3lAOLMNy"

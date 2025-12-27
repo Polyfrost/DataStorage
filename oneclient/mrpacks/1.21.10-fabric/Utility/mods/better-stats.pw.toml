@@ -1,0 +1,16 @@
+id = "n6PXGAoM"
+enabled = true
+hidden = true
+name = "Better Statistics Screen"
+filename = "betterstats-4.0.0+fabric-1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/iW0cQm9E/betterstats-4.0.0%2Bfabric-1.21.10.jar"
+hash-format = "sha512"
+hash = "3fe64111caa226c84b1bbcc9d6f95960db17cde1025d31ae1ed19d7bf4593577a6c4f22ee0da0ca13699b2343a54977fc6b1c5af500c8845fd5dbb4dab86276a"
+
+[update]
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "iW0cQm9E"

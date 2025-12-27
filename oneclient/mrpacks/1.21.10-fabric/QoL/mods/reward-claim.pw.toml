@@ -1,0 +1,16 @@
+id = "sbgVdyNC"
+enabled = true
+hidden = false
+name = "Reward Claim"
+filename = "rewardclaim-2.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbgVdyNC/versions/maurFPUc/rewardclaim-2.2.0.jar"
+hash-format = "sha512"
+hash = "48795e6451fc4008b86d38758d36ff455f11b274e7edc108748a311949ce323ee8ba6132b3abad03d124d4844eb4efba5df09e50d91aeac948fa351c939a7f98"
+
+[update]
+[update.modrinth]
+mod-id = "sbgVdyNC"
+version = "maurFPUc"
