@@ -1,0 +1,16 @@
+id = "trr0scVt"
+enabled = true
+hidden = false
+name = "Smooth Scrolling Refurbished"
+filename = "SmoothScrollingRefurbished+1.21.10-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/trr0scVt/versions/CQGsF1Uq/SmoothScrollingRefurbished%2B1.21.10-1.5.1.jar"
+hash-format = "sha512"
+hash = "ea5200c3ba435bb026c63264b44b3abfcc1cb792a3f9b8ecebbe2c0a05e90b29da04bdb26f2cfb6df8ee6a3be2a123243b0b14209e8d5862a17069aa5e49310d"
+
+[update]
+[update.modrinth]
+mod-id = "trr0scVt"
+version = "CQGsF1Uq"

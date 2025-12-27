@@ -1,0 +1,16 @@
+id = "Eldc1g37"
+enabled = true
+hidden = true
+name = "TCDCommons API"
+filename = "tcdcommons-4.0.1+fabric-1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/LbgckUvR/tcdcommons-4.0.1%2Bfabric-1.21.10.jar"
+hash-format = "sha512"
+hash = "7ee48fe0f9785ae11befcfe759bb093b78d9ba6df6f145bfeae8a5b97e21b8b9e3447bc17f7a6fe1eaf4251833e4b8e94bed168e3ff54fc19b3e21bff1a375d8"
+
+[update]
+[update.modrinth]
+mod-id = "Eldc1g37"
+version = "LbgckUvR"

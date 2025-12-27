@@ -1,0 +1,18 @@
+name = "OneClient 1.21.10 Fabric [PvP]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = false
+category = "PvP"
+id = "pvp-1.21.10-fabric"
+update-url = "oneclient/generated/pvp-1.21.10-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "232c00e03219f9c5b14e25fb63dbafc3e63bb73a08f6eb327c81856411300876"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.10"

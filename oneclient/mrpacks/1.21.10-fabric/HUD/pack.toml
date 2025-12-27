@@ -1,0 +1,18 @@
+name = "OneClient 1.21.10 Fabric [HUD]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = false
+category = "HUD"
+id = "hud-1.21.10-fabric"
+update-url = "oneclient/generated/hud-1.21.10-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "197d4bf15e3651d94df270fd5d777c88fb30498c4a8db7654b8408256e139fda"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.10"

@@ -1,0 +1,16 @@
+id = "CDo9Niyy"
+enabled = true
+hidden = false
+name = "Not So Essential"
+filename = "NotSoEssential-Fabric-1.0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDo9Niyy/versions/l1JDKmdc/NotSoEssential-Fabric-1.0.8.jar"
+hash-format = "sha512"
+hash = "c4397cdcc0229e1399367c043fde9e56a75510c2fa845256ec995cc28b4b051cf0bcafe8662a35fea5a5510e9625302a3c103bb62129c29e0e2466d93386faa2"
+
+[update]
+[update.modrinth]
+mod-id = "CDo9Niyy"
+version = "l1JDKmdc"

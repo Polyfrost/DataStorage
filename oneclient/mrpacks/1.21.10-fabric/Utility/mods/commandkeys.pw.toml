@@ -1,0 +1,16 @@
+id = "65UyswbY"
+enabled = true
+hidden = false
+name = "Command Keys"
+filename = "commandkeys-fabric-2.3.16+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/65UyswbY/versions/LLvh6Z89/commandkeys-fabric-2.3.16%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "ce1bce0518efd2ff686244c2a8f754e9bc6817ee87d4efff079fade0412707f57290c8bba1fc7c8d8abf6298594c9cbcfb1bc91528bc9d6fa3810472731ef39b"
+
+[update]
+[update.modrinth]
+mod-id = "65UyswbY"
+version = "LLvh6Z89"

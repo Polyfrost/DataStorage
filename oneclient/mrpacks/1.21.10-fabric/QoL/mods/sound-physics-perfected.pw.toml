@@ -1,0 +1,16 @@
+id = "KS6Hbu9Z"
+enabled = true
+hidden = false
+name = "Sound Physics Perfected"
+filename = "sound_physics_perfected-1.13.0+1.21.9-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KS6Hbu9Z/versions/LoZ95gNW/sound_physics_perfected-1.13.0%2B1.21.9-fabric.jar"
+hash-format = "sha512"
+hash = "096ab32dc6f20450dc432350892df6dc326fc4195a8d1ecd4eb039fb4f330c44ab3e1f6889e3207d10b4b0bf014cad5f1e4c095a9ab35d0637d3eaacf46e9420"
+
+[update]
+[update.modrinth]
+mod-id = "KS6Hbu9Z"
+version = "LoZ95gNW"

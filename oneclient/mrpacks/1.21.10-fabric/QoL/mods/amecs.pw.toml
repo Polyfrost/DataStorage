@@ -1,0 +1,16 @@
+id = "rcLriA4v"
+enabled = true
+hidden = false
+name = "Amecs"
+filename = "amecs-1.5.1+mc1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/Qb8vVIm2/amecs-1.5.1%2Bmc1.21.9.jar"
+hash-format = "sha512"
+hash = "31d9f2597df90332cc95861c66795f4038309cc8898d288d378b1ae24cb0175c324be62b9f11413682d483fb9481c9db0337b3271b62fc873f643f2de838eb3c"
+
+[update]
+[update.modrinth]
+mod-id = "rcLriA4v"
+version = "Qb8vVIm2"

@@ -1,0 +1,16 @@
+id = "8xUyxhWW"
+enabled = true
+hidden = false
+name = "TNTime"
+filename = "tntime-1.0.1+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8xUyxhWW/versions/KR209hd3/tntime-1.0.1%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "66a8ec8af6f3f4d158172e14359362a345075a6daa85aa1b98b6d9928aab6142772343a7afbb7e63968535f8349328fc3e668189d393c903a5eed74cb1771a4b"
+
+[update]
+[update.modrinth]
+mod-id = "8xUyxhWW"
+version = "KR209hd3"

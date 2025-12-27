@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "71057ffacb79edc48ef50b33ba506255e3da4ad48e8d0eaa4635368097567ba9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "44a1e5fe868dec8804451d967789ede66adc5491417bef88bb9108ec7a8e1a13"
+metafile = true
+
+[[files]]
+file = "mods/firmament.pw.toml"
+hash = "f89cdc9699550561c43575fa26f40910e9ebf5f7cf2f3cf68ada9ef053a8da85"
+metafile = true
+
+[[files]]
+file = "mods/hsm.pw.toml"
+hash = "459a5515e9246e361e61d8b3b6fb2ffda11cdd34077270fe728599dbc589631d"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-mod-api.pw.toml"
+hash = "23fb78f56ab631dcb4f249b64feb03293f1f44e39ea65b3eba7dcd37d74be005"
+metafile = true
+
+[[files]]
+file = "mods/legacyskyblock.pw.toml"
+hash = "5b129e761b1db3536f6bd45ab57bedaa10f45fbf86a9e0f078ec84ad5309cc25"
+metafile = true
+
+[[files]]
+file = "mods/modern-warp-menu.pw.toml"
+hash = "042142d252e8edaf9560e7b88a73619cdd47792fa04694ee99444196436345f1"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-custom-scoreboard.pw.toml"
+hash = "f53219abccd3ebda7415111e5c9d44a38fe165a0457df2109c6b73b867b150cf"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-profile-viewer.pw.toml"
+hash = "10c33cf5a4abd64fa3ac9eb69a9d3ee871e9b39bfd0adb65dffd41b7ad3af3ae"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-rpc.pw.toml"
+hash = "95f16dd4275e96ed7db62db4083b0cadbf7a5b9644725b57a2edbcd488be9312"
+metafile = true
+
+[[files]]
+file = "mods/skyblocker-liap.pw.toml"
+hash = "b7a10c6a172ff1a5b9e382bacc810e71c5a332f0592f29d2ee72a92cc2d51836"
+metafile = true
+
+[[files]]
+file = "mods/skycofl.pw.toml"
+hash = "e70b133163b262b0cbe5973ce58cceaa92c541b6baf22ab32deae85327cc9343"
+metafile = true
+
+[[files]]
+file = "mods/skycubed.pw.toml"
+hash = "baa4748d1e4d0d1f6859bbb609424c1a10a6ac972aa8f9a84e231ded0f9ddc59"
+metafile = true
+
+[[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "e301ab1cf6df91916e5c33fa96957e798a69ad43e79707237b1c3f3553495518"
+metafile = true
+
+[[files]]
+file = "mods/skyocean.pw.toml"
+hash = "f4029a18560d259d44825be5c696584d71cc7848ae76471c676a80f1da7da511"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "96121ed08a26a8415c16686e73fe8f7a4e4591c61552d772aa3784a4f8d3c5bb"
+metafile = true
