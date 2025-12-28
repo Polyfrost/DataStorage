@@ -1,0 +1,16 @@
+id = "NK39zBp2"
+enabled = true
+hidden = false
+name = "Blur+"
+filename = "blur-fabric-5.2.3+1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/abNQB5Ps/blur-fabric-5.2.3%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "2446c7af2e072bf24142a1382690a8c8a312b0341a8743c0c5391b458527c686cb1c2370f35fe870e50f53eba36cad5bd4336351332a1144fb0e0386e9062494"
+
+[update]
+[update.modrinth]
+mod-id = "NK39zBp2"
+version = "abNQB5Ps"

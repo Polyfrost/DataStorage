@@ -1,0 +1,16 @@
+id = "9KawNmQc"
+enabled = true
+hidden = true
+name = "FrozenLib"
+filename = "FrozenLib-2.3-mc1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9KawNmQc/versions/M9moL58i/FrozenLib-2.3-mc1.21.10.jar"
+hash-format = "sha512"
+hash = "a9ff507fe7e5e675773b7c6d99b57ec2fb30bd25e75ff266b0e879f2fd2e46c8d68f22b495f336851db95ae46d689fc78f1fc7eea48e4ff8452fcbc319a13aed"
+
+[update]
+[update.modrinth]
+mod-id = "9KawNmQc"
+version = "M9moL58i"

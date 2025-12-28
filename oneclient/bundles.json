@@ -28,6 +28,16 @@
                 "/generated/skyblock-1.21.8-fabric.mrpack",
                 "/generated/utility-1.21.8-fabric.mrpack"
             ]
+        },
+        "1.21.10": {
+            "fabric": [
+                "/generated/hud-1.21.10-fabric.mrpack",
+                "/generated/performance-1.21.10-fabric.mrpack",
+                "/generated/pvp-1.21.10-fabric.mrpack",
+                "/generated/qol-1.21.10-fabric.mrpack",
+                "/generated/skyblock-1.21.10-fabric.mrpack",
+                "/generated/utility-1.21.10-fabric.mrpack"
+            ]
         }
     }
 }

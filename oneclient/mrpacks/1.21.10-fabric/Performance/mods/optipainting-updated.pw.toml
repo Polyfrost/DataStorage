@@ -1,0 +1,16 @@
+id = "CrZpD5qF"
+enabled = true
+hidden = false
+name = "OptiPainting Updated"
+filename = "OptiPainting-1.1.0+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CrZpD5qF/versions/ngL4DlnN/OptiPainting-1.1.0%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "18e603ae88ff0b5f1b25c56a44526e29cd8b833aaaadd81afb668301fb2a3a6d745665f3e0ab2cc422a61cac52b50fef2dba0a8629b2dca43faf4733b7032d53"
+
+[update]
+[update.modrinth]
+mod-id = "CrZpD5qF"
+version = "ngL4DlnN"

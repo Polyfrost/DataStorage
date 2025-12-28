@@ -1,0 +1,16 @@
+id = "Y8uFrUil"
+enabled = true
+hidden = true
+name = "ukulib"
+filename = "ukulib-1.9.0+1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/EsXqtkdN/ukulib-1.9.0%2B1.21.9.jar"
+hash-format = "sha512"
+hash = "0d815233b1d50ae6e1880708381506282360ef250c98f07c9735bc8c9af50a02386cfbd368b457f3d336852b229357810d6948076fc871db2b6727565845dc6d"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "EsXqtkdN"
