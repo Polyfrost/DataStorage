@@ -2,15 +2,15 @@ id = "5lvjfaRs"
 enabled = true
 hidden = false
 name = "Clean F3"
-filename = "CleanF3-mc1.20.x-0.4.10.jar"
+filename = "CleanF3-0.4.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/hd8dZh1g/CleanF3-mc1.20.x-0.4.10.jar"
+url = "https://cdn.modrinth.com/data/5lvjfaRs/versions/sONVk6J8/CleanF3-0.4.10.jar"
 hash-format = "sha512"
-hash = "690c9afac6a6969f001b79d5e7fedeb172a725ef80ab27440fc3b97a1db3f0cb9d0942247846797ac7b9c959cfedcbf9c6246637a7d2923ae30653e735d042c5"
+hash = "a96b2c88c0d630512bd101cb51e850637dfff5d5875da68de7729bbab519217661a37d21e6b77f727a0d950dff90a16ef43b898fc47fcfbb9a19a2fc15c0c06f"
 
 [update]
 [update.modrinth]
 mod-id = "5lvjfaRs"
-version = "hd8dZh1g"
+version = "sONVk6J8"
