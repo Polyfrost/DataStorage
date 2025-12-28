@@ -26,6 +26,11 @@
                     "minor_version": 8,
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
+                },
+                {
+                    "minor_version": 10,
+                    "loader": "fabric",
+                    "tags": ["PvP", "SkyBlock", "Survival"]
                 }
             ]
         }
