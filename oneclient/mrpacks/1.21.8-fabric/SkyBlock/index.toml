@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/bazaar-utils.pw.toml"
-hash = "663f59ee16b92a87eef6077705d9f13f4e5ccd3b0a7343212d3568760d491416"
+hash = "2751b7dfc37bb816c1b106311520f1ced3e3e5549fc146d8b2eae1d1115f064f"
 metafile = true
 
 [[files]]

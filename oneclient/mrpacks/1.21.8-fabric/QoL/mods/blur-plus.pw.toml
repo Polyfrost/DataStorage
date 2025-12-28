@@ -2,15 +2,15 @@ id = "NK39zBp2"
 enabled = true
 hidden = false
 name = "Blur+"
-filename = "blur-fabric-5.2.2+1.21.6.jar"
+filename = "blur-fabric-5.3.2+1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NK39zBp2/versions/hKEZ5RCn/blur-fabric-5.2.2%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/NK39zBp2/versions/XS2IbGHP/blur-fabric-5.3.2%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "b6fc14f03248feb8aecfc1f0a3f00aec781b1241b642151b4fa253cd2e080bf37bdabd39452159ca48b0402cd23ac7159781da3ce1152252bd7f829e526112fa"
+hash = "9cd7f9bc175de49ae951b95aa0caebf751bf0f876f9550ceddde0ad97986704b1359ff246dd029efd698be85415cd5bd8589d42ed6f869f8cb6d798f1bacc678"
 
 [update]
 [update.modrinth]
 mod-id = "NK39zBp2"
-version = "hKEZ5RCn"
+version = "XS2IbGHP"

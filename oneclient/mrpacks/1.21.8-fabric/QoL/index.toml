@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "dbefb77add73ca1b9a039293f32abfa2eb28762d5efeb706efb4d2efc0a3e254"
+hash = "553b04e02ea58e67b230d6c6eac96ae0e5fe7a257af8e4cd76b852b3cdc0c586"
 metafile = true
 
 [[files]]
