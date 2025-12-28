@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/notsoessential.pw.toml"
+hash = "907b6a5c1112db110c30b036b47cb67f43a7b6cc68209f15ac435bcfa1389047"
+metafile = true
+
+[[files]]
 file = "mods/optifine.pw.toml"
 hash = "396913ba271e4b1ef57cd0d7fde164ef00d9d6305e812f60e1090df910bb44b6"
 metafile = true

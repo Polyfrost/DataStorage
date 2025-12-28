@@ -1,0 +1,16 @@
+id = "CDo9Niyy"
+enabled = true
+hidden = false
+name = "Not So Essential"
+filename = "NotSoEssential-Forge-1.0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CDo9Niyy/versions/60vwX0yI/NotSoEssential-Forge-1.0.8.jar"
+hash-format = "sha512"
+hash = "5dd8eba8e6c5f5436de893818dc54cd21b6e62817cd547ac50b788df38446d0ae651a9bb6b86e09c74fce902e13c35c0babf01b53d4b87cd0e15572ed190653b"
+
+[update]
+[update.modrinth]
+mod-id = "CDo9Niyy"
+version = "60vwX0yI"
