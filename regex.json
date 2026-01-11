@@ -17,7 +17,6 @@
         "^ +. YOUR STATISTICS .$",
         "^ {35,36}Winner(s?)$",
         "^ {21}Bridge CTF [a-zA-Z]+ - \\d\\d:\\d\\d$",
-        "^ {35}GAME OVER!$",
         "^ {32}Party Games$",
         "^ +\\w+ won the game!$",
         "^ +GAME OVER!$",
