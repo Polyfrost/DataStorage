@@ -11,11 +11,6 @@ hash = "dbc4960d91ef836961171d8a13f8adc29ee6df2c63ea23efeca96fc93e5d280a"
 metafile = true
 
 [[files]]
-file = "mods/audio-engine-tweaks.pw.toml"
-hash = "2c1a6d7c0fc9e011dd5c618d592057f4cc377fdce230fe553e3853410044485d"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "c2dd467cc5398d147a3b0bef54c022b945f30d7e0217c87d716121f7e8d1d67a"
 metafile = true
@@ -111,6 +106,11 @@ hash = "f02298e202c5cbe4c771f5e2dd8835db7e020e36935e108a0b3e46637b7b335f"
 metafile = true
 
 [[files]]
+file = "mods/quickjoin.pw.toml"
+hash = "4c8649026b611777b597b804218e0cf8c1f23c1d01a03afdc2edac318dbffbc4"
+metafile = true
+
+[[files]]
 file = "mods/rei-search-bar-calculations.pw.toml"
 hash = "7878cb066e70a052ea5fed1ad3f827b182db6214ae4589caf892c48b93ea507a"
 metafile = true
@@ -128,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "394b9225fb333c8bb3c57a654f85675850556d9d3d01d1c95cc3e6a6f75d609a"
+metafile = true
+
+[[files]]
+file = "mods/rsls.pw.toml"
+hash = "c3356166d08f306c98ef527b09656face36da3f10c908dbb8879d15f47532562"
 metafile = true
 
 [[files]]

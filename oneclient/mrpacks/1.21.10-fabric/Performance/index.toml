@@ -101,6 +101,11 @@ hash = "7e78351ebc5fb745b3ab7e901016e5ac71ad9eb18a0b6144a759db0654abd108"
 metafile = true
 
 [[files]]
+file = "mods/kryptonfnp-patcher.pw.toml"
+hash = "f61a71388b10ea6e19937669269025239338a3d76171d4892fc39d88717445da"
+metafile = true
+
+[[files]]
 file = "mods/lazy-language-loader.pw.toml"
 hash = "d283bbdc7382d5ea7a90c084dcbc20f2d5db6dc6c9fc31718e9a8bb7204af828"
 metafile = true

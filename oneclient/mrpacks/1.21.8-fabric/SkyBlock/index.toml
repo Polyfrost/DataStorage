@@ -31,11 +31,6 @@ hash = "23fb78f56ab631dcb4f249b64feb03293f1f44e39ea65b3eba7dcd37d74be005"
 metafile = true
 
 [[files]]
-file = "mods/legacyskyblock.pw.toml"
-hash = "d5157e82a7b2048ce0b4fd5bfdc5c3b91432bd732bd85ee6ffa9b1871be5163e"
-metafile = true
-
-[[files]]
 file = "mods/modern-warp-menu.pw.toml"
 hash = "2ec6a445ce71e656b88995290f3050176bacbb4bbd94dc055fbc0d1a9fcb88c2"
 metafile = true
