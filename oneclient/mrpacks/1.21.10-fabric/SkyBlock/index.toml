@@ -51,11 +51,6 @@ hash = "fb4cb4fd85b81adca50dafd1a86a70da86b7041bce1075c493549381d1881485"
 metafile = true
 
 [[files]]
-file = "mods/skycofl.pw.toml"
-hash = "823521413b9047841ac097529e8774b93b40843c0e362ced9b8db474f97df4e6"
-metafile = true
-
-[[files]]
 file = "mods/skycubed.pw.toml"
 hash = "7450a136a8bc1c81b0a00cfabc1ececd2dfb27c3f9c56471973611dc2521ce07"
 metafile = true
