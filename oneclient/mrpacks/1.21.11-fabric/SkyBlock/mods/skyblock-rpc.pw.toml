@@ -1,0 +1,16 @@
+id = "qESHWJ0N"
+enabled = true
+hidden = false
+name = "SkyBlock RPC"
+filename = "SkyBlockRPC-1.1.0-1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qESHWJ0N/versions/hEDzPCpP/SkyBlockRPC-1.1.0-1.21.9.jar"
+hash-format = "sha512"
+hash = "dfe6395ef55070c4f789b879d450f538cd82ba5e6f1453249f29ff8a5790b383527e92e6767d5b482cc50a652e4db2e0628e787b722141297074a9f91ce78859"
+
+[update]
+[update.modrinth]
+mod-id = "qESHWJ0N"
+version = "hEDzPCpP"

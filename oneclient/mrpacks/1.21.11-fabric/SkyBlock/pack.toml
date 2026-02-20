@@ -1,0 +1,18 @@
+name = "OneClient 1.21.11 Fabric [SkyBlock]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = false
+category = "SkyBlock"
+id = "skyblock-1.21.11-fabric"
+update-url = "oneclient/generated/skyblock-1.21.11-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6e5038dc9c0d12c8a760bde889cc8a2375bc37693ce9271fdf9096382a09b919"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

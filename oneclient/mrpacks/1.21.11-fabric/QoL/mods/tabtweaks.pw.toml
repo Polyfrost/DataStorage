@@ -1,0 +1,16 @@
+id = "aVyWAtot"
+enabled = true
+hidden = false
+name = "Tab Tweaks"
+filename = "tabtweaks-1.5.9+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aVyWAtot/versions/vEh6VQCB/tabtweaks-1.5.9%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "239813590e5496e1c1397c36fbf012fd9d273f9ff0539a25887d40ca7d190b78f4eaeab61a144aff5cc2f9537fed88151ae12cd241da5640b45cb9e24042d9bc"
+
+[update]
+[update.modrinth]
+mod-id = "aVyWAtot"
+version = "vEh6VQCB"

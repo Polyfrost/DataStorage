@@ -1,0 +1,18 @@
+name = "OneClient 1.21.11 Fabric [Performance]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = true
+category = "Performance"
+id = "performance-1.21.11-fabric"
+update-url = "oneclient/generated/performance-1.21.11-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "47d5329579fa71cff2ef7be0c93638bca2755584aedafc53d3be33f802044a51"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"

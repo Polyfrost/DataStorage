@@ -1,0 +1,16 @@
+id = "wql2D9Gj"
+enabled = true
+hidden = false
+name = "Overlay Tweaks"
+filename = "overlaytweaks-1.12.9+1.21.10-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wql2D9Gj/versions/EzUKKoPG/overlaytweaks-1.12.9%2B1.21.10-fabric.jar"
+hash-format = "sha512"
+hash = "6747dc2a036137784e3463899e7bb4ef39e25218155456a4da52322ec64b406e57c68e7b339257de9d6fbfa2940d448c62c9e7593610b66bc9dd2aefce0b6d3b"
+
+[update]
+[update.modrinth]
+mod-id = "wql2D9Gj"
+version = "EzUKKoPG"
