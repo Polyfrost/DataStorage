@@ -2,15 +2,15 @@ id = "xv94TkTM"
 enabled = true
 hidden = true
 name = "Controlling"
-filename = "Controlling-fabric-1.21.10-28.0.2.jar"
+filename = "Controlling-fabric-1.21.11-29.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xv94TkTM/versions/FEy417jo/Controlling-fabric-1.21.10-28.0.2.jar"
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/A6W4m3vi/Controlling-fabric-1.21.11-29.0.1.jar"
 hash-format = "sha512"
-hash = "35ed8a451648403d6d1073e5f889f1b3f9479cc9218c604f090936dec979964f75a11bc7630bca56ca24c7ea2ad315e76211502614808c9bc83aceddb997b74d"
+hash = "fae3f7be237b901783b873ecc3167e04fdc24819f16539610565993b7916691058b8d6e1aba4c13c0c75503bbd07a8ec4d2d6ce2bf5f94433fdee58933b049d9"
 
 [update]
 [update.modrinth]
 mod-id = "xv94TkTM"
-version = "FEy417jo"
+version = "A6W4m3vi"

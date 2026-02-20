@@ -2,15 +2,15 @@ id = "uY9zbflw"
 enabled = true
 hidden = false
 name = "Sound Controller"
-filename = "soundcontroller-1.2.3-mc1.21.9.jar"
+filename = "soundcontroller-1.2.4-mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uY9zbflw/versions/4zjTv9R5/soundcontroller-1.2.3-mc1.21.9.jar"
+url = "https://cdn.modrinth.com/data/uY9zbflw/versions/pZASAGUw/soundcontroller-1.2.4-mc1.21.11.jar"
 hash-format = "sha512"
-hash = "31470b1b5c2d406419cfce9211a83d6157f6656429a15e41b87fbe01f02ec94f24a6435174cec72afa62cc2db0e596d8ccf4ca214c76bcf6a82add9bf1e4c1c4"
+hash = "b95481abfa7d97249418a6753296b755b76dd1a544918ab91ebaf290838db28b7a8d67b36df5c7b92f15cced32ee41151085909a66198c0b6106615701dde96f"
 
 [update]
 [update.modrinth]
 mod-id = "uY9zbflw"
-version = "4zjTv9R5"
+version = "pZASAGUw"

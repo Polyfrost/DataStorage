@@ -2,15 +2,15 @@ id = "JIUF2Wb5"
 enabled = true
 hidden = false
 name = "Effect Timer Plus"
-filename = "effecttimerplus-fabric-2.2.7+1.21.6.jar"
+filename = "effecttimerplus-fabric-2.2.7+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JIUF2Wb5/versions/Xsz431bs/effecttimerplus-fabric-2.2.7%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/JIUF2Wb5/versions/5mBLMYSY/effecttimerplus-fabric-2.2.7%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "48bfea189d0fb53b45cae4d6ce7b2066a1bfb4724cadb0924f1771bf41e5080ec55c79ee5c82915f5b356aebfb9f413cdf927a3328d51c3716dda4fd07e41223"
+hash = "f06c5b091627398294cdc2aa54e1c2d78fd29b289fd1718a1a4313ccba381f17532b0e9cb5c1bde9c5f0657b9e083774ca8b3decb27be50744502ff898551dc2"
 
 [update]
 [update.modrinth]
 mod-id = "JIUF2Wb5"
-version = "Xsz431bs"
+version = "5mBLMYSY"

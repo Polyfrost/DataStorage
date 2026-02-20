@@ -2,15 +2,15 @@ id = "gvQqBUqZ"
 enabled = true
 hidden = false
 name = "Lithium"
-filename = "lithium-fabric-0.20.1+mc1.21.10.jar"
+filename = "lithium-fabric-0.21.3+mc1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NsswKiwi/lithium-fabric-0.20.1%2Bmc1.21.10.jar"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qvNsoO3l/lithium-fabric-0.21.3%2Bmc1.21.11.jar"
 hash-format = "sha512"
-hash = "79b2892d123f3bb12649927dd8fccc25c955ff38a19f3aba7cd0180c4cf5506c2a76d49418b13050f90bba7bb59f3623af06e8a275e2ae8c63808084043902bb"
+hash = "2883739303f0bb602d3797cc601ed86ce6833e5ec313ddce675f3d6af3ee6a40b9b0a06dafe39d308d919669325e95c0aafd08d78c97acd976efde899c7810fd"
 
 [update]
 [update.modrinth]
 mod-id = "gvQqBUqZ"
-version = "NsswKiwi"
+version = "qvNsoO3l"

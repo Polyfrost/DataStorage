@@ -2,15 +2,15 @@ id = "8yqXwFLl"
 enabled = true
 hidden = false
 name = "SkyBlock Profile Viewer"
-filename = "SkyBlockPv-1.6.7-1.21.10.jar"
+filename = "SkyBlockPv-1.6.7-1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/8yqXwFLl/versions/7iYmgq8W/SkyBlockPv-1.6.7-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/8yqXwFLl/versions/2sABsyhR/SkyBlockPv-1.6.7-1.21.11.jar"
 hash-format = "sha512"
-hash = "0d76fd073a2d0dbb6cd2d59db7679b3c160d92a612396a31ba6f293f7d00c5610d44bbfa19fd78bac233d59df7587187915d5c4416117798b19a107ff94f5039"
+hash = "e4452086610c6f5973e3dcdf6ab404d6bb72f944b2887fa7e431c20e2966de93874442442a186eae957e7070b69cf8021a41798aa77ebe03b0043a55a561be7c"
 
 [update]
 [update.modrinth]
 mod-id = "8yqXwFLl"
-version = "7iYmgq8W"
+version = "2sABsyhR"

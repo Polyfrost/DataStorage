@@ -2,15 +2,15 @@ id = "WKwQAwke"
 enabled = true
 hidden = true
 name = "LibJF"
-filename = "libjf-3.19.4+backport.jar"
+filename = "libjf-3.19.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WKwQAwke/versions/sMCcYngo/libjf-3.19.4%2Bbackport.jar"
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/yJFNooXC/libjf-3.19.8.jar"
 hash-format = "sha512"
-hash = "5b1a0ed7e7db39d87e4ad601cfec7359b397feac1b7cd303918e91033a1ff3d7dbd93de8bbb68dd492fbb859e7d5082f74ee79865e93df39085cf5b7e23bdde4"
+hash = "62b61370cd0bab5388aaf2c4386ca97b896b7b2024a69b02794cfb186c3b31bdc62e5d4989ab0d71b2d4ea7877a4b1985c4f8d376e453a14ec110ac92588c128"
 
 [update]
 [update.modrinth]
 mod-id = "WKwQAwke"
-version = "sMCcYngo"
+version = "yJFNooXC"

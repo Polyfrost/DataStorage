@@ -2,15 +2,15 @@ id = "daZwiCIT"
 enabled = true
 hidden = false
 name = "Better Mipmaps"
-filename = "better-mipmaps-0.2-1.21.10.jar"
+filename = "better-mipmaps-0.2-1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/daZwiCIT/versions/6egrDtxt/better-mipmaps-0.2-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/daZwiCIT/versions/2x2toQZh/better-mipmaps-0.2-1.21.11.jar"
 hash-format = "sha512"
-hash = "c9ef277737536f3117a9a5ad3976a2f69c5ee1791720b146e43bdb6e05ccae8f702fdb528554974d255d9e45a957abb06548575c45e759eacf175f7c37bb0945"
+hash = "07fc511048eaebda90330b18b491b655816bf4341573f23335e889abcf353a87e4c5938944304a662d6b4a8c75d64ce6ec77ec3ccc46f4954de55e2e4c90e4c4"
 
 [update]
 [update.modrinth]
 mod-id = "daZwiCIT"
-version = "6egrDtxt"
+version = "2x2toQZh"

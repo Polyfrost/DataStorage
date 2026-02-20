@@ -2,15 +2,15 @@ id = "2M01OLQq"
 enabled = true
 hidden = false
 name = "Shulker Box Tooltip"
-filename = "shulkerboxtooltip-fabric-5.2.13+1.21.10.jar"
+filename = "shulkerboxtooltip-fabric-5.2.15+1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2M01OLQq/versions/Tu7L0xsA/shulkerboxtooltip-fabric-5.2.13%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/2M01OLQq/versions/2lPKqJBJ/shulkerboxtooltip-fabric-5.2.15%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "eb839359575ec30b7a17d91313ed96ee345d927375dbc853264ce4848f421d7a9eb52ba5cfbe34177f1686e53e03fca181cb61c1f6195973e68da2c8dbceee91"
+hash = "a8a969056af71e25e086c9566fdfc8b50780162e5b335fe41776fa4f0c0f2edbf0c95c42453dca0b0b72f9f71d9bfa433f756aa2272043e9dd17fe8fb6f488dd"
 
 [update]
 [update.modrinth]
 mod-id = "2M01OLQq"
-version = "Tu7L0xsA"
+version = "2lPKqJBJ"
