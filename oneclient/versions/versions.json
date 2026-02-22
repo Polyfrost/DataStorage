@@ -1,18 +1,6 @@
 {
     "clusters": [
         {
-            "major_version": 8,
-            "name": "Bountiful Update",
-            "art": "/versions/art/Horse_Update.jpg",
-            "entries": [
-                {
-                    "minor_version": 9,
-                    "loader": "forge",
-                    "tags": ["Bedwars", "Nostalgia", "PvP", "SkyBlock", "UHC"]
-                }
-            ]
-        },
-        {
             "major_version": 21,
             "name": "Tricky Trials",
             "art": "/versions/art/Tricky_Trials.png",
