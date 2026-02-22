@@ -11,13 +11,11 @@ jobs:
   UpdateAndGenerateBundles:
     name: Update and Generate Bundles
     runs-on: ubuntu-latest
-    if: >
-      ${{
-        (github.event_name == 'push' &&
-         github.ref_name == 'main' &&
-         github.repository_id == '438157081') ||
-        github.event_name == 'workflow_dispatch'
-      }}
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event_name == 'push' &&
+       github.ref_name == 'main' &&
+       github.repository_id == '438157081')
     steps:
       - name: Git checkout
         uses: actions/checkout@v4
