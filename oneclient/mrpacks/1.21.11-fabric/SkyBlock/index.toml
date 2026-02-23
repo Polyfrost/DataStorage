@@ -21,11 +21,6 @@ hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
-file = "mods/firmament.pw.toml"
-hash = "e8a0d012c303fad97a4fd77b115acb82e037a054fb445c5b38e90877892634f0"
-metafile = true
-
-[[files]]
 file = "mods/hsm.pw.toml"
 hash = "459a5515e9246e361e61d8b3b6fb2ffda11cdd34077270fe728599dbc589631d"
 metafile = true
