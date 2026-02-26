@@ -50,6 +50,11 @@ hash = "bbf28818ac59c19583f03d516a86b508e7da7a591c28d071c4e53effd4865bf6"
 metafile = true
 
 [[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "69d4e2714cf39482863f198381211f84e5167ca8fbed9a202997f0a374732a8d"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "9dab92b89f7c0b7c214fff21bc48b86bc57d0990a15ded2f57a3d04647ea818a"
 metafile = true
