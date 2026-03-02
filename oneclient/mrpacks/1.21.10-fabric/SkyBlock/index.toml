@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-rpc.pw.toml"
-hash = "95f16dd4275e96ed7db62db4083b0cadbf7a5b9644725b57a2edbcd488be9312"
+hash = "df6bdaaecadd316e1164f806e5d9880674397e1e7275b44f1cc6d03a87bbb43c"
 metafile = true
 
 [[files]]
