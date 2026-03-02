@@ -61,11 +61,6 @@ hash = "aaf7935aeb9b3227e9873718bb180b6ec7cb94784c9a3ca759b89bdfeeb7fb77"
 metafile = true
 
 [[files]]
-file = "mods/skyblock-rpc.pw.toml"
-hash = "95f16dd4275e96ed7db62db4083b0cadbf7a5b9644725b57a2edbcd488be9312"
-metafile = true
-
-[[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "fa6656d12a4e606373db04287e79b47d70d0437ad3589aa16c865e48abe7a7bd"
 metafile = true
@@ -82,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "e89c2c1c32bb84b2c2e6ec698051d4c44ea9500c0d200ac2eb3571753ee3af33"
+hash = "bcc2a39b565c8ef043495775cc88d84ba78330ed5a0584b640c0a0696c59050b"
 metafile = true
 
 [[files]]

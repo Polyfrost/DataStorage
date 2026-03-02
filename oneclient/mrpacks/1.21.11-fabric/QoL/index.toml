@@ -15,11 +15,6 @@ hash = "d7d434777c1338b13b09f49a6540f6722687c512debd221e34723cf6790056a0"
 metafile = true
 
 [[files]]
-file = "mods/better-elytra-render.pw.toml"
-hash = "b8dfcee3acd2b482738d2c55c63525ce058af1d92a62b1b0f2622ae3873a0919"
-metafile = true
-
-[[files]]
 file = "mods/better-screens.pw.toml"
 hash = "40b7b9e17abe33a7d9ca6cec7a9d3fce204838e5cedaabc8ab6bff197a47149a"
 metafile = true
@@ -147,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "0f56ddc3a39115afee2da77ff35d9bff1e65a8aa757306f22db43be8d35e5b30"
-metafile = true
-
-[[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "94546366fc21817124c0bd14bf120284af8932e003715494f6d2423ce222d023"
 metafile = true
 
 [[files]]

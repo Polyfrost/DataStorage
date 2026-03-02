@@ -2,15 +2,15 @@ id = "rIC2XJV4"
 enabled = true
 hidden = false
 name = "ViaFabricPlus"
-filename = "ViaFabricPlus-4.4.7.jar"
+filename = "ViaFabricPlus-4.4.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/kRdalXKb/ViaFabricPlus-4.4.7.jar"
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/2to2gfdA/ViaFabricPlus-4.4.8.jar"
 hash-format = "sha512"
-hash = "6e42ee65320a44ef2091563f6b343b95ac4c70455437608a85c9cc7429fdb62b120cbf49ed633f4ccc0fe6e4894fdfb5c8a6c48cf3e94cd70ca6097ec8c2ae22"
+hash = "02a4548503bbe67e134cc9464212f8727b50f9c1f7bd40ebe96fce6ab3c4e69a4d8e9cb910b1c0f9771cb5d77875efbdd8f2b2837faa24cfe9a7c9c6efccdce2"
 
 [update]
 [update.modrinth]
 mod-id = "rIC2XJV4"
-version = "kRdalXKb"
+version = "2to2gfdA"

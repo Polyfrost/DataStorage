@@ -130,18 +130,8 @@ hash = "c775399f55b3ad3b4f5ff8c1086282e6ddcf0208734a98de97efb2c1a848f9e3"
 metafile = true
 
 [[files]]
-file = "mods/lazy-language-loader.pw.toml"
-hash = "d283bbdc7382d5ea7a90c084dcbc20f2d5db6dc6c9fc31718e9a8bb7204af828"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "eb426a809a5ed885d617e497092c35a467d7744a637e47f3b3f6e9b794c933ed"
-metafile = true
-
-[[files]]
-file = "mods/log-cleaner.pw.toml"
-hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
 metafile = true
 
 [[files]]
