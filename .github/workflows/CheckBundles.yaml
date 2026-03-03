@@ -1,5 +1,8 @@
 name: "Check Bundles"
 on:
+  pull_request:
+    paths:
+      - oneclient/**
   push:
     paths:
       - oneclient/**
