@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/unilib.pw.toml"
-hash = "1f627a582a9ca18cc0e9e6b5cc829c211316675904186b91e163e7df9e1e60ef"
+hash = "f8e2f75c731bb0f15784bf81549b94222123dbfb3684462ea3e36488580943bf"
 metafile = true
 
 [[files]]
