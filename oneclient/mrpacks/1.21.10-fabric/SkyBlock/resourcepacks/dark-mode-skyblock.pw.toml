@@ -2,15 +2,15 @@ id = "UldQM8wd"
 enabled = true
 hidden = false
 name = "SkyBlock Dark mode"
-filename = "Dark Skyblock v1.0.zip"
+filename = "Dark Skyblock v1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/UldQM8wd/versions/VJkfRwea/Dark%20Skyblock%20v1.0.zip"
+url = "https://cdn.modrinth.com/data/UldQM8wd/versions/WkeY2IJX/Dark%20Skyblock%20v1.1.zip"
 hash-format = "sha512"
-hash = "7cfbdc49dedae3227a668dee398da5daf73f1bb71e91fbed600de68d398ca9c155fedccc9469c78fb45a35ac30f02746d343e4057fc81aca66cabef22583dee5"
+hash = "7d22c789b7a92f5604077ea8ba40532dc34c8f328db2fd90988973dd8572288e8514284319ba465281706a1bd93c3e667a465c462cb78642a4008f407d02b431"
 
 [update]
 [update.modrinth]
 mod-id = "UldQM8wd"
-version = "VJkfRwea"
+version = "WkeY2IJX"
