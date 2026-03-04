@@ -1,3 +1,11 @@
+# 1.0.3
+
+###
+- Fix memory setting not updating
+- Update changelog fetch URL to DataStorage repo
+- Fix default categories always being selected
+- Improve debug
+
 # 1.0.2
 
 ###
