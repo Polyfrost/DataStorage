@@ -16,8 +16,8 @@ hash = "d9c07c4e7b869f4b3dfbd9372cf7e3e1726e5505b4147bbae9eebede1cb05799"
 metafile = true
 
 [[files]]
-file = "mods/chatpatches.pw.toml"
-hash = "e6f3a27eab5b12be66feb1df09eac29fbedb33d254f85c182235ec12ea19989a"
+file = "mods/chatshot.pw.toml"
+hash = "00d9a1506076b0885231c9449569fe3e73dc8b8b5f556745e2f8e24fb827dcc8"
 metafile = true
 
 [[files]]
@@ -31,6 +31,11 @@ hash = "37892a1101fb31f445c6c9e913e5090fc7dc4d7949f6856effbeafd62ef80d01"
 metafile = true
 
 [[files]]
+file = "mods/compacting.pw.toml"
+hash = "b4ddee594b0126f1ea2121f4f736bc623c0d929fb84bc272e67c192258816989"
+metafile = true
+
+[[files]]
 file = "mods/detail-armor-bar.pw.toml"
 hash = "55def88e464ef42c00af38e69a97100f0154be9c6c878fd9cf50872c49bb78b1"
 metafile = true
@@ -38,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9f7822a4ddcc9548fb046aac89bd08e5a96d139ccdbf4ecce5ed3ac9e4558458"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
 metafile = true
 
 [[files]]
