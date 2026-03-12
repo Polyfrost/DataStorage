@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/quickjoin.pw.toml"
-hash = "49d02c544f2842e126490acf56e1418c2e4904ccc560f3e643357a60759a29ab"
+hash = "752cf970c92f58228f4cd3e95e4dccf0763b914fae9cfc80d56aa723dd5b263c"
 metafile = true
 
 [[files]]

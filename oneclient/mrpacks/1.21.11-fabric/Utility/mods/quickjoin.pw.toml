@@ -6,11 +6,11 @@ filename = "QuickJoin-1.21.11-fabric-3.0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/S8VritJf/versions/kesRrBgg/QuickJoin-1.21.11-fabric-3.0.4.jar"
+url = "https://cdn.modrinth.com/data/S8VritJf/versions/8Z2jOosF/QuickJoin-1.21.11-fabric-3.0.4.jar"
 hash-format = "sha512"
-hash = "e4f791043a14f5e4c0e701a8ad1f88de578a473a5ac414d0a6fbde25ac01f27817603c6fb766340bc01e3afe06239d4ce8e64212155e8f1d70dd6f242851cd6a"
+hash = "0f2e64f50a8c3c4cc9e504f085f01210413fff256c997ee57d60b585f329a5f73c0b4ca0bd6ceb6f9c1e9e4947ece0a1c2460d1992800938b9ec543c14222f3b"
 
 [update]
 [update.modrinth]
 mod-id = "S8VritJf"
-version = "kesRrBgg"
+version = "8Z2jOosF"
