@@ -1,0 +1,16 @@
+id = "vkjAUQHO"
+enabled = true
+hidden = true
+name = "ModernConfig"
+filename = "ModernConfig-1.2-1.21.9-1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vkjAUQHO/versions/lzeXcFt2/ModernConfig-1.2-1.21.9-1.21.11.jar"
+hash-format = "sha512"
+hash = "ea9ec976e3d9185995ff737eccb604bd8a1f74f996955c273aa7eb2fd311e69a557cacbb46d420a339de8c3eb6b6f3ed5a4602d36f866230d3e1d4aa57a27f1a"
+
+[update]
+[update.modrinth]
+mod-id = "vkjAUQHO"
+version = "lzeXcFt2"

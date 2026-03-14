@@ -91,6 +91,11 @@ hash = "d1a382d79ffc2f735fde14a0a161fd61df562ff6918f14bd5d77b64d10f5e914"
 metafile = true
 
 [[files]]
+file = "mods/modernconfig.pw.toml"
+hash = "883d76b77290f1d43fb3cd14e4c0ecec142b670a75ffa7dc6ad9dafb1c83bc72"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "3813a732444fe1b477eadf4d1b8a2e420bd9a74cc3285037da624b27884a029e"
 metafile = true
