@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/firmament-packet-fix.pw.toml"
-hash = "a156c09bb370238b6bb7f6195de105486e0e1b9d634ef22d8f2710e797e0fbdd"
+hash = "82c5e52d22449651a09711c08c94f27792f250e4a882df1c1210523275b33032"
 metafile = true
 
 [[files]]
