@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3a74dc44e1f121945e3eebf4e346ebe941f09458f36024f5826f779cca2ac498"
+hash = "9ea8ea4a8aed7a734626db49148717b873fc59117b54da3d35149b9f93cb5cff"
 metafile = true
 
 [[files]]
