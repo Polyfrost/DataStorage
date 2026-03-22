@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "2de7556d2d0a5cd1cc2b9215f581c3dc7e05205e29038484180bfac23efd217e"
+hash = "cbfd5e0f1eff83f867b0c366777437a253496a2e57bee0403c2f67a136bf1853"
 metafile = true
 
 [[files]]

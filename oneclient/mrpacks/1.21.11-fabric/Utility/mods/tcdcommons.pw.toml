@@ -2,15 +2,15 @@ id = "Eldc1g37"
 enabled = true
 hidden = true
 name = "TCDCommons API"
-filename = "tcdcommons-5.0.0-beta.6+fabric-1.21.11.jar"
+filename = "tcdcommons-5.0.0+fabric-1.21.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Eldc1g37/versions/OmtB7Ofw/tcdcommons-5.0.0-beta.6%2Bfabric-1.21.11.jar"
+url = "https://cdn.modrinth.com/data/Eldc1g37/versions/ZQdmJdKB/tcdcommons-5.0.0%2Bfabric-1.21.11.jar"
 hash-format = "sha512"
-hash = "b885a5a592d995493f75831f7dc0a8f2aa00aa2294186a0bf47956846edf717d8acf2b5aec6b072aacaefc432c9de96d31cba1a54a64ad28468a63144db18b5d"
+hash = "dbd4e620882db5219471c82ec3f3f0db8debb8e512f2a7022faa33a64b2a75e3229b8fab76acedd742236fc6792b9f338d6a8ef95cadefa44f6e0ef87dd2f740"
 
 [update]
 [update.modrinth]
 mod-id = "Eldc1g37"
-version = "OmtB7Ofw"
+version = "ZQdmJdKB"
