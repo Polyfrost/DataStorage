@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "2341bd31d0a95a40af2a38747e2adcbe442ba3e8ccb1bcea67088bcbbfb8ff34"
+hash = "d114b29c5baf941a3037606daba6be56e7cd5ece7e075f1e81e1cd2fe09bc759"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "fb0a096134bdc90738346cd9aba5d59f94dbb6c01a3b6cd6dbdbfb8a832a4258"
+hash = "d87acc1378ee0f6574a4ee9673233caf3d077da485b2972dea801f277747d910"
 metafile = true
 
 [[files]]
