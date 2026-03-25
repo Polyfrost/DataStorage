@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f4504187b6b7bea442fe8afd03818657ba5f28757e80afbaa2fbf160540f689b"
+hash = "6dd3298aa00240b6f0c55c1b1fa943a3dccb3c2bf06cfd210962d00ab7393523"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "bc22739b187fa5d217416a73b6206ff2e5eb5554bd882d655c6e397b01bf744f"
+hash = "d31b7599afcf9262f36d04d59ef5c831c576e89ee5650e641b6decec68eead20"
 metafile = true
 
 [[files]]
