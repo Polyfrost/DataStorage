@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/reward-claim.pw.toml"
-hash = "ea2dc96f31bb9fc2609905e27da6175d1866cf7b87e9f30866ff14da3bfae1df"
+hash = "fd18d2d23079ef91495d9fc9ad90e3698bc9541bee9e57244ce92282036becdd"
 metafile = true
 
 [[files]]
