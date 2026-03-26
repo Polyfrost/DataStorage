@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "344ca02ae26f79bc11dc6d65751503613964da6761fcda5a33291dc7d8aae36f"
+hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/rsls.pw.toml"
-hash = "c3356166d08f306c98ef527b09656face36da3f10c908dbb8879d15f47532562"
+hash = "444dd99f29a272de481a2e3fff407ddaabaac1e0fefb6608b09940a25ba473b9"
 metafile = true
 
 [[files]]
