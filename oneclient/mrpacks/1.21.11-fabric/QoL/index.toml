@@ -110,6 +110,11 @@ hash = "3f37a4e78e0f939ca097ef8d80a618bf14007d94e89512c285f8ac8732fdcbd4"
 metafile = true
 
 [[files]]
+file = "mods/exploitpreventer.pw.toml"
+hash = "1fd7dd1efe6232ef18ff76fc0adbc1dcdc51345835a4570bb517c7b2b5ac87cd"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "ca2147ccc6cd2a9d8ee484dd796ae8e1c5de42551c9366f2d09915bbe1c0002e"
 metafile = true
