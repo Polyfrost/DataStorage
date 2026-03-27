@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
-hash = "69d4e2714cf39482863f198381211f84e5167ca8fbed9a202997f0a374732a8d"
+hash = "7217987cdd9cffa60c2da608339f3d7429eee0aae39383bde6017be4d7bceae2"
 metafile = true
 
 [[files]]
