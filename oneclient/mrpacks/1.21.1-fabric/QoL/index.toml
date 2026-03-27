@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "5714ede092ab06c5f77c74f0c1dfe4ff830af0d9b65a0fcf32fefb159130147a"
+hash = "b7a7951502571b41dca3ba47b7a98e97b6f6d2bec5c871ec7dfda196786e8b5d"
 metafile = true
 
 [[files]]
