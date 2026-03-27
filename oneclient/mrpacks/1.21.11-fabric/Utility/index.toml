@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b2a0747daded249a1b9805356cd5f5bb823f83a3a7bbd2cf2828dfd754157af4"
+hash = "3ae9541010d617a215197ee96cdc3c57cd5da46a4a5ae860c12977c68fb16f85"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "83f2ea4e9e0d6b0b9a4636f7decc28a4645705ff9a2071d97dd528c1e0eef32e"
+hash = "18b4f7a114613944d2307d8346590bc6f581191f67e628b90d526eea09ffac69"
 metafile = true
 
 [[files]]
