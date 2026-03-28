@@ -2,15 +2,15 @@ id = "WKwQAwke"
 enabled = true
 hidden = true
 name = "LibJF"
-filename = "libjf-3.19.10.jar"
+filename = "libjf-3.19.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WKwQAwke/versions/UtNxlYMj/libjf-3.19.10.jar"
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/mXXN9lwE/libjf-3.19.11.jar"
 hash-format = "sha512"
-hash = "538d16e58b4d8ac2389851a0af98b7c3a99f862be476429ac8922519ca6382f6091de66d283584b96fa6454ce48f5738b4317d4527c4e5a7a0a72ff03a4b084a"
+hash = "790a8ef82c87fc186da0adb0aee9afabc698751ab9c5ff6a8388ac88d74f5853e86c6d2bfb0fa114f41f35178ccf39953f176d21f60403bc5289686535fe5796"
 
 [update]
 [update.modrinth]
 mod-id = "WKwQAwke"
-version = "UtNxlYMj"
+version = "mXXN9lwE"
