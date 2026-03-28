@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-block-overlay.pw.toml"
-hash = "e925f2101d1f66b2d1d569053dccb7e23d8c75b6725365d9c4fdf2a68ffa6a17"
+hash = "bf010a6ced86570b637a375e5267e296d17c14e1defd988749fb6daca8bf637a"
 metafile = true
 
 [[files]]
