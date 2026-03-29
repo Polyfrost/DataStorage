@@ -4,6 +4,8 @@
             "major_version": 21,
             "name": "Tricky Trials",
             "art": "/versions/art/Tricky_Trials.png",
+            "long_description": "Minecraft's 1.21 update, known as \"Tricky Trials,\" primarily focuses on combat adventures and tinkering, introducing trial chambers, new copper block variants, a new crafting tool, and a new weapon. It also features new hostile mobs, paintings, and gameplay enhancements.",
+            "tags": ["Tricky Trials"],
             "entries": [
                 {
                     "minor_version": 1,
