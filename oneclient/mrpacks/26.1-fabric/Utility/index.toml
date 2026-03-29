@@ -61,11 +61,6 @@ hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
 metafile = true
 
 [[files]]
-file = "mods/frozenlib.pw.toml"
-hash = "49dd618b22b3df330180f49e59b4506e3488f477a314c9d94fe4fc318b3cc754"
-metafile = true
-
-[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "86209bd87bc2e3e7709bcd173ca04e675a9055115bc893843eb1505928b80e9b"
 metafile = true
