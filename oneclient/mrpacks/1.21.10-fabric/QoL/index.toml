@@ -225,11 +225,6 @@ hash = "ec8c86e8e0e3b67e54523e4b862868192466c4e2e2691af5d73f69f18acf2eac"
 metafile = true
 
 [[files]]
-file = "mods/particle-tweaks.pw.toml"
-hash = "ed31d7202ebdcebf7cd0e518e0748c41b2cc4d6592407a5ac6104ecb03d790c0"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "402a07c427d26dedd573aadf8b0f0f72cb4b1f1d65eb8e311568d0b9074ba6bb"
 metafile = true
