@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4550edce0c22c8bc7d43d396f7892b532438f1c9ab74266ed5cef37c1829ba8c"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "76f54f05a7bff4e3ae07586f59e0cbc09b8a566e847fc0615518535309ec9b8e"
+metafile = true
+
+[[files]]
+file = "mods/chat-impressive-animation.pw.toml"
+hash = "12f403f49671d00a7f11df488f26fbda534210079d41c7efffd5c85904e51192"
+metafile = true
+
+[[files]]
+file = "mods/chatshot.pw.toml"
+hash = "c3714cc10faf6f074a865fa530448c1edc485c44e39bfe9da3d2430c81492839"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
+metafile = true
+
+[[files]]
+file = "mods/compacting.pw.toml"
+hash = "48055670b98dee967510ce43ffc5d468444386ab9c952a18f34d35b76d1366d3"
+metafile = true
+
+[[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "ce22659b32e643d7de5a93e713330f103bc7147a206f259f9f75b69da94da75e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "59df4a5a6d29e9a7e218b7e69fe9c348a907fc64cf76a2b82bcc4bab5304c51e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
+metafile = true
+
+[[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "b8b87ed376832c4d3c3bb1743b3e4b42f5cc52ba93b7ca5777b5e913a65ad23a"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3097f4c2c23bfe0333440bdc916f26f42a9fefbec3c02285465041beff9ec47e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
+metafile = true
+
+[[files]]
+file = "mods/slice.pw.toml"
+hash = "935b4e35719b15561ad3293cb4daeff9d22eab4bb373cb46a55fda34c36248e0"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "d1bdff7713df1d9ef7baf2ddb9c8e5a2e0afca28968fc0c5bdc20112dc20bd8a"
+metafile = true
+
+[[files]]
+file = "mods/ukus-armor-hud.pw.toml"
+hash = "9e70b5baec2fd886f51ba687335a187c4280dfda259614eef2a4d3add1f9a727"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "65f0ab8ff98bbcfeb8b02a2965383e730a0e0921c35d2ffb4fc3a9712f0dc5f6"
+metafile = true

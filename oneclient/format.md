@@ -51,4 +51,13 @@ individual file / package additional fields:
 - PvP
 - Utility
 
+  26.1 Fabric
+
+- Performance
+- QoL
+- HUD
+- SkyBlock
+- PvP
+- Utility
+
 Modrinth API won't accpet a mod download url that has it's version name in it and not the version id. Please run the check.js file to check for this stuff and other issues

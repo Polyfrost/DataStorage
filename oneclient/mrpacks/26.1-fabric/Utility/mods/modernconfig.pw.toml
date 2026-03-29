@@ -1,0 +1,16 @@
+id = "vkjAUQHO"
+enabled = true
+hidden = true
+name = "ModernConfig"
+filename = "ModernConfig-1.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vkjAUQHO/versions/OZP640AU/ModernConfig-1.3.jar"
+hash-format = "sha512"
+hash = "3ad6abe538d3854d3d908ae832387db62ffcd0eb37c813eb2ec031a771715912a2169ecbfe8efe747fcb3305f5c5e61982a1e6182b49899030214b5d5eb13f7a"
+
+[update]
+[update.modrinth]
+mod-id = "vkjAUQHO"
+version = "OZP640AU"

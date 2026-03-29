@@ -1,0 +1,16 @@
+id = "ranjG9Zq"
+enabled = true
+hidden = false
+name = "Mount Opacity"
+filename = "mountopacity-1.2.1+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ranjG9Zq/versions/EYaEihhu/mountopacity-1.2.1%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "aa71a4576733b273a58ac386c23f685f6ae02149cb20875fe1e003a9e9b59341e2eddce5cf38847ff2c831822a3a8516540095aad9cc373d45df5615b657b258"
+
+[update]
+[update.modrinth]
+mod-id = "ranjG9Zq"
+version = "EYaEihhu"

@@ -1,0 +1,16 @@
+id = "e0M1UDsY"
+enabled = true
+hidden = true
+name = "Collective"
+filename = "collective-26.1.0-8.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/20oNLyvX/collective-26.1.0-8.16.jar"
+hash-format = "sha512"
+hash = "ab437092a9f02378feb4e1a9cc2b9d8eb05be7495d91cb28657df31ebd85c6696b0beb14383849f01ebea1acafb801cb8cf33c61eadaf2ddf68196deea9eefde"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "20oNLyvX"

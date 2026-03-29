@@ -1,0 +1,16 @@
+id = "HeyHGg62"
+enabled = true
+hidden = false
+name = "Numerical Enchantments"
+filename = "numericalenchantments-1.0.1+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HeyHGg62/versions/uoMdRvnS/numericalenchantments-1.0.1%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "1fead4c22120a6c2b3a16bee7c2a88cfd526dce09f064449bb862b2747f9e39c6fd2e8ecfee11eccbf8c8e69a944bc47f489f0d4133e290c5278fca82d37ca19"
+
+[update]
+[update.modrinth]
+mod-id = "HeyHGg62"
+version = "uoMdRvnS"

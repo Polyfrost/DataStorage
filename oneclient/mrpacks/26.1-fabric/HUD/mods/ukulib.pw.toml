@@ -1,0 +1,16 @@
+id = "Y8uFrUil"
+enabled = true
+hidden = true
+name = "ukulib"
+filename = "ukulib-fabric-2.0.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/asZKdLUQ/ukulib-fabric-2.0.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "89d5c68354bc7dd712f2fbf4bd612f41e9430684128111cb370b14c9d988e6a8a7d18d5e423533fb78d8181d2908456b61904528c9bf2dcb85e2a76f95465ca1"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "asZKdLUQ"

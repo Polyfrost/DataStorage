@@ -1,0 +1,16 @@
+id = "PTaRRA81"
+enabled = true
+hidden = false
+name = "Bazaar Graph Fix"
+filename = "Bazaar Graph Fix.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PTaRRA81/versions/4M6floac/Bazaar%20Graph%20Fix.zip"
+hash-format = "sha512"
+hash = "73a2635fceb2f5c2f61aaf616be4187a0ea5f272814a42dbd1286d2ac1c1774488eb99a968ae927cae1f5959f9da31f84b4e47708e1aae0cf4d42e1c031c9cba"
+
+[update]
+[update.modrinth]
+mod-id = "PTaRRA81"
+version = "4M6floac"

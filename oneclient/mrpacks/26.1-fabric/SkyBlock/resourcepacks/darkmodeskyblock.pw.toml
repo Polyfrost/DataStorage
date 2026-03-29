@@ -1,0 +1,16 @@
+id = "NpllRsQ9"
+enabled = true
+hidden = false
+name = "Dark Mode Skyblock"
+filename = "DarkModeSkyblock 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NpllRsQ9/versions/qs1mBSCs/DarkModeSkyblock%201.1.zip"
+hash-format = "sha512"
+hash = "65cb95d9dec9fd83c2d404221fee24536124a07cb39ba3f92dd2350d94f2fc5ea1fe70c3c8c1b87ad6c53d27f19a4ff41feda780201b875442ccc5f76c11a011"
+
+[update]
+[update.modrinth]
+mod-id = "NpllRsQ9"
+version = "qs1mBSCs"

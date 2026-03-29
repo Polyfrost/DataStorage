@@ -1,0 +1,16 @@
+id = "TnVRBsXO"
+enabled = true
+hidden = false
+name = "Compacting"
+filename = "compacting-1.1.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TnVRBsXO/versions/TywsWRo3/compacting-1.1.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "82a9b4e071aa01cd242b564221b8d6a4dd47f0960b16b3e9760e091df2e5a9670a8d95416260e7f589c465c25c988ef74fe3dd4d68680863683f3f119b64d885"
+
+[update]
+[update.modrinth]
+mod-id = "TnVRBsXO"
+version = "TywsWRo3"

@@ -1,0 +1,16 @@
+id = "Kw7Sm3Xf"
+enabled = true
+hidden = false
+name = "Noxesium"
+filename = "noxesium-fabric-3.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/mn8Ev2Im/noxesium-fabric-3.0.0.jar"
+hash-format = "sha512"
+hash = "2b9fbb2313a557ed6b89ef24657527307ec017348e20c0430b916a4a9390267a597926eddc8767642d8b952fe6088fb8e34b5e8c3a6b54d4928fea428f8ecbbe"
+
+[update]
+[update.modrinth]
+mod-id = "Kw7Sm3Xf"
+version = "mn8Ev2Im"

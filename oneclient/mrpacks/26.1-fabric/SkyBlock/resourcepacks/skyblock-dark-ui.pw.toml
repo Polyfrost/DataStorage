@@ -1,0 +1,16 @@
+id = "Ed25eRJG"
+enabled = true
+hidden = false
+name = "Skyblock Dark UI"
+filename = "Skyblock Dark UI 1.11 for 1.21.10+.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ed25eRJG/versions/4ilwk44r/Skyblock%20Dark%20UI%201.11%20for%201.21.10%2B.zip"
+hash-format = "sha512"
+hash = "9b89387b52afd1e2a4fcb0c0828b7762195058a12e012f5240e90defbecbfc77cbac69cff065ee2cb664fae50116267b5d853e4a9bb690d0377a611db16b1011"
+
+[update]
+[update.modrinth]
+mod-id = "Ed25eRJG"
+version = "4ilwk44r"

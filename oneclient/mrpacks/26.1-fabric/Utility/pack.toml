@@ -1,0 +1,18 @@
+name = "OneClient 26.1 Fabric [Utility]"
+author = "Polyfrost"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+poly-format = "1"
+enabled = true
+category = "Utility"
+id = "utility-26.1-fabric"
+update-url = "oneclient/generated/utility-26.1-fabric.mrpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6e89728290d76af660c02957dd909608bbdf5445445c7960b01932baa9abad5"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "26.1"

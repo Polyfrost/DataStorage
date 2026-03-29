@@ -1,0 +1,16 @@
+id = "Vklwtkf7"
+enabled = true
+hidden = false
+name = "Simple Block Overlay"
+filename = "simpleblockoverlay-1.6.4+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vklwtkf7/versions/I7JHtLXp/simpleblockoverlay-1.6.4%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "7309b43db8e64ec37a9c753392cd769f42b5b64d6b7acc70fb56d12129d64e1f5c765bfd97a40f4c6573c1e15685a3fe4b4da09d53cf9d85be9221ee288e706d"
+
+[update]
+[update.modrinth]
+mod-id = "Vklwtkf7"
+version = "I7JHtLXp"

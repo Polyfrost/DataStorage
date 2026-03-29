@@ -1,0 +1,16 @@
+id = "OpQzuo63"
+enabled = true
+hidden = false
+name = "Black Bar Concealer"
+filename = "blackbarconcealer-1.0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/OpQzuo63/versions/ZkW3WkjK/blackbarconcealer-1.0.8.jar"
+hash-format = "sha512"
+hash = "b5d236f709a1904ed13fa15ffded22ea8aa475c2af18c8b7fdc17e64a6a856b32105ba54adcbc151b3bd6fccf7f2bd6674d0f73e26e7f3bbc01f4dc9219298c4"
+
+[update]
+[update.modrinth]
+mod-id = "OpQzuo63"
+version = "ZkW3WkjK"

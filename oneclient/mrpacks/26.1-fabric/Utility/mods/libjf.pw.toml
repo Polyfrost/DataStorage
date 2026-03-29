@@ -1,0 +1,16 @@
+id = "WKwQAwke"
+enabled = true
+hidden = true
+name = "LibJF"
+filename = "libjf-26.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/iJfkeXDD/libjf-26.1.1.jar"
+hash-format = "sha512"
+hash = "4f342c778f593230eb8ee512f9eb7cd52d4a6862d41479f8b8fb56d5d656d9fb2c435a7a55c29e7057a48c911a43207e8c2da689def2f1047a223cc6253755c7"
+
+[update]
+[update.modrinth]
+mod-id = "WKwQAwke"
+version = "iJfkeXDD"

@@ -1,0 +1,16 @@
+id = "nT86WUER"
+enabled = true
+hidden = true
+name = "UniLib"
+filename = "UniLib-1.2.1+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nT86WUER/versions/nVMUC11U/UniLib-1.2.1%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "0ebaea53d9afc1f47b0e4111ae9e870f21c8bdbe357e59124acbf25a30e6439d7d8ec62df811dc03062f995c051a7887647d98cfd29b6d1c9b502e5f48be9eb7"
+
+[update]
+[update.modrinth]
+mod-id = "nT86WUER"
+version = "nVMUC11U"

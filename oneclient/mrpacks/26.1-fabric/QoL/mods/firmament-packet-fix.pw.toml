@@ -1,0 +1,16 @@
+id = "NQEh2drp"
+enabled = true
+hidden = false
+name = "Firmament Packet Fix"
+filename = "firmamentpacketfix-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NQEh2drp/versions/WT07nV4b/firmamentpacketfix-1.3.0.jar"
+hash-format = "sha512"
+hash = "40dd63d8655aa1098669f2fc5a5d5b1a0e4a3c0697f2d02476d0424e14321ec1f66a5f42b5b6d54ca8bdeafd1047aa8b2c6d623f1595902daf2814b4e1f751f3"
+
+[update]
+[update.modrinth]
+mod-id = "NQEh2drp"
+version = "WT07nV4b"

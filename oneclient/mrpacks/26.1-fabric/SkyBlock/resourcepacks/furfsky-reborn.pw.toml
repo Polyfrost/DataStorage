@@ -1,0 +1,16 @@
+id = "khMbd0K1"
+enabled = true
+hidden = false
+name = "Furfsky Reborn"
+filename = "FurfSky Reborn.cats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/khMbd0K1/versions/PBwsFNuf/FurfSky%20Reborn.cats.zip"
+hash-format = "sha512"
+hash = "6e4afb71f924c13abce9d80e80f7b89d89b7faeb51af33ca2f15341a9f8c72534f35e993674869a0c146b67b40d36add5212366a2eda925082c3221fdb7dd4fc"
+
+[update]
+[update.modrinth]
+mod-id = "khMbd0K1"
+version = "PBwsFNuf"
