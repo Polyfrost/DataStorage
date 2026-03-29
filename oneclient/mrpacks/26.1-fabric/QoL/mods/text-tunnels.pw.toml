@@ -2,15 +2,15 @@ id = "uL3EjOdB"
 enabled = true
 hidden = false
 name = "Text Tunnels"
-filename = "TextTunnels-1.3.0.jar"
+filename = "TextTunnels-1.3.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uL3EjOdB/versions/FYBSJdLZ/TextTunnels-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/uL3EjOdB/versions/TymTHsQD/TextTunnels-1.3.1.jar"
 hash-format = "sha512"
-hash = "2ea2f51076fa4ade2f1b27fb496d48991af1fb5fd2f688c51970a31c566f0ac0e23a0dc1864bea87ae83b24e31fab9be15b3d6a69857cfb787c538bee131e09c"
+hash = "9dadcdef5410255a8d003c97b3d38dc1277cdc7dc354295ff856de5a51eb3a1884bfb2309e623141ab3e1b515a9c91a726cf412924d903a37dee2382e6f18c99"
 
 [update]
 [update.modrinth]
 mod-id = "uL3EjOdB"
-version = "FYBSJdLZ"
+version = "TymTHsQD"

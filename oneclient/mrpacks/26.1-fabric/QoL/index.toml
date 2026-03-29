@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "f970823279d7227eb25daeee04822777c0abd4f0965ff2bffa2357fad9fe7ab9"
+hash = "08b0e17e2ae773f5553820805e29bd67202358a4656d2b04c8d48c7e5956c4e3"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/crosshairtweaks.pw.toml"
-hash = "efd3b8e29e4841dfdc797c7e70e6d1d85bc936ab9e5ba49451c730e88246ef83"
+hash = "61ff8c2c3b5b5f7e4f101ebc4ae900e32fc25e5dacfef1445fad070e2ce19951"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/scoreboardtweaks.pw.toml"
-hash = "9c009a8efd6da4ea1e05e4d529a567c8eb0455a424a610d40c191eef6a3f447c"
+hash = "a3520ca3276bd16893db2d32674c655717110bcd323744231309e54c2ad897b3"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-tunnels.pw.toml"
-hash = "488b6a0e9b33834691be5c52212e25d0f389f562637261e4b872b37664fd07a5"
+hash = "acdd8957be9d941389b28ae246127d9de0fb715c30cc0866f5254a90424bc6c5"
 metafile = true
 
 [[files]]
