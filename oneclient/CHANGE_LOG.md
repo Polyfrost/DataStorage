@@ -1,3 +1,15 @@
+# 1.1.0
+
+###
+- Add support for new 26.x versioning scheme
+- Add migration GUI for new versions
+- Improve onboarding design significantly
+
+- Fix Linux window bar
+- Cache all background art
+- Fix resource pack compatibility check
+- Add AUR build
+
 # 1.0.3
 
 ###
