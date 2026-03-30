@@ -2,15 +2,15 @@ id = "rcLriA4v"
 enabled = true
 hidden = false
 name = "Amecs"
-filename = "amecs-bundle-1.6.1+mc1.21.9.jar"
+filename = "amecs-bundle-1.6.3+mc1.21.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcLriA4v/versions/DJFf2P5H/amecs-bundle-1.6.1%2Bmc1.21.9.jar"
+url = "https://cdn.modrinth.com/data/rcLriA4v/versions/kYMaHnSI/amecs-bundle-1.6.3%2Bmc1.21.9.jar"
 hash-format = "sha512"
-hash = "32ac691e893c130b65a2f435cbce80caf7f7559a011af2acee6aaa719d554a4859e2dd03f6564799a93998c1cf7134d45c9ae92816f6437ab41ed716817368b4"
+hash = "3df612e540d04058a58dd2646894045d5d9c66b8d4f87b444e746b28c34c657ccdadd22f5a09ac42dba7d50bfee263892aa2d15a2e925de16c2cdfc26dc3fa18"
 
 [update]
 [update.modrinth]
 mod-id = "rcLriA4v"
-version = "DJFf2P5H"
+version = "kYMaHnSI"

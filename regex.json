@@ -27,7 +27,7 @@
         "^ +(?:Survivors \\(\\d+\\):|Nobody survived!|Survivor:)$"
     ],
     "en": {
-        "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+)$",
+        "autoQueuePrefixGlobal": "^(?:You died! .+|YOU DIED! .+|You have been eliminated!|You have permanently died! .+|You won! .+|YOU WON! .+|You finished all maps in \\d{2}:\\d{2}:\\d{3}!)$",
         "autoFriendPattern": "Friend request from (?<name>.+)\\[ACCEPT] - \\[DENY] - \\[BLOCK].*",
         "autoAfkReplyPattern": "^From (\\[.+?] )?(.+?): .+$",
         "chatCleanerKarmaMessages": "^\\+(?<karma>\\d)+ Karma!$",

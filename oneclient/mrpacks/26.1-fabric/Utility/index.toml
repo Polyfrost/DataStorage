@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternightvision.pw.toml"
-hash = "a80e53a334ee3bd4c2ac4f06cf156a7843c91953e3724d7b0a64484010c68c1d"
+hash = "2235ac1294d5b1f22f8cffaa2e5ad9edcf6039c79b10c8798f6b425346ffb3ee"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "95829b734cf87c03880e0f08dda4a13a42509161c2b6d632798544fcae06ca67"
+hash = "f6146c4c9f99b5640be509b0d99e1bcdf0430b7ceb5541868c6e0d2a4b5adf71"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "18b4f7a114613944d2307d8346590bc6f581191f67e628b90d526eea09ffac69"
+hash = "741d10b6ea3da153b1ba5d15681ee2da0615b80ec8f4012eab0562fcafedeae1"
 metafile = true
 
 [[files]]

@@ -26,7 +26,7 @@ hash = "30a0b4f6b3ebc10d2a515b774ba51f3f2dd14e9bf40fca835c8c133640493312"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "197251c57ec2d530871ca091717abf4fcb767a2696d06c9e13a1723f5472c391"
+hash = "c8b55307c45ef887c6f503def0f03c3209939873b34d5cda7170d2d06e8785da"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "c4f68c2dd3fbbf4212c57b387ded1243aace86e1fd76efc83dc42006f9bb93c1"
+hash = "969f6a035bc1dd73447e57faf605f00eec58ceda1e0590432db459a6d66dbedd"
 metafile = true
 
 [[files]]

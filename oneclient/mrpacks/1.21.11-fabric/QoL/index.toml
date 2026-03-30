@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/amecs.pw.toml"
-hash = "d7d434777c1338b13b09f49a6540f6722687c512debd221e34723cf6790056a0"
+hash = "d114b29c5baf941a3037606daba6be56e7cd5ece7e075f1e81e1cd2fe09bc759"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "60722287e7a1f3b7ca9aba9893ecf0db65822cf0af055bb44d423a79508c09ad"
+hash = "798a336d640c0c904d0cc0f3cef66d5523dc81ed8fb00fae96ace5af38b929b3"
 metafile = true
 
 [[files]]
