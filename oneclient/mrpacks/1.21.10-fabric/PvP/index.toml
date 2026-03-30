@@ -21,6 +21,11 @@ hash = "b6a662b66f2b333ca955faf3c01f8dc4ab8ab380b189ffc98b9af18d3c026fae"
 metafile = true
 
 [[files]]
+file = "mods/no-ones-view-model.pw.toml"
+hash = "b403f0ebc6dd00ad51ffab1cc31c7eb9151188a165b0a56c30801adfe4c39d1e"
+metafile = true
+
+[[files]]
 file = "mods/shaketweaks.pw.toml"
 hash = "ea60668a8ecd434e8f40b1a25c77f406ec5b2bc8021bb33acd63c7e4f07f8561"
 metafile = true
