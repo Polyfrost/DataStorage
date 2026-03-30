@@ -27,6 +27,21 @@
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 }
             ]
+        },
+        {
+            "major_version": 26,
+            "name": "Minecraft from 2026",
+            "art": "/versions/art/Tiny_Takeover.png",
+            "long_description": "Minecraft's 26.x updates, starting with the release of \"Tiny Takeover\", primarily focuses on mob charm and quality-of-life improvements, overhauling textures and models for every baby mob that previously lacked a unique model. It also features the golden dandelion, nametag crafting, and other gameplay enhancements.",
+            "tags": ["Tiny Takeover"],
+            "entries": [
+                {
+                    "minor_version": 1,
+                    "name": "Tiny Takeover",
+                    "loader": "fabric",
+                    "tags": ["PvP", "SkyBlock", "Survival"]
+                }
+            ]
         }
     ]
 }
