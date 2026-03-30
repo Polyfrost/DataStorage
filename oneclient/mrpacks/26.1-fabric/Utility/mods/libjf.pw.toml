@@ -2,15 +2,15 @@ id = "WKwQAwke"
 enabled = true
 hidden = true
 name = "LibJF"
-filename = "libjf-26.1.1.jar"
+filename = "libjf-26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WKwQAwke/versions/iJfkeXDD/libjf-26.1.1.jar"
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/Icy7xbUM/libjf-26.1.2.jar"
 hash-format = "sha512"
-hash = "4f342c778f593230eb8ee512f9eb7cd52d4a6862d41479f8b8fb56d5d656d9fb2c435a7a55c29e7057a48c911a43207e8c2da689def2f1047a223cc6253755c7"
+hash = "43f1ea31d105ef42b463d5339da64d65fcdeb28c32956bf6ce52edf0b3db7f406418c3631d63797e14b0de07bf9171558e655d7b0ae735d1d9c17aa41c77a940"
 
 [update]
 [update.modrinth]
 mod-id = "WKwQAwke"
-version = "iJfkeXDD"
+version = "Icy7xbUM"

@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "7837c1435ff256950a9283247404f3006b40c86e500ed3869155b579d1c21b11"
+hash = "9f6f39d3acc3df773b942239552a6b2ab51c240fb325a17b0a89a79747012a78"
 metafile = true
 
 [[files]]
