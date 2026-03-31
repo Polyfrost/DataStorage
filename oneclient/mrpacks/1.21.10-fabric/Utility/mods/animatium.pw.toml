@@ -2,15 +2,15 @@ id = "zy0karK1"
 enabled = true
 hidden = false
 name = "Animatium"
-filename = "animatium-3.1+1.21.10-fabric.jar"
+filename = "animatium-3.2+1.21.10-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zy0karK1/versions/XNuketWt/animatium-3.1%2B1.21.10-fabric.jar"
+url = "https://cdn.modrinth.com/data/zy0karK1/versions/dNYb24vW/animatium-3.2%2B1.21.10-fabric.jar"
 hash-format = "sha512"
-hash = "0102b5e5ac36f5fa3c05ee43457357a04ee4412aa64159958c00a39c712305489240a77f7a3863b94982b2b9ee0b5613cc7c768612d11c0504ae356c1ef5b893"
+hash = "cca0f0b27d5b8f7dfce4af67012522775092ee1e8298447ec6b8da85743a93e2cd366d84e331f18411490c691b037943d1fefaa65c8e945a81889548c977610b"
 
 [update]
 [update.modrinth]
 mod-id = "zy0karK1"
-version = "XNuketWt"
+version = "dNYb24vW"
