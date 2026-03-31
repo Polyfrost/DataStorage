@@ -2,15 +2,15 @@ id = "fc4wBpRx"
 enabled = true
 hidden = false
 name = "Catharsis"
-filename = "Catharsis-1.0.0-beta.13-1.21.10.jar"
+filename = "Catharsis-1.0.0-beta.14-1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fc4wBpRx/versions/6ODu9Ilx/Catharsis-1.0.0-beta.13-1.21.10.jar"
+url = "https://cdn.modrinth.com/data/fc4wBpRx/versions/DjmnlWK9/Catharsis-1.0.0-beta.14-1.21.10.jar"
 hash-format = "sha512"
-hash = "8190b3cc6c517417c60c36724ee6b1d5b63c0381116f65d23832e6b8d2e2361d07ccfc34329a7b5d77f2ef7907e0613ea6b910677c251502104bf22b9e9e5fff"
+hash = "d98c668a05d8f8824ad73a433e63ddc58b48c9950a3e1aebdc8e61ca99725b957b4531ddbbb654e2ac98e254e49095586072a4e22420c21b33ecd2889f534ba0"
 
 [update]
 [update.modrinth]
 mod-id = "fc4wBpRx"
-version = "6ODu9Ilx"
+version = "DjmnlWK9"
