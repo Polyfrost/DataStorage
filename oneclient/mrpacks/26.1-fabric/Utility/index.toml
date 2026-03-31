@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "76889224397dc748918bc28892517b547b19c2b968f049953a130af8a3c3b836"
+hash = "fd9b517cfcf41a819dd7105e445edd81711c30227fa564eb1570bc4a3309d125"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f6146c4c9f99b5640be509b0d99e1bcdf0430b7ceb5541868c6e0d2a4b5adf71"
+hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
 metafile = true
 
 [[files]]
