@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/exploitpreventer.pw.toml"
-hash = "71c1f1da08a5225361b1dbf8f3cb2cfb10a233347c7a7a80c72a6bf6ebbb2521"
+hash = "a2fffe4b4ac9130ebafe394321a6c18f25ee11226f76606d4dedf2b2fd2f486b"
 metafile = true
 
 [[files]]
