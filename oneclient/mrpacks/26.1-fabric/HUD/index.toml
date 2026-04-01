@@ -32,17 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fd9b517cfcf41a819dd7105e445edd81711c30227fa564eb1570bc4a3309d125"
+hash = "76889224397dc748918bc28892517b547b19c2b968f049953a130af8a3c3b836"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
-metafile = true
-
-[[files]]
-file = "mods/inventoryhudplus.pw.toml"
-hash = "b8b87ed376832c4d3c3bb1743b3e4b42f5cc52ba93b7ca5777b5e913a65ad23a"
 metafile = true
 
 [[files]]
@@ -53,11 +48,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
-metafile = true
-
-[[files]]
-file = "mods/slice.pw.toml"
-hash = "935b4e35719b15561ad3293cb4daeff9d22eab4bb373cb46a55fda34c36248e0"
 metafile = true
 
 [[files]]
