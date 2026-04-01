@@ -1,3 +1,11 @@
+# 1.1.1
+
+###
+- Add fabric loader updating
+- Fix rare frontend crash
+- Fix onboarded clusters not automatically being considered during migration checks
+- Fix 26.1 launch crash
+
 # 1.1.0
 
 ###
