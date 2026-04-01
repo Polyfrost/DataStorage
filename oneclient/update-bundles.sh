@@ -44,6 +44,6 @@ for version in mrpacks/*; do
   for bundle in "$version"/*; do
     [ -d "$bundle" ] || continue
     echo "Updating $bundle"
-    (cd "$bundle" && "$PACKWIZ_BIN" update -a -y)
+    (cd "$bundle" && "$PACKWIZ_BIN" update -a -y --stable)
   done
 done
