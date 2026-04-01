@@ -1,3 +1,9 @@
+# 1.1.2
+
+###
+- Fix library downloading
+- Fix onboarding / migrating again
+
 # 1.1.1
 
 ###
