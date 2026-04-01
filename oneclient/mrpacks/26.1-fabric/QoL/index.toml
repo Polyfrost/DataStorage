@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "76889224397dc748918bc28892517b547b19c2b968f049953a130af8a3c3b836"
+hash = "009f461d2c1f5aa995896c48a90b910659c971f9e33b0a9eebbc0ed243a066e4"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "68c3e7853d592e7f6281beb59bc1652c43fe80c1ea377e53f45eb61878c97562"
+hash = "fe267f82dfc8bf919b5d2ed3557991027a05d70c5aceb9c6a3a8ca619e37704b"
 metafile = true
 
 [[files]]
