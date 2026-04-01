@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "dc0ff6055244f61c5e66ac96ed162c16b7915f4ff02c10a9cd907f0faaeec4d9"
+hash = "3342626238905ee496c0360514a2d26eb40f5d2f9588c696e409a39aa12fb0f5"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "89989b99381b7616a1145920824ba63990142d019fc1cc784c34d4d6c5ff86fa"
+hash = "7a99193ddfb427ac0a7c40ade4ff48b6680cfd775c64c02113cb89d5fbede245"
 metafile = true
 
 [[files]]

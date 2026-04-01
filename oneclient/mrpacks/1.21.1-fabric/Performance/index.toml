@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "6ffe6afb16df9eb8c65fcb426f3402964012fc815d931fd3fcdb4f4f4e431cd9"
+hash = "229e3b44965d0cece672b6de343194effb8a29c7c36fcdac09bdaf8e526a2f97"
 metafile = true
 
 [[files]]
