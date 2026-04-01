@@ -56,11 +56,6 @@ hash = "9a7855ffdce0933f0a83d547bf1cbe15ba245873aab38107378f56868a911e79"
 metafile = true
 
 [[files]]
-file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "3992b310971a11bd5cb844fa54cbb09256d20d213fa5f5e6ae7d3666953d4245"
-metafile = true
-
-[[files]]
 file = "resourcepacks/skyblock-dark-ui.pw.toml"
 hash = "8d97dfe63cbd6819d3b1aad38ec8ff89f2ac89a389f4f92cd835ba6f083537d0"
 metafile = true
