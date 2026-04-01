@@ -1,3 +1,8 @@
+# 1.1.3
+
+###
+- Remove automatic dependency downloading
+
 # 1.1.2
 
 ###
