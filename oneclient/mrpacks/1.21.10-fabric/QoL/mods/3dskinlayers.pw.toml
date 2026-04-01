@@ -2,15 +2,15 @@ id = "zV5r3pPn"
 enabled = true
 hidden = false
 name = "3D Skin Layers"
-filename = "skinlayers3d-fabric-1.11.0-mc1.21.10.jar"
+filename = "skinlayers3d-fabric-1.11.1-mc1.21.10.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/Duiygev1/skinlayers3d-fabric-1.11.0-mc1.21.10.jar"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/epUMFHmN/skinlayers3d-fabric-1.11.1-mc1.21.10.jar"
 hash-format = "sha512"
-hash = "57fa910e858d8c073302157c214b207958ed35b5e8224951e424b6467c8336eb2d8bcba1e56ce7e6cbf3ebf5fd6dbeedd4733b19b035d512ca3332c65a8115a2"
+hash = "1881135f581992c53aed31b04039af2cd0b3d3328effc0862d64c9be0d9cba3e769ec56613569b97da3d005efc09103fad212b0b623692c985dbc0d5b2dc6cf5"
 
 [update]
 [update.modrinth]
 mod-id = "zV5r3pPn"
-version = "Duiygev1"
+version = "epUMFHmN"
