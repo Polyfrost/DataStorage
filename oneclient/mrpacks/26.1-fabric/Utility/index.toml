@@ -6,11 +6,6 @@ hash = "3cdb0924665089dd1424261636aaf64529a9c82828d63fd0d50f350ad2fb006e"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "1f450b1df03f577fb2d34745cf43dca40553b17973c0e90fd2b30712e71e6ca9"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "f49793bc9b6aac72ed81f72ca8c885e9d53294dd5217c133bb3e53a258e5e5ca"
 metafile = true
@@ -71,11 +66,6 @@ hash = "18776c1c7e8032a493d43ca8042d79ed14cb6c4122b09541ffa7b97f3c6775e9"
 metafile = true
 
 [[files]]
-file = "mods/in-game-account-switcher.pw.toml"
-hash = "f9f2448e3c3f5ff02c38da1db2cf94ac700664f22279fbe29ab5244b2ad85191"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "85e298579b18f483ad936798944426ba1b9a8a0f5996482528caf9e9f94c0231"
 metafile = true
@@ -131,11 +121,6 @@ hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
 metafile = true
 
 [[files]]
-file = "mods/simple-block-overlay.pw.toml"
-hash = "50301058c52c6174cd56d7862ee4e317ba246efbc0f2aaafccbbab0092d25efa"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7b9a20b54ef75ae92c48967b61de3afd33a7970a98dee04fa8319c71a0d9af87"
 metafile = true
@@ -173,9 +158,4 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "65f0ab8ff98bbcfeb8b02a2965383e730a0e0921c35d2ffb4fc3a9712f0dc5f6"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "c894014ab876560b329ac8e9f836deb16bf21769043597aa232f301857e39cc4"
 metafile = true

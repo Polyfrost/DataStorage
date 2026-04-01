@@ -15,16 +15,6 @@ hash = "106813eb6cd8bd021edf7bcdd8e6eb7eeaf12b7937a51ef49afe44c62c37c0d1"
 metafile = true
 
 [[files]]
-file = "mods/better-screens.pw.toml"
-hash = "162d48e523a4870653f896ab48351250a5fb828f212f85ad4b47bfd6602c0930"
-metafile = true
-
-[[files]]
-file = "mods/better-selection.pw.toml"
-hash = "51e05f70450310a8f893f2b44f99103bcb26a5bb9323fded221039b2eb925c62"
-metafile = true
-
-[[files]]
 file = "mods/black-bar-concealer.pw.toml"
 hash = "31000795f05e79b4c1d29947302331c04edf5762085e22a3bc6f40ed26b30085"
 metafile = true
@@ -70,11 +60,6 @@ hash = "61ff8c2c3b5b5f7e4f101ebc4ae900e32fc25e5dacfef1445fad070e2ce19951"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "e7693d6c1c22593c2936b2b500bf98397d4fc21c8a13a15c19c2575fddc98b89"
-metafile = true
-
-[[files]]
 file = "mods/dark-graph.pw.toml"
 hash = "d50c62ce2c560fd5a6ab855ecb6e706ccc068ca07f69f36a964892ffa87f952b"
 metafile = true
@@ -82,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "83ff544c412bb7e21d194ada1d0d6f71b060a6ad47f43e5d641fc4036c5674ce"
-metafile = true
-
-[[files]]
-file = "mods/droppeditemtweaks.pw.toml"
-hash = "a3aec2ac44ce3728af7383d8ba2f11352bf2d82ed94b2025a11f33811980d31c"
 metafile = true
 
 [[files]]
@@ -160,16 +140,6 @@ hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
 metafile = true
 
 [[files]]
-file = "mods/mountopacity.pw.toml"
-hash = "ea12925bc90888bfa8b420766eda966013ef38164448218b9c40830c24005f08"
-metafile = true
-
-[[files]]
-file = "mods/nametagtweaks.pw.toml"
-hash = "da3576e0dd97dcc8695c8d34ed4f08b4cbf31db22505cb08bba24a8c35270f3a"
-metafile = true
-
-[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "c0fa0ba1fd8cd3649858f319c53f75fd68fd6960980c37fe2e0fe6275569d22a"
 metafile = true
@@ -200,11 +170,6 @@ hash = "cb3555d4858820ab6e0914e846e848d42746bd843e632cce1458e89af96235de"
 metafile = true
 
 [[files]]
-file = "mods/overlaytweaks.pw.toml"
-hash = "4f7b72938fe78ac03b6f58d43e281ca3a5a518f72265f71a198db4138f1eebd7"
-metafile = true
-
-[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "5bf24e2c1a1089f5b82d59f26df6281f542367dde8a58c9d2183837eecb1aa95"
 metafile = true
@@ -217,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dc0b07b387d277bd48b02933add1375f03a5f6538e23507151b088b08c4123a0"
-metafile = true
-
-[[files]]
-file = "mods/rendertweaks.pw.toml"
-hash = "8edab95eb93b75e4df66ff90054b69dc19d42cb69ec4dcd819340f1fc42c0ee4"
 metafile = true
 
 [[files]]
@@ -300,28 +260,8 @@ hash = "944186a8ea66b8171beed48c28882f76b4f20c76e3659328a4e8573d61e8e01a"
 metafile = true
 
 [[files]]
-file = "mods/tabtweaks.pw.toml"
-hash = "4baa2740626d3b58e460a236e23d72497e753dd6ec63c105ac47d7d381eaa8f5"
-metafile = true
-
-[[files]]
 file = "mods/text-tunnels.pw.toml"
 hash = "acdd8957be9d941389b28ae246127d9de0fb715c30cc0866f5254a90424bc6c5"
-metafile = true
-
-[[files]]
-file = "mods/titletweaks.pw.toml"
-hash = "b63e915f68c5073ace8cc0e286751a2a8ac9483d860e057a02bee5627ef0f60f"
-metafile = true
-
-[[files]]
-file = "mods/tntime.pw.toml"
-hash = "0e8bfd9be39c437a863aeab14019dc8ceee67aaebb5ebc08926ae41c4dd13609"
-metafile = true
-
-[[files]]
-file = "mods/tooltip-scroll.pw.toml"
-hash = "9067aa4d3e87b36321b5061d8407f723f235778978b0a5f7863e9a5601bf732e"
 metafile = true
 
 [[files]]

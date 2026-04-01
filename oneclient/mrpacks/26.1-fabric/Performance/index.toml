@@ -35,18 +35,8 @@ hash = "49f988ce3b068c3818203e7b2419540e5eb9faaf28b5947b0560d99edbd06f11"
 metafile = true
 
 [[files]]
-file = "mods/better-mipmaps.pw.toml"
-hash = "695f285849e70e454449c98cb88347b308d76509566dadde993c21bdc9d1b560"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d50e9db908b32a4f37d12558fbc3344b4d16777c0adde8c635ab5542eca162f0"
-metafile = true
-
-[[files]]
-file = "mods/catharsis.pw.toml"
-hash = "aeb5d3bb8a4798fc21101acc3570ae8d375604222b808fc17523e6bc6d5e6ccc"
 metafile = true
 
 [[files]]
@@ -62,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
 hash = "9d9628c351223ecc516f7f9fdad90f597db2c90e1875f02e1a515e161ae8682c"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "e55b7d857fdf23529fec20b83b39139900217082894c1365b354c452f6b0bda6"
 metafile = true
 
 [[files]]
@@ -130,11 +115,6 @@ hash = "a087a09f4b2155fa10808f0dd62905a77b31cc8abaef847f68041f729303fda9"
 metafile = true
 
 [[files]]
-file = "mods/ixeris.pw.toml"
-hash = "9e36e293c461a4bf3ca57eff615b59acb80f1ab72abeb62d6a7d7862b1f687ce"
-metafile = true
-
-[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "bafee97281f34b36b18277f2f02903f0b81f8358e5386b171733d568eb303790"
 metafile = true
@@ -182,11 +162,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "a83b41d9c7c3dc3eaa0b80317a579ed72aec8a7568d7ca2879a0a7de779be38b"
-metafile = true
-
-[[files]]
-file = "mods/sciophobia.pw.toml"
-hash = "8c4a8c65e55391ae047e138cf4dc8fb421e33ace75bd2a955871bde44bf2e33e"
 metafile = true
 
 [[files]]

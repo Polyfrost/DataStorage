@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "1f450b1df03f577fb2d34745cf43dca40553b17973c0e90fd2b30712e71e6ca9"
-metafile = true
-
-[[files]]
-file = "mods/catharsis.pw.toml"
-hash = "aeb5d3bb8a4798fc21101acc3570ae8d375604222b808fc17523e6bc6d5e6ccc"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
 metafile = true
@@ -31,33 +21,8 @@ hash = "63c541806b066424c22fd3f1344da0a2563b609b6a998d607106af687f515678"
 metafile = true
 
 [[files]]
-file = "mods/hsm.pw.toml"
-hash = "459a5515e9246e361e61d8b3b6fb2ffda11cdd34077270fe728599dbc589631d"
-metafile = true
-
-[[files]]
 file = "mods/hypixel-mod-api.pw.toml"
 hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
-metafile = true
-
-[[files]]
-file = "mods/modern-warp-menu.pw.toml"
-hash = "9c5793d1fa307aab7f427ec2b9f5fdbaedc2f68ba1a0c57849c0a6c6431f364a"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "bf2c053158e6eb1c471160c47328615a2c62f7b358886793b6fda97d7e9d351f"
-metafile = true
-
-[[files]]
-file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "efe074e68c2616f0c9ad1422084f710f4729de9e4361c81c1e1537307d47e0c4"
-metafile = true
-
-[[files]]
-file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "f544608c4806d2b3191051414cbcbc1c338f13d65561e233ec8ee38dbb4019ff"
 metafile = true
 
 [[files]]
@@ -73,11 +38,6 @@ metafile = true
 [[files]]
 file = "mods/skyhanni.pw.toml"
 hash = "7898b347860accc29b187d5e6da005916b68415023922e4aca2737594e4ad1bf"
-metafile = true
-
-[[files]]
-file = "mods/skyocean.pw.toml"
-hash = "0b5574f602f92bf54a5627e486d7e13ce7503edf91d1f83745cf7b5184675861"
 metafile = true
 
 [[files]]

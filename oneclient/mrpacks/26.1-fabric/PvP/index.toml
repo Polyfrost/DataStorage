@@ -26,11 +26,6 @@ hash = "b403f0ebc6dd00ad51ffab1cc31c7eb9151188a165b0a56c30801adfe4c39d1e"
 metafile = true
 
 [[files]]
-file = "mods/shaketweaks.pw.toml"
-hash = "f32a2c743763bd956183956d8e4c65a61137a3a420bb54609d339798949c84fe"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "c514673c733cd9fa3e2ce00ad26aee10a2d8feb98e044989324354da43062022"
 metafile = true

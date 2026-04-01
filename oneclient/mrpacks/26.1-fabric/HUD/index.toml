@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "4550edce0c22c8bc7d43d396f7892b532438f1c9ab74266ed5cef37c1829ba8c"
+hash = "26c2a858dfce36fc6f080a3d0c6d91d84227b44664067a22cd5530436c41c766"
 metafile = true
 
 [[files]]
@@ -13,11 +13,6 @@ metafile = true
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
 hash = "12f403f49671d00a7f11df488f26fbda534210079d41c7efffd5c85904e51192"
-metafile = true
-
-[[files]]
-file = "mods/chatshot.pw.toml"
-hash = "c3714cc10faf6f074a865fa530448c1edc485c44e39bfe9da3d2430c81492839"
 metafile = true
 
 [[files]]
