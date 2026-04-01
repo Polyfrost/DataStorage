@@ -21,11 +21,6 @@ hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
 metafile = true
 
 [[files]]
-file = "mods/no-ones-view-model.pw.toml"
-hash = "b403f0ebc6dd00ad51ffab1cc31c7eb9151188a165b0a56c30801adfe4c39d1e"
-metafile = true
-
-[[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "c514673c733cd9fa3e2ce00ad26aee10a2d8feb98e044989324354da43062022"
 metafile = true

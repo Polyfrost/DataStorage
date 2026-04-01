@@ -50,11 +50,6 @@ hash = "71eadb465531bc3c5599838f1c633c07c09b3cf44b67ab5a9c0173e8e4e09479"
 metafile = true
 
 [[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "9d9628c351223ecc516f7f9fdad90f597db2c90e1875f02e1a515e161ae8682c"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a746aae7228d46937a1cc2f8d5512b20f2102d9e5c34139b90d4e4750016097d"
 metafile = true
@@ -77,11 +72,6 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "969f6a035bc1dd73447e57faf605f00eec58ceda1e0590432db459a6d66dbedd"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "9cb0cad2dd6358c9d87d19a5684e0c701934689b5dc950305401d9468ba41644"
 metafile = true
 
 [[files]]
@@ -137,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "3d22391d697b39f61a5844e236a8e911d5404e076d457438972d77335d63f665"
 metafile = true
 
 [[files]]

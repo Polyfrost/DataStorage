@@ -86,16 +86,6 @@ hash = "0c0d41b67ec11b92100b34e8d7642f69414c80c6fe46ffac30cbba2e1f1eaab5"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "450764119e7c1ca1217efcda63fb39772f8a6edd83a086346db6e846f5a44ee9"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "3d22391d697b39f61a5844e236a8e911d5404e076d457438972d77335d63f665"
-metafile = true
-
-[[files]]
 file = "mods/quickjoin.pw.toml"
 hash = "b3b7789e9eb22477293a7b5bb9de903d92ce75382de653e13d13c13cf9c52bbf"
 metafile = true
@@ -126,18 +116,8 @@ hash = "7b9a20b54ef75ae92c48967b61de3afd33a7970a98dee04fa8319c71a0d9af87"
 metafile = true
 
 [[files]]
-file = "mods/sound-controller.pw.toml"
-hash = "5937d500253e3d8e6be56db1bb962853ce86b90f1bddf5f5ddd87f1a68df4354"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "5a7b6af3be2507ea43b4d3385a13cad370f8668d15c4410c79002571e4e579ef"
-metafile = true
-
-[[files]]
-file = "mods/stackdeobf.pw.toml"
-hash = "f2908d9033570d993a21f671304f08edb7696d65260b58e2b55d0c943f9b172c"
 metafile = true
 
 [[files]]

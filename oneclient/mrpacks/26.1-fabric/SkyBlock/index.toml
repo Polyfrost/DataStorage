@@ -16,11 +16,6 @@ hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
 metafile = true
 
 [[files]]
-file = "mods/firmament.pw.toml"
-hash = "63c541806b066424c22fd3f1344da0a2563b609b6a998d607106af687f515678"
-metafile = true
-
-[[files]]
 file = "mods/hypixel-mod-api.pw.toml"
 hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
 metafile = true

@@ -45,11 +45,6 @@ hash = "08b0e17e2ae773f5553820805e29bd67202358a4656d2b04c8d48c7e5956c4e3"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "3f3ebe8e12d4ead37d9848e319b143a2aa427278916ab9a9e65a84fa3e70a1a3"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "e4f90f8a68b41d75364a8fa15d8daca7a02e640e81d49d9776bcf005761c739b"
 metafile = true
@@ -85,16 +80,6 @@ hash = "330003431aa718237077ac739eb20e8f95c6372f687a4612d87b15c2ac998268"
 metafile = true
 
 [[files]]
-file = "mods/esf.pw.toml"
-hash = "3f37a4e78e0f939ca097ef8d80a618bf14007d94e89512c285f8ac8732fdcbd4"
-metafile = true
-
-[[files]]
-file = "mods/exploitpreventer.pw.toml"
-hash = "a917b7050406cac240193bb9d7bfb24a671befb000f4cb431cedb89cbda120b2"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "fd9b517cfcf41a819dd7105e445edd81711c30227fa564eb1570bc4a3309d125"
 metafile = true
@@ -105,18 +90,8 @@ hash = "30e2aae624f7a289bf787defc1b675a84fa98ef70e52169dcdb4cedf1f206620"
 metafile = true
 
 [[files]]
-file = "mods/firmament-packet-fix.pw.toml"
-hash = "82c5e52d22449651a09711c08c94f27792f250e4a882df1c1210523275b33032"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "cc2984fc4fbd91319fa990807dc726ce972af6255d381444bebf17a6034b1f08"
-metafile = true
-
-[[files]]
-file = "mods/hold-that-chunk-v2.pw.toml"
-hash = "f77ad00d525cd75830ff047640a3c1b1aeb8f1199f2fcaf602a1c4ce16a00319"
 metafile = true
 
 [[files]]
@@ -160,21 +135,6 @@ hash = "78c50dfb4a64563c21a9716062112e5ec8aa79cc703e2945402d53ec0ad9b9dd"
 metafile = true
 
 [[files]]
-file = "mods/numerical-enchantments.pw.toml"
-hash = "93d23b02f3f9332665894105c7626a1e11a260ed08e2087462aeedb6f8d88e3b"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "cb3555d4858820ab6e0914e846e848d42746bd843e632cce1458e89af96235de"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "5bf24e2c1a1089f5b82d59f26df6281f542367dde8a58c9d2183837eecb1aa95"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "e4f0413c0c4b8283ce66a28485131ecff6437d93e128d6015060c8a1e2892e34"
 metafile = true
@@ -182,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "dc0b07b387d277bd48b02933add1375f03a5f6538e23507151b088b08c4123a0"
-metafile = true
-
-[[files]]
-file = "mods/reward-claim.pw.toml"
-hash = "fd18d2d23079ef91495d9fc9ad90e3698bc9541bee9e57244ce92282036becdd"
 metafile = true
 
 [[files]]
@@ -205,11 +160,6 @@ hash = "050ab8538215d9e3318ed86d6eaac5c4cf2e201aab16a6e3016cb1a256c8c6d0"
 metafile = true
 
 [[files]]
-file = "mods/scrolltweaks.pw.toml"
-hash = "00fb117a2ba12716346c78de57d1f27799e57a4b78134b25a2dfb1674907791b"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "bbd92fef62a1cf218f0ccde26405597ad666a586a55b3de339e55accef481496"
 metafile = true
@@ -222,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/server-pack-unlocker.pw.toml"
 hash = "a5c0a91308a5dba8a879c38d9defd9bfb4cbb78001252bd33bcb90f2fc932247"
-metafile = true
-
-[[files]]
-file = "mods/simple-nick-hider.pw.toml"
-hash = "9c1edf2bcbf1372e937bc5b101135ad27d1960744e0738e8be528877132987e8"
 metafile = true
 
 [[files]]
