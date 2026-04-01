@@ -1,3 +1,8 @@
+# 1.1.4
+
+###
+- Fix stale version fetching
+
 # 1.1.3
 
 ###
