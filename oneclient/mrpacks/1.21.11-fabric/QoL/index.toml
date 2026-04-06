@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "0f1ca1f4719222bccabc583b71aaa4d31e2994ed30e264cf359a86b644244fcd"
+hash = "7add621fa09d25ce125764933e87ded51d8bb81f26c9e768d1f7e1768b1c3e30"
 metafile = true
 
 [[files]]
