@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei-search-bar-calculations.pw.toml"
-hash = "cf8639db0c326fe1d1c691c711fb79e0bc9f841d49259e14b68422e88f5d35bd"
+hash = "37115a849b96977e0ba4aa44ca7e2bb47b716468b0a186796d12fba761bd61f6"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "e89d3acfd78fd42936c70ff23bc951413126d7046cec2b6c8e63cc88286e7c26"
+hash = "0a26b6337f49f232019e252762597239432f7f1999f33034cd987f5a99ab137f"
 metafile = true
 
 [[files]]
