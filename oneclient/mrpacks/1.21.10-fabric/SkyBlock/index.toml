@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "0a26b6337f49f232019e252762597239432f7f1999f33034cd987f5a99ab137f"
+hash = "e89d3acfd78fd42936c70ff23bc951413126d7046cec2b6c8e63cc88286e7c26"
 metafile = true
 
 [[files]]
