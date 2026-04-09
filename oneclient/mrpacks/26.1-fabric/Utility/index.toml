@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6f4b939a47215fec1ea538e99ac2fd3b28df9413111796050e217d82236534ca"
+hash = "2ffffa1b5bc189a1d20d08bd77cdb8c60d8726c61681535905b03656a27c7f7e"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cdf99a032bdb25b99850ba4add6bb907f5ec4d1561ca427f4ee6ce042167662d"
+hash = "479dc715f87b1d7b8dd15440aa13d2df8346f15c1451bc4d095b92038584d767"
 metafile = true
 
 [[files]]
