@@ -2,15 +2,15 @@ id = "pSISfJ4O"
 enabled = true
 hidden = false
 name = "quick pack"
-filename = "quick-pack-fabric-1.2.0+1.21.10.jar"
+filename = "quick-pack-fabric-1.3.0+1.21.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pSISfJ4O/versions/GKLuxqjp/quick-pack-fabric-1.2.0%2B1.21.10.jar"
+url = "https://cdn.modrinth.com/data/pSISfJ4O/versions/zNSDuKnX/quick-pack-fabric-1.3.0%2B1.21.10.jar"
 hash-format = "sha512"
-hash = "8afcd9e9cf77aafcce6828637294219537f7913138494b18bed5acb8860b35cf06a2bc248c8b39526aab89f478a1d6d4dc755310c8c8cb44c41df195bb4cc057"
+hash = "1f333e37e938ba7c98dd66ea00a1c9a26c149ba8760560b8c513bc1126f1ea67aafb2d21c9630e28170645e35333f18b6dad18eb5f7bdd1afb84d0ff04495cd8"
 
 [update]
 [update.modrinth]
 mod-id = "pSISfJ4O"
-version = "GKLuxqjp"
+version = "zNSDuKnX"
