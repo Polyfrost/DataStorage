@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/text-tunnels.pw.toml"
-hash = "488b6a0e9b33834691be5c52212e25d0f389f562637261e4b872b37664fd07a5"
+hash = "b2c15bbe62d8a5c143073a9f8d50f15b11eaf338f67966d1a2d3d7d199889ad3"
 metafile = true
 
 [[files]]
