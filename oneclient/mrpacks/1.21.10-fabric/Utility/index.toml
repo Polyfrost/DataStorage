@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a75793dbe866f4e2a2b0445484e8c2af227d73746a955d6c7cba903195955d92"
+hash = "f05761fd2d22a82c80420b4f877f7b36802ccca05c3723392521291b5a074b01"
 metafile = true
 
 [[files]]
