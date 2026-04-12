@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "bf79ac9f9ebedab5c3ce678e618c3016ee94283b0282b29e07c933726b817d5f"
+hash = "25c40e7221ff92f1108b4373246a985e2f14b69d5034554b45dff935b4d0d6a1"
 metafile = true
 
 [[files]]
