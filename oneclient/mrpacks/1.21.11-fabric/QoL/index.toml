@@ -326,7 +326,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "57e9b9cfa0ca8729f5ba994a722c02961bbb04ba1fd7b0367cb9e1ffac3987bf"
+hash = "fbaed00ac405147d3435c580d754f7c2fdd01c1e31489a44ed9cf29d2dcaf39c"
 metafile = true
 
 [[files]]

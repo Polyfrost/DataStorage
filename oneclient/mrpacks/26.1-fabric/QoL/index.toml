@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "dc0b07b387d277bd48b02933add1375f03a5f6538e23507151b088b08c4123a0"
+hash = "09d8d108c8a59dddbd3b8d752d622644bec411863df259a972e1c8d9099eeeda"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "dc55d69b00f48ac9de2694a487c2e982e5f25de924b592b0e849967ac013b8b3"
+hash = "34118bdc4cfe094e1b00f9978a71452b1332d90051f164b85b0cf1d4a8364f84"
 metafile = true
 
 [[files]]
