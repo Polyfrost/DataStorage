@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animatium.pw.toml"
-hash = "3cdb0924665089dd1424261636aaf64529a9c82828d63fd0d50f350ad2fb006e"
+hash = "3ef6c96d482af0e3d707177b41e421f18ed07092b204368b6f5afab8906f43b9"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "59eb8abb312d012a32f8c0a5622687946e119c9628a1ed66bf4fc256b475709e"
+hash = "6618613bb4286b355fbb16e872de5aa053566eb12df50a7fe185c3e5414dcb0b"
 metafile = true
 
 [[files]]
