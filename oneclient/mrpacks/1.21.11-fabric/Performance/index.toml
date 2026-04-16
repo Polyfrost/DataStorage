@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "344d40e32f78e813b66fbcfa6b8b9a63013685bcb377ed15618020fceaf8c47c"
+hash = "334fe5bf09c90eda2fa56ee9c6a2ded3b98f5c2f505827ab341dc3d54c973af1"
 metafile = true
 
 [[files]]
