@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "73f01ef2f2a4e3ee55a93ad43518126dab7e9038d6c145ce388d8a24309e846d"
+hash = "011fe1c5bf89f13b8420d8b5e6d2e3fc209103da581101f8510e386e45cf8ec9"
 metafile = true
 
 [[files]]
