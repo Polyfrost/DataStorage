@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-impressive-animation.pw.toml"
-hash = "16fc9e9681cd92721cc0441858ad207b4a8b3c8db7c525ac7abc739acfb641ae"
+hash = "d4eb14a9e31ae3c6dbb228ddaa825b30264e5e4cd8defa8fb33d203533fc21af"
 metafile = true
 
 [[files]]

@@ -2,15 +2,15 @@ id = "uvlgIwBD"
 enabled = true
 hidden = false
 name = "Smooth Skies"
-filename = "smoothskies-2.11.0+26.1-fabric.jar"
+filename = "smoothskies-2.12.0+26.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uvlgIwBD/versions/XzWAJlF8/smoothskies-2.11.0%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/uvlgIwBD/versions/ozPiUJJB/smoothskies-2.12.0%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "ab677d43488a1f146030305bce158dbf961b16881c48814cfae198832b8610865964722091f1d36bbe790735142659461a8d47d71889f0cd9c55228e60cafae6"
+hash = "c35be0be1b1a439aaea4055ace9cbe10b08c1f3faa2a8ab07794342ea6c4f80445131abcf525901b9c9c31e38c89dcf46f2b16b42915fe8c3c0f9de5289c1501"
 
 [update]
 [update.modrinth]
 mod-id = "uvlgIwBD"
-version = "XzWAJlF8"
+version = "ozPiUJJB"

@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-skies.pw.toml"
-hash = "585e756b6b473bec7fddb9cc05fc93f80511dd40cbf810ab71b79ff22a617a69"
+hash = "5e3564c0b13f3e9e6ecefb815b4ba7a798568314b53160ebeac3f168aa6ed862"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d2a5ab1ce39eaba6368ab927280bf36a4487ee8d4d614b411a22814df5da2f7a"
+hash = "8d7ee903cfbd8b42a869d9c05309e66266ab760f0b75fd2a358712d5fe40754c"
 metafile = true
 
 [[files]]
