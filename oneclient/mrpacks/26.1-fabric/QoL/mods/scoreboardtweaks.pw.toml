@@ -2,15 +2,15 @@ id = "2MQvXJii"
 enabled = true
 hidden = false
 name = "Scoreboard Tweaks"
-filename = "scoreboardtweaks-1.3.5+26.1-fabric.jar"
+filename = "scoreboardtweaks-1.3.6+26.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2MQvXJii/versions/Nm4LvONd/scoreboardtweaks-1.3.5%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/2MQvXJii/versions/COIeXz1g/scoreboardtweaks-1.3.6%2B26.1-fabric.jar"
 hash-format = "sha512"
-hash = "f41afb6867886a24b5cd4cd439bdad9dce65c6d5978966476ec5a5f9864cd22219a0ea577bf054bb8a9604cab19f69d5bcb96195e51363bdab129d901443f692"
+hash = "8da79e90025ed4c1d0d7f394cddceabdacd9402c4b69e4dde6cf8a37183966a802e738ffb9971582bdbbce4d4c1357631e9400404a711ae0945ab60affdbbbd0"
 
 [update]
 [update.modrinth]
 mod-id = "2MQvXJii"
-version = "Nm4LvONd"
+version = "COIeXz1g"
