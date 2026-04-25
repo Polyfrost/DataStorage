@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/symbol-chat.pw.toml"
-hash = "944186a8ea66b8171beed48c28882f76b4f20c76e3659328a4e8573d61e8e01a"
+hash = "7f40ec028302ee87f6c3e065b97088c655ec3f6a9614c8ed2203826797ca52dc"
 metafile = true
 
 [[files]]

@@ -2,15 +2,15 @@ id = "NKvLVQMc"
 enabled = true
 hidden = false
 name = "Symbol Chat"
-filename = "symbol-chat-26.1-1.4.0.jar"
+filename = "symbol-chat-26.1-1.4.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NKvLVQMc/versions/hW9dk5tW/symbol-chat-26.1-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/NKvLVQMc/versions/guJTf88z/symbol-chat-26.1-1.4.1.jar"
 hash-format = "sha512"
-hash = "8e7c1e17a3e6a1c24622ec886709c6b278c9a5c24a557d3b0ea3ca0cde0468f5e6b18885e69b59c765a070654f195ea20a5c1d2e5d5fa4e453f20760cca3e55b"
+hash = "90320799d9a5db21fc80c93455c6bd37ca20817b8f5e5b57b810b71c04212ce07b77e98038065171a9175db06379267ce7a2a17be541b970aefe34b745309b99"
 
 [update]
 [update.modrinth]
 mod-id = "NKvLVQMc"
-version = "hW9dk5tW"
+version = "guJTf88z"
