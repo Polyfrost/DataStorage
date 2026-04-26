@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "9344f98cfbdabf506eb0f266115b1205e0319ff59cd7333261fc298ebb30559f"
+hash = "3878dbd8247bff1c42a7e27ee2f5f7d859800f5388b84fbb2e7e42a5a2382f3d"
 metafile = true
 
 [[files]]
