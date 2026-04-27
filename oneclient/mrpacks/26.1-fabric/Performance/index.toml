@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "fe3fe252b7067bb7df72d321ce2b9e287c8a46df9a254626b1a4113a1458f430"
+hash = "90ddc83f080cf112f2cae6b58a660062b558c58fe07f1b624f0c1e88b8f5f395"
 metafile = true
 
 [[files]]
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbf0eead2bff7398094c5543ef4fcc86faed9080b7d1f43e7585987884b38c93"
+hash = "5ac4fdba53f9dd4de835767397153e756d5f30e321f2e9ebb870001f97a57a75"
 metafile = true
 
 [[files]]
