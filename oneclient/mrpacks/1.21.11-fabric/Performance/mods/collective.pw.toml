@@ -2,15 +2,15 @@ id = "e0M1UDsY"
 enabled = true
 hidden = true
 name = "Collective"
-filename = "collective-1.21.11-8.21.jar"
+filename = "collective-1.21.11-8.22.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/ypHoHtrK/collective-1.21.11-8.21.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/6EPDFSpU/collective-1.21.11-8.22.jar"
 hash-format = "sha512"
-hash = "86615725cb88303232dfc9513b94e5555f36b44453a99a8dc914cc44d17933eab2a3ee310867e823fb57f09f950f10d32fcf31054c4bd565f0f5a3a3e7fb2bb8"
+hash = "53ffcc1ae26713254c11a975f4d5182e709b637f4706e563cf1d3e8b90bab510ed6552609a1e757e298f505ae9aabe1cdb952afbdc2879c8039226783733a3b4"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "ypHoHtrK"
+version = "6EPDFSpU"
