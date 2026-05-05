@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "fdbebbb20b67b8195b5b04d275224b07d050f9690e78573c653f238b892f559b"
+hash = "689bfdada7d8c8199c21aaf1fb5b871542893aeb2facd7ba9c47c8afbc63050f"
 metafile = true
 
 [[files]]
