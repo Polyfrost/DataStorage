@@ -6,11 +6,11 @@ filename = "IAS-9.0.6+1.21.1-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cudtvDnd/versions/Cd0BN4N0/IAS-9.0.6%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/cudtvDnd/versions/ZuV4kGzO/IAS-9.0.6%2B1.21.1-fabric.jar"
 hash-format = "sha512"
 hash = "bc7925e84f691708bbfa317c02ee29ec2546dac59ac3cee24711c7c5692d2c7e83ff01965182d6d2f84946ebd573b731bfd8034f6e3837e7c106ca1904eb4680"
 
 [update]
 [update.modrinth]
 mod-id = "cudtvDnd"
-version = "Cd0BN4N0"
+version = "ZuV4kGzO"
