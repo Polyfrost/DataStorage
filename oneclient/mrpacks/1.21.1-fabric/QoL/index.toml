@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "4e73bb421d24a6fd15f04af1d8e38a3d8879d4ba476a3b28d86338fa2a5ddbde"
+hash = "4f040ab4a6b74dfd0351c1e13f49a7f06a5592b37ee921eca3d0ae2c3a2ecb42"
 metafile = true
 
 [[files]]
