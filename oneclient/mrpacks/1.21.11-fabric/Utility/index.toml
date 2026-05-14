@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4ad4a573f7f8a61b77461abacd6f54c980f2b6c835e8fd21338625187f780e5c"
+hash = "77139f34862fcd85ce6d3a45fec04c0549e4823c47d57e7180085d675374f461"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
+hash = "736809c3de1db4989aa41e8ceeaa690189cf14bf7fbe2860a238a1c31602f25b"
 metafile = true
 
 [[files]]
