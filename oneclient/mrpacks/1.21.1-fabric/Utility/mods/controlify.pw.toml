@@ -2,15 +2,15 @@ id = "DOUdJVEm"
 enabled = false
 hidden = false
 name = "Controlify (Controller support)"
-filename = "controlify-2.5.2+1.21.1-fabric.jar"
+filename = "controlify-3.0.0+lts+1.21.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/SOC97nzs/controlify-2.5.2%2B1.21.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/J6eKmXje/controlify-3.0.0%2Blts%2B1.21.1-fabric.jar"
 hash-format = "sha512"
-hash = "40ca94f3afbff80f0d7c62dbf473069bfe7b26c9f97ae89ca2986107a28d629b65546386644b86cd810b34c5b8bf7bf306bbbdc44dd5cbae8af5c4c8cc7f6f57"
+hash = "5dbebff326f17e06132a627295dcf3293d4378217335c32efd332abc76f6a7458fb8f3ff367a11ff29bf28b170e1c58636ffe95ac0c1edd1d4b913211e6f9a73"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "SOC97nzs"
+version = "J6eKmXje"
