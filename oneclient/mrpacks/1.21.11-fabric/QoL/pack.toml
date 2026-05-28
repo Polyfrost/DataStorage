@@ -11,7 +11,7 @@ update-url = "oneclient/generated/qol-1.21.11-fabric.mrpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3aa2e860f9f436556858aad2d48aec025e727e9f1e0bfec8ef557f47804a5a9b"
+hash = "722a79f9ca75d1f46b9c6890fb3dc6322cad8f6af8f9a1ea7e9f0312e6a3de0b"
 
 [versions]
 fabric = "0.19.2"
