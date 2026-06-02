@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/effecttimerplus.pw.toml"
-hash = "0b893f5d6bf6cb2f246db924cd27abae7352895fcc935e67a6425b3cc0ac6efe"
+hash = "ecce159e4ea15160e6b92ef35bed7a226822411cf4900a4c06c4f830644cead6"
 metafile = true
 
 [[files]]

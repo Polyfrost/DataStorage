@@ -2,15 +2,15 @@ id = "Wb5oqrBJ"
 enabled = true
 hidden = false
 name = "Chat Heads"
-filename = "chat_heads-1.2.3-fabric-26.1.jar"
+filename = "chat_heads-1.2.4-fabric-26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/SthQ7Tsn/chat_heads-1.2.3-fabric-26.1.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ct4sHdcD/chat_heads-1.2.4-fabric-26.1.jar"
 hash-format = "sha512"
-hash = "f4e6ac0b9062856498fde12db22e7a6e00e4101f8d7d8c947fe764698699c32bd0b4d0c3050f1afbf71b902fcba64bb41e5c06625c97d581eeba17df327c4b6e"
+hash = "34c330e7f90ced829f9ab00fb476bd697473378efc921068fa0475119fc37bb1da82350d9013be3fe4f8adaffa37d1821a6b66cd9ece49a350bc0940d7cf5d0b"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "SthQ7Tsn"
+version = "ct4sHdcD"
