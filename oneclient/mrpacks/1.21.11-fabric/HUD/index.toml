@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatshot.pw.toml"
-hash = "f5dfcd7c93367bded28c9a7f7e09be3b6c8d35bff1807be2594ceb143ff3b642"
+hash = "63ac603b9f5829d81494af25095e433c8dd9f53626f0edb7234d462d3d1e02db"
 metafile = true
 
 [[files]]
