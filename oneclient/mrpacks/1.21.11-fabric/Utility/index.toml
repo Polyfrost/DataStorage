@@ -37,27 +37,27 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4ad4a573f7f8a61b77461abacd6f54c980f2b6c835e8fd21338625187f780e5c"
+hash = "77139f34862fcd85ce6d3a45fec04c0549e4823c47d57e7180085d675374f461"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "42306eb9241fe642bf4c16fda334caa3b21ca23699d299097c7ef3564a02b406"
+hash = "1c15778c1fdf9490ce1a8fb1118ed811cf967b02889d537f92557972aab3ebed"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
+hash = "3d8589b75e17de7c677cb56a413a4a7e4aafa103733182b25970eddece4c3327"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ca2147ccc6cd2a9d8ee484dd796ae8e1c5de42551c9366f2d09915bbe1c0002e"
+hash = "316f38c0153ff52db32f12ea98e700032745d132e797e02b46a0943e797c39c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "719cb7f719f8c4c672e5c83779d06b8091901525848899796f0558f4a0a4aad6"
+hash = "f281775b9ab31c01dad1bad65e6850355404bec7fee79d0e6ef0d7fb4a51be84"
 metafile = true
 
 [[files]]
@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "271b6af84d3344597c28d3f3dfbed82d8b9eaee32ce802ca49c3846be9ab9849"
+hash = "021457bf10bf1d1a62d2461fd2146b9ea37ded05b9de14db765478f814e881c3"
 metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "a46bcfbcd5450897d56b8018aa951a46971e940d792429f17bb8074d6b7486a5"
+hash = "8279349b0b760c40215f9cc8df80f3782ecc6d660605139a55fd5f88fa84bb41"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6a1842879537e1b1e86439573f0082091e31330599a0d8fe9c0b7ba0688e650e"
+hash = "5b4eded2b5e0209d3cebac1f5db879415d8f482dc9b5128cf2222c7e024601f2"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "401fa0bf4fb4acfa83cc0b56d15f6edc6f3e46cf3fe69fa5ef22987659021d98"
+hash = "d24c3baf6273eb55624037e2bb60660a84503231ced0a9239bc01cfa80fce420"
 metafile = true
 
 [[files]]

@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "f2c7721d17b89f9344f16252879f37143b3da2f1b3f4033a8c48c677d3a8168c"
+hash = "42dc45a4550e7bf7db3d3f34228fa311793ce652f1e368fedc8aa409d7ce3865"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d8df3ab67160fa9bb695870014f90c270f0163d3756f41aeb486603598440215"
+hash = "4344d5305ad0d1a41050c4a91d29c3a615d343e73a3e2afa84b1b2c405f553df"
 metafile = true
 
 [[files]]
@@ -76,17 +76,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "33b5cc3d607edb7fc4e594c9db5a5c979345344a08d68ca0b8e611120e4a2ba7"
+hash = "85fade182d819213ee81bad8efc626654f4460564ac5ffa8f429a2651731d7e8"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ca2147ccc6cd2a9d8ee484dd796ae8e1c5de42551c9366f2d09915bbe1c0002e"
+hash = "316f38c0153ff52db32f12ea98e700032745d132e797e02b46a0943e797c39c9"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "e7168875126c928ee97fbf8b80ff0160ecc6865b7302535ad419bff75681316c"
+hash = "b6e55e8ced55affa4fd2a9fd6ed73a71a8def28b144e23f3c3bab73deff1d75b"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-compression.pw.toml"
-hash = "05c91834b63555feabb52ff3145fcabf67a4dcd65e3e47abe00e1f04249f0dc0"
+hash = "717f50250b505e2aa5421b1934641212742ef16cfa8c370f67af64c20196afdd"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "650a22b727c9cc33189e3cc28adaf835d2523e8a225b063ab54baba03fd214d2"
+hash = "7609b183692826c776adbb7e5da075eb4fc34224d492fca830e197c624857c24"
 metafile = true
 
 [[files]]

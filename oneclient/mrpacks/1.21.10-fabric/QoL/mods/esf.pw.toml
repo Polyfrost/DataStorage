@@ -2,15 +2,15 @@ id = "IMuO8COj"
 enabled = true
 hidden = false
 name = "[ESF] Entity Sound Features"
-filename = "entity_sound_features_1.21.9-fabric-0.8.jar"
+filename = "entity_sound_features-0.8.1-1.21.9-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IMuO8COj/versions/QvRBIx2m/entity_sound_features_1.21.9-fabric-0.8.jar"
+url = "https://cdn.modrinth.com/data/IMuO8COj/versions/7Zxd9Vkj/entity_sound_features-0.8.1-1.21.9-fabric.jar"
 hash-format = "sha512"
-hash = "271fb8ff82b9e3004d2aeac8f0da3c05a18177842be80b777b7aeae683811e49560048ee498b4ba522b3685d28216e7fe5be2d2647422f03a8ea1bf6f7fea055"
+hash = "8ee0c896822f5dca72029e4ba83f533ef170d99fe20cfa7aa7ec845b978ecdea1b41d706f3f6c12eafcb98b443f95a3476173a448c2576025c565b245f3b110e"
 
 [update]
 [update.modrinth]
 mod-id = "IMuO8COj"
-version = "QvRBIx2m"
+version = "7Zxd9Vkj"

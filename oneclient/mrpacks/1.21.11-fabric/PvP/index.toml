@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ca2147ccc6cd2a9d8ee484dd796ae8e1c5de42551c9366f2d09915bbe1c0002e"
+hash = "316f38c0153ff52db32f12ea98e700032745d132e797e02b46a0943e797c39c9"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "0f56ddc3a39115afee2da77ff35d9bff1e65a8aa757306f22db43be8d35e5b30"
+hash = "4a31fb26ad9dd212e5a7e5905054bfd3d4fe726e9f954f71e63860b59158c3bb"
 metafile = true
 
 [[files]]

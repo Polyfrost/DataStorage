@@ -2,15 +2,15 @@ id = "cfrxss4E"
 enabled = true
 hidden = false
 name = "Screenshot Compression"
-filename = "screenshotcompression-1.21.1-1.1.jar"
+filename = "screenshotcompression-1.21.1-1.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cfrxss4E/versions/U8vrkfAK/screenshotcompression-1.21.1-1.1.jar"
+url = "https://cdn.modrinth.com/data/cfrxss4E/versions/dTamSOUp/screenshotcompression-1.21.1-1.3.jar"
 hash-format = "sha512"
-hash = "fbc1bd1987e51cfb37a891ab9064067df8c5f988daf731440903aff4f113bd610258e4edaa4a756d0535228afcd695dbb6913dac7d4d201229aabda2f2f9a04c"
+hash = "4efd30ab8f870ffc7fc6b77dea6cd9ecc182564ee7be128e27c967382b58bacbd1211210937cc3643716baa22fc7680e95d2568dd10f44b357c4d24fd4744a92"
 
 [update]
 [update.modrinth]
 mod-id = "cfrxss4E"
-version = "U8vrkfAK"
+version = "dTamSOUp"

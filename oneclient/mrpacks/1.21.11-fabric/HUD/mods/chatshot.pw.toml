@@ -2,15 +2,15 @@ id = "X2Zy7Oi6"
 enabled = true
 hidden = false
 name = "ChatShot"
-filename = "ChatShot (1.21.11-fabric)-1.0.8.jar"
+filename = "ChatShot (1.21.11-fabric)-1.0.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/X2Zy7Oi6/versions/RPR374j9/ChatShot%20%281.21.11-fabric%29-1.0.8.jar"
+url = "https://cdn.modrinth.com/data/X2Zy7Oi6/versions/DAKdYIP1/ChatShot%20%281.21.11-fabric%29-1.0.9.jar"
 hash-format = "sha512"
-hash = "6911e8c24d07cf557c766407980487ff70489344a15a4c97a7fee934c145b97fa0ea700e9568ed80652b14c9bf2d74355d03423586f381a23464f72453f3e0f1"
+hash = "7f4cdec97e9164e1b77f4a53f7f49a3b87665305a2d1e9dce9b831e3f6c4759c8556c356e37853260d20903b454b5d5ba505596b3e155d76ac595405063af4f7"
 
 [update]
 [update.modrinth]
 mod-id = "X2Zy7Oi6"
-version = "RPR374j9"
+version = "DAKdYIP1"

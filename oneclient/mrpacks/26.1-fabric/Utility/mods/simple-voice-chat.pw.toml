@@ -2,15 +2,15 @@ id = "9eGKb6K1"
 enabled = true
 hidden = false
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-2.6.16+26.1.2.jar"
+filename = "voicechat-fabric-2.6.18+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/eGxtLv6D/voicechat-fabric-2.6.16%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/DpT86E4Q/voicechat-fabric-2.6.18%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "e3261eddf20a70949086c347f95671307f3c595e256447a40222783206b8996250d6f66b2c567bd56666d87162533b419237de47a3502176dc28cae360bc62f9"
+hash = "9d9f38185c66fc57f03363a37d4559e58442bccb27414a4bd7c5a2b8bb046813afbcdf1bf6279b22f941f9cb4d2ed9d5e6dc4929714e73ae914a03557fb087af"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "eGxtLv6D"
+version = "DpT86E4Q"

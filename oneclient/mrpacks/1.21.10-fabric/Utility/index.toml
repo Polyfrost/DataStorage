@@ -37,17 +37,17 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "3342626238905ee496c0360514a2d26eb40f5d2f9588c696e409a39aa12fb0f5"
+hash = "a253be0c06838d237c82583a540be8051d3b80e2af6457194b487458ac4f1548"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "42306eb9241fe642bf4c16fda334caa3b21ca23699d299097c7ef3564a02b406"
+hash = "1c15778c1fdf9490ce1a8fb1118ed811cf967b02889d537f92557972aab3ebed"
 metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
+hash = "3d8589b75e17de7c677cb56a413a4a7e4aafa103733182b25970eddece4c3327"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "8edcfd32f0755d7900e5d1ee5536a001df9d66eed56fe6e8ba9affbb7eee0cb0"
+hash = "9887ecb1cca95f1e465a528ff34b4378911d0ea35f3f396557a4c0611cde0d58"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "d620e324e45dd65ff99efa640b7add1dbb9302f8e7731ea21cd08924e405c3b5"
+hash = "f5dc301cbf374d7f7964520b0a00f4afd0c27ee9cc1bef43827947c1e4f23813"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c4a376ff1b517bb3e525fc7970f2f36e49f38cb5d5d0e9a362a57b42233afe3e"
+hash = "d1c8a7dc5e18c9172ac5285ab5e1882f383f79bf846a29a53e11030779b945cb"
 metafile = true
 
 [[files]]

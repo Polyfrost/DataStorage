@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/chatshot.pw.toml"
-hash = "1dd75e8898219bdbe481a5dc4ce3f83db4374f242a82382b51cc09017024c9c6"
+hash = "5ae07d367b9b73b795f4c2173b70e41719ae2bca69aacccc0708c2b00bf6baf1"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "91ea5cfda5dfc87a5ed23c5db726afd831e26f4cfbf7be0fe07c3d1a495c9ba2"
+hash = "20c0b837053afaadf48faf67ce0797558459d89dea600faf3eb82cd604623235"
 metafile = true
 
 [[files]]
