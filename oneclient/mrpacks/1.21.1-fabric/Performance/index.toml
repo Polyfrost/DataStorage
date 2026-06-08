@@ -131,6 +131,11 @@ hash = "c719a89e1da00ef81a3d104d00357d45b1a28e44643a59ca153625cd31d45069"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "6d64b43799098ca1c85e36ea6726df23e21f4dd96dbbe2d9ccd15ff62e029d80"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "9bd4f9b6008be54bf3cddd4ea69765fbe59449c199f6784a02ba4d5192030b23"
 metafile = true

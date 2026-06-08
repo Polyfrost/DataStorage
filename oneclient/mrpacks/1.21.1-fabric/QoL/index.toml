@@ -181,6 +181,11 @@ hash = "4e9ec62073d0acfe936b588e475e9eceae5d8d69c575243f1980f3330370dbc0"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "917ce7543553ccbf991e2d8e6f4cd2e3b75a60bbab617f5ec72befc927a5ed57"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "7cdee6858f773eccdc460d4c1d9c80c77c51336421662d662a98be8760f91823"
 metafile = true

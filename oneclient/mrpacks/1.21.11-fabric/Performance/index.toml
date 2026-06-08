@@ -165,6 +165,11 @@ hash = "3d22391d697b39f61a5844e236a8e911d5404e076d457438972d77335d63f665"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "8902cdabf3b13f0d6154a990a03ba698573d15caf2a23749b12ed7f738c4ff1f"
+metafile = true
+
+[[files]]
 file = "mods/optipainting-updated.pw.toml"
 hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
 metafile = true

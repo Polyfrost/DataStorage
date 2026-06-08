@@ -135,6 +135,11 @@ hash = "78c50dfb4a64563c21a9716062112e5ec8aa79cc703e2945402d53ec0ad9b9dd"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "d3b1a8b0ef5c7bf1aa8d0014b534774cf1e7c336d85e7281510c1ede6162dbf8"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "e4f0413c0c4b8283ce66a28485131ecff6437d93e128d6015060c8a1e2892e34"
 metafile = true
