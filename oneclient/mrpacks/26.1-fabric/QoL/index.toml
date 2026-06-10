@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "fd824671b953beb1ba7ec96aaccf58c8fb5bf6fb9dbd8a712299b79da8ea8192"
+hash = "4e0dca670dfdd0ea8dca94955413bce2e0cb814c775a5a537a010da7a6182e01"
 metafile = true
 
 [[files]]
