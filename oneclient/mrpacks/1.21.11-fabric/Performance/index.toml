@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b6e55e8ced55affa4fd2a9fd6ed73a71a8def28b144e23f3c3bab73deff1d75b"
+hash = "e66292a4b704ed47e27aeccb6a906c7a286f87dfd3650d052fe9e7fe35f89729"
 metafile = true
 
 [[files]]
