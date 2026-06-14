@@ -140,6 +140,11 @@ hash = "d3b1a8b0ef5c7bf1aa8d0014b534774cf1e7c336d85e7281510c1ede6162dbf8"
 metafile = true
 
 [[files]]
+file = "mods/pack-manager.pw.toml"
+hash = "25866e19e79c49e9163db66a7670c327143547988dfd851dbb40232bb42c4586"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "e4f0413c0c4b8283ce66a28485131ecff6437d93e128d6015060c8a1e2892e34"
 metafile = true
