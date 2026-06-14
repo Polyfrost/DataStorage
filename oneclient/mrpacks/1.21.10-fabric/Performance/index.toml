@@ -85,13 +85,13 @@ hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "4aa608888f42cd9265df37b3fd707776a7f9c4d41917e3f906f9c82812ba5fc6"
+file = "mods/fastquit.pw.toml"
+hash = "4365ec402dd067112480eacf78b399d8701b5ad1e9d8de935058b42a335fa6d9"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "4365ec402dd067112480eacf78b399d8701b5ad1e9d8de935058b42a335fa6d9"
+file = "mods/fastserverpings.pw.toml"
+hash = "5cba835f74111aea08b8a5634b4e75f7e3ad39a698c895df55caa49a3b5f0f73"
 metafile = true
 
 [[files]]
@@ -192,11 +192,6 @@ metafile = true
 [[files]]
 file = "mods/screenshot-compression.pw.toml"
 hash = "90519e5630fba8a081d2d433b22355234347453a9d75a0ed54ba25e313a20634"
-metafile = true
-
-[[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "dce1b022c9baf13e0ce2d8d4767b0b1f558d87582fbd96a8e1867f394b926890"
 metafile = true
 
 [[files]]

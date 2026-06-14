@@ -15,8 +15,18 @@ hash = "d114b29c5baf941a3037606daba6be56e7cd5ece7e075f1e81e1cd2fe09bc759"
 metafile = true
 
 [[files]]
+file = "mods/animaticarefabricated.pw.toml"
+hash = "2ed0967728c47ba1055f943e7d8bc09b343068a17d4319a0f3b348a7914ffda0"
+metafile = true
+
+[[files]]
 file = "mods/better-elytra-render.pw.toml"
 hash = "b8dfcee3acd2b482738d2c55c63525ce058af1d92a62b1b0f2622ae3873a0919"
+metafile = true
+
+[[files]]
+file = "mods/better-narrator-error.pw.toml"
+hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
 metafile = true
 
 [[files]]
@@ -330,8 +340,8 @@ hash = "0aae38162b1b7270a40774a7ee6256f0d1e1a0dc06b4177d212b6c339b3448b7"
 metafile = true
 
 [[files]]
-file = "mods/tntime.pw.toml"
-hash = "ca252194ca88f2b9da857b94d644de6abfeac22da42cfc73d3aa61190e4bf558"
+file = "mods/tntcountdown.pw.toml"
+hash = "b83404512eaf3b8a548d7787233601aa7c46e6e821cb3951b01bc6688718d8d2"
 metafile = true
 
 [[files]]

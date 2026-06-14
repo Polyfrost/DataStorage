@@ -15,6 +15,16 @@ hash = "106813eb6cd8bd021edf7bcdd8e6eb7eeaf12b7937a51ef49afe44c62c37c0d1"
 metafile = true
 
 [[files]]
+file = "mods/animaticarefabricated.pw.toml"
+hash = "b2d4f3d048e6ea9d25d1bbe93d5945fe9802efecbc3942bd912c752f6ea75d2d"
+metafile = true
+
+[[files]]
+file = "mods/better-narrator-error.pw.toml"
+hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
+metafile = true
+
+[[files]]
 file = "mods/black-bar-concealer.pw.toml"
 hash = "31000795f05e79b4c1d29947302331c04edf5762085e22a3bc6f40ed26b30085"
 metafile = true
@@ -42,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
 hash = "08b0e17e2ae773f5553820805e29bd67202358a4656d2b04c8d48c7e5956c4e3"
+metafile = true
+
+[[files]]
+file = "mods/confirmresetkeys.pw.toml"
+hash = "1abc9382347a756ce9e92b22bcc5d439e8f4f61fd3482f7bd966b51e5af85cfd"
 metafile = true
 
 [[files]]
@@ -92,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "2cf1f1ce8c40d92d4dd4d0088302833e1b667c691dfed857c4082c657c987129"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk-v2.pw.toml"
+hash = "7d0458abe9bb090a795f32acd0461fb41f4b0a50d682f947faeb3fab627eb0a7"
 metafile = true
 
 [[files]]
@@ -152,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "09d8d108c8a59dddbd3b8d752d622644bec411863df259a972e1c8d9099eeeda"
+metafile = true
+
+[[files]]
+file = "mods/reward-claim.pw.toml"
+hash = "2f7e5dbccc6f63540642e32f650613746053e2c17751dba95d38bd94ec068290"
 metafile = true
 
 [[files]]
@@ -217,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/text-tunnels.pw.toml"
 hash = "96eccc3da13fe52a09160f744fbb011a90c1c307161c3c79c051c25bffba5b3c"
+metafile = true
+
+[[files]]
+file = "mods/tntcountdown.pw.toml"
+hash = "f43390a9b6a75e26e08fc01a0bfc6a65e60c7c731f33879fe115b242e02723e7"
 metafile = true
 
 [[files]]

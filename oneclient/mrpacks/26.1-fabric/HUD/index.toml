@@ -16,6 +16,11 @@ hash = "38bed9db10658136f77d5300719babb296affed6d393615baadc94ef8a2d0ccd"
 metafile = true
 
 [[files]]
+file = "mods/chatshot.pw.toml"
+hash = "d234ca0c8168b8f272a50f618808fe66281a6829f4024e99c7d87f18a86b1dee"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
 metafile = true

@@ -86,6 +86,11 @@ hash = "0c0d41b67ec11b92100b34e8d7642f69414c80c6fe46ffac30cbba2e1f1eaab5"
 metafile = true
 
 [[files]]
+file = "mods/noxesium.pw.toml"
+hash = "93991e743ac1747e450001ff38570dc34e49ce02e58e2d22f9978a5797256d7c"
+metafile = true
+
+[[files]]
 file = "mods/quickjoin.pw.toml"
 hash = "b3b7789e9eb22477293a7b5bb9de903d92ce75382de653e13d13c13cf9c52bbf"
 metafile = true

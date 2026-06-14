@@ -16,6 +16,11 @@ hash = "d0cc0803af99c03038ef3d6f59ddad486463632aade5caeac86d78dfefb3396e"
 metafile = true
 
 [[files]]
+file = "mods/better-narrator-error.pw.toml"
+hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
+metafile = true
+
+[[files]]
 file = "mods/better-selection.pw.toml"
 hash = "0201825029921bdd8b4b276ca147fd1e1eff5e983b114a89c2060628949257f0"
 metafile = true
@@ -283,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/titletweaks.pw.toml"
 hash = "bd96ec77c5f5a331765020981c5cce1b1e88132b77c42c1106198bd4fdb40a5a"
+metafile = true
+
+[[files]]
+file = "mods/tntcountdown.pw.toml"
+hash = "726fd2ad8cbf3708b8cb5724651f5a5dbbc585e7152b922b0c838dd79f0394de"
 metafile = true
 
 [[files]]
