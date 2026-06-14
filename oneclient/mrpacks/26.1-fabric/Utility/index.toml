@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "a6e3fd17b27fe86ceb9f9552f1ecdc7bc5880136de46cd71a29fb8b801837fc6"
+hash = "e2cd508dee959424f9be17d3226445543569b5bcd7d3ea7be6b3d76c244b8870"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "6618613bb4286b355fbb16e872de5aa053566eb12df50a7fe185c3e5414dcb0b"
+hash = "5e4efc0236109fc40bbc5151c70609220bdbc64106367c066ae59d4902aca4e1"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "2ffffa1b5bc189a1d20d08bd77cdb8c60d8726c61681535905b03656a27c7f7e"
+hash = "bb8820a8f79dfeb3daab5dd501e9212c215390130cd22e9f7a63711cbaf2ca0a"
 metafile = true
 
 [[files]]
@@ -42,17 +42,17 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
+hash = "3d8589b75e17de7c677cb56a413a4a7e4aafa103733182b25970eddece4c3327"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5ac4fdba53f9dd4de835767397153e756d5f30e321f2e9ebb870001f97a57a75"
+hash = "775b0d7a37451f04274805dd48d8b1a9a78328100a19099a118a51b83a61d074"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "98c1dd6555def4ca7b3806f9c375e2ef258d59306f4d517e9abe90f5a1ce3941"
+hash = "c474e9920a87e87cab5bcfaf13f5134574be83d4c2fef8505f70a9b673a9065c"
 metafile = true
 
 [[files]]
@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
+hash = "b059e2e44b0b20609838992c453a5ed074061bd9382b483cf7f2db69a04fa0eb"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1f926bd651ec718c4482ec09483d1e98e4dd6e06aa1eeb1aa0fc005b661909db"
+hash = "2b7b0ab0289b7761ac854cced39e3df9e2e45a4c82487281b946cc202da6aed2"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "c8245ffe30c3f99ad0ec06a9283d4d03701bb20fcb6bbb5b9b2a64f61024d639"
+hash = "b192a53f88c8d40247a26c1c0a06b69a0dc5b27c32b1803b160dddb322004aa3"
 metafile = true
 
 [[files]]
@@ -132,10 +132,10 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "80d570f6340aa35a14f6c10997fe2e83a8e1f7772ba3514dfd9f6835c08b06a6"
+hash = "5318b47797f32be4ed9a35b50afcc3c3230a30ee6b84ee6aa04733e792657211"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6bd3c01860fcf0037ecb33cd3b3f4fdf53ff755bfaddd75a95af1d9f09c1bb8d"
+hash = "1abcbd80b379949ae05e52e6f914c00655a115d48eb7d48dc2e57839811e898a"
 metafile = true

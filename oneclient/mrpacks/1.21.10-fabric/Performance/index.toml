@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "3adc6e34bc5712f5b8725d694453cbfbaf9d4188684e41f79f8e3c95da4ab041"
+hash = "ac8dd4c215ec13c7f5783a13daf42ccf23a9504c28ba6a32dbe40710c18cca15"
 metafile = true
 
 [[files]]
@@ -157,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/noxesium.pw.toml"
 hash = "c5e31342c5da4fa8fb4f004144b7b30d6de530f7aa83ccfbfea5035bcadb0d1c"
+metafile = true
+
+[[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "edbeb92af2c735843620f78db95a13f8921302bc81ed81c6ba77c5cee8c87f58"
 metafile = true
 
 [[files]]

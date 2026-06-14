@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "f982807379d8012881c633a49f2df6a864b6b8c489b3393e5b56c70dc3e45b23"
+hash = "cd883bf5a9ee6c5efa6f946ae01473bd92dc389eff31d858959b06e3dbc47a83"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "03d88f6f85cb0f1b693d5fa0011dc87382a0af3526bc20d21e0d348f8d584bed"
+hash = "f2035b8617ad5517d64cc127ed62dd3ccd70ac2102f6f80b6e4de8d990c9dc9f"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "798a336d640c0c904d0cc0f3cef66d5523dc81ed8fb00fae96ace5af38b929b3"
+hash = "fb9445e5bf78b518c11aa7f7c60be2ddba966e5614abde5f9d01e4eeadc472cf"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -202,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/one-click-join.pw.toml"
 hash = "5ae3038167b0a5b6bf351e249324f30c37ee9b6d82ca6847debde9853d5555d4"
+metafile = true
+
+[[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "5a1a176e21230c76acf10859096eae08ba81bf3600f4ebc7145ed98ad8bafdf6"
 metafile = true
 
 [[files]]
@@ -361,10 +366,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "482fdbf07912604af128c6bddbd47309b094100deb71b43ab27a6ae18bd56f1e"
+hash = "b5d3e48577c0e74123d85a5e38440dc8dd26c3f6da82af325e7c407692f4d1ad"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "ce28a9661864b61137f595f47ac89297f0872d1e814f0c41ee5f4ee3d5a71d25"
+hash = "71e811c07a050ff3eed0d7837839f696be60e96e10c9c1c73244b8372b2214ae"
 metafile = true

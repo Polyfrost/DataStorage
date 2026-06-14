@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "3342626238905ee496c0360514a2d26eb40f5d2f9588c696e409a39aa12fb0f5"
+hash = "a253be0c06838d237c82583a540be8051d3b80e2af6457194b487458ac4f1548"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "e918132ab17f31eacc1a055d54bba6ee59a208a5f43af7a89730b39698968ec7"
+hash = "3d8589b75e17de7c677cb56a413a4a7e4aafa103733182b25970eddece4c3327"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "d620e324e45dd65ff99efa640b7add1dbb9302f8e7731ea21cd08924e405c3b5"
+hash = "f5dc301cbf374d7f7964520b0a00f4afd0c27ee9cc1bef43827947c1e4f23813"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e5653f1554a432461589480bd51adf309ebcc8a388b9d969628d9ee1404dc051"
+hash = "d1c8a7dc5e18c9172ac5285ab5e1882f383f79bf846a29a53e11030779b945cb"
 metafile = true
 
 [[files]]

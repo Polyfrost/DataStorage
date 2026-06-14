@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "450e6a32b2fa9df575065c8b835a7ac4d355fc77e230d698beab79b9da3aeabc"
+hash = "fb11c74d00d5f7c5546da0090bb3c98006d1c1b1c224ed9d422ae8b7a76f9938"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c6317f41217dd3f2dc8693d6821cc5282578477058de76fdc9e112f941fa130c"
+hash = "7606dd94ffd1bd4d34901d099b9f1d3d6f54eb45ef5b2b6bd0a29fa18332535c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f5482a11b7b07db0a0910ce21a163e535f48cba7144d7cc7d8f4320a49a14022"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "dd9885b8c026e1335c862439c0eb66b5ce6459d4fbd8347beaa0c86714b0bebc"
+hash = "26e2642ee0219764283f9431e8cc2d76e29339b78c396b10cd5b46a94a91bd02"
 metafile = true
 
 [[files]]
@@ -131,6 +131,11 @@ hash = "c719a89e1da00ef81a3d104d00357d45b1a28e44643a59ca153625cd31d45069"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "6d64b43799098ca1c85e36ea6726df23e21f4dd96dbbe2d9ccd15ff62e029d80"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "9bd4f9b6008be54bf3cddd4ea69765fbe59449c199f6784a02ba4d5192030b23"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-compression.pw.toml"
-hash = "907aee18759c4d065e85be37faf022610c7418768aaa5112c67a2b7d95353810"
+hash = "23580720a6179e2d5db6f07a34b23ae849297bd5c70160ce81d223b10b99efcd"
 metafile = true
 
 [[files]]
