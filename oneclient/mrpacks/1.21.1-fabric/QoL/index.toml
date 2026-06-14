@@ -286,6 +286,11 @@ hash = "bd96ec77c5f5a331765020981c5cce1b1e88132b77c42c1106198bd4fdb40a5a"
 metafile = true
 
 [[files]]
+file = "mods/tntcountdown.pw.toml"
+hash = "726fd2ad8cbf3708b8cb5724651f5a5dbbc585e7152b922b0c838dd79f0394de"
+metafile = true
+
+[[files]]
 file = "mods/tooltip-scroll.pw.toml"
 hash = "d42870860e56459caf38564281bcad2f5c6b3895e019d06703883279fa959d42"
 metafile = true

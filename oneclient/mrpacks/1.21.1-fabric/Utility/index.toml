@@ -11,6 +11,11 @@ hash = "da17b555c53ce390b30cd6eb5357720fd2cca482fb5a927695ab8e74d679d3ad"
 metafile = true
 
 [[files]]
+file = "mods/better-narrator-error.pw.toml"
+hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "ed6f8461bcc70d112a862f661a97ad2238f2c7fdc74ffa6efa79c6903abcc9b3"
 metafile = true

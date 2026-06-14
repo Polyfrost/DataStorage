@@ -1,0 +1,16 @@
+id = "X2Zy7Oi6"
+enabled = true
+hidden = false
+name = "ChatShot"
+filename = "ChatShot (26.1-fabric)-1.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/X2Zy7Oi6/versions/FNwyYnaw/ChatShot%20%2826.1-fabric%29-1.0.9.jar"
+hash-format = "sha512"
+hash = "7fcacfafc8cf995565b9fac868b5f68310501c32d74d1935dcc4836e92effdd15989121fb479bec36beb0623326054256c971c72971fd9a48abaa95c78f29665"
+
+[update]
+[update.modrinth]
+mod-id = "X2Zy7Oi6"
+version = "FNwyYnaw"
