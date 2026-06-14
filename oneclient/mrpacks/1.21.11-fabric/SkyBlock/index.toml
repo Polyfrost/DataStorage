@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "bf2c053158e6eb1c471160c47328615a2c62f7b358886793b6fda97d7e9d351f"
+hash = "80c9aec19b878fdc6c2b76d30b93bf5fc09c4ec43666324fd84ac4573fde0a2d"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "09a5a8f7b3fd2bddf1cfe689588f2fdb3c92c7a7b9c4d8e7327d79ea1c2928fb"
+hash = "d423c1e380a1cb77630183752f828b379715203b7057d536a267c7add1ebdb90"
 metafile = true
 
 [[files]]
