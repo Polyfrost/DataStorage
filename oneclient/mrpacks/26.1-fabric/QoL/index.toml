@@ -20,11 +20,6 @@ hash = "b2d4f3d048e6ea9d25d1bbe93d5945fe9802efecbc3942bd912c752f6ea75d2d"
 metafile = true
 
 [[files]]
-file = "mods/better-narrator-error.pw.toml"
-hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
-metafile = true
-
-[[files]]
 file = "mods/black-bar-concealer.pw.toml"
 hash = "31000795f05e79b4c1d29947302331c04edf5762085e22a3bc6f40ed26b30085"
 metafile = true

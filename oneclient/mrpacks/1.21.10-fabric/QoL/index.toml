@@ -25,11 +25,6 @@ hash = "b8dfcee3acd2b482738d2c55c63525ce058af1d92a62b1b0f2622ae3873a0919"
 metafile = true
 
 [[files]]
-file = "mods/better-narrator-error.pw.toml"
-hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
-metafile = true
-
-[[files]]
 file = "mods/better-screens.pw.toml"
 hash = "afcad2870c7a312dbef35c4d59901d24fe3829f1ddef0d29fe4ed2b7dfd1d04c"
 metafile = true
