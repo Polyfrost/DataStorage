@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "775b0d7a37451f04274805dd48d8b1a9a78328100a19099a118a51b83a61d074"
+hash = "dc09e87771266093362ece5c16efcbcffe2c6ea6d5c482dccd783aa8ca1354ac"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/tntcountdown.pw.toml"
-hash = "f43390a9b6a75e26e08fc01a0bfc6a65e60c7c731f33879fe115b242e02723e7"
+hash = "b9d4fd91002165c39b37639ff8ad9184b8246551aae615d55fd943851cfec692"
 metafile = true
 
 [[files]]
