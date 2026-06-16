@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/compacting.pw.toml"
-hash = "8865fa261915277fa7d68589ae703e0a0a9590dc5a96041e810804581063c963"
+hash = "c651c1bb726fe2e38f8c03f97dbdbcf458032402ae28318ceaf1adb861938019"
 metafile = true
 
 [[files]]

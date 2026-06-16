@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4344d5305ad0d1a41050c4a91d29c3a615d343e73a3e2afa84b1b2c405f553df"
+hash = "fbb961ecd420e4a809fa82abaa91dcf33838a6541b471f4d3e3dfbd5754c625a"
 metafile = true
 
 [[files]]
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "85fade182d819213ee81bad8efc626654f4460564ac5ffa8f429a2651731d7e8"
+hash = "e542668d8d1e3b2923710a36706c7a8d30b1294b00159128d0dc77c18d2c43e3"
 metafile = true
 
 [[files]]

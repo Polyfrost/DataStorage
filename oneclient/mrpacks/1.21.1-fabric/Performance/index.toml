@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "fb11c74d00d5f7c5546da0090bb3c98006d1c1b1c224ed9d422ae8b7a76f9938"
+hash = "ff43e76d69d06a862919cd72ca423c7562705e58ac8922f2f176c622428c8506"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f987aa1e2769683863e839b1fdf7f1a33d3daffe97ebfe37323eacea78eb9429"
+hash = "986ed9fa141373049d2cd7551348d20d7c75261ddc55840dda142f96c37f5bb7"
 metafile = true
 
 [[files]]
