@@ -2,15 +2,15 @@ id = "y0E9vcbS"
 enabled = true
 hidden = false
 name = "Confirm Reset Keys"
-filename = "confirmresetkeys-1.0.0+26.1.2-fabric.jar"
+filename = "confirmresetkeys-1.0.1+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/y0E9vcbS/versions/PtFSJwH7/confirmresetkeys-1.0.0%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/y0E9vcbS/versions/SUQDEKfA/confirmresetkeys-1.0.1%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "25ebeb7965706394e1e7349665b5773572bd1c273c7fbbd9ee216fca6955ecfbc909accd7f719c1579e41385f7550a5b09eec2d07df6d175e3b69f77ca88622b"
+hash = "494c1a9b699b71c421de227f7854d8e00185794b765500e2a9b483e805e686dea9d891b2a49b37d3c74ca274b338651cc3d247e93ed5cd50007705c75fc23335"
 
 [update]
 [update.modrinth]
 mod-id = "y0E9vcbS"
-version = "PtFSJwH7"
+version = "SUQDEKfA"

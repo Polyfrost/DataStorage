@@ -2,15 +2,15 @@ id = "qyu2y7wG"
 enabled = true
 hidden = false
 name = "Confirm Disconnect"
-filename = "confirmdisconnect-1.1.7+26.1-fabric.jar"
+filename = "confirmdisconnect-1.1.8+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qyu2y7wG/versions/Ntvitw7A/confirmdisconnect-1.1.7%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/qyu2y7wG/versions/kZPJxCMz/confirmdisconnect-1.1.8%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "700d1c3b2e5b054b60b2038bd8b398e1b1d7996dc034987b03dbdb6ada2dc038c0d2b2c89ad8574862e116bf64fb4b3f2391779c48d902024c3263c08b339a73"
+hash = "1dd16be1acd4856fd3a3b317a9103a6cdf31a2f5a2823c021cd749d6db4ae483fff7e3377f689fb3ceca21d7745ce313b6912c5e43181c82602d875cf3ebd180"
 
 [update]
 [update.modrinth]
 mod-id = "qyu2y7wG"
-version = "Ntvitw7A"
+version = "kZPJxCMz"

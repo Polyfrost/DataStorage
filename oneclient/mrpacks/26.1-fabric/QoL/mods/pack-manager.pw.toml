@@ -2,15 +2,15 @@ id = "foF2QmCR"
 enabled = true
 hidden = false
 name = "Pack Manager"
-filename = "packmanager-1.1.0+26.1.2-fabric.jar"
+filename = "packmanager-1.1.1+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/foF2QmCR/versions/7qG1hkOz/packmanager-1.1.0%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/foF2QmCR/versions/ez5vuMb9/packmanager-1.1.1%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "8a2aaec3d1ac0615815c512be5f6a408fb85a2d8474e71a0aecc7077f0c7b599d8abbf80be3f51280d8d5973c8a274ccfe68efa6b1dd6d1274e98db7501e44ec"
+hash = "9b27a5c52e967e55adfa078d118a0ddba36ea90fdfb71f19a40866020c4ac28f33d6c58262fa9b1ca13b1ef97d61015359cd07a2b112a3525fb297f819185659"
 
 [update]
 [update.modrinth]
 mod-id = "foF2QmCR"
-version = "7qG1hkOz"
+version = "ez5vuMb9"

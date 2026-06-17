@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblocker-liap.pw.toml"
-hash = "fe2ed0040e00638757b925c41895806370fdab22146248d474580a014bb1f13f"
+hash = "931447f33f9fc746b772cc8aea526ec12d697e413767e184e4c43149248260ac"
 metafile = true
 
 [[files]]
@@ -52,5 +52,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/skyblock-dark-ui.pw.toml"
-hash = "62411ba0d5a8b3279aae50d503316a008bd17a5a04140dac6cd2289f333bc19c"
+hash = "81548567095818323afae125bedf186287c4f43e517022b882aa51bb33c9f747"
 metafile = true

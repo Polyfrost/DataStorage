@@ -37,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "bb8820a8f79dfeb3daab5dd501e9212c215390130cd22e9f7a63711cbaf2ca0a"
+hash = "e243c8ee04c2311f0b426f0bc2a69aa01c3fe85b44ca1382efe3019b94a01e4e"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "8a726c096c1a36519effdd8340627c37535f58f5c6080f3ebfd4feb3902699f1"
+hash = "c7d289f9403512f319633e25a7bd6d669c7b5ae71eeb172c80d14b3c11f3a4de"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "b059e2e44b0b20609838992c453a5ed074061bd9382b483cf7f2db69a04fa0eb"
+hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/toggle-toggle-sprint.pw.toml"
-hash = "8e7e5cd553231987aa29d63fe3393c17401789812eaad9d331a2f2a326a2df46"
+hash = "c132c2b8822313a7159386bea49a2f27bd69fef764267ac10aae32e0e1a72177"
 metafile = true
 
 [[files]]

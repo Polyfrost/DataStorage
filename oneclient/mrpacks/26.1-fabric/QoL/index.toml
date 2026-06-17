@@ -46,12 +46,12 @@ metafile = true
 
 [[files]]
 file = "mods/confirm-disconnect.pw.toml"
-hash = "08b0e17e2ae773f5553820805e29bd67202358a4656d2b04c8d48c7e5956c4e3"
+hash = "4df0e267631bcac9aa3297cf169fcdec7c54f3dfdba9cd5736aeb2dd6cb49996"
 metafile = true
 
 [[files]]
 file = "mods/confirmresetkeys.pw.toml"
-hash = "1abc9382347a756ce9e92b22bcc5d439e8f4f61fd3482f7bd966b51e5af85cfd"
+hash = "904cf288e96bb5ccfc2b485a939309d820a60224af0966ff3fd81b5ac68aca85"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "bebfdaf5d99832f034350466aa2cafc87c232af3d5256fca4928b7c01d250ec7"
+hash = "65463b02c43a7dc5284d8c8aa294d699dca7235230f21b051746f3565216039b"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/pack-manager.pw.toml"
-hash = "25866e19e79c49e9163db66a7670c327143547988dfd851dbb40232bb42c4586"
+hash = "6c4696954b43f29a4478514678d855c292f1984ff9711d8349ae4a1c489234ba"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "045daf880073f01a1b270e9b7cff1bef074befd5c22696d5556e8f9d4a9d897b"
+hash = "0cc60eaa1b8946582534b984b24e4ba86c5398cedf39b801f6e30b141f5e4e13"
 metafile = true
 
 [[files]]

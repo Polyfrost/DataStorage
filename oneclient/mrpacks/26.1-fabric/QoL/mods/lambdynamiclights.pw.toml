@@ -2,15 +2,15 @@ id = "yBW8D80W"
 enabled = true
 hidden = false
 name = "LambDynamicLights - Dynamic Lights"
-filename = "lambdynamiclights-4.10.3+26.1.2.jar"
+filename = "lambdynamiclights-4.11.0+26.1.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yBW8D80W/versions/w3QfTqbn/lambdynamiclights-4.10.3%2B26.1.2.jar"
+url = "https://cdn.modrinth.com/data/yBW8D80W/versions/NYmekdmx/lambdynamiclights-4.11.0%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "1e8dba712206ebd3e2fcf8a44ad84fde1d4cb148d0a8bbf08b63b3d7beff5f6f7c81ad0ac676b1263030f8fffc1519773408e03a7c4a13088bbf9305e633768e"
+hash = "c0022fedcb377dffa6f0540aa2e3924c4c39f86188271d94c3ccce79e512fa326f8ec69054d9ed7dbd433dc5eece887fbd15c87a0eafc78dba2466d01c361930"
 
 [update]
 [update.modrinth]
 mod-id = "yBW8D80W"
-version = "w3QfTqbn"
+version = "NYmekdmx"
