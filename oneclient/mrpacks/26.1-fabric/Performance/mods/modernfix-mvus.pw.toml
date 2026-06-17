@@ -2,7 +2,7 @@ id = "TjSm1wrD"
 enabled = true
 hidden = false
 name = "ModernFix-mVUS"
-filename = "modernfix-5.27.7-build.1.jar"
+filename = "modernfix-5.27.17-build.1.jar"
 side = "both"
 
 [overrides]
@@ -10,11 +10,11 @@ authors = ["embeddedt"]
 description = "All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/PDwZT2Ku/modernfix-5.27.7-build.1.jar"
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/YhhT18mj/modernfix-5.27.17-build.1.jar"
 hash-format = "sha512"
-hash = "632f70ead073aff83df33854c0a3858807480b39b3542f15287b23bc6b2372417afda58872564aba21803bc3e6cb1bf92dca8d749d14b211696b20d6b221c36d"
+hash = "53f260ee7188fd9828851809ededee4d24f7c9a9d9c463f21c588e0e1f59d63e826f00e3d7709ef429108e519275454305ba6c786dea3f3bb811db0159fc98a3"
 
 [update]
 [update.modrinth]
 mod-id = "TjSm1wrD"
-version = "PDwZT2Ku"
+version = "YhhT18mj"
