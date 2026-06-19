@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "46119827039baafa3ae7f1e393b349b845aa1e85cd86a242d8c775a36d28bc8e"
+metafile = true
+
+[[files]]
+file = "mods/catharsis.pw.toml"
+hash = "09d5d8b61a196f53bc3da9e222eda1f54d52fa99946a9dfaa94b585af77a8148"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
 metafile = true
@@ -21,6 +31,21 @@ hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
 metafile = true
 
 [[files]]
+file = "mods/rei.pw.toml"
+hash = "5102ce90ff352c70131df754192e071e7e9708821af6446e6c1769618ec97bc2"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-custom-scoreboard.pw.toml"
+hash = "ea8954fef69e354ea48947d319fc3cd4500dba9648eb60e6a68f8b02d769420d"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-profile-viewer.pw.toml"
+hash = "c7332dd0667e172bc0f22205dce77337316569854dd57ca463dc5ffc292d9bff"
+metafile = true
+
+[[files]]
 file = "mods/skyblocker-liap.pw.toml"
 hash = "931447f33f9fc746b772cc8aea526ec12d697e413767e184e4c43149248260ac"
 metafile = true
@@ -32,7 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "7898b347860accc29b187d5e6da005916b68415023922e4aca2737594e4ad1bf"
+hash = "380f65e18b3e4223d97cd77d69761ae2810a956664cbfa0d35952c0a8b06a921"
+metafile = true
+
+[[files]]
+file = "mods/skyocean.pw.toml"
+hash = "c13310c3708c6db0a628044455a53bc5c8a46845618079a4ac913513a198a0a8"
 metafile = true
 
 [[files]]
@@ -48,6 +78,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/darkmodeskyblock.pw.toml"
 hash = "9a7855ffdce0933f0a83d547bf1cbe15ba245873aab38107378f56868a911e79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "34f106e9890a9f2cea5f2ad2f13e2b66f091ce5ad2316526c55368e95d68680b"
 metafile = true
 
 [[files]]

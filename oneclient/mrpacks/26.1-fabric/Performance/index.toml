@@ -40,6 +40,11 @@ hash = "d50e9db908b32a4f37d12558fbc3344b4d16777c0adde8c635ab5542eca162f0"
 metafile = true
 
 [[files]]
+file = "mods/catharsis.pw.toml"
+hash = "09d5d8b61a196f53bc3da9e222eda1f54d52fa99946a9dfaa94b585af77a8148"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
 metafile = true
@@ -72,6 +77,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "dadf4db567dce25ae874e7afbd2947a428505f0fd1285b8a4e49cead48494895"
 metafile = true
 
 [[files]]
@@ -140,6 +150,11 @@ hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
 metafile = true
 
 [[files]]
+file = "mods/noxesium.pw.toml"
+hash = "93991e743ac1747e450001ff38570dc34e49ce02e58e2d22f9978a5797256d7c"
+metafile = true
+
+[[files]]
 file = "mods/oneconfig.pw.toml"
 hash = "26e97dcc9b209a5f645be991b4aaba52bdd4767ef6f588a2449a9f6961dab541"
 metafile = true
@@ -162,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "a83b41d9c7c3dc3eaa0b80317a579ed72aec8a7568d7ca2879a0a7de779be38b"
+metafile = true
+
+[[files]]
+file = "mods/sciophobia.pw.toml"
+hash = "24f8f34bbd5edec1f30427f14f853f031f74345078dd39b41858721386b3161c"
 metafile = true
 
 [[files]]

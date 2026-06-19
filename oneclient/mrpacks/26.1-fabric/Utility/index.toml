@@ -6,6 +6,11 @@ hash = "3ef6c96d482af0e3d707177b41e421f18ed07092b204368b6f5afab8906f43b9"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "46119827039baafa3ae7f1e393b349b845aa1e85cd86a242d8c775a36d28bc8e"
+metafile = true
+
+[[files]]
 file = "mods/better-narrator-error.pw.toml"
 hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
 metafile = true
@@ -96,6 +101,11 @@ hash = "93991e743ac1747e450001ff38570dc34e49ce02e58e2d22f9978a5797256d7c"
 metafile = true
 
 [[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "26e97dcc9b209a5f645be991b4aaba52bdd4767ef6f588a2449a9f6961dab541"
+metafile = true
+
+[[files]]
 file = "mods/quickjoin.pw.toml"
 hash = "b3b7789e9eb22477293a7b5bb9de903d92ce75382de653e13d13c13cf9c52bbf"
 metafile = true
@@ -121,8 +131,18 @@ hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
 metafile = true
 
 [[files]]
+file = "mods/simple-block-overlay.pw.toml"
+hash = "4f8da85cbd413148387f78e1869982c77e52dff657232c467b79899042d42bd3"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2b7b0ab0289b7761ac854cced39e3df9e2e45a4c82487281b946cc202da6aed2"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "03237204707d8fec5d37e64ef11d995bb917ad8b48c2c63e3d37567eea091c02"
 metafile = true
 
 [[files]]
@@ -148,4 +168,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1abcbd80b379949ae05e52e6f914c00655a115d48eb7d48dc2e57839811e898a"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "62f8523adf98354246a50597b73cc4ea0a939dc380e436409c61c951d3fb75bd"
 metafile = true
