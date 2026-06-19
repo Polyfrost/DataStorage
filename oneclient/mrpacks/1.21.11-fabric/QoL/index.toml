@@ -330,6 +330,11 @@ hash = "f8e2f75c731bb0f15784bf81549b94222123dbfb3684462ea3e36488580943bf"
 metafile = true
 
 [[files]]
+file = "mods/vignette-tweaks.pw.toml"
+hash = "fea9c3b3e34415539092b8c2b73c69a5063376fece361858a950680befb0f558"
+metafile = true
+
+[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "fbaed00ac405147d3435c580d754f7c2fdd01c1e31489a44ed9cf29d2dcaf39c"
 metafile = true
