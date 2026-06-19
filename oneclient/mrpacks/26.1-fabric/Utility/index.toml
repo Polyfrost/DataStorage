@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternightvision.pw.toml"
-hash = "2235ac1294d5b1f22f8cffaa2e5ad9edcf6039c79b10c8798f6b425346ffb3ee"
+hash = "6ac2004b504f0e46ec96329779f38e2cff6cd564e99e3309514062b9f992a579"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "5a7b6af3be2507ea43b4d3385a13cad370f8668d15c4410c79002571e4e579ef"
+hash = "3bd34e3ecfdf47fe98c2d5e1970b56b0ffd5acbb3e044b3b4b4519d07698f74b"
 metafile = true
 
 [[files]]
