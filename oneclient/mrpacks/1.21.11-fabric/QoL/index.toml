@@ -6,7 +6,7 @@ hash = "342dbfea1eb1da77369eb859ef22afc55732a7cdeface9a46b63bf4c1c4007d1"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "40a3a2775e5dac8fcd207bca3c53aadc68210177e4f6bfbfd9f8ff02e3d02918"
+hash = "6f417cc2e8b6b79e8cf77d75fb289e74086230986a0cd14d31acca625cf8f62b"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "fb9445e5bf78b518c11aa7f7c60be2ddba966e5614abde5f9d01e4eeadc472cf"
+hash = "a5c28eabad474e2e932df9e0ccad75769d528cb0e37da266c05bf1d1bae5f44e"
 metafile = true
 
 [[files]]
