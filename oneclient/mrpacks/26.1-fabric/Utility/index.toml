@@ -132,12 +132,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-block-overlay.pw.toml"
-hash = "4f8da85cbd413148387f78e1869982c77e52dff657232c467b79899042d42bd3"
+hash = "c31733a0a9189f491c58104b4ab88ca5d4bda968e29ac48a8d99f7648b20e64d"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b7b0ab0289b7761ac854cced39e3df9e2e45a4c82487281b946cc202da6aed2"
+hash = "c9159b7f18ee4d7f96b8b0c049e4418d611dffccefee12dce317dbd7ff01a8d5"
 metafile = true
 
 [[files]]
