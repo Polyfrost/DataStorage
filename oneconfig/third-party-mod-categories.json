@@ -110,6 +110,7 @@
     "ixeris",
     "jade",
     "lazy-language-loader",
+    "language-reload",
     "logcleaner",
     "mixintrace",
     "modmenu",
