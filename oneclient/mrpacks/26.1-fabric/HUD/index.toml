@@ -46,6 +46,11 @@ hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
+file = "mods/inventoryhudplus.pw.toml"
+hash = "db38be7978797bdb82c8460ccac8a200ea7164a2c44f756b706662b55c0bd433"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "1f42958c96940cc88e1b0e8ab0c14da0e8e958607a72c1a153464ecc59afb8d8"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "954caf9b4a18893160c7eef72a4eb39db7b95a78f43befd1e32a02ea1e072862"
+metafile = true
+
+[[files]]
+file = "mods/slice.pw.toml"
+hash = "44bb73630c2fed83b996a9dc34a0802c6d2cc563918a8fa32fca37516274676b"
 metafile = true
 
 [[files]]

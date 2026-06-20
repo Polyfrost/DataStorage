@@ -1,0 +1,16 @@
+id = "wySVd6d8"
+enabled = true
+hidden = false
+name = "Tooltip Scroll"
+filename = "tooltip-scroll-1.5.1+26.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wySVd6d8/versions/jh31Tayg/tooltip-scroll-1.5.1%2B26.1.1.jar"
+hash-format = "sha512"
+hash = "3ffd1ef3018238087d9df1812ff428636472d46dfd6d3497648f46e14d8bb7e674a2c234bee47240cc033e132d129b88e5a5d6c71f7e3adceeb46a7e86a4d6e2"
+
+[update]
+[update.modrinth]
+mod-id = "wySVd6d8"
+version = "jh31Tayg"

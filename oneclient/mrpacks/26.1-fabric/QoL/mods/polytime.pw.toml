@@ -1,0 +1,16 @@
+id = "m3kNp1iP"
+enabled = true
+hidden = false
+name = "PolyTime"
+filename = "polytime-1.1.1-beta.1+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m3kNp1iP/versions/WBciEmBB/polytime-1.1.1-beta.1%2B26.1.jar"
+hash-format = "sha512"
+hash = "43019ce422aee3b285ee8d71288ceca38979446fa1bfc719743e4edfa0f7a663287c7666b0c9ef852679823b6efaf0b5abb0083a8c46f1012a1db358fc5c8c8f"
+
+[update]
+[update.modrinth]
+mod-id = "m3kNp1iP"
+version = "WBciEmBB"

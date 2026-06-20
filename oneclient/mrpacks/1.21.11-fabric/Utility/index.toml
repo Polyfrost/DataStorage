@@ -51,6 +51,11 @@ hash = "3a6f79c6a67adfd8d393ca717990f0d62f938eeb93f4b1fc62f4194b781d8979"
 metafile = true
 
 [[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "68a79a220f052bc13e290c1cdbf181d762c93e4cdd292cbcec6e25bbb9113249"
+metafile = true
+
+[[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "3d8589b75e17de7c677cb56a413a4a7e4aafa103733182b25970eddece4c3327"
 metafile = true
@@ -102,12 +107,17 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "e3c50f87924030ad0bb72361da9d7861a9d5acd98cf96db51a89410d60ff9274"
+hash = "779a4f3451a25f3513800bc61cc52a999ebef6e89af2a681f46d0aa69b839692"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
 hash = "3d22391d697b39f61a5844e236a8e911d5404e076d457438972d77335d63f665"
+metafile = true
+
+[[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "ee88e9aba137d1bc69b8d18de67754d2cb269caf124f3727a7017bcafd937e8a"
 metafile = true
 
 [[files]]
@@ -142,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "5b4eded2b5e0209d3cebac1f5db879415d8f482dc9b5128cf2222c7e024601f2"
+hash = "b25e7bed4fcdf261cbe73f397d58663a8e8524f612bcef30c53d17a7fb83463b"
 metafile = true
 
 [[files]]

@@ -2,15 +2,15 @@ id = "CaQ3SZNi"
 enabled = true
 hidden = false
 name = "Better Night Vision"
-filename = "betternightvision-1.0.4+26.1-fabric.jar"
+filename = "betternightvision-1.0.5+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CaQ3SZNi/versions/aUL0OTkN/betternightvision-1.0.4%2B26.1-fabric.jar"
+url = "https://cdn.modrinth.com/data/CaQ3SZNi/versions/RwUPIoL8/betternightvision-1.0.5%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "78911fed4b59a80dc25bcf626b152ef02435085b9321620f2aa76ca06118ecf440878dcf06b834053cf39d53bac71855e9f4535f67dd2f990543c66ef909c53a"
+hash = "f2b2ac7afaa884dc29b053c80832e6eb774c90d3bf8a2d290f2981f03a2011ba162e79bec9a01aef2a8d1c7270f6889c49accb50de04e34989f06858e606d5b3"
 
 [update]
 [update.modrinth]
 mod-id = "CaQ3SZNi"
-version = "aUL0OTkN"
+version = "RwUPIoL8"

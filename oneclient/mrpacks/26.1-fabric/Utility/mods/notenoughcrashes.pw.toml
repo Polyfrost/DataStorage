@@ -1,0 +1,16 @@
+id = "yM94ont6"
+enabled = true
+hidden = true
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-fabric-4.4.9+26.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/t9SMrcvj/notenoughcrashes-fabric-4.4.9%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "f29bf59fb42d294ff01736932c7364dffba3d77336c5908c653a1864e097e6d312804fd77f1c89cbb83b789f610f6a75e5564ad7d557f28fb7c4cc99b416a0f9"
+
+[update]
+[update.modrinth]
+mod-id = "yM94ont6"
+version = "t9SMrcvj"

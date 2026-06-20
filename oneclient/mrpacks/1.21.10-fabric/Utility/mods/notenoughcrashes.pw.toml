@@ -1,6 +1,6 @@
 id = "yM94ont6"
 enabled = true
-hidden = false
+hidden = true
 name = "Not Enough Crashes"
 filename = "notenoughcrashes-fabric-4.4.9+1.21.10.jar"
 side = "both"

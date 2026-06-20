@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8c1e9477f25b4167f3572b0202f8b33b043ba3ecbe93f0f83be6eae79c791929"
+
+[[files]]
 file = "mods/animatium.pw.toml"
 hash = "3ef6c96d482af0e3d707177b41e421f18ed07092b204368b6f5afab8906f43b9"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "46119827039baafa3ae7f1e393b349b845aa1e85cd86a242d8c775a36d28bc8e"
 metafile = true
 
 [[files]]
@@ -22,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/betternightvision.pw.toml"
-hash = "2235ac1294d5b1f22f8cffaa2e5ad9edcf6039c79b10c8798f6b425346ffb3ee"
+hash = "6ac2004b504f0e46ec96329779f38e2cff6cd564e99e3309514062b9f992a579"
 metafile = true
 
 [[files]]
@@ -43,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "c7d289f9403512f319633e25a7bd6d669c7b5ae71eeb172c80d14b3c11f3a4de"
+metafile = true
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "4baba2af97dd84a8e6eba7b2d71bf9a3fd2b11b71e429f5b5e9058f17a07b995"
 metafile = true
 
 [[files]]
@@ -72,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "d88a77ecbc38edf8c1572321870f1f1e4f0b481682427d860541f3f7ef11e873"
+hash = "30f06c7f4487ff51902a6e2486fad677098657d1f2d6df92e31a67ce7122f4b4"
 metafile = true
 
 [[files]]
@@ -91,8 +105,18 @@ hash = "0c0d41b67ec11b92100b34e8d7642f69414c80c6fe46ffac30cbba2e1f1eaab5"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "acd1388c4a953e0da8984125562c7fdd4db484bce66a2335fcb169078511924e"
+metafile = true
+
+[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "93991e743ac1747e450001ff38570dc34e49ce02e58e2d22f9978a5797256d7c"
+metafile = true
+
+[[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "26e97dcc9b209a5f645be991b4aaba52bdd4767ef6f588a2449a9f6961dab541"
 metafile = true
 
 [[files]]
@@ -121,13 +145,23 @@ hash = "5f2f3ac56815625aba0c9353896569e39bbde089a29b9533bd70cf637aaae3c9"
 metafile = true
 
 [[files]]
+file = "mods/simple-block-overlay.pw.toml"
+hash = "c31733a0a9189f491c58104b4ab88ca5d4bda968e29ac48a8d99f7648b20e64d"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "2b7b0ab0289b7761ac854cced39e3df9e2e45a4c82487281b946cc202da6aed2"
+hash = "c9159b7f18ee4d7f96b8b0c049e4418d611dffccefee12dce317dbd7ff01a8d5"
+metafile = true
+
+[[files]]
+file = "mods/sound-controller.pw.toml"
+hash = "03237204707d8fec5d37e64ef11d995bb917ad8b48c2c63e3d37567eea091c02"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "5a7b6af3be2507ea43b4d3385a13cad370f8668d15c4410c79002571e4e579ef"
+hash = "3bd34e3ecfdf47fe98c2d5e1970b56b0ffd5acbb3e044b3b4b4519d07698f74b"
 metafile = true
 
 [[files]]
@@ -148,4 +182,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "1abcbd80b379949ae05e52e6f914c00655a115d48eb7d48dc2e57839811e898a"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "62f8523adf98354246a50597b73cc4ea0a939dc380e436409c61c951d3fb75bd"
 metafile = true

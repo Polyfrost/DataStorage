@@ -1,0 +1,16 @@
+id = "dIczrQAR"
+enabled = true
+hidden = false
+name = "SkyOcean"
+filename = "SkyOcean-1.16.1-26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dIczrQAR/versions/ntms0IvC/SkyOcean-1.16.1-26.1.jar"
+hash-format = "sha512"
+hash = "b24bab05a64dfb22db30ab51f9b70f04dfbe96be7a52f842e46b18d45fc5fb77f5d08564d1874e2bf0be6eb2df9206e34a2f5a65b3e7db200d3b63c0bdaba70e"
+
+[update]
+[update.modrinth]
+mod-id = "dIczrQAR"
+version = "ntms0IvC"
