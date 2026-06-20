@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "5e4efc0236109fc40bbc5151c70609220bdbc64106367c066ae59d4902aca4e1"
+hash = "ee67f689bef20b41972d41ee6bcd6e318ad32f0288770c7f63a49f47120b1da2"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "30f06c7f4487ff51902a6e2486fad677098657d1f2d6df92e31a67ce7122f4b4"
+hash = "a71263e0273b861eee9fc3023338d74f2cea4c7fd4dd344f0e55980c7b2bf6ab"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "5318b47797f32be4ed9a35b50afcc3c3230a30ee6b84ee6aa04733e792657211"
+hash = "d57bdbcb6d4681def5626a0b40887e744c41fc8eed351f301ec0165128f423dc"
 metafile = true
 
 [[files]]

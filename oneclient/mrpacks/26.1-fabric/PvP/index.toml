@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/effecttimerplus.pw.toml"
-hash = "ecce159e4ea15160e6b92ef35bed7a226822411cf4900a4c06c4f830644cead6"
+hash = "69079091a467efabeeb2d6844b1b67a04b37093a3a87d6abfc890c05aaadd883"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/shaketweaks.pw.toml"
-hash = "df7adefd00fd2cf0540336f479f99a71c6c49d8b953d462bd1d9f7140ad3fa54"
+hash = "e077af4843818078aa9ef9d5c088e0878833c626fed13328ad274ec98de8eed1"
 metafile = true
 
 [[files]]
