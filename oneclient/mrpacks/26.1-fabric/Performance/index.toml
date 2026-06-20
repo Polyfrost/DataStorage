@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1fc34fb20b1b15ef0b196f6c2d5ec0cb84ecdd6986c9b8697fa262a7d50b363c"
+hash = "2e5116d515889a76ca089f451c17823d7da6f6e2bf314ed85bdcc703da7c55ce"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "bafee97281f34b36b18277f2f02903f0b81f8358e5386b171733d568eb303790"
+hash = "3df1596138f5223362fd7a641a4596467a8febd227912770479dcd36b5aaef9c"
 metafile = true
 
 [[files]]
