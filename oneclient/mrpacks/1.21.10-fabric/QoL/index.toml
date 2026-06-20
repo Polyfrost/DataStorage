@@ -85,6 +85,11 @@ hash = "c10c22270cc0a646eb698acdd5a7e3a4a13167fc5c635172796b25bc2c870cef"
 metafile = true
 
 [[files]]
+file = "mods/damagetint.pw.toml"
+hash = "490ff9c188ed266636d353a0f800f42ae466207daa599197349e0ce88ac19ba8"
+metafile = true
+
+[[files]]
 file = "mods/dark-graph.pw.toml"
 hash = "d50c62ce2c560fd5a6ab855ecb6e706ccc068ca07f69f36a964892ffa87f952b"
 metafile = true
@@ -230,8 +235,18 @@ hash = "ec8c86e8e0e3b67e54523e4b862868192466c4e2e2691af5d73f69f18acf2eac"
 metafile = true
 
 [[files]]
+file = "mods/polytime.pw.toml"
+hash = "ff4f69dbecd7fa54da430149e4fb682a63d19ccb3ece066ddeb1dd018deaf836"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "402a07c427d26dedd573aadf8b0f0f72cb4b1f1d65eb8e311568d0b9074ba6bb"
+metafile = true
+
+[[files]]
+file = "mods/polyweather.pw.toml"
+hash = "c8872ab9abc80be526aa5a45664b93fec9458ab500bcc1fde273ffa24f3eebd9"
 metafile = true
 
 [[files]]

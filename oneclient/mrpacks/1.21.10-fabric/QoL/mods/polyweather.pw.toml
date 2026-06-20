@@ -1,0 +1,16 @@
+id = "r8Cr8YRg"
+enabled = true
+hidden = false
+name = "PolyWeather"
+filename = "PolyWeather-1.1.1-beta.1+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r8Cr8YRg/versions/YTJolD5V/PolyWeather-1.1.1-beta.1%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "a10202868969434ea23859085d67466450a542b0a5189ef1ce915deb82e5ca94ca57156680e7e3d44aca3911ac89087ceed47cf063508fef700f6c92f3e81f4a"
+
+[update]
+[update.modrinth]
+mod-id = "r8Cr8YRg"
+version = "YTJolD5V"
