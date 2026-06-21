@@ -4,6 +4,7 @@ hidden = false
 name = "Better Block Entities"
 filename = "bbe-fabric-1.3.4+mc26.1.2.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/wdldM2VR/bbe-fabric-1.3.4%2Bmc26.1.2.jar"
