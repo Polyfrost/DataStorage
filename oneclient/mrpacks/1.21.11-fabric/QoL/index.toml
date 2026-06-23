@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "d87e145e22d71abb02e46f8b33e5b262165f81508cea78a45814052cd0e9f792"
+hash = "1e6677f9686414255070915c510dcb493417bf24431b1a67e1442801f0fff384"
 metafile = true
 
 [[files]]

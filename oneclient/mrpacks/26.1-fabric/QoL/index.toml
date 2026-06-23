@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "431d8ad5fe61b0460ab4a2e72002a803f614581daba6aece3b870d66c55087dd"
+hash = "f17b7daf2bd407a7c4511cc36a9e50d75d20efa707893972f79b487c65d021eb"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2ac6d51352ec018e414d0b05e3b10b27571b2ce4ee6883f7507238b9589d8cca"
+hash = "410c6a8dcbab0190b49954d8bbdce7bbb59f1c4659660fcc310c19ec9bb4d9d1"
 metafile = true
 
 [[files]]
