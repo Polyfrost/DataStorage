@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltip-scroll.pw.toml"
-hash = "58a8cd41e8de3f79298ed836a62e075a677590a2407e769a3ea1c4292feaf1a9"
+hash = "08ef816e59741651e13eaa98ef55fdb71317433026d56dcef525f12cca81ab05"
 metafile = true
 
 [[files]]
