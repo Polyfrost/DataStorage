@@ -3,7 +3,7 @@
         {
             "major_version": 21,
             "name": "Tricky Trials",
-            "art": "/versions/art/Tricky_Trials.png",
+            "art": "/versions/art/Tricky_Trials.jpg",
             "long_description": "Minecraft's 1.21 update, known as \"Tricky Trials,\" primarily focuses on combat adventures and tinkering, introducing trial chambers, new copper block variants, a new crafting tool, and a new weapon. It also features new hostile mobs, paintings, and gameplay enhancements.",
             "tags": ["Tricky Trials"],
             "entries": [
@@ -15,14 +15,14 @@
                 {
                     "minor_version": 10,
                     "name": "The Copper Age",
-                    "art": "/versions/art/Copper_Age.png",
+                    "art": "/versions/art/Copper_Age.jpg",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 },
                 {
                     "minor_version": 11,
                     "name": "Mounts of Mayhem",
-                    "art": "/versions/art/Mounts_Mayhem.png",
+                    "art": "/versions/art/Mounts_Mayhem.jpg",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
                 }
@@ -31,7 +31,7 @@
         {
             "major_version": 26,
             "name": "Minecraft from 2026",
-            "art": "/versions/art/Tiny_Takeover.png",
+            "art": "/versions/art/Tiny_Takeover.jpg",
             "long_description": "Minecraft's 26.x updates, starting with the release of \"Tiny Takeover\", primarily focuses on mob charm and quality-of-life improvements, overhauling textures and models for every baby mob that previously lacked a unique model. It also features the golden dandelion, nametag crafting, and other gameplay enhancements.",
             "tags": ["Tiny Takeover"],
             "entries": [
