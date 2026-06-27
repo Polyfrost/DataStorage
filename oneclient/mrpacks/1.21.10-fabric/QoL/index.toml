@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-pack-unlocker.pw.toml"
-hash = "a5c0a91308a5dba8a879c38d9defd9bfb4cbb78001252bd33bcb90f2fc932247"
+hash = "577e9ce09f26436fd2bcc9ebc03e9fadee3a575e698c2cdd3637cad235374b8d"
 metafile = true
 
 [[files]]
