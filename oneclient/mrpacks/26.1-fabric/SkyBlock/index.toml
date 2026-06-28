@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "c7332dd0667e172bc0f22205dce77337316569854dd57ca463dc5ffc292d9bff"
+hash = "548960d49a5838e0816d162cd18f5da6219b6b10a64101ad8f8c5a655ce00935"
 metafile = true
 
 [[files]]
@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "34f106e9890a9f2cea5f2ad2f13e2b66f091ce5ad2316526c55368e95d68680b"
+hash = "e5f83ae672418580cf9bcbec8e57a1e6cc19e1ebf127cdad679e3674ef1aeafc"
 metafile = true
 
 [[files]]
