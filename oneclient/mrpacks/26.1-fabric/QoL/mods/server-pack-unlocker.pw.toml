@@ -2,15 +2,15 @@ id = "PiuygVWJ"
 enabled = true
 hidden = false
 name = "Server Pack Unlocker"
-filename = "spu-1.8+26.1.jar"
+filename = "spu-1.9+26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PiuygVWJ/versions/N7rRjNHA/spu-1.8%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/PiuygVWJ/versions/Sku3sC9U/spu-1.9%2B26.1.jar"
 hash-format = "sha512"
-hash = "1099db20e721f8322299d0c57c3e0029617444128dda3b9f0ba4cda3fc4d64a6b71652719a87d7302e7b4122feab7d75ca549cdfbac80ff9255ffcfc2896bb1c"
+hash = "987e9475f482d67d09fd6bf11529a7d993070cfbe6fdd8360bcdd0ea8bf8e27f2921687271cbb24cab710fa4e012a76f101422722fa3c8f01064b94afbe0cf88"
 
 [update]
 [update.modrinth]
 mod-id = "PiuygVWJ"
-version = "N7rRjNHA"
+version = "Sku3sC9U"
