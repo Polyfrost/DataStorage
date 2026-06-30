@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "3bc1dde88cf98d815a07a817dacea0f9e2bb3cd70ebf67cfc838c77c51a99c3b"
+hash = "930409bd1a318435ef4faa11d3827b0bab620e56978a259b90881b83c7cc1dbd"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8a0a0f4ff31c9b935a044fda862e90439e7d1376dada4552309f0cbdc3ddb757"
+hash = "cf77b8c403b93dbb37ae96a9776bb9cd2a722b11a98a5161313b4631f4b14aab"
 metafile = true
 
 [[files]]

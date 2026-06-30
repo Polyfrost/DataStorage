@@ -2,15 +2,15 @@ id = "PtjYWJkn"
 enabled = true
 hidden = false
 name = "Sodium Extra"
-filename = "sodium-extra-fabric-0.9.0+mc1.21.1.jar"
+filename = "sodium-extra-fabric-0.9.1+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/ncwGSklo/sodium-extra-fabric-0.9.0%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/taFAlSOP/sodium-extra-fabric-0.9.1%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "f69b9dfeda4cd6b7216a88cccb335860d0154af2d87f64aa28abab3cf90cff794b4879ebe5dd885eeb1163ca0ddbd10f25a63da0732a80bfbf6e6a6a066b272a"
+hash = "0dc522210ed51df59d88de9e2e3b7f0a050f5b5b5e95d792ac65d59dd102dc1c716986054ed1fa4c650562bdeb3b0f4e44f4deca4509786b8d601e79fd89cb03"
 
 [update]
 [update.modrinth]
 mod-id = "PtjYWJkn"
-version = "ncwGSklo"
+version = "taFAlSOP"
