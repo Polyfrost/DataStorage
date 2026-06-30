@@ -36,6 +36,11 @@ hash = "8c41a4c9ca98f291c3c8ae44328156ad98a914a2ab33e99ab0c869659754bb51"
 metafile = true
 
 [[files]]
+file = "mods/eclipseui.pw.toml"
+hash = "162b873a9f7e5c51e405b97140fbab3e821844efd0343b757d83783c0cbf94e9"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "df95f55e8db0b9003e058ee14431667dbfac56cf8b2b887052bcd07ba6a65c6c"
 metafile = true
