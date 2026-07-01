@@ -1,0 +1,91 @@
+{
+  "Walls": {
+    "NORMAL": "walls"
+  },
+  "Paintball": {
+    "NORMAL": "paintball"
+  },
+  "HungerGames": {
+    "SOLO_NORMAL": "blitz_solo_normal",
+    "TEAMS_NORMAL": "blitz_teams_normal"
+  },
+  "TNTGames": {
+    "TNTRUN": "tnt_tntrun",
+    "PVPRUN": "tnt_pvprun",
+    "BOWSPLEEF": "tnt_bowspleef",
+    "TNTAG": "tnt_tntag",
+    "CAPTURE": "tnt_capture",
+    "PVP_CTW": "arcade_pvp_ctw"
+  },
+  "VampireZ": {
+    "NORMAL": "vampirez"
+  },
+  "Walls3": {
+    "STANDARD": "mw_standard",
+    "FACEOFF": "mw_face_off"
+  },
+  "Arcade": {
+    "HOLE_IN_THE_WALL": "arcade_hole_in_the_wall",
+    "SOCCER": "arcade_soccer",
+    "ONEINTHEQUIVER": "arcade_bounty_hunters",
+    "DRAW_THEIR_THING": "arcade_pixel_painters",
+    "DRAGONWARS2": "arcade_dragon_wars",
+    "ENDER": "arcade_ender_spleef",
+    "STARWARS": "arcade_starwars",
+    "THROW_OUT": "arcade_throw_out",
+    "DEFENDER": "arcade_creeper_defense",
+    "PARTY": "arcade_party_games_1",
+    "FARM_HUNT": "arcade_farm_hunt",
+    "ZOMBIES_DEAD_END": "arcade_zombies_dead_end",
+    "ZOMBIES_BAD_BLOOD": "arcade_zombies_bad_blood",
+    "ZOMBIES_ALIEN_ARCADIUM": "arcade_zombies_alien_arcadium",
+    "HIDE_AND_SEEK_PROP_HUNT": "arcade_hide_and_seek_prop_hunt",
+    "HIDE_AND_SEEK_PARTY_POOPER": "arcade_hide_and_seek_party_pooper",
+    "SIMON_SAYS": "arcade_simon_says",
+    "MINI_WALLS": "arcade_mini_walls",
+    "DAYONE": "arcade_day_one",
+    "EASTER_SIMULATOR": "arcade_easter_simulator",
+    "GRINCH_SIMULATOR": "arcade_grinch_simulator_v2",
+    "HALLOWEEN_SIMULATOR": "arcade_halloween_simulator",
+    "SCUBA_SIMULATOR": "arcade_scuba_simulator",
+    "DROPPER": "arcade_dropper",
+    "DISASTERS": "arcade_disasters"
+  },
+  "Arena": {
+    "1V1": "arena_1v1",
+    "2V2": "arena_2v2",
+    "4V4": "arena_4v4"
+  },
+  "MCGO": {
+    "NORMAL": "mcgo_normal",
+    "DEATHMATCH": "mcgo_deathmatch",
+    "GUNGAME": "mcgo_gungame"
+  },
+  "UHC": {
+    "SOLO": "uhc_solo",
+    "TEAMS": "uhc_teams"
+  },
+  "Battleground": {
+    "CTF_MINI": "warlords_ctf_mini",
+    "DOMINATION": "warlords_domination",
+    "TEAM_DEATHMATCH": "warlords_team_deathmatch"
+  },
+  "SuperSmash": {
+    "SOLO_NORMAL": "super_smash_solo_normal",
+    "2V2_NORMAL": "super_smash_2v2_normal",
+    "TEAMS_NORMAL": "super_smash_teams_normal",
+    "1V1_NORMAL": "super_smash_1v1_normal",
+    "FRIENDS_NORMAL": "super_smash_friends_normal"
+  },
+  "GingerBread": {
+    "NORMAL": "tkr"
+  },
+  "SpeedUHC": {
+    "SOLO_NORMAL": "speed_solo_normal",
+    "TEAMS_NORMAL": "speed_team_normal"
+  },
+  "WoolGames": {
+    "WOOL_WARS_TWO_FOUR": "wool_wool_wars_two_four",
+    "SHEEP_WARS_TWO_SIX": "wool_sheep_wars_two_six"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "<3": [{ "text": "❤", "color": "red" }],
+  ":star:": [{ "text": "✮", "color": "gold" }],
+  ":yes:": [{ "text": "✔", "color": "green" }],
+  ":no:": [{ "text": "✖", "color": "red" }],
+  ":java:": [{ "text": "☕", "color": "aqua" }],
+  ":arrow:": [{ "text": "➜", "color": "yellow" }],
+  ":shrug:": [{ "text": "¯\\_(ツ)_/¯", "color": "yellow" }],
+  ":tableflip:": [
+    { "text": "(╯°□°）╯", "color": "red" },
+    { "text": "︵", "color": "white" },
+    { "text": " ┻━┻", "color": "gray" }
+  ],
+  "o/": [{ "text": "( ﾟ◡ﾟ)/", "color": "light_purple" }],
+  ":123:": [
+    { "text": "1", "color": "green" },
+    { "text": "2", "color": "yellow" },
+    { "text": "3", "color": "red" }
+  ],
+  ":totem:": [
+    { "text": "☉", "color": "aqua" },
+    { "text": "_", "color": "yellow" },
+    { "text": "☉", "color": "aqua" }
+  ],
+  ":typing:": [
+    { "text": "✎", "color": "yellow" },
+    { "text": "...", "color": "gold" }
+  ],
+  ":maths:": [
+    { "text": "√", "color": "green" },
+    { "text": "(", "color": "yellow", "bold": true },
+    { "text": "π", "color": "green" },
+    { "text": "+x", "color": "green", "bold": true },
+    { "text": ")", "color": "yellow", "bold": true },
+    { "text": "=", "color": "green", "bold": true },
+    { "text": "L", "color": "red", "bold": true }
+  ],
+  ":snail:": [
+    { "text": "@", "color": "yellow" },
+    { "text": "'", "color": "green" },
+    { "text": "-", "color": "yellow" },
+    { "text": "'", "color": "green" }
+  ],
+  ":thinking:": [
+    { "text": "(", "color": "gold" },
+    { "text": "0", "color": "green" },
+    { "text": ".", "color": "gold" },
+    { "text": "o", "color": "green" },
+    { "text": "?", "color": "red" },
+    { "text": ")", "color": "gold" }
+  ],
+  ":gimme:": [{ "text": "༼つ◕_◕༽つ", "color": "aqua" }],
+  ":wizard:": [
+    { "text": "(", "color": "yellow" },
+    { "text": "'", "color": "aqua" },
+    { "text": "-", "color": "yellow" },
+    { "text": "'", "color": "aqua" },
+    { "text": ")⊃", "color": "yellow" },
+    { "text": "━", "color": "red" },
+    { "text": "☆ﾟ.*･｡ﾟ", "color": "light_purple" }
+  ],
+  ":pvp:": [{ "text": "⚔", "color": "yellow" }],
+  ":peace:": [{ "text": "✌", "color": "green" }],
+  ":oof:": [{ "text": "OOF", "color": "red", "bold": true }],
+  ":puffer:": [{ "text": "<('O')>", "color": "yellow", "bold": true }],
+  ":sloth:": [
+    { "text": "(", "color": "gold" },
+    { "text": "・", "color": "dark_gray" },
+    { "text": "⊝", "color": "gold" },
+    { "text": "・", "color": "dark_gray" },
+    { "text": ")", "color": "gold" }
+  ],
+  ":dog:": [{ "text": "(ᵔᴥᵔ)", "color": "gold" }],
+  "h/": [{ "text": "ヽ(^◇^*)/", "color": "yellow" }],
+  ":dab:": [
+    { "text": "<", "color": "light_purple" },
+    { "text": "o", "color": "yellow" },
+    { "text": "/", "color": "light_purple" }
+  ],
+  ":snow:": [{ "text": "☃", "color": "aqua" }],
+  "^-^": [{ "text": "^-^", "color": "green" }],
+  ":cat:": [
+    { "text": "= ", "color": "yellow" },
+    { "text": "＾● ⋏ ●＾", "color": "aqua" },
+    { "text": " =", "color": "yellow" }
+  ],
+  ":dj:": [
+    { "text": "ヽ", "color": "blue" },
+    { "text": "(", "color": "dark_purple" },
+    { "text": "⌐", "color": "light_purple" },
+    { "text": "■", "color": "red" },
+    { "text": "_", "color": "gold" },
+    { "text": "■", "color": "yellow" },
+    { "text": ")", "color": "aqua" },
+    { "text": "ノ", "color": "dark_aqua" },
+    { "text": "♬", "color": "blue" }
+  ],
+  ":yey:": [{ "text": "ヽ (◕◡◕) ﾉ", "color": "green" }],
+  "^_^": [{ "text": "^_^", "color": "green" }],
+  ":cute:": [
+    { "text": "(", "color": "yellow" },
+    { "text": "✿", "color": "green" },
+    { "text": "◠‿◠)", "color": "yellow" }
+  ]
+}
