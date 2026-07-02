@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "46119827039baafa3ae7f1e393b349b845aa1e85cd86a242d8c775a36d28bc8e"
-metafile = true
-
-[[files]]
 file = "mods/catharsis.pw.toml"
 hash = "09d5d8b61a196f53bc3da9e222eda1f54d52fa99946a9dfaa94b585af77a8148"
 metafile = true
@@ -31,13 +26,13 @@ hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "5102ce90ff352c70131df754192e071e7e9708821af6446e6c1769618ec97bc2"
+file = "mods/skyblock-custom-scoreboard.pw.toml"
+hash = "ea8954fef69e354ea48947d319fc3cd4500dba9648eb60e6a68f8b02d769420d"
 metafile = true
 
 [[files]]
-file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "ea8954fef69e354ea48947d319fc3cd4500dba9648eb60e6a68f8b02d769420d"
+file = "mods/skyblock-item-list.pw.toml"
+hash = "ce686e67909506b7da259dff02f4c95a9f8ef1d2246118fad92cb08283818f10"
 metafile = true
 
 [[files]]
