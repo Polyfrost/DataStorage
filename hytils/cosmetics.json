@@ -1,0 +1,39 @@
+{
+  "particles": [
+    "splash",
+    "entity_effect",
+    "witch",
+    "note",
+    "lava",
+    "heart",
+    "dust",
+    "item_slime",
+    "large_smoke",
+    "explosion",
+    "flame",
+    "happy_villager"
+  ],
+  "items": {
+    "equals": [
+      "block.minecraft.diamond_block",
+      "block.minecraft.iron_block",
+      "block.minecraft.gold_block",
+      "block.minecraft.redstone_block",
+      "block.minecraft.lapis_block",
+      "block.minecraft.coal_block",
+      "block.minecraft.carved_pumpkin",
+      "item.minecraft.bone",
+      "item.minecraft.diamond",
+      "item.minecraft.gold_ingot",
+      "item.minecraft.gold_nugget",
+      "item.minecraft.slime_ball",
+      "item.minecraft.pumpkin_pie"
+    ],
+    "startsWith": [
+      "item.minecraft.music_disc_"
+    ],
+    "endsWith": [
+      "_dye"
+    ]
+  }
+}
