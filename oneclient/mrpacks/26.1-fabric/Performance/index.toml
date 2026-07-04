@@ -55,6 +55,11 @@ hash = "71eadb465531bc3c5599838f1c633c07c09b3cf44b67ab5a9c0173e8e4e09479"
 metafile = true
 
 [[files]]
+file = "mods/compose-multiplatform.pw.toml"
+hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
+metafile = true
+
+[[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
 hash = "9d9628c351223ecc516f7f9fdad90f597db2c90e1875f02e1a515e161ae8682c"
 metafile = true
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "7d823d27f5015a6213a209b02df9c1a1c28afd9e93a7452298ffc4bd172d8b13"
+hash = "e4b3ccb19a0a4d2d6aeaa48f66118a025d339d034316e9f2bd4e3e40eb08695a"
 metafile = true
 
 [[files]]

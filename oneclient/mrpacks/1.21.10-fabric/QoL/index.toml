@@ -60,6 +60,11 @@ hash = "9c22bad4f0d606f92ce105da00204c29aa2b356401cc5d1088f63bb02f90d351"
 metafile = true
 
 [[files]]
+file = "mods/compose-multiplatform.pw.toml"
+hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
+metafile = true
+
+[[files]]
 file = "mods/confirm-disconnect.pw.toml"
 hash = "f970823279d7227eb25daeee04822777c0abd4f0965ff2bffa2357fad9fe7ab9"
 metafile = true
@@ -216,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "a9a9e54ed3858cc6883ed5c5fd965313fd2c831a83055d9e93dc499e931af906"
+hash = "8d116580278a85dfde1a6d005a0a94c23a1d3d76836492d5a89e62a9a9838f42"
 metafile = true
 
 [[files]]

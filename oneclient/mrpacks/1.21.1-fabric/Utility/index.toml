@@ -41,6 +41,11 @@ hash = "1cd9149cc3ca331e5c0c1e54a1c38854909b931dab96a2b4167f36cf195e837f"
 metafile = true
 
 [[files]]
+file = "mods/compose-multiplatform.pw.toml"
+hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "25609b19b4dda7dd7758b72d7f6384793d085ba73f10f2b902938c85098bd315"
 metafile = true
@@ -107,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "252b89167dad0697c3df2933cf19ab151bb42fbaf9cb7c562e479d6517d69d30"
+hash = "8d04ba067a030803ee6666b08733db0f61bd60b4ae2b706eda2ece1b4419efbc"
 metafile = true
 
 [[files]]
