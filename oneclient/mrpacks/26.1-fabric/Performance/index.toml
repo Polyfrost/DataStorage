@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "6e1466d3724abb225d400959585b7ff29fd43ef3983770270b8bff1b66ce48dd"
+hash = "ca546111481af0ce82162a640ddb1b3cb9686e31a82c43bf03212146b821262f"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e3e5bbef17232c2f9eff810d9d39651f39726eeaf34a74341ef1218766bcb651"
+hash = "94da864cef9898177bcfb3ca2f478104a5286a0e7c59d0d367be7c757d573f39"
 metafile = true
 
 [[files]]

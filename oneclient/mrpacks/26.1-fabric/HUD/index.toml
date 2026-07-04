@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/detail-armor-bar-reconstructed.pw.toml"
-hash = "8c41a4c9ca98f291c3c8ae44328156ad98a914a2ab33e99ab0c869659754bb51"
+hash = "da0cae039635c74aa52e4d3c67039f5c23e0ead80cb106d7997698fcd3aa06e3"
 metafile = true
 
 [[files]]
