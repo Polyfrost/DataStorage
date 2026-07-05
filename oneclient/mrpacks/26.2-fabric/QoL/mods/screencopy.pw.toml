@@ -1,0 +1,16 @@
+id = "aru7gAyl"
+enabled = true
+hidden = false
+name = "Screencopy"
+filename = "screenshotcopy-fabric-1.4.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aru7gAyl/versions/S3BqK7ib/screenshotcopy-fabric-1.4.2.jar"
+hash-format = "sha512"
+hash = "b3f27600d5e846555f5f2c1d1f09e7ec0ed3c768e1abc0fdda35bed0cc2cabd85e08d96ae67a148d6e125057e0cf9d382f5690357e5a65e66a5586f97466f436"
+
+[update]
+[update.modrinth]
+mod-id = "aru7gAyl"
+version = "S3BqK7ib"

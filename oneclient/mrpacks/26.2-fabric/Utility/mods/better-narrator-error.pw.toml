@@ -1,0 +1,16 @@
+id = "f63ZlDVt"
+enabled = true
+hidden = false
+name = "Better Narrator Error"
+filename = "betternarratorerror-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f63ZlDVt/versions/duKXqTU4/betternarratorerror-1.0.0.jar"
+hash-format = "sha512"
+hash = "c6855453d497204380a63799f6235d11163a8343a58f73d0212fcadeaa23e80d104210b162e9c4cf0d10072333c4366eecf74c7373cf6a09e61d03edb2174e8e"
+
+[update]
+[update.modrinth]
+mod-id = "f63ZlDVt"
+version = "duKXqTU4"

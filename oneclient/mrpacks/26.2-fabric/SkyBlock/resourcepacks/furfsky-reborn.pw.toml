@@ -1,0 +1,16 @@
+id = "khMbd0K1"
+enabled = true
+hidden = false
+name = "FurSky Reborn"
+filename = "FurSky Reborn.cats.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/khMbd0K1/versions/bE0Ccf6W/FurSky%20Reborn.cats.zip"
+hash-format = "sha512"
+hash = "bcbdb0adfa7eeb5d280173b120d0f9a9c5043bf6051555c7ac26d98369c8aac0bc7aa347a0162a280bbd6b0acc7f826d63d5f27937f701cebb390f06b7b97e0d"
+
+[update]
+[update.modrinth]
+mod-id = "khMbd0K1"
+version = "bE0Ccf6W"

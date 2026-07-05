@@ -40,6 +40,13 @@
                     "name": "Tiny Takeover",
                     "loader": "fabric",
                     "tags": ["PvP", "SkyBlock", "Survival"]
+                },
+                {
+                    "minor_version": 2,
+                    "name": "Chaos Cubed",
+                    "art": "/versions/art/Chaos_Cubed.jpg",
+                    "loader": "fabric",
+                    "tags": ["PvP", "SkyBlock", "Survival"]
                 }
             ]
         }

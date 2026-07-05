@@ -1,0 +1,16 @@
+id = "99cGtHRy"
+enabled = true
+hidden = false
+name = "EclipseUI"
+filename = "EclipseUI-fabric-1.0.5+mc26.2-rc-2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/99cGtHRy/versions/EW0sBZm4/EclipseUI-fabric-1.0.5%2Bmc26.2-rc-2.jar"
+hash-format = "sha512"
+hash = "edc9e54b56c590f6b9e21178f6d0e05863a876ec6bb520b7842185785baca09b2ddb079a593314ce02b0296a384f4b61ff559bdac6584b1069534151a4e33a98"
+
+[update]
+[update.modrinth]
+mod-id = "99cGtHRy"
+version = "EW0sBZm4"

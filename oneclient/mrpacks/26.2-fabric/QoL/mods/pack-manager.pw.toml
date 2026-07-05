@@ -1,0 +1,16 @@
+id = "foF2QmCR"
+enabled = true
+hidden = false
+name = "Pack Manager"
+filename = "packmanager-1.1.1+26.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/foF2QmCR/versions/KCMAu18W/packmanager-1.1.1%2B26.2-fabric.jar"
+hash-format = "sha512"
+hash = "a2b131cff178b676b16fbea4b12e168a2e08f0c237092bc6695a3fdfb8fc182f06c9e71fe9021ef77f8d215cdec1d36bc031d81a41fdad29a59eab599a75e0f8"
+
+[update]
+[update.modrinth]
+mod-id = "foF2QmCR"
+version = "KCMAu18W"

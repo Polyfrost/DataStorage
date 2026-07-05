@@ -1,0 +1,16 @@
+id = "SIRG6coC"
+enabled = true
+hidden = false
+name = "Vignette Tweaks"
+filename = "vignettetweaks-2.0.0-alpha.1+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SIRG6coC/versions/nayerNEP/vignettetweaks-2.0.0-alpha.1%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "6a0bffe77ecc53903e324ee56557f9c2d7370611a89be14b7bbdc9bdf9839d31a8927c7acc4cb66c722e24a442ebfad4552bdf17e2d52adb5befa401a8b6c1a5"
+
+[update]
+[update.modrinth]
+mod-id = "SIRG6coC"
+version = "nayerNEP"

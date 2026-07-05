@@ -1,0 +1,16 @@
+id = "E7uiJ5bx"
+enabled = true
+hidden = false
+name = "Dark Graph"
+filename = "dark-graph-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E7uiJ5bx/versions/zLaVLyfg/dark-graph-1.2.2.jar"
+hash-format = "sha512"
+hash = "8503a7efddd4659f4dd19eb5c2dc8096f8f9cb40207c90c2299aee891734eb34eddd32772df6b0a4c9dc4ffdeb89bc7df7c95173b6a294dac3c5e4fef26d7661"
+
+[update]
+[update.modrinth]
+mod-id = "E7uiJ5bx"
+version = "zLaVLyfg"

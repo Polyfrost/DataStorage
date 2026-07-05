@@ -1,0 +1,218 @@
+hash-format = "sha256"
+
+[[files]]
+file = "animatium_utility.json"
+hash = "013bb87a1d68fdba744417b9591ed98e5e4c21c131868525967bca5e3a152c37"
+
+[[files]]
+file = "config/animatium.json"
+hash = "d89b7ae345905cbad1bea445648c6812de635e69ce6d74d76b3ee9a5e0ebc683"
+
+[[files]]
+file = "config/customscoreboard/config.jsonc"
+hash = "7bef58b3bb4952056ca1690c82a072b3cc1acc23a9b309bfe607abc525947dd0"
+
+[[files]]
+file = "config/one-click-join"
+hash = "824b9b328245c5e74d87380a1e41c2a20f206b20f3144cd5551c4fabcfd0a55c"
+
+[[files]]
+file = "config/skyhanni/config.json"
+hash = "0e9ea478eac394baa8ba87fa528bdcd9e13f2d0cbde05514793a34b523e2c252"
+
+[[files]]
+file = "data/fabric_default_resource_packs.json"
+hash = "30a0b4f6b3ebc10d2a515b774ba51f3f2dd14e9bf40fca835c8c133640493312"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "9065cf0eff952d4d965dfe609d662b359bf40bd9672903fcaaea15a26cc5437d"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "77364aaacf35aafce1c6f93cbf7a7b79b6c5f4b482e875f3cc2f765bd66e6c8e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "a3525e381c25e279b787614e47b2d8294e8fe708feaf0d681df65b1400fa4528"
+metafile = true
+
+[[files]]
+file = "mods/catharsis.pw.toml"
+hash = "453e163dd493b4ba67b9ae43069750f09e9147c57b08ba17552a606160bd351d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "40ee55428355b93464254c33db97b5d3b7c2df3f6c623daf714348ab85f07a1b"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "ed44f23529cfade65be0043c767587e50ccb12530fe95ea7c79ebc3e62f18de6"
+metafile = true
+
+[[files]]
+file = "mods/compose-multiplatform.pw.toml"
+hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
+metafile = true
+
+[[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+hash = "9d9628c351223ecc516f7f9fdad90f597db2c90e1875f02e1a515e161ae8682c"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "06ce462a58bd7ed393929ccfa6531d08c777a158a054c6180e76c90e0a20fae1"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7977ba4f9b20f91cd642ecece99cc7f992d184ecab5b48f0af0b9f5fe952d413"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5d3ccee955ee6b5abf61ca9ad26889f33a3acc9eac41968aa1872e78e09bcd82"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "dadf4db567dce25ae874e7afbd2947a428505f0fd1285b8a4e49cead48494895"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
+hash = "43508ac218c253be1f256204d3fc64eb71b11b58d45f04ecc8a56df4b02f2bec"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "7a0dff1a11e523c830d75bb2b9b4d98c432c5f99715ebc2fd21dce109e1b9123"
+metafile = true
+
+[[files]]
+file = "mods/fix-keyboard-on-linux.pw.toml"
+hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "b79b176bba89365b18c4ca6b2feecb0593d1bc2acd5c812b84c08d0f7926ccd1"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f29e68d4a3d46f8c31df61c1c43d4fe6992071a48d1c9eb254a3e957b7eccea7"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "250061ff5087a7b083e1df896d84e17f4191817f6e5527168cebddcb5e8951a5"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "9d76af4633ff0f08734e489bf821e9b2790884a47fdf8a61dac5215591784343"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "0d7d9adad0f9bc77bffea6be9ace0509b9523f05e11941b03192e3f3a0159643"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "99a89d0dd9da6616e8d2da791482d2bfbeff068554ae0a24ccb5643ee5d425f1"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "49671b0470837a796af60c7e67a658b7136e388d42941fee72bd70dca48bffe2"
+metafile = true
+
+[[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "6a11f24debd05247a8df11859d78ace5c775fd82e8b8ae27b1ce3a8bc73234b1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "b6fec7fb2615ff3144532c0651b85b60692e005daa045738fc24bcc133ba9f68"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d482553d265635456069c08cf324998a3534e84a3a5009d95055e37507190ff5"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "dbc8bc553820f647621587b03a30c4b9bab690c40ace6f9f7ca876f180d8e91a"
+metafile = true
+
+[[files]]
+file = "mods/oneconfig.pw.toml"
+hash = "f0ce936d0dfd74eb7091d682ad8fcf1ab0a1c29ba6c72c6dd6c9419df3a3c96c"
+metafile = true
+
+[[files]]
+file = "mods/optipainting-updated.pw.toml"
+hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "52038c9a4dcaacd1280a71c07fbae9299dc07e5fbec0fd7df6bb39b6b708a4ec"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "98dc12ec7b1d92a212ba0a4b6d2594dec062b516b19bdf9b9f334b2edb42ce92"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "ed8686a7fe0c4f70f6d2f4a40abf08c3fff679a74e9e2a355ba4378374ebf77c"
+metafile = true
+
+[[files]]
+file = "mods/sciophobia.pw.toml"
+hash = "24f8f34bbd5edec1f30427f14f853f031f74345078dd39b41858721386b3161c"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-compression.pw.toml"
+hash = "68f81b636a87df436a97a7223c9a9394e079abb62c9f7e8dac7dc96f7ec496bf"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4ab80c42483d4a98244bc33f5a693604ce04020bc5c96a26139e572d02b805b3"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5db53bdab84d45e6e80fa2adcbad0a7c26a276d0bb2f5debc4ae33f8a46420a5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "67f401425752098905a43238e8112e63eba3c25990f34826aed3879251b9c589"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "dc12eba654f431846231f1d0874948e366650b5c8fe159b22b03c7f51646cbfa"
+
+[[files]]
+file = "servers.dat"
+hash = "25e4bb9dbb4a7f0438311c03598d5c42c9256ae5e9c39af532f39712cd05b2c1"

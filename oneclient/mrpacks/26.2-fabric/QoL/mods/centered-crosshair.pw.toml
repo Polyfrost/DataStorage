@@ -1,0 +1,16 @@
+id = "xUTHly0N"
+enabled = true
+hidden = false
+name = "Centered Crosshair"
+filename = "centered-crosshair+26.2-1.5.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xUTHly0N/versions/2CgJiaPp/centered-crosshair%2B26.2-1.5.1.jar"
+hash-format = "sha512"
+hash = "1f2927bb0ce163a2fde738d0bc1a0ff2f4ebb687e865c0203802c713b67b8d0337be031b36c3bd9288a71f3daaa8c81a23842a99490dc9eb6c112630562c04cf"
+
+[update]
+[update.modrinth]
+mod-id = "xUTHly0N"
+version = "2CgJiaPp"

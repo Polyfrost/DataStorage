@@ -1,0 +1,86 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/catharsis.pw.toml"
+hash = "453e163dd493b4ba67b9ae43069750f09e9147c57b08ba17552a606160bd351d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "40ee55428355b93464254c33db97b5d3b7c2df3f6c623daf714348ab85f07a1b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "5d3ccee955ee6b5abf61ca9ad26889f33a3acc9eac41968aa1872e78e09bcd82"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-mod-api.pw.toml"
+hash = "f08323ae85654864db79015aaf2f0843d4346279ea742449add846efb3fb75de"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-custom-scoreboard.pw.toml"
+hash = "d56e29b35e4a7c12ddfcd55dea857485a04421d160592afa72597d6c4883138d"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-item-list.pw.toml"
+hash = "1f7c4206047b9d21d3544383707e7301d2aa5c8e7a72378c6888a5f4330c819b"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-profile-viewer.pw.toml"
+hash = "938feba3eac6a90768e991cdb902b4c2e3f937e06447288849f44ea22b3de165"
+metafile = true
+
+[[files]]
+file = "mods/skyblocker-liap.pw.toml"
+hash = "c6cd896c7aef11870d4b4246abea71bcc4e9b816418f8207796bb0a6b5b1ff8c"
+metafile = true
+
+[[files]]
+file = "mods/skycubed.pw.toml"
+hash = "0ad0a9938c8314a22c9a50b2c779e0f56038974d515ebc8ac23c0582c0683790"
+metafile = true
+
+[[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "380f65e18b3e4223d97cd77d69761ae2810a956664cbfa0d35952c0a8b06a921"
+metafile = true
+
+[[files]]
+file = "mods/skyocean.pw.toml"
+hash = "c13310c3708c6db0a628044455a53bc5c8a46845618079a4ac913513a198a0a8"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "67f401425752098905a43238e8112e63eba3c25990f34826aed3879251b9c589"
+metafile = true
+
+[[files]]
+file = "resourcepacks/bazaar-graph-fix.pw.toml"
+hash = "feb3a290dd748fadbb77c5a4c1a53e3ea799c964e8d0cc31420d5a9070516333"
+metafile = true
+
+[[files]]
+file = "resourcepacks/darkmodeskyblock.pw.toml"
+hash = "9a7855ffdce0933f0a83d547bf1cbe15ba245873aab38107378f56868a911e79"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "e5f83ae672418580cf9bcbec8e57a1e6cc19e1ebf127cdad679e3674ef1aeafc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/skyblock-dark-ui.pw.toml"
+hash = "93c67eb053b107cdb485ff60eeebc7c7dc140f7f49b1e4ed08237c979b1f4b38"
+metafile = true

@@ -1,0 +1,16 @@
+id = "4C4XkPCE"
+enabled = true
+hidden = false
+name = "Secure Skins"
+filename = "secureskins-1.0.1+26.1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4C4XkPCE/versions/cFBMxP98/secureskins-1.0.1%2B26.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "2d08589331c5bc32ae1a611b5e17b7531c1fb52785cad8154709d5915d2c7d278a1672f6b0905d8e3144f383951e87c8f5049bf9c3e962d4c9532369e559276c"
+
+[update]
+[update.modrinth]
+mod-id = "4C4XkPCE"
+version = "cFBMxP98"

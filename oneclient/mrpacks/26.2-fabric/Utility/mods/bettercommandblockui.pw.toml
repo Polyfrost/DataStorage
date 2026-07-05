@@ -1,0 +1,16 @@
+id = "8iQcgjQ2"
+enabled = true
+hidden = false
+name = "Better Command Block UI"
+filename = "BetterCommandBlockUI-0.5.3-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8iQcgjQ2/versions/r9j5QnhO/BetterCommandBlockUI-0.5.3-26.2.jar"
+hash-format = "sha512"
+hash = "e68979af0ce51e4310765cd8d4880e428ed0b50b459ea9ff221803f8bc962c82950eb67d6dd649a9ab085e4197522b39f3b1064c23c7e181f1b5b869dc94b6b2"
+
+[update]
+[update.modrinth]
+mod-id = "8iQcgjQ2"
+version = "r9j5QnhO"

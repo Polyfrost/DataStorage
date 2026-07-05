@@ -1,0 +1,185 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 6,
+    "enabled": true,
+    "hideWhenTab": false,
+    "hideWhenChat": false,
+    "hide_hypixel": true,
+    "text_shadow": true,
+    "customLines": true,
+    "outsideSkyBlock": false,
+    "update_notification": true,
+    "customization": {
+        "appearance": [
+            "TITLE",
+            "LOBBY",
+            "SEPARATOR",
+            "DATE",
+            "TIME",
+            "ISLAND",
+            "AREA",
+            "PROFILE",
+            "SEPARATOR",
+            "PURSE",
+            "MOTES",
+            "BANK",
+            "BITS",
+            "COPPER",
+            "SOWDUST",
+            "GEMS",
+            "HEAT",
+            "COLD",
+            "NORTH_STARS",
+            "SOULFLOW",
+            "SEPARATOR",
+            "OBJECTIVE",
+            "SLAYER",
+            "QUIVER",
+            "EVENTS",
+            "POWDER",
+            "MAYOR",
+            "PARTY",
+            "PET",
+            "FOOTER"
+        ],
+        // Valid Values: ANNIVERSARY, BROODMOTHER, CARNIVAL, DAMAGE, DARK_AUCTION, DOJO, DUNGEONS, ESSENCE, FLIGHT_DURATION, GALATEA, GARDEN, JACOB_MEDALS, JACOBS_CONTEST, KUUDRA, MAGMA_BOSS, MINING, NEW_YEAR, QUEUE, REDSTONE, RIFT, SERVER_RESTART, SPOOKY, TRAPPER, VOTING, WINTER
+        "events": [
+            "ANNIVERSARY",
+            "BROODMOTHER",
+            "CARNIVAL",
+            "DAMAGE",
+            "DARK_AUCTION",
+            "DOJO",
+            "DUNGEONS",
+            "ESSENCE",
+            "FLIGHT_DURATION",
+            "GALATEA",
+            "GARDEN",
+            "JACOB_MEDALS",
+            "JACOBS_CONTEST",
+            "KUUDRA",
+            "MAGMA_BOSS",
+            "MINING",
+            "NEW_YEAR",
+            "QUEUE",
+            "REDSTONE",
+            "RIFT",
+            "SERVER_RESTART",
+            "SPOOKY",
+            "TRAPPER",
+            "VOTING",
+            "WINTER"
+        ],
+        // Valid Values: AREA, PROFILE, PET, DAILY_QUESTS, SKILLS, ELECTION, BESTIARY, COLLECTION, STATS, EVENT, EVENT_TRACKERS, ACTIVE_EFFECTS, TIMERS, FIRE_SALE, MINIONS, PITY, SLAYER, FORGES, COMMISSIONS, POWDERS, CRYSTALS, MINING_EVENT, FROZEN_CORPSES, PICKAXE_ABILITY, AGATHA_CONTEST, STARBORN_TEMPLE, FOREST_WHISPERS, MOONGLADE_BEACON, SHARD_TRAPS, COMPOSTER, JACOBS_CONTEST, PESTS, PEST_TRAPS, VISITORS, TRAPPER, CROP_MILESTONES, REPUTATION, TROPHY_FISH, FACTION_QUESTS, DRAGON, DOWNED, TEAM_DEATHS, DISCOVERIES, PUZZLES, RNG_METER, PARTY, DUNGEONS, ESSENCE, GOOD_TO_KNOW, SHEN, ADVERTISEMENT
+        "tablistLines": [],
+        // Valid Values: PURSE, MOTES, BANK, BITS, COPPER, SOWDUST, GEMS, HEAT, COLD, NORTH_STARS
+        "chunkedStats": [
+            "PURSE",
+            "MOTES",
+            "BANK",
+            "BITS",
+            "COPPER",
+            "SOWDUST",
+            "GEMS",
+            "HEAT",
+            "COLD",
+            "NORTH_STARS"
+        ],
+        // Range: 1 - 5
+        "statsPerLine": 3,
+        "useHypixelTitle": true,
+        // Valid Values: START, CENTER, END
+        "titleAlignment": "CENTER",
+        "titleUseCustomText": false,
+        "titleText": "",
+        // Valid Values: START, CENTER, END
+        "footerAlignment": "CENTER",
+        "footerUseCustomText": false,
+        "footerText": "",
+        // Range: 0.1 - 2
+        "scale": 1.0,
+        // Range: 0 - 10
+        "lineSpacing": 0,
+        // Valid Values: TOP, CENTER, BOTTOM
+        "vertical_alignment": "CENTER",
+        // Valid Values: LEFT, CENTER, RIGHT
+        "horizontal_alignment": "RIGHT",
+        // Valid Values: START, CENTER, END
+        "defaultTextAlignment": "START"
+    },
+    "Background": {
+        "enabled": true,
+        // [Color Format: RGBA]
+        "color": -1610612736,
+        // Range: 0 - 20
+        "padding": 5,
+        // Range: 0 - 20
+        "margin": 0,
+        // Range: 0 - 20
+        "radius": 5,
+        "blurEnabled": false,
+        "borderEnabled": false,
+        // Range: 0 - 10
+        "borderSize": 3,
+        // [Color Format: RGBA]
+        "borderColorTopLeft": -13458981,
+        // [Color Format: RGBA]
+        "borderColorTopRight": -13444158,
+        // [Color Format: RGBA]
+        "borderColorBottomLeft": -14039890,
+        // [Color Format: RGBA]
+        "borderColorBottomRight": -13906054,
+        "imageBackground": false,
+        // Range: 5 - 100
+        "imageBackgroundTransparency": 90,
+        "customImageFile": ""
+    },
+    "line_modification": {
+        // Valid Values: ISO_YYYYMMDD, YEAR_MONTH_DAY, US_SLASH_MMDDYYYY, US_DASH_MMDDYYYY, UK_DDMMYYYY, UK_DASH_DDMMYYYY, DAY_MONTH_YEAR, DAY_MONTH_YEAR_SHORT, FULL_MONTH_DAY_YEAR, SHORT_MONTH_DAY_YEAR
+        "dateFormat": "US_SLASH_MMDDYYYY",
+        "time24hFormat": false,
+        "smoothTime": true,
+        "colored_month": true,
+        // Valid Values: LONG, SHORT
+        "number_format": "LONG",
+        // Valid Values: TEXT_COLOR_NUMBER, COLOR_TEXT_NUMBER, COLOR_NUMBER_TEXT, COLOR_NUMBER_RESET_TEXT
+        "number_display_format": "TEXT_COLOR_NUMBER",
+        "showCurrencyGain": true,
+        "bits_available": true,
+        "bankAlwaysCompact": false,
+        // Valid Values: PERSONAL_COOP, COOP_PERSONAL, COMBINED
+        "coopBankLayout": "PERSONAL_COOP",
+        "piggy": false,
+        "hidePurseInDungeons": false,
+        "slayerLevel": true,
+        "magicalPower": true,
+        "color_arrow": true,
+        // Valid Values: NUMBER, PERCENTAGE
+        "arrow_display": "NUMBER",
+        // Valid Values: CURRENT, TOTAL, BOTH
+        "powderDisplay": "CURRENT",
+        "hypixel_powder": true,
+        "profile_name": false,
+        "party_everywhere": true,
+        // Range: 1 - 10
+        "max_party": 5,
+        "party_leader": true,
+        "petPrefix": true,
+        "pet_max": true,
+        "mayor_time": true,
+        // Valid Values: OFF, COUNT, ALL
+        "mayorPerksDisplay": "ALL",
+        // Valid Values: OFF, COMPACT, FULL
+        "ministerDisplay": "FULL",
+        "showJerryInMinister": true,
+        "all_events": true,
+        "showActiveOnly": false,
+        "consecutive_separator": true,
+        "separators_start_end": true
+    },
+    "compatibility": {
+        "scoreboardOverhaul": true,
+        "skyblockLevelColor": false,
+        "overrideSkyHanniScoreboard": true
+    }
+}

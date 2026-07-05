@@ -1,0 +1,16 @@
+id = "uY9zbflw"
+enabled = true
+hidden = false
+name = "Sound Controller"
+filename = "soundcontroller-fabric-1.4.0-mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uY9zbflw/versions/5YXU2rID/soundcontroller-fabric-1.4.0-mc26.2.jar"
+hash-format = "sha512"
+hash = "7aa9b069c2356d3df95679a0507085f6c3ed7fa4ddbde44ae4f9f2c5a66e900c8efba7a612174652428a57b845bb7c8f88f5bfb975ef03b007f87ee3f5b5bab2"
+
+[update]
+[update.modrinth]
+mod-id = "uY9zbflw"
+version = "5YXU2rID"

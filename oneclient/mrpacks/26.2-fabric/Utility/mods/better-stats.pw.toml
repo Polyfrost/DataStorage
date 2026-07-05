@@ -1,0 +1,16 @@
+id = "n6PXGAoM"
+enabled = true
+hidden = false
+name = "Better Statistics Screen"
+filename = "betterstats-5.4.1+fn-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/n6PXGAoM/versions/JRayHHI9/betterstats-5.4.1%2Bfn-26.2.jar"
+hash-format = "sha512"
+hash = "9d7749c54c61ddd2011ca48e73bae2f76754b250c257474a9eac89da16c3832b2f1cfc8415a9280925652acf81d69bdb3f7a304f9c40d123901e20b3823a78d1"
+
+[update]
+[update.modrinth]
+mod-id = "n6PXGAoM"
+version = "JRayHHI9"

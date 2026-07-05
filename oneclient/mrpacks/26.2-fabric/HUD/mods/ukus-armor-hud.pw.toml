@@ -1,0 +1,16 @@
+id = "wF189hn9"
+enabled = false
+hidden = false
+name = "uku's Armor HUD"
+filename = "ukus-armor-hud-fabric-0.12.0+mc26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wF189hn9/versions/K6G1JNFw/ukus-armor-hud-fabric-0.12.0%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "d2e4d74bd27bbc6a1943a333e8887ee51b1fcc1585e4cbd4814a8e9c5f385f0417d74d653970087eb206177b3d8d43a70fbf476e3e3298d7c2a2b318c9f9eeea"
+
+[update]
+[update.modrinth]
+mod-id = "wF189hn9"
+version = "K6G1JNFw"

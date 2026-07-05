@@ -1,0 +1,16 @@
+id = "irqADPUT"
+enabled = true
+hidden = false
+name = "hypixelautogg"
+filename = "autogg-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/irqADPUT/versions/Fc0hgMTR/autogg-1.0.1.jar"
+hash-format = "sha512"
+hash = "86e485632613baf44a2808bb9817783b80c894936898e7db953b1a7e4d88004031e9f84f2196d7efeb2bdf847dae69152a877bcc0615cbe4f4163fc8bb6a2d21"
+
+[update]
+[update.modrinth]
+mod-id = "irqADPUT"
+version = "Fc0hgMTR"

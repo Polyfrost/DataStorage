@@ -1,0 +1,16 @@
+id = "90Bv2iLE"
+enabled = true
+hidden = false
+name = "Simple Nick Hider"
+filename = "simplenickhider-0.2.1+26.1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/90Bv2iLE/versions/TG49Pk6w/simplenickhider-0.2.1%2B26.1.1-fabric.jar"
+hash-format = "sha512"
+hash = "d1227ed553ec598635975a6c9f256f363c722716592defc6ac448cdbc82f2205ae843eed96fa79fb2b449c37bc0015f7df04ace7ca5b632ebc4e4ae65a719683"
+
+[update]
+[update.modrinth]
+mod-id = "90Bv2iLE"
+version = "TG49Pk6w"
