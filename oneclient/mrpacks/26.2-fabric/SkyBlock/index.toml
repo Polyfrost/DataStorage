@@ -51,11 +51,6 @@ hash = "0ad0a9938c8314a22c9a50b2c779e0f56038974d515ebc8ac23c0582c0683790"
 metafile = true
 
 [[files]]
-file = "mods/skyhanni.pw.toml"
-hash = "380f65e18b3e4223d97cd77d69761ae2810a956664cbfa0d35952c0a8b06a921"
-metafile = true
-
-[[files]]
 file = "mods/skyocean.pw.toml"
 hash = "c13310c3708c6db0a628044455a53bc5c8a46845618079a4ac913513a198a0a8"
 metafile = true

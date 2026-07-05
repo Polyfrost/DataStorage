@@ -66,11 +66,6 @@ hash = "d482553d265635456069c08cf324998a3534e84a3a5009d95055e37507190ff5"
 metafile = true
 
 [[files]]
-file = "mods/slice.pw.toml"
-hash = "44bb73630c2fed83b996a9dc34a0802c6d2cc563918a8fa32fca37516274676b"
-metafile = true
-
-[[files]]
 file = "mods/ukulib.pw.toml"
 hash = "d7407484b5a8c0d0c6bed0d9a9e258a5fe3aa6067cdb5b7e2b95cb6259ab2485"
 metafile = true

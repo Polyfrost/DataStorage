@@ -111,11 +111,6 @@ hash = "f0ce936d0dfd74eb7091d682ad8fcf1ab0a1c29ba6c72c6dd6c9419df3a3c96c"
 metafile = true
 
 [[files]]
-file = "mods/quickjoin.pw.toml"
-hash = "b3b7789e9eb22477293a7b5bb9de903d92ce75382de653e13d13c13cf9c52bbf"
-metafile = true
-
-[[files]]
 file = "mods/resourcify.pw.toml"
 hash = "fe47fd874ced867245a17c16932577f4589c61ec81c0a72048b7676c694d6b4b"
 metafile = true
