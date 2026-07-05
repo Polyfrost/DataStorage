@@ -2,15 +2,15 @@ id = "3qAYkBMB"
 enabled = true
 hidden = false
 name = "Polytone"
-filename = "polytone-fabric-1.21-3.8.5.jar"
+filename = "polytone-fabric-1.21-3.8.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/KA8WPQVb/polytone-fabric-1.21-3.8.5.jar"
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/Hi4RkXp7/polytone-fabric-1.21-3.8.6.jar"
 hash-format = "sha512"
-hash = "ddfe8b9e4dc9e75ed7efcd4ff9ee89b89ea975b24569156ec541d83f338ea2a22a4599c51e7f2d6716a31d074bc68d9a7de1da0987274f6e1bf7de6e9719e313"
+hash = "056735047283dd98092525dbd0f8d518615c53b28414fd7d3439b201526783f7430e987ac03fe1fe4c5f562e53d0eda15d1c2cc49eb3810aaab71a500696cdbc"
 
 [update]
 [update.modrinth]
 mod-id = "3qAYkBMB"
-version = "KA8WPQVb"
+version = "Hi4RkXp7"
