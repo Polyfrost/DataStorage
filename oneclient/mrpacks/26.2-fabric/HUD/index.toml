@@ -11,11 +11,6 @@ hash = "0882389119356e5852b340d1b99a413cabac3a47058ad3644b5ac53fa880668e"
 metafile = true
 
 [[files]]
-file = "mods/chat-impressive-animation.pw.toml"
-hash = "38bed9db10658136f77d5300719babb296affed6d393615baadc94ef8a2d0ccd"
-metafile = true
-
-[[files]]
 file = "mods/chatshot.pw.toml"
 hash = "ae6457fb59dbb2976c43b91b9d1b65f1bc4ac9ad80f5ce6ecef6c2d3cada6a89"
 metafile = true

@@ -85,11 +85,6 @@ hash = "cc21d97f478822fbe85287005ac56db461606862ebb11a87bbb2a14e2e6f418c"
 metafile = true
 
 [[files]]
-file = "mods/dark-graph.pw.toml"
-hash = "d50c62ce2c560fd5a6ab855ecb6e706ccc068ca07f69f36a964892ffa87f952b"
-metafile = true
-
-[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "a592577eecccfe829ae8878b113001f2f798f3f66d70a27595e21d6e6a73c431"
 metafile = true
@@ -112,11 +107,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "d5b68a2f66f0b0c7b221d3ad9f53a34bdd0337301b8a788ea68564ed6d9e8ec9"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "4bd24b4d55051cc8b587345c8b77be5a5976b0227de0d66cb1c77732c54a3e82"
 metafile = true
 
 [[files]]
@@ -150,11 +140,6 @@ hash = "3a51eb3ebd600eda95bfc132a61227d4396fbf6194e559209b34e16cb10c766a"
 metafile = true
 
 [[files]]
-file = "mods/mixintrace.pw.toml"
-hash = "94546366fc21817124c0bd14bf120284af8932e003715494f6d2423ce222d023"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d482553d265635456069c08cf324998a3534e84a3a5009d95055e37507190ff5"
 metafile = true
@@ -182,11 +167,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "bb0dedca9a50bd7eeb92119897741d4578d874177286f514f1bc7e0324b0d88f"
-metafile = true
-
-[[files]]
-file = "mods/notsoessential.pw.toml"
-hash = "78c50dfb4a64563c21a9716062112e5ec8aa79cc703e2945402d53ec0ad9b9dd"
 metafile = true
 
 [[files]]
@@ -237,11 +217,6 @@ metafile = true
 [[files]]
 file = "mods/rendertweaks.pw.toml"
 hash = "d455ca41f5319c65b356dc3835d62ad83db116f36c007c4dee3f358301c74b4e"
-metafile = true
-
-[[files]]
-file = "mods/reward-claim.pw.toml"
-hash = "2f7e5dbccc6f63540642e32f650613746053e2c17751dba95d38bd94ec068290"
 metafile = true
 
 [[files]]
@@ -357,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "827745ea668a1adc4911377ab5f7e3814bbdaae2165f9208b8f6eba2ce1cf56f"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "3cf9454db44da1445fe9e55aa8e4a488faac04e5d22b4189425f3ce0572671f1"
 metafile = true
 
 [[files]]

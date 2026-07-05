@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "77364aaacf35aafce1c6f93cbf7a7b79b6c5f4b482e875f3cc2f765bd66e6c8e"
+hash = "086a97057f4fe9b91b8cfe82a3b307fa10b3c2de2896644a4efb91e34f9cf950"
 metafile = true
 
 [[files]]
@@ -85,11 +85,6 @@ hash = "594a3ec38e78d3dd5c883632926a8ab47852e1629d72c109edbde8d52a384f8f"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "dadf4db567dce25ae874e7afbd2947a428505f0fd1285b8a4e49cead48494895"
-metafile = true
-
-[[files]]
 file = "mods/fastserverpings.pw.toml"
 hash = "43508ac218c253be1f256204d3fc64eb71b11b58d45f04ecc8a56df4b02f2bec"
 metafile = true
@@ -97,11 +92,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "7a0dff1a11e523c830d75bb2b9b4d98c432c5f99715ebc2fd21dce109e1b9123"
-metafile = true
-
-[[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "a6be0d290ca6903988d05df68e1548f6cf21f8203608ab7c2bddad00f558e2ee"
 metafile = true
 
 [[files]]
@@ -162,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/oneconfig.pw.toml"
 hash = "f0ce936d0dfd74eb7091d682ad8fcf1ab0a1c29ba6c72c6dd6c9419df3a3c96c"
-metafile = true
-
-[[files]]
-file = "mods/optipainting-updated.pw.toml"
-hash = "cac130f0cdb7221ee6f4d64edf0b98fbd96313f9b179d7f74a15bc0ccd80c7f1"
 metafile = true
 
 [[files]]

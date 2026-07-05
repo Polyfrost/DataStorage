@@ -11,11 +11,6 @@ hash = "77683b77b9080fb1f7388c11a5c2abbf2c4b20e7c3f4e99f1328039fe33fe336"
 metafile = true
 
 [[files]]
-file = "mods/better-narrator-error.pw.toml"
-hash = "103524c2dc102a8fd61cd3407e8e1b267ec23ae5626a52824882c8fa1c84792d"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "354971842040785b8393e42552e9362805f84e113e19556cb0ad8d6f96c538ea"
 metafile = true
@@ -88,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/libjf.pw.toml"
 hash = "1c1a67de8e4c0fe39c37fdbb7381e9410f78863d44c4d454806a0fd220ce24c4"
-metafile = true
-
-[[files]]
-file = "mods/modernconfig.pw.toml"
-hash = "2f0d05f156bd6a7c83ded6aa4d731a52f1cfbcda96db8f90f4d89d9ed463267f"
 metafile = true
 
 [[files]]
