@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
-hash = "3105ed19c096d5622d9f7c88316068ffe2daf73b16f2b61762f3a5208d117af7"
+hash = "c228d0159ea15e48ee145fe27435955bfd9ab21ee2e4155e2f5d16af92960a0a"
 metafile = true
 
 [[files]]
