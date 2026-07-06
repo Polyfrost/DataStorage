@@ -160,11 +160,6 @@ hash = "52038c9a4dcaacd1280a71c07fbae9299dc07e5fbec0fd7df6bb39b6b708a4ec"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "23760e88d5956716e59837b2310e19711e98081edad2a12941bde2a84015f7ac"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "932a7a7fb1ada9434d8c3eccb8ccf13330d51370a3dff3e02beb7017d11c9f49"
 metafile = true
