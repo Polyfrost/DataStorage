@@ -30,7 +30,12 @@ function checkMod(file) {
   if (parsed.update?.modrinth?.version) {
     const modVersion = parsed.update.modrinth.version;
     const split = parsed.download.url.split("/");
-    if (split[split.length - 2] !== modVersion) {
+    const urlVersion = decodeURIComponent(split[split.length - 2]);
+    const urlFilename = decodeURIComponent(split[split.length - 1]);
+    // Modrinth CDN urls normally embed the version id, but some older versions
+    // embed the version number instead. Accept either, as long as the url still
+    // points at the declared jar.
+    if (urlVersion !== modVersion && urlFilename !== parsed.filename) {
       errors.push(`${file} has a bad download modrinth url. Please fix`);
       return parsed.id;
     }
