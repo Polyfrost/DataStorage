@@ -1,6 +1,15 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "8d51fe3dc69a44684a212a5d5ad374f2babef6c4fe09852f6fa7febde9c3195c"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "9c22bad4f0d606f92ce105da00204c29aa2b356401cc5d1088f63bb02f90d351"
+metafile = true
+
+[[files]]
 file = "mods/effecttimerplus.pw.toml"
 hash = "8476aba217c53cf8dc84279531933117cbf5f6fb742e39326b7966a2e44e9b41"
 metafile = true

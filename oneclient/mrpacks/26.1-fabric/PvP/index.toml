@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "58c8e94e25cd8c185aa9fb56bbbec13d600e7718d8ecc3a58bc767c4f2cf7b5b"
+metafile = true
+
+[[files]]
 file = "mods/effecttimerplus.pw.toml"
 hash = "69079091a467efabeeb2d6844b1b67a04b37093a3a87d6abfc890c05aaadd883"
 metafile = true
