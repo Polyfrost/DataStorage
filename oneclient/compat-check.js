@@ -16,6 +16,10 @@
  *   4. re-checks `breaks`/`conflicts` across the UNION of all categories of a
  *      given MC version (users combine categories in OneClient).
  *
+ * A jar that can't be downloaded / unzipped / parsed, and the same mod pinned to
+ * two different versions across categories, are also FAILs — a bundle entry that
+ * won't load or is internally inconsistent is a broken bundle, not a footnote.
+ *
  * Exit code 1 if any FAIL, else 0. WARN never changes the exit code.
  */
 
@@ -228,9 +232,17 @@ async function main() {
   const add = (level, version, category, msg) =>
     findings.push({ level, version, category, msg });
 
-  // Surface jar-level load warnings once each.
-  for (const res of loaded.values())
-    for (const w of res.warnings) globalWarnings.add(w);
+  // Surface jar-level load warnings once each. A jar that can't be downloaded,
+  // unzipped, or parsed is a broken bundle entry — treat it as a FAIL, not a note.
+  // Only genuinely-benign cases ("no fabric.mod.json", i.e. a plain library jar)
+  // stay as notes.
+  const CRITICAL_LOAD = /(download failed|could not unzip|invalid fabric\.mod\.json|hash mismatch)/;
+  for (const res of loaded.values()) {
+    for (const w of res.warnings) {
+      if (CRITICAL_LOAD.test(w)) add("FAIL", "jars", "load", w);
+      else globalWarnings.add(w);
+    }
+  }
 
   // Group bundles by MC version for the cross-category pass.
   const byVersion = new Map();
@@ -259,8 +271,11 @@ async function main() {
         // Track for cross-category union / duplicate detection.
         const prev = unionMods.get(unit.id);
         if (prev && prev.version !== unit.version) {
-          globalWarnings.add(
-            `${mcVersion}: "${unit.id}" pinned to ${prev.version} in ${prev.category} but ${unit.version} in ${b.category}`
+          add(
+            "FAIL",
+            mcVersion,
+            `${prev.category}✕${b.category}`,
+            `"${unit.id}" pinned to ${prev.version} in ${prev.category} but ${unit.version} in ${b.category}`
           );
         }
         unionMods.set(unit.id, { version: unit.version, category: b.category });

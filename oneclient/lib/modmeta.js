@@ -24,10 +24,57 @@ function cacheKeyFor(pwMod) {
   return crypto.createHash("sha1").update(url).digest("hex");
 }
 
+/**
+ * Escape raw control characters (U+0000–U+001F) that appear *inside* string
+ * literals. Fabric's Gson-based loader accepts unescaped newlines/tabs in e.g.
+ * `description`, but strict JSON.parse rejects them ("Bad control character in
+ * string literal"). We escape them so those (valid, working) mods still parse.
+ */
+function escapeControlCharsInStrings(s) {
+  let out = "";
+  let inStr = false;
+  let esc = false;
+  for (let i = 0; i < s.length; i++) {
+    const c = s[i];
+    if (esc) {
+      out += c;
+      esc = false;
+      continue;
+    }
+    if (inStr) {
+      if (c === "\\") {
+        out += c;
+        esc = true;
+        continue;
+      }
+      if (c === '"') {
+        inStr = false;
+        out += c;
+        continue;
+      }
+      const code = s.charCodeAt(i);
+      if (code < 0x20) {
+        if (c === "\n") out += "\\n";
+        else if (c === "\r") out += "\\r";
+        else if (c === "\t") out += "\\t";
+        else out += "\\u" + code.toString(16).padStart(4, "0");
+        continue;
+      }
+      out += c;
+    } else {
+      if (c === '"') inStr = true;
+      out += c;
+    }
+  }
+  return out;
+}
+
 /** Strip // and /* *\/ comments and trailing commas, then JSON.parse. */
 function parseLenientJson(text) {
   // Remove BOM.
   let s = text.replace(/^﻿/, "");
+  // Escape raw control chars inside strings (structural whitespace untouched).
+  s = escapeControlCharsInStrings(s);
   // Strip block comments.
   s = s.replace(/\/\*[\s\S]*?\*\//g, "");
   // Strip line comments (naive: not inside strings — acceptable for mod metadata).
