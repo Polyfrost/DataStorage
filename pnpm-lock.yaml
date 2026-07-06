@@ -11,12 +11,20 @@ importers:
       '@iarna/toml':
         specifier: ^2.2.5
         version: 2.2.5
+      fflate:
+        specifier: ^0.8.3
+        version: 0.8.3
 
 packages:
 
   '@iarna/toml@2.2.5':
     resolution: {integrity: sha512-trnsAYxU3xnS1gPHPyU961coFyLkh4gAD/0zQ5mymY4yOZ+CYvsPqUbOFSw0aDM4y0tV7tiFxL/1XfXPNC6IPg==}
 
+  fflate@0.8.3:
+    resolution: {integrity: sha512-tbZNuJrLwGUp3zshBtdy4W+ORxZuIh8a5ilyIEQDC5rY1f3U20JMry0Ll3WBzU58EZKsEuJFXhb5gwv8CsPvgA==}
+
 snapshots:
 
   '@iarna/toml@2.2.5': {}
+
+  fflate@0.8.3: {}

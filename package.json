@@ -4,7 +4,9 @@
   "description": "used to manage the checks.js file",
   "main": "index.js",
   "scripts": {
-    "check": "node oneclient/check.js"
+    "check": "node oneclient/check.js",
+    "check:compat": "node oneclient/compat-check.js",
+    "test": "node --test oneclient/lib/*.test.js"
   },
   "keywords": [],
   "author": "",
@@ -18,6 +20,7 @@
     "bun": "forbidden, use pnpm instead"
   },
   "dependencies": {
-    "@iarna/toml": "^2.2.5"
+    "@iarna/toml": "^2.2.5",
+    "fflate": "^0.8.3"
   }
 }
