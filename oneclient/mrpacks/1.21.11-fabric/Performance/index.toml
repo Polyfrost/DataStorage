@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "116b8f72fd529a79ae8918bc42cec4c4ee8d0c216d01a8bf0ca9817e8ca5a736"
+hash = "21934217ffeff009a84d198ba30480aa24c78bda96ae1658d09881673ec8fff7"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "334fe5bf09c90eda2fa56ee9c6a2ded3b98f5c2f505827ab341dc3d54c973af1"
+hash = "663b2e1ba7d0b958a43be133753255820971a3888af625af8906f8e0fff21b8a"
 metafile = true
 
 [[files]]
