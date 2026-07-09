@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d3ccee955ee6b5abf61ca9ad26889f33a3acc9eac41968aa1872e78e09bcd82"
+hash = "4e15edb99753814748bc21efb67d68b814548cdf52730cde3bc6b6130cf75670"
 metafile = true
 
 [[files]]
@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9d76af4633ff0f08734e489bf821e9b2790884a47fdf8a61dac5215591784343"
+hash = "62c51eca690227afb2c64180ba9407f57cce2669645fed8b22eb0433e4d7d58a"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "0d7d9adad0f9bc77bffea6be9ace0509b9523f05e11941b03192e3f3a0159643"
+hash = "0979d4cc37404ee77b8bb349d308df1bc7b9536c0ffc241d2f3251e3e0ad1ecf"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d482553d265635456069c08cf324998a3534e84a3a5009d95055e37507190ff5"
+hash = "3804bf29ffc5a83144a710e7878e11ba0692570a7bd624c7eed46d5a5742b545"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "52038c9a4dcaacd1280a71c07fbae9299dc07e5fbec0fd7df6bb39b6b708a4ec"
+hash = "74c4afff25e3f91a3442722356cce47ce9fd5e8601fd9024166f499a4455716f"
 metafile = true
 
 [[files]]

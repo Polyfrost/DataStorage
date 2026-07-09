@@ -2,15 +2,15 @@ id = "mOgUt4GM"
 enabled = true
 hidden = false
 name = "Mod Menu"
-filename = "modmenu-18.0.0-alpha.8.jar"
+filename = "modmenu-18.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/jvjwXH6l/modmenu-18.0.0-alpha.8.jar"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3rsoV1bk/modmenu-18.0.0.jar"
 hash-format = "sha512"
-hash = "9a9e97047ac7b34ae34951d517bfc7c5fd48906beed61ee1e7c20b5ac2eac25348061b4227d9c98992a116ea98ff1d36fb745043b767c1e686ba279cda094930"
+hash = "97c565fb980fcf5d735e5d15361ff64d1f72efd7a66b8653da436a6e6135b904a8e859782f25d4462d9cfdc636e2ff67f428fe895ab9ee7c2de80da8012c04c5"
 
 [update]
 [update.modrinth]
 mod-id = "mOgUt4GM"
-version = "jvjwXH6l"
+version = "3rsoV1bk"

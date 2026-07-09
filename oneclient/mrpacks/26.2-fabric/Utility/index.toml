@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "354971842040785b8393e42552e9362805f84e113e19556cb0ad8d6f96c538ea"
+hash = "52eca74962377a13bc64f73b9648f8205f1fb602f4f833fc143d04c64b828ff1"
 metafile = true
 
 [[files]]
@@ -32,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/commandkeys.pw.toml"
-hash = "0d4f021c4cdf07ca47fa775d8b9a993775a84fa37f60775eecb9992da7abad7f"
+hash = "71cc34eeb204fa0c215691bc7215e31184bb1d9f20a3c4639d26fb95e8426b1d"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5d3ccee955ee6b5abf61ca9ad26889f33a3acc9eac41968aa1872e78e09bcd82"
+hash = "4e15edb99753814748bc21efb67d68b814548cdf52730cde3bc6b6130cf75670"
 metafile = true
 
 [[files]]
@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "1084135bb448be04774f178f4be327e241fceef600a3040141d745e6f6dbb2ba"
+hash = "dd90f439a343eb6d3107deb167373026fdeb3eaf8eec18c2c532ae85c2811fef"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2b61a4ad5db085717c1759600ed363594dc7b7edfffba0fdc4fccabff6774606"
+hash = "134ff3a6972fd4a8845cb6543483c0dd62f4307698bec47941eb64209be2aba1"
 metafile = true
 
 [[files]]

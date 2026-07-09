@@ -2,15 +2,15 @@ id = "mOgUt4GM"
 enabled = true
 hidden = true
 name = "Mod Menu"
-filename = "modmenu-20.0.0-beta.4.jar"
+filename = "modmenu-20.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3gAjUrx6/modmenu-20.0.0-beta.4.jar"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/QEDySGIN/modmenu-20.0.0.jar"
 hash-format = "sha512"
-hash = "b25262ae28d82b60b000d00179a3f3683d3dad6461988a5750fae9ce601769f20b824b8439731719a8ae3623462d9f26930f8d7095b23a282ab2865a57778706"
+hash = "90081aaf6f7f644340366c5e629363977972a48cfdc62f3341a79cd3ed131027141d864114b9d695583c6ff2fc05d196fbac2a3c3cc675304818a434d74784bd"
 
 [update]
 [update.modrinth]
 mod-id = "mOgUt4GM"
-version = "3gAjUrx6"
+version = "QEDySGIN"
