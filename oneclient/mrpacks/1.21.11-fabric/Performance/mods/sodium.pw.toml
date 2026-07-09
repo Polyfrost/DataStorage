@@ -4,6 +4,8 @@ hidden = false
 name = "Sodium"
 filename = "sodium-fabric-0.8.12+mc1.21.11.jar"
 side = "client"
+# breaks only <=1.10.6, so it stays compatible. Unpin once iris >1.10.7 ships.
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/NFkjnzWE/sodium-fabric-0.8.12%2Bmc1.21.11.jar"
