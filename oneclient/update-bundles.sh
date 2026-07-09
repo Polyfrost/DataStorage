@@ -38,12 +38,41 @@ else
   exit 1
 fi
 
+# packwiz exits 0 even when Modrinth answers 429 (rate limit) — it just prints
+# "Failed to check updates for <mod>: ... 429" and leaves that mod at its old
+# version. When that happens to only some categories, the same mod ends up
+# pinned to different versions across bundles, which the compat gate then
+# (correctly) rejects. So treat a 429 in the output as a soft failure and retry
+# the whole bundle with exponential backoff, and pace requests between bundles.
+MAX_ATTEMPTS="${PACKWIZ_UPDATE_MAX_ATTEMPTS:-6}"
+INTER_BUNDLE_SLEEP="${PACKWIZ_UPDATE_SLEEP:-3}"
+
+update_bundle() {
+  local bundle="$1"
+  local attempt=1 out wait
+  while (( attempt <= MAX_ATTEMPTS )); do
+    out="$( (cd "$bundle" && "$PACKWIZ_BIN" update -a -y --stable) 2>&1 )" || true
+    printf '%s\n' "$out"
+    if ! grep -q '429' <<<"$out"; then
+      return 0
+    fi
+    wait=$(( 20 * 2 ** (attempt - 1) ))
+    (( wait > 300 )) && wait=300
+    echo "::warning::Rate limited (HTTP 429) updating $bundle; retry ${attempt}/${MAX_ATTEMPTS} after ${wait}s" >&2
+    sleep "$wait"
+    (( attempt++ ))
+  done
+  echo "::error::Still rate limited (HTTP 429) updating $bundle after ${MAX_ATTEMPTS} attempts; aborting to avoid an inconsistent partial update" >&2
+  return 1
+}
+
 for version in mrpacks/*; do
   [ -d "$version" ] || continue
   parsed="${version#mrpacks/}"
   for bundle in "$version"/*; do
     [ -d "$bundle" ] || continue
     echo "Updating $bundle"
-    (cd "$bundle" && "$PACKWIZ_BIN" update -a -y --stable)
+    update_bundle "$bundle"
+    sleep "$INTER_BUNDLE_SLEEP"
   done
 done
