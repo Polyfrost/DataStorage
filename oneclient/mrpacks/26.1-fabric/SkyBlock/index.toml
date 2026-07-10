@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-custom-scoreboard.pw.toml"
-hash = "c12b0c410619c675a9145624b75ca8b55b0b7a69944148ccfdebbdcc75f87678"
+hash = "500b76080b0933f6e5e995d586f83e625336057963917e20e7be715e5a0c8c61"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyblock-profile-viewer.pw.toml"
-hash = "548960d49a5838e0816d162cd18f5da6219b6b10a64101ad8f8c5a655ce00935"
+hash = "255b2c19b90a3411e1a000f842c20d0ef5ec32010b1415438ff699e3add17443"
 metafile = true
 
 [[files]]
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/skycubed.pw.toml"
-hash = "0ad0a9938c8314a22c9a50b2c779e0f56038974d515ebc8ac23c0582c0683790"
+hash = "e1704fa32db8998252afedc0c10457eef4bc438ccf027ad8a13f7266506df0d6"
 metafile = true
 
 [[files]]
@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyocean.pw.toml"
-hash = "99d816512a200164a61eb5668fbaebd5cabc6a0237f03bcd8b061da50f25597b"
+hash = "78ad569998b7f35dcc72db89687bb8517067c770c032ebc52e03e082827c2b1e"
 metafile = true
 
 [[files]]

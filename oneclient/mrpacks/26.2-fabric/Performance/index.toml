@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "3804bf29ffc5a83144a710e7878e11ba0692570a7bd624c7eed46d5a5742b545"
+hash = "e6ffd9afffe5fc20a453a188bf0d73c39b9cd1629c7cb7b1887a0f1fd87059a8"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4ab80c42483d4a98244bc33f5a693604ce04020bc5c96a26139e572d02b805b3"
+hash = "1911ca51df104d2bd6636e4d944ec79940e9be7d393a80e050b5146919459c36"
 metafile = true
 
 [[files]]
