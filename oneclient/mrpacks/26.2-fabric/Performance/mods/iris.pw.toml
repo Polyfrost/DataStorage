@@ -4,6 +4,7 @@ hidden = false
 name = "Iris Shaders"
 filename = "iris-fabric-1.11.2+mc26.2.jar"
 side = "client"
+# paired with sodium 0.9.1 (breaks iris <=1.11.1).
 
 [download]
 url = "https://cdn.modrinth.com/data/YL57xq9U/versions/oaD6KQls/iris-fabric-1.11.2%2Bmc26.2.jar"

@@ -2,15 +2,17 @@ id = "AANobbMI"
 enabled = true
 hidden = false
 name = "Sodium"
-filename = "sodium-fabric-0.8.9+mc26.1.1.jar"
+filename = "sodium-fabric-0.9.1+mc26.1.2.jar"
 side = "client"
+# mc26.1 deadlock: continuity/skyblocker need sodium>=0.8.9, iris needs 0.9.x, 0.8.9 breaks iris <=1.10.8. Only 0.9.1+mc26.1.2 satisfies; paired with iris 1.11.2.
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/uGvVQBnw/sodium-fabric-0.8.9%2Bmc26.1.1.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/vf7UgZpC/sodium-fabric-0.9.1%2Bmc26.1.2.jar"
 hash-format = "sha512"
-hash = "74f9dc8963b5258226837cc361ba6b525da734ab4fa5f05d1862bc6e9175f4fa81ca3d49443e2fb85be144d06042f0d65cbcceefc391043af857b38aa2614ae8"
+hash = "bf7e242a4df5a70be567ad58e262eea7db54b92333994331b57dc13f2ed36e22d1cf6609e4e76582d3173d5ffdcde9534441164bc9b70560f3d764affcc16ad3"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "uGvVQBnw"
+version = "vf7UgZpC"

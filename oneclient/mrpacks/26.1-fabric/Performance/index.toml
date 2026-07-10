@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "77364aaacf35aafce1c6f93cbf7a7b79b6c5f4b482e875f3cc2f765bd66e6c8e"
+hash = "47be5542ff9589a3942a0b22f6f0b9671fd1d2e6a2985db99c0c164704b9024f"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fa71d33a991cda718521d9f3544c37760995a62aa28258290979359b313117bf"
+hash = "0d8c91b3a58ef17edf1166ca5f5deac80c303d6cef903e3ca0edc9c5518a6ddf"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0ff5869c4259b9acfd61dbe0599947d0986952ee34225d7f102c8908aa424bcd"
+hash = "f1fd50a0600bb7ea785d5fd62f7922b434c1e513b5945ae877a25e6f6021e609"
 metafile = true
 
 [[files]]
