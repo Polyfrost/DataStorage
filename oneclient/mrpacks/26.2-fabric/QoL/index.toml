@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "3804bf29ffc5a83144a710e7878e11ba0692570a7bd624c7eed46d5a5742b545"
+hash = "e6ffd9afffe5fc20a453a188bf0d73c39b9cd1629c7cb7b1887a0f1fd87059a8"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-pack-unlocker.pw.toml"
-hash = "77cf3e1cc27ec7d6fe52523bd060e7819ca28726709960648c171ac913a6b72c"
+hash = "b46ad82a8b6826c9350b70fc9ce8966886a3d63d092bec2275b4b53ac096c7e9"
 metafile = true
 
 [[files]]
