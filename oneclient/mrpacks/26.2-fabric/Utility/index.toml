@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "77683b77b9080fb1f7388c11a5c2abbf2c4b20e7c3f4e99f1328039fe33fe336"
+hash = "743e3315c5cf333be00974e72b0e57bc96f3fb22c1622441c471f848839ebdf0"
 metafile = true
 
 [[files]]
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/rsls.pw.toml"
-hash = "562e10958d3934e99991e0e719d3ec8a7b8794fb9e9466365f45153bebd5c8fe"
+hash = "0356f349c6c1f649eef7c0567eb0e0948de86a7ae853e5bb661ec3b6c9b5d020"
 metafile = true
 
 [[files]]
