@@ -31,11 +31,6 @@ hash = "40ee55428355b93464254c33db97b5d3b7c2df3f6c623daf714348ab85f07a1b"
 metafile = true
 
 [[files]]
-file = "mods/commandkeys.pw.toml"
-hash = "71cc34eeb204fa0c215691bc7215e31184bb1d9f20a3c4639d26fb95e8426b1d"
-metafile = true
-
-[[files]]
 file = "mods/compose-multiplatform.pw.toml"
 hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
 metafile = true
@@ -148,11 +143,6 @@ metafile = true
 [[files]]
 file = "mods/toggle-toggle-sprint.pw.toml"
 hash = "9b5fc9d651e26c21b16ad5be806b2e1e5499569d33e4b857457c05bbb4ba1c35"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "742f263a77edb0696e5dee89bfc6919902ef0ed82d0ea960b6635d2f2519d642"
 metafile = true
 
 [[files]]

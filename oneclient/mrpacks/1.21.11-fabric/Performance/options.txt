@@ -149,7 +149,6 @@ key_key.amecs.toggle_left_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_right_pants_leg:key.keyboard.unknown
 key_key.amecs.toggle_hat:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.semicolon
-key_key.commandkeys.main.edit:key.keyboard.k
 key_customscoreboard.keybinds.toggle:key.keyboard.i
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.entityculling.toggleBoxes:key.keyboard.unknown

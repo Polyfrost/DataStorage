@@ -36,11 +36,6 @@ hash = "37892a1101fb31f445c6c9e913e5090fc7dc4d7949f6856effbeafd62ef80d01"
 metafile = true
 
 [[files]]
-file = "mods/commandkeys.pw.toml"
-hash = "1cd9149cc3ca331e5c0c1e54a1c38854909b931dab96a2b4167f36cf195e837f"
-metafile = true
-
-[[files]]
 file = "mods/compose-multiplatform.pw.toml"
 hash = "4e4aa134cd255d6ab0b6feb25a8729c505f8120ed95067cf47b81b5628d3e700"
 metafile = true
