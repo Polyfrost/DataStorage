@@ -2,16 +2,15 @@ id = "ONZm0H7Y"
 enabled = true
 hidden = false
 name = "Better Block Entities"
-filename = "bbe-fabric-1.3.5+mc26.1.2.jar"
+filename = "bbe-fabric-1.3.6+mc26.1.2.jar"
 side = "client"
-# sodium 0.9.1 breaks bbe <1.3.5.
 
 [download]
-url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/OQG68fGx/bbe-fabric-1.3.5%2Bmc26.1.2.jar"
+url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/n78M7IgQ/bbe-fabric-1.3.6%2Bmc26.1.2.jar"
 hash-format = "sha512"
-hash = "5c43682a4ab319dcd6ad99f3d8a18f49dd6f46b0c195cb06a200df1dd492c7a78837a3ec5a49b05203f64dacd0aea800870a6f2e1f31904348abf22c79eabfb2"
+hash = "9cc911df05cbb9d084223473674447cc8a51bbaa82239ea19de6bd08bc19ea83b36ec82a61d4a1dd70bec18046208619f93f4b9d56e3fd627b070c7f67aab51d"
 
 [update]
 [update.modrinth]
 mod-id = "ONZm0H7Y"
-version = "OQG68fGx"
+version = "n78M7IgQ"
