@@ -6,11 +6,11 @@ filename = "FurSky Reborn.cats.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/khMbd0K1/versions/bE0Ccf6W/FurSky%20Reborn.cats.zip"
+url = "https://cdn.modrinth.com/data/khMbd0K1/versions/ZvrKZR97/FurSky%20Reborn.cats.zip"
 hash-format = "sha512"
-hash = "bcbdb0adfa7eeb5d280173b120d0f9a9c5043bf6051555c7ac26d98369c8aac0bc7aa347a0162a280bbd6b0acc7f826d63d5f27937f701cebb390f06b7b97e0d"
+hash = "77ef397021a4a56f51b14ae4961e612d8ea002db82222bce168f03ba8382ead12bba8e64da70750ac5537dea6574c354190eeba42a07b19b4b211cc22f62e6de"
 
 [update]
 [update.modrinth]
 mod-id = "khMbd0K1"
-version = "bE0Ccf6W"
+version = "ZvrKZR97"
