@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/one-click-join.pw.toml"
-hash = "5ae3038167b0a5b6bf351e249324f30c37ee9b6d82ca6847debde9853d5555d4"
+hash = "8f7f0324be94687453bb598c85639db8691cd3ab90a4f19e40d40a0b7115a8f7"
 metafile = true
 
 [[files]]
