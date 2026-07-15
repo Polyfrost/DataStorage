@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "52eca74962377a13bc64f73b9648f8205f1fb602f4f833fc143d04c64b828ff1"
+hash = "e4765c78f7679964280e3813808c39946d7242be55c1e6c50e3e3edde305f76d"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "5131b59301cd6383ba6a523927b7f1f80cd4b12e39b072430a6364d708b454e6"
+hash = "7357f32a3164e5fdb9cb27d537d8c9c7f90392d1f3fe2dd1959f33e0cd4fff8a"
 metafile = true
 
 [[files]]
