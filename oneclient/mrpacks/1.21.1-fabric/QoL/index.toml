@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/damagetint.pw.toml"
-hash = "59bdbba49b843faea2b24971623b705f57434d6f637d647b64f82dc636655f2a"
+hash = "53a3d783f7f0fd8f76f87d36127ef95cf2fea293d1194224269d61df497d2b5f"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyweather.pw.toml"
-hash = "169a234f42371e7f5aa85465f133d1ad4cc7fedef3eb8524f4daf360e40c088d"
+hash = "aa356491631700b2d00ac2f4e563ff1b64331bff52e4bddfea4db264654e6e1f"
 metafile = true
 
 [[files]]
