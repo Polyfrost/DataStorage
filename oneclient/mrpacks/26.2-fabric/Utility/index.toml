@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "3f6c0de2201995292e2ff04cfb50bfc8b780569be32424e26f9f2e0756158edd"
+hash = "bbd690ec535a0ee4fc0b5836b3e34c70c27be97e3869894ccdfdf0a47b70ed2c"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "a506047739203cf2eef1c8f9624c83fd09a96ccafb1712301d540d967961f0b1"
+hash = "49966d200683723977772f0dc7451f9839d2887988b6b1e550635e4977516ec0"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "b5c5956fb1996ad124cfff493cbd63238fe012df9d332cc0d83f3666b830201c"
+hash = "e73e7621d5aeefd1c15c4d98b56600d5020f62d60f8c050591410a11059256a7"
 metafile = true
 
 [[files]]
