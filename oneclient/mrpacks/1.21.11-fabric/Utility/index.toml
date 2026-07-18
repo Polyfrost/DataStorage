@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/animatium.pw.toml"
-hash = "0af72ddc84e504f303c84933c2bd52d30442bf1a93be8149b9ae054a14195d69"
+hash = "82b6b60b12af75d5702d8ad61942b812a95442d4064b3a1f67a78402429c82c8"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/crashpatch.pw.toml"
-hash = "68a79a220f052bc13e290c1cdbf181d762c93e4cdd292cbcec6e25bbb9113249"
+hash = "03a3e9b5f13985cd6fbed828148ca96e73a2101e2da88f82b791d426e7d47642"
 metafile = true
 
 [[files]]
