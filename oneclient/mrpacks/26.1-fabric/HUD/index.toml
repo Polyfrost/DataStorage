@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
-hash = "26c2a858dfce36fc6f080a3d0c6d91d84227b44664067a22cd5530436c41c766"
+hash = "391d5d9268fe9d17ba0377e14e93705e54f5f49969b21e507444297c501f59e2"
 metafile = true
 
 [[files]]
