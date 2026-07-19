@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "89f8ed1790576215e5c5a379df6c3f862db15893a41eee772b43b6403250ddb4"
+hash = "303337a6899169c651b52d48cf1db3bfcccd666a33483d11d9be06ff2e3c8fd3"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "410c6a8dcbab0190b49954d8bbdce7bbb59f1c4659660fcc310c19ec9bb4d9d1"
+hash = "aaa40294199eb7212bfb6f3379d08789d66c0227c06daa51181bd1f12f106cf2"
 metafile = true
 
 [[files]]

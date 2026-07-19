@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "cfb0c94bfe3fc99ea291ae799bd3fdb8855fa0fab824ae4bbc440cd7c3a291b7"
+hash = "ecd1113223898074076ad7490ec7ee0188f083cc48d643b44ce1972a2776853a"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f95e7bac057fb9672583626c7bea8d28e79f9f56f68714c25e8be789bbed96b5"
+hash = "24813863b4a59a01b6d04a763d845615c7a98a3d1e8af0c6c8cd63eb663a8e20"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "21b7720009020d5d0257287ac272df2ac9a55d4f787d1effeefef3527d271d30"
+hash = "59fcce1ec87b77cce50e9aa31b93293dbf31b6dbd6ebe6a093ffbff3cb9a3220"
 metafile = true
 
 [[files]]
