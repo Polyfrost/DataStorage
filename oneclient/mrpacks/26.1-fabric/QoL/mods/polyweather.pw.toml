@@ -2,15 +2,15 @@ id = "r8Cr8YRg"
 enabled = true
 hidden = false
 name = "PolyWeather"
-filename = "PolyWeather-1.2.0+26.1.jar"
+filename = "PolyWeather-1.2.1+26.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/r8Cr8YRg/versions/ypRlqPQp/PolyWeather-1.2.0%2B26.1.jar"
+url = "https://cdn.modrinth.com/data/r8Cr8YRg/versions/JXZV6gc1/PolyWeather-1.2.1%2B26.1.jar"
 hash-format = "sha512"
-hash = "dda7794a53795780b2c069a5d6a2edd961a2ad55dc1102a419bf42afafa1b0cd2a634fff0399708fb04104c2de26fb376b4987d313c687d9a4f3342eddd2600a"
+hash = "3c957f97168ed69b9dd810ac25ea3422f4087b92e8aaea29e0f8f80cc01a63f9eaec45b3a5df3c3f9f39721e3188e30fe9be3d0ea7e740f7f2331e054679194b"
 
 [update]
 [update.modrinth]
 mod-id = "r8Cr8YRg"
-version = "ypRlqPQp"
+version = "JXZV6gc1"
