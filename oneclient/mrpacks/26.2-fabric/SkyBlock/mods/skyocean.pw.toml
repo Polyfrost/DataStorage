@@ -2,15 +2,15 @@ id = "dIczrQAR"
 enabled = true
 hidden = false
 name = "SkyOcean"
-filename = "SkyOcean-1.17.1-26.2.jar"
+filename = "SkyOcean-1.17.2-26.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dIczrQAR/versions/pUUMI0Sl/SkyOcean-1.17.1-26.2.jar"
+url = "https://cdn.modrinth.com/data/dIczrQAR/versions/10QpYKuY/SkyOcean-1.17.2-26.2.jar"
 hash-format = "sha512"
-hash = "b0f882ce57f5a3234b38fd2ab61a1c3758482f16d1ea30810e5f82a8df4d50833759318b50886b95256b0e8447d6db27c8559915e6e7a8b6e1be5242d5ed8723"
+hash = "25890145aa18d94b2af285365ce65ba2320e4fdf5e5ebb2341eb2460095a078bfb1a2d29ed64e4657da6a80c3401ef3c0cf0e5ba196cf2df653cb549037fcc30"
 
 [update]
 [update.modrinth]
 mod-id = "dIczrQAR"
-version = "pUUMI0Sl"
+version = "10QpYKuY"
