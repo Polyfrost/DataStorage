@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/vignette-tweaks.pw.toml"
-hash = "c84ddb2f9122b53c3c005bdf41cce64532059b3d8d4e28be636d4846843ff8de"
+hash = "95b763bdc97ca41ae170b97088abadf811092ec5c4bef786d9c3bf2e3798dbfe"
 metafile = true
 
 [[files]]
