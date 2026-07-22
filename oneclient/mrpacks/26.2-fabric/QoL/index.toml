@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "879a0480923757f92514ff9b111395eec2137f7a10256c484e6868911e0d6e68"
+hash = "433dcb35d0b6bf1ca3a7ea208f917621ce0f0790bebe05ee1a2c02e21fd4b47e"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "2377a3ff551d763b56f03c48f51afba807c78307f7ea64c971524310626bd516"
+hash = "678b2a19a4a59a49aca4022d2abdd5b4c0796f75c3adf2377dc70ea9caf9441a"
 metafile = true
 
 [[files]]
