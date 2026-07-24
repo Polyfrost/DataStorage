@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytime.pw.toml"
-hash = "944b4de9178f2a8bd92af7602e78ccdf853226ca13186bd8c9f1ab1c2a788861"
+hash = "f49dd17b42c02ac2a4aabf5bbe9cf36aeb88da056159109e8b4ae9b27265ee06"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "500af865d03ef5afa0a8840aab6011fa3010ef9df0d2238a2a4784f815b70a0d"
+hash = "8115dd352d4bd5be6df705dd3b06408148d9520dfea9aab0b1ff16636f76ca55"
 metafile = true
 
 [[files]]

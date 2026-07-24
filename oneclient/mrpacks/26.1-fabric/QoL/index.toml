@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytime.pw.toml"
-hash = "52f6aac1de2d76b3d8b4c8aee96491f7f7c91877b2196bf1040bcbc4d5c4f6a2"
+hash = "8c27f3973060977203eea7d3e2db85ad418d6ad5adffaaa9a4b1beef75d4e5f2"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/polyweather.pw.toml"
-hash = "b83158ebb7e7fe8dc77f2ed58060c4f78a3f86e60b662f508fd3c42826cf450d"
+hash = "3c4a62bbfe57f6a22edd0e8e40bac36af2abfc570bbc8c8c0a59f95beef9dccb"
 metafile = true
 
 [[files]]
