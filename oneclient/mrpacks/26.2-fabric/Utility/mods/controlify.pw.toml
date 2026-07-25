@@ -2,15 +2,15 @@ id = "DOUdJVEm"
 enabled = false
 hidden = false
 name = "Controlify (Controller support)"
-filename = "controlify-3.1.0+mc26.2-universal.jar"
+filename = "controlify-3.1.1+mc26.2-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/u8ZrA3qC/controlify-3.1.0%2Bmc26.2-universal.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/3Z0RNraJ/controlify-3.1.1%2Bmc26.2-universal.jar"
 hash-format = "sha512"
-hash = "2e4972bc75620214a784e8dc3a4baf2de6d1e17df3b6a1c84764ef4b37d0124aa288947eb29115a1dd6fa21b343e286a3dc26e3a65574a851ce9785d914c8b88"
+hash = "6d857dfec6f3caabdce73d57d83a325cd4e793f58da961e4391d114efaa3609502d355aae2b41414f2436d1a62465328b57c27f6f25572324b1a55e7476b44a7"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "u8ZrA3qC"
+version = "3Z0RNraJ"
