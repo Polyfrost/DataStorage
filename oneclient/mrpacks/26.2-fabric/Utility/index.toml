@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "83883648dc08b8c88dff8809f0cea722504532bec103be6f276c7de3b78f7bf8"
+hash = "eddff1c05fd880918f3512b4a7382b4bc4b95be4640b75502793eb5f33adc021"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "6d86901c17e4da56de167adabebcb4de862448abd7031c611e4a0f21e8536151"
+hash = "aeb081e5186466256c05157b8e89bee99c61e7604ebd6ddccccfab6448537908"
 metafile = true
 
 [[files]]

@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/gamma-utils.pw.toml"
-hash = "e1419604ca0254a69e9e5bb4ed6f8833b5f431d7e05f2e68b7729163114783de"
+hash = "548483c3ce37f21dad1fa419b8123dc02dde5d9dad78c3bf4aed0b46a21360f4"
 metafile = true
 
 [[files]]
