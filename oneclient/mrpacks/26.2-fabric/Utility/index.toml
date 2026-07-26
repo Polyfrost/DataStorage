@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/libjf.pw.toml"
-hash = "1c1a67de8e4c0fe39c37fdbb7381e9410f78863d44c4d454806a0fd220ce24c4"
+hash = "b959e1c515b1ce7fa6416e8babde3f9f444423f854211bc3f9b605b6a3ff7800"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "447794cd1f3a4327adf67bc445883a97b2c85c748943bd20524ca0b4817bf7a0"
+hash = "d2978cc54e31633fc83b184d08fbab67286ee108fdfdf69bda4136a525e51a45"
 metafile = true
 
 [[files]]
