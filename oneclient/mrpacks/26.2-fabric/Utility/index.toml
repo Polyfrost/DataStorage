@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/oneconfig.pw.toml"
-hash = "dc644bbe119a98140239cef0a5ff5990341c9b300a68d5295709dd484fd1b6c2"
+hash = "f73bdd4aed0904b944dd4b8994f0b45eabe6c8b0a5d7ee130695917c009359b2"
 metafile = true
 
 [[files]]
