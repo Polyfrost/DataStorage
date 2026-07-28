@@ -1,3 +1,7 @@
+# ARCHIVED
+Please use [Polyfrost/DataStorageV2](https://github.com/Polyfrost/DataStorageV2) instead (url is https://data-v2.polyfrost.org)
+
+
 # DataStorage
 Place for storing data for Polyfrost projects such as [Hytils Reborn](https://github.com/Polyfrost/Hytils-Reborn) and [OneClient](https://github.com/Polyfrost/OneLauncher)
 
